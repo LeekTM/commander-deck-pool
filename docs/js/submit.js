@@ -175,15 +175,31 @@ function buildIssueUrl() {
   const tags = [...selectedTags].join(", ");
   const bracketSel = document.getElementById("bracket");
   const bracketLabel = bracketSel.value ? bracketSel.value : "Auto (recommended)";
-  const decklist = document.getElementById("decklist").value;
+  const bracketDigits = bracketSel.value; // "" for Auto, else "1".."5"
+  const rawDecklist = document.getElementById("decklist").value;
+
+  // GitHub's query-param prefill for dropdown/input form fields has proven
+  // unreliable in practice (Tags and Bracket showed up empty/default even
+  // though decklist -- a textarea -- came through fine). So tags/bracket
+  // ride along as // comments at the top of the decklist text instead --
+  // the same header format decks/*.txt files already use, in the one field
+  // type that reliably prefills. issue_to_deck.py reads these the same way
+  // it reads a hand-written file, falling back to the separate Tags/Bracket
+  // fields only for someone filling the GitHub form out directly. The
+  // separate params are still sent too, in case they do apply; embedding
+  // is just no longer the only path they can arrive by.
+  const metaLines = [];
+  if (tags) metaLines.push(`// tags: ${tags}`);
+  if (bracketDigits) metaLines.push(`// bracket: ${bracketDigits}`);
+  const decklist = metaLines.length ? `${metaLines.join("\n")}\n\n${rawDecklist}` : rawDecklist;
 
   const params = new URLSearchParams();
   params.set("template", "add-deck.yml");
   params.set("labels", "deck-submission");
   params.set("title", `[Deck] ${lastComputedName}`);
-  params.set("decklist", decklist);
   params.set("tags", tags);
   params.set("bracket", bracketLabel);
+  params.set("decklist", decklist);
 
   return `https://github.com/${REPO}/issues/new?${params.toString()}`;
 }

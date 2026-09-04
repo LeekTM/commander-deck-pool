@@ -70,6 +70,22 @@ def unique_path(out_dir: str, slug: str, issue_number: int) -> str:
     return os.path.join(out_dir, f"{slug}-{issue_number}.txt")
 
 
+_EMBEDDED_METADATA_RE = re.compile(
+    r"^//\s*(tags|bracket|name|url|source|set|released)\s*:", re.IGNORECASE
+)
+
+
+def strip_embedded_metadata(text: str) -> str:
+    """Removes leading // metadata comment lines the submission page embeds
+    in the decklist (see docs/js/submit.js) -- the final file gets its own
+    canonical header from build_deck_text instead."""
+    lines = text.split("\n")
+    kept = [line for line in lines if not _EMBEDDED_METADATA_RE.match(line.strip())]
+    while kept and kept[0].strip() == "":
+        kept.pop(0)
+    return "\n".join(kept)
+
+
 def build_deck_text(deck_name: str, tags: str, bracket_digits: str, decklist: str) -> str:
     lines = [
         f"// name: {deck_name}",
@@ -88,22 +104,34 @@ def build_deck_text(deck_name: str, tags: str, bracket_digits: str, decklist: st
 def process(body: str, issue_number: int, out_dir: str) -> dict:
     fields = parse_issue_body(body)
     decklist = _clean_value(fields.get(FIELD_LABELS["decklist"]))
-    tags = _clean_value(fields.get(FIELD_LABELS["tags"]))
-    bracket = _clean_value(fields.get(FIELD_LABELS["bracket"]))
+    tags_field = _clean_value(fields.get(FIELD_LABELS["tags"]))
+    bracket_field = _clean_value(fields.get(FIELD_LABELS["bracket"]))
 
     if not decklist:
         return {"ok": False, "errors": ["Decklist is missing."], "warnings": [], "path": None}
 
-    bracket_digits = ""
-    if bracket and bracket.strip().lower() not in ("", "auto", "auto (recommended)"):
-        bracket_digits = re.sub(r"\D", "", bracket)
+    # The submission page embeds tags/bracket as // comments at the top of
+    # the decklist itself, because GitHub's query-param prefill has proven
+    # unreliable for the separate Tags/Bracket form fields (dropdown/input),
+    # while the decklist textarea's prefill is reliable. parse_decklist_text
+    # picks embedded metadata up the same way it would for a hand-written
+    # file. Someone filling this form out directly on GitHub (not via the
+    # page) has no embedded metadata, so fall back to the plain fields.
+    parsed = parse_decklist_text(decklist)
+    embedded_tags = parsed.metadata.get("tags", "").strip()
+    embedded_bracket = parsed.metadata.get("bracket", "").strip()
 
-    # Feed the bracket override into parsing (as a // bracket: comment) so
-    # validate_parsed picks it up the same way it would from a hand-written
-    # file -- the name (derived from commander + bracket below) isn't known
-    # until after this validates, so it can't be in the header yet.
-    parse_text = f"// bracket: {bracket_digits}\n{decklist}" if bracket_digits else decklist
-    parsed = parse_decklist_text(parse_text)
+    tags = embedded_tags or tags_field
+
+    bracket_digits = ""
+    if embedded_bracket.isdigit():
+        bracket_digits = embedded_bracket
+    elif bracket_field and bracket_field.strip().lower() not in ("", "auto", "auto (recommended)"):
+        bracket_digits = re.sub(r"\D", "", bracket_field)
+        # Wasn't embedded, so re-parse with it injected the same way a
+        # hand-written file would carry it, so validate_parsed sees it.
+        parsed = parse_decklist_text(f"// bracket: {bracket_digits}\n{decklist}")
+
     game_changers = fetch_game_changers()
     result = validate_parsed(parsed, game_changers=game_changers)
 
@@ -111,7 +139,7 @@ def process(body: str, issue_number: int, out_dir: str) -> dict:
         return {"ok": False, "errors": result.errors, "warnings": result.warnings, "path": None}
 
     deck_name = f"{' + '.join(result.commanders)} (Bracket {result.bracket})"
-    deck_text = build_deck_text(deck_name, tags, bracket_digits, decklist)
+    deck_text = build_deck_text(deck_name, tags, bracket_digits, strip_embedded_metadata(decklist))
 
     slug = slugify(deck_name)
     path = unique_path(out_dir, slug, issue_number)
