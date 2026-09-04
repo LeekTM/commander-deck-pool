@@ -15,6 +15,13 @@ let ghToken = sessionStorage.getItem(TOKEN_KEY) || "";
 let deckRecords = [];              // from deck_db.json
 let fileByName = new Map();        // deck name -> { path, sha, fileName, content }
 let editingIndex = null;
+let busy = false; // true while an edit/delete request is in flight
+
+function setTableButtonsDisabled(disabled) {
+  document.querySelectorAll("#admin-tbody button").forEach((btn) => {
+    btn.disabled = disabled;
+  });
+}
 
 function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, (c) => ({
@@ -159,7 +166,7 @@ function closeEdit() {
 }
 
 async function saveEdit() {
-  if (editingIndex === null) return;
+  if (editingIndex === null || busy) return;
   const deck = deckRecords[editingIndex];
   const file = fileByName.get(deck.name);
   if (!file) return;
@@ -180,6 +187,9 @@ async function saveEdit() {
 
   const newText = `${rebuildHeader(header)}\n\n${body.replace(/^\n+/, "")}`;
 
+  busy = true;
+  document.getElementById("btn-save-edit").disabled = true;
+  setTableButtonsDisabled(true);
   try {
     setStatus(`Saving ${file.fileName}...`);
     await ghApi(`/repos/${REPO}/contents/${file.path}`, {
@@ -195,13 +205,24 @@ async function saveEdit() {
     closeEdit();
     await loadEverything();
   } catch (e) {
-    setStatus(`Save failed: ${e.message}`);
+    if (e.message.includes("404")) {
+      setStatus(`"${file.fileName}" is already gone (deleted or renamed elsewhere) -- refreshing the list.`);
+      closeEdit();
+      await loadEverything();
+    } else {
+      setStatus(`Save failed: ${e.message}`);
+    }
+  } finally {
+    busy = false;
+    document.getElementById("btn-save-edit").disabled = false;
+    setTableButtonsDisabled(false);
   }
 }
 
 // -- delete --
 
 async function doDelete(i) {
+  if (busy) return;
   const deck = deckRecords[i];
   const file = fileByName.get(deck.name);
   if (!file) return;
@@ -210,6 +231,8 @@ async function doDelete(i) {
     return;
   }
 
+  busy = true;
+  setTableButtonsDisabled(true);
   try {
     setStatus(`Deleting ${file.fileName}...`);
     await ghApi(`/repos/${REPO}/contents/${file.path}`, {
@@ -223,7 +246,15 @@ async function doDelete(i) {
     setStatus("Deleted. deck_db.json rebuilds automatically in the background.");
     await loadEverything();
   } catch (e) {
-    setStatus(`Delete failed: ${e.message}`);
+    if (e.message.includes("404")) {
+      setStatus(`"${file.fileName}" was already gone -- probably deleted by an earlier click. Refreshing the list.`);
+      await loadEverything();
+    } else {
+      setStatus(`Delete failed: ${e.message}`);
+    }
+  } finally {
+    busy = false;
+    setTableButtonsDisabled(false);
   }
 }
 
