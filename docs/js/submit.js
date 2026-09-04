@@ -4,6 +4,11 @@
 
 let gameChangersCache = null;
 let lastResult = null;
+let lastComputedName = null;
+
+function computeDeckName(result) {
+  return `${result.commanders.join(" + ")} (Bracket ${result.bracket})`;
+}
 const allTags = new Set();      // every tag offered as a chip (existing + newly added)
 const selectedTags = new Set(); // the subset currently toggled on
 
@@ -94,7 +99,7 @@ function renderResults(result) {
 
   if (result.commanders.length) {
     html += `<div class="stat-grid">
-      ${statBlock("Commander", escapeHtml(result.commanders.join(" + ")))}
+      ${statBlock("Deck name (auto)", escapeHtml(computeDeckName(result)))}
       ${statBlock("Cards", result.totalCards)}
       ${statBlock("Colours", result.colors || "Colourless")}
       ${statBlock("Game Changers", result.gameChangerCount)}
@@ -117,13 +122,8 @@ async function onValidate() {
   const btnValidate = document.getElementById("btn-validate");
   const btnSubmit = document.getElementById("btn-submit");
   const decklist = document.getElementById("decklist").value;
-  const name = document.getElementById("deck-name").value.trim();
   const bracketOverride = document.getElementById("bracket").value;
 
-  if (!name) {
-    statusEl.textContent = "Enter a deck name first.";
-    return;
-  }
   if (!decklist.trim()) {
     statusEl.textContent = "Paste a decklist first.";
     return;
@@ -136,6 +136,7 @@ async function onValidate() {
     statusEl.textContent = "Checking cards against Scryfall...";
     const result = await validateDecklist(decklist, gameChangers, bracketOverride);
     lastResult = result;
+    lastComputedName = result.commanders.length ? computeDeckName(result) : null;
     renderResults(result);
     statusEl.textContent = result.errors.length
       ? "Fix the issues above, then validate again."
@@ -149,8 +150,6 @@ async function onValidate() {
 }
 
 function buildIssueUrl() {
-  const name = document.getElementById("deck-name").value.trim();
-  const url = document.getElementById("deck-url").value.trim();
   const tags = [...selectedTags].join(", ");
   const bracketSel = document.getElementById("bracket");
   const bracketLabel = bracketSel.value ? bracketSel.value : "Auto (recommended)";
@@ -159,9 +158,7 @@ function buildIssueUrl() {
   const params = new URLSearchParams();
   params.set("template", "add-deck.yml");
   params.set("labels", "deck-submission");
-  params.set("title", `[Deck] ${name}`);
-  params.set("deck-name", name);
-  params.set("deck-url", url);
+  params.set("title", `[Deck] ${lastComputedName}`);
   params.set("decklist", decklist);
   params.set("tags", tags);
   params.set("bracket", bracketLabel);

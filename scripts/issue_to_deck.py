@@ -24,8 +24,6 @@ from deck_parser import parse_decklist_text
 from scryfall import fetch_game_changers
 
 FIELD_LABELS = {
-    "deck_name": "Deck name",
-    "deck_url": "Source link (optional)",
     "decklist": "Decklist",
     "tags": "Tags (comma-separated)",
     "bracket": "Bracket",
@@ -72,18 +70,15 @@ def unique_path(out_dir: str, slug: str, issue_number: int) -> str:
     return os.path.join(out_dir, f"{slug}-{issue_number}.txt")
 
 
-def build_deck_text(deck_name: str, deck_url: str, tags: str, bracket: str, decklist: str) -> str:
+def build_deck_text(deck_name: str, tags: str, bracket_digits: str, decklist: str) -> str:
     lines = [
         f"// name: {deck_name}",
-        f"// url: {deck_url}",
         "// source: community",
     ]
     if tags:
         lines.append(f"// tags: {tags}")
-    if bracket and bracket.strip().lower() not in ("", "auto", "auto (recommended)"):
-        digits = re.sub(r"\D", "", bracket)
-        if digits:
-            lines.append(f"// bracket: {digits}")
+    if bracket_digits:
+        lines.append(f"// bracket: {bracket_digits}")
     lines.append("")
     lines.append(decklist.strip())
     lines.append("")
@@ -92,27 +87,31 @@ def build_deck_text(deck_name: str, deck_url: str, tags: str, bracket: str, deck
 
 def process(body: str, issue_number: int, out_dir: str) -> dict:
     fields = parse_issue_body(body)
-    deck_name = _clean_value(fields.get(FIELD_LABELS["deck_name"]))
-    deck_url = _clean_value(fields.get(FIELD_LABELS["deck_url"]))
     decklist = _clean_value(fields.get(FIELD_LABELS["decklist"]))
     tags = _clean_value(fields.get(FIELD_LABELS["tags"]))
     bracket = _clean_value(fields.get(FIELD_LABELS["bracket"]))
 
-    errors = []
-    if not deck_name:
-        errors.append("Deck name is missing.")
     if not decklist:
-        errors.append("Decklist is missing.")
-    if errors:
-        return {"ok": False, "errors": errors, "warnings": [], "path": None}
+        return {"ok": False, "errors": ["Decklist is missing."], "warnings": [], "path": None}
 
-    deck_text = build_deck_text(deck_name, deck_url, tags, bracket, decklist)
-    parsed = parse_decklist_text(deck_text)
+    bracket_digits = ""
+    if bracket and bracket.strip().lower() not in ("", "auto", "auto (recommended)"):
+        bracket_digits = re.sub(r"\D", "", bracket)
+
+    # Feed the bracket override into parsing (as a // bracket: comment) so
+    # validate_parsed picks it up the same way it would from a hand-written
+    # file -- the name (derived from commander + bracket below) isn't known
+    # until after this validates, so it can't be in the header yet.
+    parse_text = f"// bracket: {bracket_digits}\n{decklist}" if bracket_digits else decklist
+    parsed = parse_decklist_text(parse_text)
     game_changers = fetch_game_changers()
     result = validate_parsed(parsed, game_changers=game_changers)
 
     if not result.ok:
         return {"ok": False, "errors": result.errors, "warnings": result.warnings, "path": None}
+
+    deck_name = f"{' + '.join(result.commanders)} (Bracket {result.bracket})"
+    deck_text = build_deck_text(deck_name, tags, bracket_digits, decklist)
 
     slug = slugify(deck_name)
     path = unique_path(out_dir, slug, issue_number)
@@ -125,6 +124,7 @@ def process(body: str, issue_number: int, out_dir: str) -> dict:
         "errors": [],
         "warnings": result.warnings,
         "path": path,
+        "name": deck_name,
         "commanders": result.commanders,
         "total_cards": result.total_cards,
         "price_eur": result.price_eur,

@@ -12,22 +12,8 @@ body:
         form works too, but a bad decklist submitted here won't be added
         until it's fixed (you'll get a comment explaining what's wrong).
 
-  - type: input
-    id: deck-name
-    attributes:
-      label: Deck name
-      placeholder: Atraxa Superfriends
-    validations:
-      required: true
-
-  - type: input
-    id: deck-url
-    attributes:
-      label: Source link (optional)
-      description: The MTGGoldfish / Moxfield / Archidekt / EDHREC page you exported from, if any.
-      placeholder: https://www.mtggoldfish.com/deck/...
-    validations:
-      required: false
+        There's no name field -- the deck's name in the pool is generated
+        automatically as "<Commander> (Bracket N)".
 
   - type: textarea
     id: decklist

@@ -24,13 +24,18 @@
       card against Scryfall before you submit &mdash; typos, banned cards, and cards
       outside your commander's colour identity are caught here, not after the fact.
       Submitting opens a prefilled GitHub issue, so you'll need a GitHub account.
+      There's no name field &mdash; the deck's name in the pool is generated
+      automatically as "&lt;Commander&gt; (Bracket N)" once you validate.
     </p>
 
-    <label for="deck-name">Deck name</label>
-    <input type="text" id="deck-name" placeholder="Atraxa Superfriends" />
+    <label for="decklist">Decklist</label>
+    <textarea id="decklist" placeholder="Commander
+1 Atraxa, Praetors' Voice
 
-    <label for="deck-url">Source link (optional)</label>
-    <input type="url" id="deck-url" placeholder="https://www.mtggoldfish.com/deck/..." />
+Deck
+1 Sol Ring
+1 Arcane Signet
+..."></textarea>
 
     <label>Tags</label>
     <div id="tag-existing" class="tag-picker"></div>
@@ -60,15 +65,6 @@
       1 from 2 or 4 from 5, and brackets are partly about expected game length now &mdash; override it here
       if the computed value looks wrong for how the deck actually plays. This is a sorting hint, not a ruling.
     </p>
-
-    <label for="decklist">Decklist</label>
-    <textarea id="decklist" placeholder="Commander
-1 Atraxa, Praetors' Voice
-
-Deck
-1 Sol Ring
-1 Arcane Signet
-..."></textarea>
 
     <div>
       <button id="btn-validate">Validate</button>

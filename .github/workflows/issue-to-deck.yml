@@ -53,9 +53,8 @@ jobs:
           python - <<'PYEOF'
           import json
           r = json.load(open("result.json"))
-          fname = r["path"].replace("\\", "/").rsplit("/", 1)[-1]
           lines = [
-              f"✅ Added **{fname}** to the pool.",
+              f"✅ Added **{r['name']}** to the pool.",
               "",
               f"- Commander(s): {', '.join(r['commanders'])}",
               f"- Cards: {r['total_cards']}",

@@ -28,11 +28,13 @@ docs/                   the submission + browse page (GitHub Pages)
 ## Adding a deck (three ways)
 
 1. **The submission page** (`docs/submit.html`, published via GitHub Pages).
-   Paste a decklist, fill in name/tags/bracket, hit Validate. It checks every
-   card against Scryfall in your browser -- typos, banned cards, cards outside
-   your commander's colour identity -- and shows the computed price, colours,
-   Game Changer count and bracket before you submit. "Submit via GitHub" opens
-   a prefilled issue; you need a GitHub account to send it.
+   Paste a decklist, pick tags, leave the bracket on Auto (or override it),
+   hit Validate. It checks every card against Scryfall in your browser --
+   typos, banned cards, cards outside your commander's colour identity -- and
+   shows the computed price, colours, Game Changer count and bracket before
+   you submit. There's no name or source-link field: the deck's name is
+   generated as `<Commander> (Bracket N)`. "Submit via GitHub" opens a
+   prefilled issue; you need a GitHub account to send it.
 2. **A GitHub issue directly** -- open a "Submit a Commander deck" issue and
    fill in the form. A workflow validates it the same way the page does; if
    something's wrong you get a comment explaining what, and no file is
