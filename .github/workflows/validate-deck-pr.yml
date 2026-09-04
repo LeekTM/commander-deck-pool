@@ -46,20 +46,12 @@ jobs:
           while IFS= read -r f; do
             [ -z "$f" ] && continue
             if [ ! -f "$f" ]; then
-              report="$report
-### $f
-Deleted -- nothing to validate.
-"
+              report="$report"$'\n'"### $f"$'\n'"Deleted -- nothing to validate."$'\n'
               continue
             fi
             out=$(python scripts/validate_deck.py "$f" 2>&1)
             code=$?
-            report="$report
-### \`$f\`
-\`\`\`
-$out
-\`\`\`
-"
+            report="$report"$'\n'"### \`$f\`"$'\n'"\`\`\`"$'\n'"$out"$'\n'"\`\`\`"$'\n'
             if [ "$code" -ne 0 ]; then status=1; fi
           done <<< "${{ steps.changed.outputs.files }}"
           if [ -z "$report" ]; then
