@@ -102,6 +102,7 @@ function buildIssueUrl() {
   const decklist = document.getElementById("decklist").value;
 
   const params = new URLSearchParams();
+  params.set("template", "add-deck.yml");
   params.set("labels", "deck-submission");
   params.set("title", `[Deck] ${name}`);
   params.set("deck-name", name);
