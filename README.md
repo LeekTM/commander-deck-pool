@@ -119,20 +119,16 @@ sorting hint for the group, not a ruling.
   Scryfall call.
 - Treat both as a floor, not a market quote.
 
-## Tag vocabulary
+## Tags
 
-Tags are the one field nothing else can derive, so the list is deliberately
-small -- pick whichever apply, and don't invent new ones without updating this
-list first.
-
-**Archetype:** `aggro` `control` `combo` `midrange` `stax` `tokens`
-`aristocrats` `spellslinger` `voltron` `reanimator` `lands` `artifacts`
-`tribal` `enchantress` `storm` `mill` `burn` `ramp` `superfriends`
-`group-hug` `group-slug`
-
-**Feel / pace:** `grindy` `fast` `glass-cannon` `value`
-
-**Power tier (in addition to bracket):** `budget` `precon` `high-power`
+There's no fixed tag vocabulary -- tags are whatever the group has used so
+far. The submission page shows every tag already present in the pool as a
+clickable chip (pulled live from `deck_db.json`), so reuse one if it fits, or
+type a new one. Consistency is just a matter of picking an existing tag over
+inventing a near-duplicate, not a rule anything enforces. Submitting directly
+via a GitHub issue or a PR works the same way -- just type comma-separated
+tags in the file's `// tags:` line; check `docs/index.html` or the existing
+`decks/*.txt` files for what's already in use.
 
 ## Running it locally
 

@@ -54,7 +54,10 @@ body:
     id: tags
     attributes:
       label: Tags (comma-separated)
-      description: See the tag vocabulary in the README. Leave blank if you're not sure.
+      description: >
+        No fixed list -- reuse a tag already used elsewhere in the pool if
+        one fits (see the submission page or browse the existing decks), or
+        make up a new one. Leave blank if you're not sure.
       placeholder: superfriends, planeswalkers, grindy
     validations:
       required: false

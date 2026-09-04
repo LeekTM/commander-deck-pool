@@ -4,6 +4,61 @@
 
 let gameChangersCache = null;
 let lastResult = null;
+const allTags = new Set();      // every tag offered as a chip (existing + newly added)
+const selectedTags = new Set(); // the subset currently toggled on
+
+function sanitizeTag(raw) {
+  return raw.trim().toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+}
+
+function renderTagChips() {
+  const container = document.getElementById("tag-existing");
+  container.innerHTML = [...allTags].sort().map((t) => {
+    const selected = selectedTags.has(t);
+    return `<button type="button" class="tag-chip${selected ? " selected" : ""}" data-tag="${escapeHtml(t)}">${escapeHtml(t)}</button>`;
+  }).join("");
+
+  container.querySelectorAll(".tag-chip").forEach((el) => {
+    el.addEventListener("click", () => {
+      const tag = el.dataset.tag;
+      if (selectedTags.has(tag)) selectedTags.delete(tag);
+      else selectedTags.add(tag);
+      el.classList.toggle("selected");
+    });
+  });
+}
+
+async function loadExistingTags() {
+  const hint = document.getElementById("tag-hint");
+  for (const path of ["deck_db.json", "../deck_db.json"]) {
+    try {
+      const resp = await fetch(path, { cache: "no-store" });
+      if (resp.ok) {
+        const db = await resp.json();
+        for (const deck of db.decks || []) {
+          for (const t of deck.tags || []) allTags.add(t);
+        }
+        break;
+      }
+    } catch (e) {
+      // try next path
+    }
+  }
+  if (allTags.size === 0 && hint) {
+    hint.textContent = "Couldn't load existing tags -- add your own below.";
+  }
+  renderTagChips();
+}
+
+function addNewTag() {
+  const input = document.getElementById("tag-new-input");
+  const tag = sanitizeTag(input.value);
+  input.value = "";
+  if (!tag) return;
+  allTags.add(tag);
+  selectedTags.add(tag);
+  renderTagChips();
+}
 
 async function getGameChangers(statusEl) {
   if (gameChangersCache) return gameChangersCache;
@@ -96,7 +151,7 @@ async function onValidate() {
 function buildIssueUrl() {
   const name = document.getElementById("deck-name").value.trim();
   const url = document.getElementById("deck-url").value.trim();
-  const tags = document.getElementById("tags").value.trim();
+  const tags = [...selectedTags].join(", ");
   const bracketSel = document.getElementById("bracket");
   const bracketLabel = bracketSel.value ? bracketSel.value : "Auto (recommended)";
   const decklist = document.getElementById("decklist").value;
@@ -137,9 +192,12 @@ function onSubmit() {
 
 document.getElementById("btn-validate").addEventListener("click", onValidate);
 document.getElementById("btn-submit").addEventListener("click", onSubmit);
+document.getElementById("tag-add-btn").addEventListener("click", addNewTag);
+document.getElementById("tag-new-input").addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    e.preventDefault();
+    addNewTag();
+  }
+});
 
-(function wireRepoLinks() {
-  if (typeof REPO === "undefined" || REPO === "OWNER/REPO") return;
-  const link = document.getElementById("link-readme-tags");
-  if (link) link.href = `https://github.com/${REPO}/blob/main/README.md#tag-vocabulary`;
-})();
+loadExistingTags();

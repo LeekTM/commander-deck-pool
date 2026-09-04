@@ -32,9 +32,17 @@
     <label for="deck-url">Source link (optional)</label>
     <input type="url" id="deck-url" placeholder="https://www.mtggoldfish.com/deck/..." />
 
-    <label for="tags">Tags (comma-separated)</label>
-    <input type="text" id="tags" placeholder="superfriends, planeswalkers, grindy" />
-    <p class="hint">See the <a id="link-readme-tags" href="https://github.com" target="_blank" rel="noopener">tag vocabulary</a> in the README. Leave blank if unsure.</p>
+    <label>Tags</label>
+    <div id="tag-existing" class="tag-picker"></div>
+    <div class="tag-add-row">
+      <input type="text" id="tag-new-input" placeholder="add a new tag..." />
+      <button type="button" id="tag-add-btn" class="secondary">Add</button>
+    </div>
+    <p class="hint" id="tag-hint">
+      Click a tag to select it. There's no fixed list &mdash; these are just
+      every tag already used in the pool, so reuse one if it fits, or add
+      your own. Leave none selected if you're not sure.
+    </p>
 
     <label for="bracket">Bracket</label>
     <select id="bracket">

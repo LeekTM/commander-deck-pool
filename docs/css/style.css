@@ -143,6 +143,41 @@ button + button { margin-left: 0.5rem; }
 .pill.warn { color: var(--warn); border-color: var(--warn); }
 .pill.err { color: var(--err); border-color: var(--err); }
 
+.tag-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.3rem;
+}
+
+.tag-chip {
+  background: var(--panel-2);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 999px;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.tag-chip:hover { border-color: var(--accent); }
+
+.tag-chip.selected {
+  background: var(--accent);
+  color: #0c0d12;
+  border-color: var(--accent);
+}
+
+.tag-add-row {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tag-add-row input { flex: 1; }
+.tag-add-row button { margin-top: 0; }
+
 .mana-W { color: #f8ecc2; }
 .mana-U { color: #7ec8ff; }
 .mana-B { color: #c9b8ff; }
