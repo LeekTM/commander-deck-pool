@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin — Commander Deck Pool</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<header class="site">
+  <h1>🎴 Commander Deck Pool</h1>
+  <nav>
+    <a href="index.html">Browse</a>
+    <a href="submit.html">Submit a deck</a>
+    <a href="admin.html" class="active">Admin</a>
+  </nav>
+</header>
+
+<main>
+  <div class="card">
+    <h2>Admin</h2>
+    <p class="hint">
+      This page edits and deletes deck files directly in the repo via the
+      GitHub API &mdash; there's no separate login for it, your
+      <strong>GitHub token is the access control</strong>. Anyone can open
+      this page, but nothing here works without a token that has write
+      access to <code id="repo-name"></code>, so it's safe to leave linked.
+    </p>
+    <p class="hint">
+      Create a
+      <a id="link-new-token" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">fine-grained token</a>
+      scoped to just this repository, with Contents set to
+      <strong>Read and write</strong>, and a short expiry. The token is used
+      only for calls straight from this tab to <code>api.github.com</code>
+      and <code>raw.githubusercontent.com</code> &mdash; it's kept in this
+      tab's session storage and never sent anywhere else, gone as soon as you
+      close the tab.
+    </p>
+    <label for="gh-token">GitHub token</label>
+    <input type="password" id="gh-token" placeholder="github_pat_..." autocomplete="off" />
+    <div>
+      <button id="btn-connect">Connect</button>
+      <button id="btn-forget" class="secondary">Forget token</button>
+    </div>
+    <p class="hint" id="admin-status"></p>
+  </div>
+
+  <div class="card" id="admin-table-card" hidden>
+    <h2>Decks (<span id="deck-count">0</span>)</h2>
+    <div style="overflow-x:auto">
+      <table id="admin-table">
+        <thead>
+          <tr><th>Name</th><th>Commander(s)</th><th>Bracket</th><th>Tags</th><th>Price</th><th>Actions</th></tr>
+        </thead>
+        <tbody id="admin-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="card" id="edit-card" hidden>
+    <h2>Edit deck</h2>
+    <p class="hint">
+      Only the header metadata below is editable here &mdash; the card list
+      itself isn't touched. This does not rename the underlying file, only
+      the deck's display name.
+    </p>
+    <label for="edit-name">Name</label>
+    <input type="text" id="edit-name" />
+    <label for="edit-tags">Tags (comma-separated)</label>
+    <input type="text" id="edit-tags" />
+    <label for="edit-bracket">Bracket override</label>
+    <select id="edit-bracket">
+      <option value="">Auto (no override)</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+    </select>
+    <div>
+      <button id="btn-save-edit">Save</button>
+      <button id="btn-cancel-edit" class="secondary">Cancel</button>
+    </div>
+  </div>
+</main>
+
+<footer class="site">
+  Prefer to work directly in git? Every change here is a normal commit &mdash;
+  <a id="link-repo" href="https://github.com" target="_blank" rel="noopener">browse the repo</a> instead any time.
+</footer>
+
+<script src="config.js"></script>
+<script src="js/admin.js"></script>
+</body>
+</html>

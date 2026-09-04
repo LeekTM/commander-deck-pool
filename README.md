@@ -132,6 +132,38 @@ via a GitHub issue or a PR works the same way -- just type comma-separated
 tags in the file's `// tags:` line; check `docs/index.html` or the existing
 `decks/*.txt` files for what's already in use.
 
+## Duplicate decks
+
+There's no automatic dedupe. A same-commander deck can legitimately be built
+several different ways (budget vs. optimized, different sub-themes), so
+matching on commander + bracket and overwriting silently would occasionally
+destroy a real, different deck -- worse than the problem it solves. Instead,
+the submission page warns (not blocks) when the commander being submitted
+already appears elsewhere in the pool, naming the existing deck(s), and
+leaves the call to a human. If it turns out to be a genuine duplicate, delete
+the old one from the admin panel.
+
+## Admin panel
+
+`docs/admin.html` edits and deletes deck files directly via the GitHub
+Contents API. There's no separate login -- a GitHub token *is* the access
+control, so the page is safe to leave publicly linked: without a token that
+has write access to the repo, nothing on it can do anything.
+
+To use it, create a
+[fine-grained personal access token](https://github.com/settings/personal-access-tokens/new)
+scoped to just this repository, with Contents set to Read and write, and a
+short expiry, then paste it in. It's kept in that tab's `sessionStorage` only
+(gone when the tab closes) and used solely for calls straight from the
+browser to `api.github.com` and `raw.githubusercontent.com` -- it never goes
+anywhere else, including to me or into this repo.
+
+It currently supports editing a deck's name/tags/bracket-override (a
+metadata-only change -- the card list itself isn't touched, and the
+underlying filename doesn't change even if the name does) and deleting a
+deck file outright. Both are normal commits to `main`, which `build-db.yml`
+then picks up to rebuild `deck_db.json` same as any other change.
+
 ## Running it locally
 
 Requires Python 3.10+, stdlib only (no extra packages).

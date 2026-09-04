@@ -178,6 +178,37 @@ button + button { margin-left: 0.5rem; }
 .tag-add-row input { flex: 1; }
 .tag-add-row button { margin-top: 0; }
 
+button.danger {
+  background: var(--err);
+  color: #1a0d0d;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.5rem 0.6rem;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+th { color: var(--text-dim); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.03em; }
+
+td button { margin: 0 0.25rem 0 0; padding: 0.3rem 0.6rem; font-size: 0.8rem; }
+
+code {
+  background: var(--panel-2);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.05rem 0.35rem;
+  font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+  font-size: 0.85em;
+}
+
 .mana-W { color: #f8ecc2; }
 .mana-U { color: #7ec8ff; }
 .mana-B { color: #c9b8ff; }

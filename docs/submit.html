@@ -12,6 +12,7 @@
   <nav>
     <a href="index.html">Browse</a>
     <a href="submit.html" class="active">Submit a deck</a>
+    <a href="admin.html">Admin</a>
   </nav>
 </header>
 
@@ -37,18 +38,6 @@ Deck
 1 Arcane Signet
 ..."></textarea>
 
-    <label>Tags</label>
-    <div id="tag-existing" class="tag-picker"></div>
-    <div class="tag-add-row">
-      <input type="text" id="tag-new-input" placeholder="add a new tag..." />
-      <button type="button" id="tag-add-btn" class="secondary">Add</button>
-    </div>
-    <p class="hint" id="tag-hint">
-      Click a tag to select it. There's no fixed list &mdash; these are just
-      every tag already used in the pool, so reuse one if it fits, or add
-      your own. Leave none selected if you're not sure.
-    </p>
-
     <label for="bracket">Bracket</label>
     <select id="bracket">
       <option value="">Auto (recommended)</option>
@@ -64,6 +53,18 @@ Deck
       in the deck: 0&nbsp;&rarr;&nbsp;2, 1&ndash;3&nbsp;&rarr;&nbsp;3, 4+&nbsp;&rarr;&nbsp;4. That can't tell
       1 from 2 or 4 from 5, and brackets are partly about expected game length now &mdash; override it here
       if the computed value looks wrong for how the deck actually plays. This is a sorting hint, not a ruling.
+    </p>
+
+    <label>Tags</label>
+    <div id="tag-existing" class="tag-picker"></div>
+    <div class="tag-add-row">
+      <input type="text" id="tag-new-input" placeholder="add a new tag..." />
+      <button type="button" id="tag-add-btn" class="secondary">Add</button>
+    </div>
+    <p class="hint" id="tag-hint">
+      Click a tag to select it. There's no fixed list &mdash; these are just
+      every tag already used in the pool, so reuse one if it fits, or add
+      your own. Leave none selected if you're not sure.
     </p>
 
     <div>

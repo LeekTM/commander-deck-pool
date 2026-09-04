@@ -33,14 +33,17 @@ function renderTagChips() {
   });
 }
 
-async function loadExistingTags() {
+let existingDecks = [];
+
+async function loadPoolData() {
   const hint = document.getElementById("tag-hint");
   for (const path of ["deck_db.json", "../deck_db.json"]) {
     try {
       const resp = await fetch(path, { cache: "no-store" });
       if (resp.ok) {
         const db = await resp.json();
-        for (const deck of db.decks || []) {
+        existingDecks = db.decks || [];
+        for (const deck of existingDecks) {
           for (const t of deck.tags || []) allTags.add(t);
         }
         break;
@@ -53,6 +56,15 @@ async function loadExistingTags() {
     hint.textContent = "Couldn't load existing tags -- add your own below.";
   }
   renderTagChips();
+}
+
+// Same commander already in the pool isn't necessarily a duplicate -- decks
+// get rebuilt differently -- so this is a warning to prompt a human look,
+// never something that blocks or auto-replaces a submission.
+function findSameCommanderDecks(commanders) {
+  const wanted = new Set(commanders.map((c) => c.toLowerCase()));
+  return existingDecks.filter((d) =>
+    (d.commanders || []).some((c) => wanted.has(c.toLowerCase())));
 }
 
 function addNewTag() {
@@ -135,6 +147,16 @@ async function onValidate() {
     const gameChangers = await getGameChangers(statusEl);
     statusEl.textContent = "Checking cards against Scryfall...";
     const result = await validateDecklist(decklist, gameChangers, bracketOverride);
+    if (result.commanders.length) {
+      const same = findSameCommanderDecks(result.commanders);
+      if (same.length) {
+        result.warnings.push(
+          `${same.length} existing deck(s) already use this commander: ` +
+          `${same.map((d) => d.name).join(", ")}. That's fine if this is a ` +
+          `different build -- just flagging it in case it's an accidental duplicate.`
+        );
+      }
+    }
     lastResult = result;
     lastComputedName = result.commanders.length ? computeDeckName(result) : null;
     renderResults(result);
@@ -197,4 +219,4 @@ document.getElementById("tag-new-input").addEventListener("keydown", (e) => {
   }
 });
 
-loadExistingTags();
+loadPoolData();
