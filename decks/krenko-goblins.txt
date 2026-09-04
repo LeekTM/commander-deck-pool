@@ -1,0 +1,85 @@
+// name: Krenko Goblin Storm
+// url: https://moxfield.com/decks/example-krenko-goblins
+// source: community
+// tags: goblins, aggro, tokens
+// bracket: 3
+
+1x Krenko, Mob Boss *CMDR*
+1x Sol Ring
+1x Arcane Signet
+1x Mind Stone
+1x Worn Powerstone
+1x Goblin Chieftain
+1x Goblin King
+1x Goblin Warchief
+1x Siege-Gang Commander
+1x Goblin Matron
+1x Goblin Recruiter
+1x Skirk Prospector
+1x Goblin Bombardment
+1x Purphoros, God of the Forge
+1x Impact Tremors
+1x Goblin Sharpshooter
+1x Kiki-Jiki, Mirror Breaker
+1x Goblin Rabblemaster
+1x Goblin Guide
+1x Krenko, Tin Street Kingpin
+1x Hazoret the Fervent
+1x Zealous Conscripts
+1x Faithless Looting
+1x Lightning Bolt
+1x Chain Lightning
+1x Fireblast
+1x Wheel of Fortune
+1x Reforge the Soul
+1x Dualcaster Mage
+1x Splinter Twin
+1x Feldon of the Third Path
+1x Combat Celebrant
+1x Torbran, Thane of Red Fell
+1x Chandra, Torch of Defiance
+1x Chandra, Flamecaller
+1x Daretti, Scrap Savant
+1x Ruby Medallion
+1x Lightning Strike
+1x Skullcrack
+1x Shock
+1x Arc Trail
+1x Fiery Confluence
+1x Thundermaw Hellkite
+1x Utvara Hellkite
+1x Balefire Dragon
+1x Dragon Mage
+1x Zo-Zu the Punisher
+1x Fireball
+1x Banefire
+1x Comet Storm
+1x Star of Extinction
+1x Blasphemous Act
+1x Chaos Warp
+1x Vandalblast
+1x Shattering Spree
+1x Goblin Engineer
+1x Goblin Welder
+1x Trash for Treasure
+1x Mogg Fanatic
+1x Krenko's Command
+1x Legion Loyalist
+1x Goblin Grenade
+1x Goblin Bushwhacker
+1x Goblin Assault
+1x Command Tower
+1x Rogue's Passage
+1x Reliquary Tower
+1x War Room
+1x Buried Ruin
+1x Ash Barrens
+1x Mutavault
+1x Petrified Field
+1x Myriad Landscape
+1x Evolving Wilds
+26x Mountain
+
+Sideboard
+1x Chaos Warp
+SB: 1 Boiling Blood

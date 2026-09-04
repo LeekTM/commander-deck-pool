@@ -1,0 +1,91 @@
+name: Validate deck pull requests
+
+# A PR touching decks/ is checked but never auto-committed -- that's the
+# review path (as opposed to the page/issue path, which commits directly).
+# See the "definition of done" item 7 in the project brief.
+on:
+  pull_request:
+    paths:
+      - "decks/**"
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Find changed decklists
+        id: changed
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          FILES=$(git diff --name-only --diff-filter=ACMR "$BASE_SHA" "$HEAD_SHA" -- 'decks/*.txt')
+          {
+            echo "files<<DELIM"
+            echo "$FILES"
+            echo "DELIM"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Validate each changed deck
+        id: validate
+        run: |
+          set +e
+          status=0
+          report=""
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            if [ ! -f "$f" ]; then
+              report="$report
+### $f
+Deleted -- nothing to validate.
+"
+              continue
+            fi
+            out=$(python scripts/validate_deck.py "$f" 2>&1)
+            code=$?
+            report="$report
+### \`$f\`
+\`\`\`
+$out
+\`\`\`
+"
+            if [ "$code" -ne 0 ]; then status=1; fi
+          done <<< "${{ steps.changed.outputs.files }}"
+          if [ -z "$report" ]; then
+            report="No decklist files changed in this PR."
+          fi
+          {
+            echo "report<<DELIM"
+            echo "$report"
+            echo "DELIM"
+          } >> "$GITHUB_OUTPUT"
+          exit $status
+
+      - name: Comment on the PR
+        if: always()
+        uses: actions/github-script@v7
+        env:
+          VALIDATE_OUTCOME: ${{ steps.validate.outcome }}
+          VALIDATE_REPORT: ${{ steps.validate.outputs.report }}
+        with:
+          script: |
+            const header = process.env.VALIDATE_OUTCOME === "success"
+              ? "✅ **Deck validation passed.**"
+              : "❌ **Deck validation failed** -- fix the issues below before merging.";
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `${header}\n${process.env.VALIDATE_REPORT}`,
+            });

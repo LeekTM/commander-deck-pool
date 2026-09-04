@@ -1,0 +1,100 @@
+name: Convert deck submission issue to file
+
+# Turns a filled-out "Submit a Commander deck" issue into decks/<slug>.txt.
+# Validates first (scripts/issue_to_deck.py -> scripts/validate_deck.py); an
+# invalid submission gets a comment explaining why and a "needs-changes"
+# label, and no file is written. A valid one is committed straight to main,
+# which build-db.yml then picks up to rebuild deck_db.json.
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  convert:
+    if: contains(github.event.issue.labels.*.name, 'deck-submission')
+    runs-on: ubuntu-latest
+    env:
+      ISSUE_BODY: ${{ github.event.issue.body }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Save issue body to a file
+        # Written via os.environ rather than interpolated into the shell
+        # script text, so arbitrary user-supplied content in the issue body
+        # can't be executed as shell/YAML.
+        run: |
+          python - <<'PYEOF'
+          import os
+          with open("issue_body.md", "w", encoding="utf-8") as f:
+              f.write(os.environ.get("ISSUE_BODY", ""))
+          PYEOF
+
+      - name: Parse, validate, and write the deck file
+        id: convert
+        run: |
+          set +e
+          python scripts/issue_to_deck.py --body-file issue_body.md --issue "$ISSUE_NUMBER" --out-dir decks > result.json
+          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+          cat result.json
+
+      - name: Comment and commit on success
+        if: steps.convert.outputs.exit_code == '0'
+        run: |
+          python - <<'PYEOF'
+          import json
+          r = json.load(open("result.json"))
+          fname = r["path"].replace("\\", "/").rsplit("/", 1)[-1]
+          lines = [
+              f"✅ Added **{fname}** to the pool.",
+              "",
+              f"- Commander(s): {', '.join(r['commanders'])}",
+              f"- Cards: {r['total_cards']}",
+              f"- Colours: {r['colors'] or 'Colourless'}",
+              f"- Game Changers: {r['gc']}",
+              f"- Bracket: {r['bracket']}" + (" (your override)" if r["bracket_overridden"] else " (computed)"),
+              f"- Price: €{r['price_eur']} / ${r['price_usd']}",
+          ]
+          if r["warnings"]:
+              lines += ["", "Warnings:"] + [f"- {w}" for w in r["warnings"]]
+          with open("comment.md", "w", encoding="utf-8") as f:
+              f.write("\n".join(lines))
+          PYEOF
+          gh issue comment "$ISSUE_NUMBER" --body-file comment.md
+          git config user.name "deck-pool-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add decks/
+          git commit -m "Add deck from issue #$ISSUE_NUMBER"
+          git push
+          gh issue close "$ISSUE_NUMBER" --reason completed
+
+      - name: Comment on failure
+        if: steps.convert.outputs.exit_code != '0'
+        run: |
+          python - <<'PYEOF'
+          import json
+          r = json.load(open("result.json"))
+          lines = ["❌ This submission couldn't be added:", ""]
+          lines += [f"- {e}" for e in r["errors"]]
+          if r.get("warnings"):
+              lines += ["", "Warnings:"] + [f"- {w}" for w in r["warnings"]]
+          lines += [
+              "",
+              "Fix the issue above and open a new submission -- or use the "
+              "submission page, which checks all of this before you submit.",
+          ]
+          with open("comment.md", "w", encoding="utf-8") as f:
+              f.write("\n".join(lines))
+          PYEOF
+          gh label create "needs-changes" --color FBCA04 --force
+          gh issue comment "$ISSUE_NUMBER" --body-file comment.md
+          gh issue edit "$ISSUE_NUMBER" --add-label "needs-changes"

@@ -1,0 +1,86 @@
+name: Submit a Commander deck
+description: Add a decklist to the shared pool
+title: "[Deck] "
+labels: ["deck-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer the [submission page](../../tree/main/docs) -- it checks your
+        decklist against Scryfall before you submit, so you'll know about
+        typos, banned cards, or colour-identity problems right away. This
+        form works too, but a bad decklist submitted here won't be added
+        until it's fixed (you'll get a comment explaining what's wrong).
+
+  - type: input
+    id: deck-name
+    attributes:
+      label: Deck name
+      placeholder: Atraxa Superfriends
+    validations:
+      required: true
+
+  - type: input
+    id: deck-url
+    attributes:
+      label: Source link (optional)
+      description: The MTGGoldfish / Moxfield / Archidekt / EDHREC page you exported from, if any.
+      placeholder: https://www.mtggoldfish.com/deck/...
+    validations:
+      required: false
+
+  - type: textarea
+    id: decklist
+    attributes:
+      label: Decklist
+      description: >
+        Paste the exported decklist (MTGGoldfish "Exact Card Versions",
+        Moxfield export, Archidekt export-to-text, or an EDHREC list all
+        work). Mark your commander with a "Commander" section, or tag the
+        line with *CMDR*.
+      placeholder: |
+        Commander
+        1 Atraxa, Praetors' Voice
+
+        Deck
+        1 Sol Ring
+        1 Arcane Signet
+        ...
+      render: text
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags (comma-separated)
+      description: See the tag vocabulary in the README. Leave blank if you're not sure.
+      placeholder: superfriends, planeswalkers, grindy
+    validations:
+      required: false
+
+  - type: dropdown
+    id: bracket
+    attributes:
+      label: Bracket
+      description: >
+        Leave this on Auto unless the computed bracket (shown on the
+        submission page) looks wrong for how the deck actually plays.
+      options:
+        - "Auto (recommended)"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+      default: 0
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Before you submit
+      options:
+        - label: I checked this decklist for typos and banned cards (or validated it on the submission page)
+          required: false

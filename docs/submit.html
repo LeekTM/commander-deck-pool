@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Submit a Deck — Commander Deck Pool</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<header class="site">
+  <h1>🎴 Commander Deck Pool</h1>
+  <nav>
+    <a href="index.html">Browse</a>
+    <a href="submit.html" class="active">Submit a deck</a>
+  </nav>
+</header>
+
+<main>
+  <div class="card">
+    <h2>Submit a deck</h2>
+    <p class="hint">
+      Paste your exported decklist (MTGGoldfish "Exact Card Versions", Moxfield export,
+      Archidekt export-to-text, or an EDHREC list all work). This page checks every
+      card against Scryfall before you submit &mdash; typos, banned cards, and cards
+      outside your commander's colour identity are caught here, not after the fact.
+      Submitting opens a prefilled GitHub issue, so you'll need a GitHub account.
+    </p>
+
+    <label for="deck-name">Deck name</label>
+    <input type="text" id="deck-name" placeholder="Atraxa Superfriends" />
+
+    <label for="deck-url">Source link (optional)</label>
+    <input type="url" id="deck-url" placeholder="https://www.mtggoldfish.com/deck/..." />
+
+    <label for="tags">Tags (comma-separated)</label>
+    <input type="text" id="tags" placeholder="superfriends, planeswalkers, grindy" />
+    <p class="hint">See the <a id="link-readme-tags" href="https://github.com" target="_blank" rel="noopener">tag vocabulary</a> in the README. Leave blank if unsure.</p>
+
+    <label for="bracket">Bracket</label>
+    <select id="bracket">
+      <option value="">Auto (recommended)</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+    </select>
+    <p class="hint">
+      Bracket is normally computed from the count of
+      <a href="https://scryfall.com/search?q=is%3Agamechanger" target="_blank" rel="noopener">Game Changers</a>
+      in the deck: 0&nbsp;&rarr;&nbsp;2, 1&ndash;3&nbsp;&rarr;&nbsp;3, 4+&nbsp;&rarr;&nbsp;4. That can't tell
+      1 from 2 or 4 from 5, and brackets are partly about expected game length now &mdash; override it here
+      if the computed value looks wrong for how the deck actually plays. This is a sorting hint, not a ruling.
+    </p>
+
+    <label for="decklist">Decklist</label>
+    <textarea id="decklist" placeholder="Commander
+1 Atraxa, Praetors' Voice
+
+Deck
+1 Sol Ring
+1 Arcane Signet
+..."></textarea>
+
+    <div>
+      <button id="btn-validate">Validate</button>
+      <button id="btn-submit" class="secondary" disabled>Submit via GitHub</button>
+    </div>
+    <p class="hint" id="validate-status"></p>
+  </div>
+
+  <div class="card" id="results" hidden>
+    <h2>Validation results</h2>
+    <div id="results-body"></div>
+  </div>
+</main>
+
+<footer class="site">
+  No account? Ask someone in the group to paste the deck in for you, or open a
+  <a href="https://github.com" target="_blank" rel="noopener">GitHub</a> account &mdash; it's free.
+</footer>
+
+<script src="config.js"></script>
+<script src="js/scryfall.js"></script>
+<script src="js/deck-parser.js"></script>
+<script src="js/validate.js"></script>
+<script src="js/submit.js"></script>
+</body>
+</html>
