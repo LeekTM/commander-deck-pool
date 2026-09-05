@@ -1,0 +1,101 @@
+// name: Derevi, Empyrial Tactician (Bracket 3)
+// source: community
+// tags: aggro, flying
+// bracket: 3
+
+Commander
+1 Derevi, Empyrial Tactician
+
+Deck
+
+1 Abandoned Air Temple
+1 Barkchannel Pathway
+1 Branchloft Pathway
+1 Breeding Pool
+1 Brushland
+1 Command Tower
+1 Dalkovan Encampment
+1 Evolving Wilds
+1 Exotic Orchard
+5 Forest
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hinterland Harbor
+1 Horizon Canopy
+1 Hushwood Verge
+5 Island
+1 Mistrise Village
+1 Overgrown Farmland
+1 Plains
+1 Razorverge Thicket
+1 Reflecting Pool
+1 Seachrome Coast
+1 Skycloud Expanse
+1 Spara's Headquarters
+1 Temple Garden
+1 Tranquil Landscape
+1 Windbrisk Heights
+1 Altar of Bone
+1 Awaken the Woods
+1 Borrowing 100,000 Arrows
+1 Emeria's Call
+1 Nature's Rhythm
+1 Pest Infestation
+1 Portent of Calamity
+1 Shamanic Revelation
+1 Split Up
+1 Stock Up
+1 Time of Need
+1 Traverse the Ulvenwald
+1 United Front
+1 Arcane Signet
+1 Bident of Thassa
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Eternity Elevator
+1 The Seriema
+1 Archdruid's Charm
+1 Counterspell
+1 Cyclonic Rift
+1 Dawn's Truce
+1 Discover the Impossible
+1 Eladamri's Call
+1 Flare of Denial
+1 Flare of Fortitude
+1 Obscuring Haze
+1 Path to Exile
+1 Rapid Hybridization
+1 Secure the Wastes
+1 Snap
+1 Swords to Plowshares
+1 Aura Shards
+1 Cryptolith Rite
+1 Growing Rites of Itlimoc
+1 Mystic Remora
+1 Starlight Spectacular
+1 War of the Last Alliance
+1 Waterbender Ascension
+1 Avacyn's Pilgrim
+1 Brigid, Clachan's Heart
+1 Circle of Dreams Druid
+1 Cosmogrand Zenith
+1 Craterhoof Behemoth
+1 Drannith Magistrate
+1 Elesh Norn, Grand Cenobite
+1 Enduring Vitality
+1 Essence Warden
+1 Fyndhorn Elves
+1 Gold-Forged Thopteryx
+1 Hope of Ghirapur
+1 Kudo, King Among Bears
+1 Kutzil, Malamet Exemplar
+1 Sage of the Skies
+1 Shalai, Voice of Plenty
+1 Starwinder
+1 Thieving Skydiver
+1 Virulent Emissary
+1 Voice of Victory
+1 Windborn Muse
+1 Elspeth, Sun's Champion
+1 Oko, Thief of Crowns
