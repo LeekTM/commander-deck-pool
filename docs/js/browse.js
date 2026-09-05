@@ -208,13 +208,28 @@ function readFilters() {
   const priceRaw = document.getElementById("f-price").value.trim();
   const maxPrice = priceRaw ? parseFloat(priceRaw) : null;
   const colors = document.getElementById("f-colors").value.trim().toUpperCase().replace(/[^WUBRG]/g, "");
-  return { search, bracket, maxPrice: Number.isFinite(maxPrice) ? maxPrice : null, colors };
+  const sort = document.getElementById("f-sort").value;
+  return { search, bracket, maxPrice: Number.isFinite(maxPrice) ? maxPrice : null, colors, sort };
 }
+
+// Price sorts on EUR, the currency the brief makes the default for this
+// group. Every sort falls back to name so equal values (two bracket-3 decks,
+// say) come out in a stable, predictable order rather than shuffling.
+const SORTERS = {
+  "name-asc": (a, b) => a.name.localeCompare(b.name),
+  "name-desc": (a, b) => b.name.localeCompare(a.name),
+  "price-asc": (a, b) => a.price_eur - b.price_eur || a.name.localeCompare(b.name),
+  "price-desc": (a, b) => b.price_eur - a.price_eur || a.name.localeCompare(b.name),
+  "bracket-asc": (a, b) => a.bracket - b.bracket || a.name.localeCompare(b.name),
+  "bracket-desc": (a, b) => b.bracket - a.bracket || a.name.localeCompare(b.name),
+  "gc-asc": (a, b) => a.gc - b.gc || a.name.localeCompare(b.name),
+  "gc-desc": (a, b) => b.gc - a.gc || a.name.localeCompare(b.name),
+};
 
 function applyFilters() {
   const filters = readFilters();
   const filtered = ALL_DECKS.filter((d) => deckMatchesFilters(d, filters));
-  filtered.sort((a, b) => a.name.localeCompare(b.name));
+  filtered.sort(SORTERS[filters.sort] || SORTERS["name-asc"]);
   renderDecks(filtered);
 }
 
@@ -238,7 +253,7 @@ async function init() {
     status.textContent = `Could not load the deck database: ${e.message}`;
   }
 
-  for (const id of ["f-search", "f-bracket", "f-price", "f-colors"]) {
+  for (const id of ["f-search", "f-bracket", "f-price", "f-colors", "f-sort"]) {
     document.getElementById(id).addEventListener("input", applyFilters);
   }
 }

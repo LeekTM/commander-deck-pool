@@ -18,7 +18,7 @@
 
 <main>
   <div class="card">
-    <h2>Filter</h2>
+    <h2>Filter &amp; sort</h2>
     <div class="filters">
       <div>
         <label for="f-search">Name / commander / tag</label>
@@ -42,6 +42,19 @@
       <div>
         <label for="f-colors">Colours (must include)</label>
         <input type="text" id="f-colors" placeholder="e.g. WU" />
+      </div>
+      <div>
+        <label for="f-sort">Sort by</label>
+        <select id="f-sort">
+          <option value="name-asc">Name (A&ndash;Z)</option>
+          <option value="name-desc">Name (Z&ndash;A)</option>
+          <option value="price-asc">Price (cheapest first)</option>
+          <option value="price-desc">Price (most expensive first)</option>
+          <option value="bracket-asc">Bracket (lowest first)</option>
+          <option value="bracket-desc">Bracket (highest first)</option>
+          <option value="gc-asc">Game Changers (fewest first)</option>
+          <option value="gc-desc">Game Changers (most first)</option>
+        </select>
       </div>
     </div>
     <p class="hint" id="result-count"></p>
