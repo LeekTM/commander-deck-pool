@@ -1,0 +1,105 @@
+// name: Hazezon, Shaper of Sand (Bracket 3)
+// source: community
+// tags: combo, lands-matter, ramp, tokens
+// bracket: 3
+
+Commander
+1 Hazezon, Shaper of Sand
+
+Deck
+
+1 Abraded Bluffs
+1 Arid Archway
+1 Arid Mesa
+1 Bristling Backwoods
+1 Cactus Preserve
+1 Command Tower
+1 Conduit Pylons
+1 Creosote Heath
+1 Desert of the Fervent
+1 Desert of the Indomitable
+1 Desert of the True
+1 Dunes of the Dead
+1 Field of the Dead
+1 Fire-Lit Thicket
+4 Forest
+1 Grasping Dunes
+1 Hashep Oasis
+1 Jetmir's Garden
+1 Lazotep Quarry
+2 Mountain
+1 Plains
+1 Planar Nexus
+1 Ramunap Ruins
+1 Riftstone Portal
+1 Scavenger Grounds
+1 Shefet Dunes
+1 Stomping Ground
+1 Survivors' Encampment
+1 Temple Garden
+1 Urza's Cave
+1 Vesuva
+1 Windswept Heath
+1 Wooded Bastion
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Amulet of Vigor
+1 Brass's Tunnel-Grinder
+1 Lightning Greaves
+1 Skullclamp
+1 Swiftfoot Boots
+1 Ancient Greenwarden
+1 Azusa, Lost but Seeking
+1 Birds of Paradise
+1 Dryad of the Ilysian Grove
+1 Dune Chanter
+1 Elesh Norn, Mother of Machines
+1 Jetmir, Nexus of Revels
+1 Loaming Shaman
+1 Lotus Cobra
+1 Mentor of the Meek
+1 Nissa, Resurgent Animist
+1 Ogre Battledriver
+1 Ojer Taq, Deepest Foundation
+1 Oracle of Mul Daya
+1 Rydia, Summoner of Mist
+1 Sabotender
+1 Stiltzkin, Moogle Merchant
+1 Sylvan Safekeeper
+1 Tannuk, Memorial Ensign
+1 Timeless Witness
+1 Tireless Provisioner
+1 Toski, Bearer of Secrets
+1 Voice of Victory
+1 Battle Hymn
+1 Beast Within
+1 Chaos Warp
+1 Chord of Calling
+1 Deflecting Swat
+1 Entish Restoration
+1 Flawless Maneuver
+1 Harrow
+1 Heroic Intervention
+1 Krosan Grip
+1 Path to Exile
+1 Rite of Harmony
+1 Swords to Plowshares
+1 Tibalt's Trickery
+1 Veil of Summer
+1 Bitter Reunion
+1 Desert Warfare
+1 Nahiri's Resolve
+1 Roar of Resistance
+1 Spelunking
+1 Borrowed Knowledge
+1 Embrace the Unknown
+1 Faithless Looting
+1 Fervent Mastery
+1 Gamble
+1 Hour of Promise
+1 Mana Geyser
+1 Nahiri's Lithoforming
+1 Past in Flames
+1 Scapeshift
+1 Three Visits
+1 Warp World
