@@ -1,0 +1,88 @@
+// name: Karlov of the Ghost Council (Bracket 3)
+// source: community
+// tags: lifegain, control, prison, hatebearers
+// bracket: 3
+
+Commander
+1 Karlov of the Ghost Council
+
+Deck
+
+1 Abiding Grace
+1 Ajani's Mantra
+1 Ashes of the Abhorrent
+1 Authority of the Consuls
+1 Black Market Connections
+1 Blind Obedience
+1 Bloodchief Ascension
+1 Cleric Class
+1 Dauthi Embrace
+1 Exquisite Blood
+1 Necropotence
+1 Phyrexian Arena
+1 Retribution of the Ancients
+1 Revenge of Ravens
+1 Righteous Cause
+1 Sanguine Bond
+1 Vampiric Link
+1 Ajani's Pridemate
+1 Auriok Champion
+1 Blood Artist
+1 Cliffhaven Vampire
+1 Deathgreeter
+1 Doom Whisperer
+1 Drana's Emissary
+1 Erebos, God of the Dead
+1 Esper Sentinel
+1 Heliod, Sun-Crowned
+1 Kambal, Consul of Allocation
+1 Kambal, Profiteering Mayor
+1 Lotho, Corrupt Shirriff
+1 Massacre Girl
+1 Nyx-Fleece Ram
+1 Rhox Faithmender
+1 Righteous Valkyrie
+1 Rune-Tail, Kitsune Ascendant
+1 Sangromancer
+1 Serra Ascendant
+1 Sheoldred, the Apocalypse
+1 Soul Warden
+1 Soul's Attendant
+1 Sunscorch Regent
+1 Suture Priest
+1 Vito, Thorn of the Dusk Rose
+1 Voice of the Blessed
+1 Anguished Unmaking
+1 Galadriel's Dismissal
+1 Swords to Plowshares
+1 Bojuka Bog
+1 Caves of Koilos
+1 Concealed Courtyard
+1 Godless Shrine
+1 Isolated Chapel
+1 Marsh Flats
+1 Opal Palace
+12 Plains
+1 Radiant Fountain
+1 Shambling Vent
+1 Silent Clearing
+11 Swamp
+1 Tainted Field
+1 Temple of Silence
+1 Caduceus, Staff of Hermes
+1 Conqueror's Flail
+1 Darksteel Plate
+1 Fellwar Stone
+1 Fountain of Renewal
+1 Loxodon Warhammer
+1 Mask of Griselbrand
+1 Mox Amber
+1 Sun Droplet
+1 Tablet of the Guilds
+1 The Darkness Crystal
+1 Well of Lost Dreams
+1 Essence Harvest
+1 Split Up
+1 Toxic Deluge
+1 Vindicate
+1 Wrath of God
