@@ -51,6 +51,10 @@ class CardInfo:
     edhrec_rank: int | None
     is_game_changer: bool
     front_face_name: str | None = None  # for split/MDFC cards
+    scryfall_id: str = ""
+    # Set only on a reskin printing (Secret Lair): the name on the physical
+    # card, where `name` is the card it actually is.
+    flavor_name: str | None = None
     keywords: tuple[str, ...] = ()
 
 
@@ -136,6 +140,8 @@ def _card_to_info(card: dict, game_changers: set[str]) -> CardInfo:
 
     return CardInfo(
         name=name,
+        scryfall_id=card.get("id", ""),
+        flavor_name=card.get("flavor_name"),
         price_usd=_price(prices.get("usd")),
         price_eur=_price(prices.get("eur")),
         color_identity=color_identity,

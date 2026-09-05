@@ -132,7 +132,15 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
         # but Singing" IS "Azusa, Lost but Seeking", and only the real name
         # resolves in a lookup -- but the pool should still show the Miku name.
         if info is not None and info.name != card_name:
-            cards_out.append({"n": info.name, "q": qty, "as": card_name})
+            entry = {"n": info.name, "q": qty, "as": card_name}
+            # A reskin is a specific printing with its own art, so pin the
+            # printing: importing "Miku, the Renowned" should put the Miku
+            # card on the table, not the default Feather art. Only a genuine
+            # flavour name gets pinned -- a split card written by its front
+            # face also lands here, and has no particular printing to prefer.
+            if (info.flavor_name or "").lower() == card_name.lower() and info.scryfall_id:
+                entry["id"] = info.scryfall_id
+            cards_out.append(entry)
         else:
             cards_out.append({"n": card_name, "q": qty})
 

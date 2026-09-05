@@ -118,15 +118,15 @@ function visualCardsHtml(deck) {
   return groupDeck(deck)
     .map((group) => {
       const items = group.cards.map((c) => {
-        const cached = CARD_CACHE.get(c.n.toLowerCase());
+        const art = cardArt(c, CARD_CACHE.get(c.n.toLowerCase()));
         const name = escapeHtml(cardLabel(c));
         // loading="lazy" so only the cards actually scrolled into view are
         // ever fetched; the CDN's year-long cache headers make revisits free.
-        const img = cached && cached.image
-          ? `<img src="${escapeHtml(cached.image)}" alt="${name}" title="${name}" loading="lazy" decoding="async" width="488" height="680" />`
+        const img = art && art.image
+          ? `<img src="${escapeHtml(art.image)}" alt="${name}" title="${name}" loading="lazy" decoding="async" width="488" height="680" />`
           : `<div class="card-image-missing">${name}</div>`;
         const qty = c.q > 1 ? `<span class="card-qty">${c.q}&times;</span>` : "";
-        const large = cached && (cached.large || cached.image);
+        const large = art && art.large;
         // data-large drives the tap/click pop-out (delegated in wireLightbox).
         const popout = large ? ` data-large="${escapeHtml(large)}" data-name="${name}"` : "";
         return `<div class="card-image"${popout} tabindex="0" role="button" aria-label="Enlarge ${name}">${img}${qty}</div>`;
@@ -169,6 +169,21 @@ async function loadDeckDb() {
 // "n"; show people the name they submitted.
 function cardLabel(c) {
   return c.as || c.n;
+}
+
+// A reskin entry pins the printing it actually is, so show that art rather
+// than the default printing the card name resolves to -- a Miku card should
+// look like Miku, not like Feather.
+function cardArt(c, cached) {
+  if (c.id && c.id.length > 1) {
+    const dir = `${c.id[0]}/${c.id[1]}/${c.id}.jpg`;
+    return {
+      image: `https://cards.scryfall.io/normal/front/${dir}`,
+      large: `https://cards.scryfall.io/large/front/${dir}`,
+    };
+  }
+  if (!cached) return null;
+  return { image: cached.image, large: cached.large || cached.image };
 }
 
 function deckNameHtml(name) {
