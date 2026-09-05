@@ -40,7 +40,7 @@ Deck
 
     <label for="bracket">Bracket</label>
     <select id="bracket">
-      <option value="">Auto (recommended)</option>
+      <option value="">Calculate</option>
       <option value="1">1</option>
       <option value="2">2</option>
       <option value="3">3</option>
@@ -48,11 +48,13 @@ Deck
       <option value="5">5</option>
     </select>
     <p class="hint">
-      Bracket is normally computed from the count of
+      Click Validate first to see the calculated bracket below (from the
+      count of
       <a href="https://scryfall.com/search?q=is%3Agamechanger" target="_blank" rel="noopener">Game Changers</a>
-      in the deck: 0&nbsp;&rarr;&nbsp;2, 1&ndash;3&nbsp;&rarr;&nbsp;3, 4+&nbsp;&rarr;&nbsp;4. That can't tell
-      1 from 2 or 4 from 5, and brackets are partly about expected game length now &mdash; override it here
-      if the computed value looks wrong for how the deck actually plays. This is a sorting hint, not a ruling.
+      in the deck: 0&nbsp;&rarr;&nbsp;2, 1&ndash;3&nbsp;&rarr;&nbsp;3, 4+&nbsp;&rarr;&nbsp;4), then come back and
+      select that number here &mdash; don't leave this on "Calculate". That count can't tell 1 from 2 or 4 from 5,
+      and brackets are partly about expected game length now, so adjust it if the calculated value looks wrong
+      for how the deck actually plays. This is a sorting hint, not a ruling.
     </p>
 
     <label>Tags</label>

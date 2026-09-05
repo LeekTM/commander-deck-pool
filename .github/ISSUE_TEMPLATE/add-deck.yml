@@ -47,10 +47,11 @@ body:
     attributes:
       label: Bracket
       description: >
-        Leave this on Auto unless the computed bracket (shown on the
-        submission page) looks wrong for how the deck actually plays.
+        Validate on the submission page first to see the calculated
+        bracket, then select that number here -- don't leave this on
+        "Calculate".
       options:
-        - "Auto (recommended)"
+        - "Calculate"
         - "1"
         - "2"
         - "3"
@@ -58,12 +59,4 @@ body:
         - "5"
       default: 0
     validations:
-      required: false
-
-  - type: checkboxes
-    id: confirmation
-    attributes:
-      label: Before you submit
-      options:
-        - label: I checked this decklist for typos and banned cards (or validated it on the submission page)
-          required: false
+      required: true

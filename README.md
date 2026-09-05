@@ -28,13 +28,15 @@ docs/                   the submission + browse page (GitHub Pages)
 ## Adding a deck (three ways)
 
 1. **The submission page** (`docs/submit.html`, published via GitHub Pages).
-   Paste a decklist, pick tags, leave the bracket on Auto (or override it),
-   hit Validate. It checks every card against Scryfall in your browser --
-   typos, banned cards, cards outside your commander's colour identity -- and
-   shows the computed price, colours, Game Changer count and bracket before
-   you submit. There's no name or source-link field: the deck's name is
-   generated as `<Commander> (Bracket N)`. "Submit via GitHub" opens a
-   prefilled issue; you need a GitHub account to send it.
+   Paste a decklist and hit Validate. It checks every card against Scryfall
+   in your browser -- typos, cards outside your commander's colour
+   identity, and cards not currently legal in Commander (flagged, not
+   blocked -- see below) -- and shows the calculated price, colours, Game
+   Changer count and bracket. Select that calculated bracket number from
+   the dropdown (it's required), pick any tags that fit, and "Submit via
+   GitHub" opens a prefilled issue; you need a GitHub account to send it.
+   There's no name or source-link field: the deck's name is generated as
+   `<Commander> (Bracket N)`.
 2. **A GitHub issue directly** -- open a "Submit a Commander deck" issue and
    fill in the form. A workflow validates it the same way the page does; if
    something's wrong you get a comment explaining what, and no file is
@@ -111,9 +113,21 @@ Bracket is *computed* from the count of cards on Scryfall's live
 
 This can't distinguish bracket 1 from 2, or 4 from 5 -- and since the October
 2025 rework, brackets are partly defined by expected game length, which
-nothing countable can measure. Add `// bracket: N` to a deck file (or set it
-on the submission page/issue form) to override the computed value; it's a
-sorting hint for the group, not a ruling.
+nothing countable can measure. Add `// bracket: N` to a deck file to
+override the computed value; it's a sorting hint for the group, not a
+ruling.
+
+The page/issue-form Bracket dropdown is deliberately **not** an "always
+recompute" auto option -- validating shows the calculated number, and
+you're expected to select that number yourself rather than leave it on
+"Calculate" (the field is required, precisely to force this). Once a
+digit is selected there, it's written to the file as a real `// bracket:`
+override, same as if you'd typed it into the file by hand -- which means
+it's a snapshot, not a live computation: if the Game Changers list changes
+later, that deck's bracket won't move with it unless someone edits the
+override. Leaving it on "Calculate" still works and does behave as a true
+live computation (forever recomputed on every rebuild) -- it's just no
+longer the expected path for page/issue submissions.
 
 ## Prices and colours
 

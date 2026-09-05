@@ -191,11 +191,15 @@ async function onValidate() {
     lastResult = result;
     lastComputedName = result.commanders.length ? computeDeckName(result) : null;
     renderResults(result); // also sets btnSubmit's disabled state via updateSubmitEnabled()
-    statusEl.textContent = result.errors.length
-      ? "Fix the issues above, then validate again."
-      : result.bannedCards.length
-        ? "Check the box below to confirm you want to add a card not legal in Commander."
-        : "Ready to submit.";
+    if (result.errors.length) {
+      statusEl.textContent = "Fix the issues above, then validate again.";
+    } else if (result.bannedCards.length) {
+      statusEl.textContent = "Check the box below to confirm you want to add a card not legal in Commander.";
+    } else if (!bracketOverride) {
+      statusEl.textContent = `Select ${result.bracket} in the Bracket dropdown above (don't leave it on "Calculate"), then submit.`;
+    } else {
+      statusEl.textContent = "Ready to submit.";
+    }
   } catch (e) {
     statusEl.textContent = `Validation failed: ${e.message}`;
   } finally {

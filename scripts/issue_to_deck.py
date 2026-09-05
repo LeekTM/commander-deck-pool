@@ -123,14 +123,20 @@ def process(body: str, issue_number: int, out_dir: str) -> dict:
 
     tags = embedded_tags or tags_field
 
+    # Match on "does this contain an actual 1-5 digit", not on the label
+    # text of the no-override option (has been "Auto", "Auto (recommended)",
+    # now "Calculate") -- keeps this correct across future relabels without
+    # another code change here.
     bracket_digits = ""
-    if embedded_bracket.isdigit():
+    if embedded_bracket in ("1", "2", "3", "4", "5"):
         bracket_digits = embedded_bracket
-    elif bracket_field and bracket_field.strip().lower() not in ("", "auto", "auto (recommended)"):
-        bracket_digits = re.sub(r"\D", "", bracket_field)
-        # Wasn't embedded, so re-parse with it injected the same way a
-        # hand-written file would carry it, so validate_parsed sees it.
-        parsed = parse_decklist_text(f"// bracket: {bracket_digits}\n{decklist}")
+    else:
+        field_digits = re.sub(r"\D", "", bracket_field or "")
+        if field_digits in ("1", "2", "3", "4", "5"):
+            bracket_digits = field_digits
+            # Wasn't embedded, so re-parse with it injected the same way a
+            # hand-written file would carry it, so validate_parsed sees it.
+            parsed = parse_decklist_text(f"// bracket: {bracket_digits}\n{decklist}")
 
     game_changers = fetch_game_changers()
     result = validate_parsed(parsed, game_changers=game_changers)
