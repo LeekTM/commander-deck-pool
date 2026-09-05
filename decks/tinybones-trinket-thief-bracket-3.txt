@@ -1,0 +1,82 @@
+// name: Tinybones, Trinket Thief (Bracket 3)
+// source: community
+// tags: lifegain, discard
+// bracket: 3
+
+Commander
+1 Tinybones, Trinket Thief
+
+Deck
+
+1 Aclazotz, Deepest Betrayal
+1 Archfiend of Ifnir
+1 Burglar Rat
+1 Dark Confidant
+1 Fell Specter
+1 Grief
+1 Hostile Investigator
+1 Junji, the Midnight Sky
+1 Kaervek, the Punisher
+1 Necrogoyf
+1 Rankle, Master of Pranks
+1 Ravenous Rats
+1 Sangromancer
+1 Seizan, Perverter of Truth
+1 The Haunt of Hightower
+1 The Raven Man
+1 Tourach, Dread Cantor
+1 Aetherflux Reservoir
+1 Anvil of Bogardan
+1 Arcane Signet
+1 Bolas's Citadel
+1 Coldsteel Heart
+1 Crawlspace
+1 Geth's Grimoire
+1 Library of Leng
+1 Sensei's Divining Top
+1 Sol Ring
+1 Wheel of Torture
+1 Bandit's Talent
+1 Bottomless Pit
+1 Court of Ambition
+1 Exquisite Blood
+1 Liliana's Caress
+1 Megrim
+1 Necrogen Mists
+1 Necropotence
+1 Oppression
+1 Painful Quandary
+1 Phyrexian Arena
+1 Sanguine Bond
+1 Waste Not
+1 Barren Moor
+1 Bojuka Bog
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Castle Locthwain
+1 Geier Reach Sanitarium
+1 Nykthos, Shrine to Nyx
+28 Swamp
+1 Witch's Cottage
+1 Chain of Smog
+1 Damnation
+1 Dark Deal
+1 Demonic Tutor
+1 Duress
+1 Feed the Swarm
+1 Go Blank
+1 Grim Tutor
+1 Hymn to Tourach
+1 Mind Twist
+1 Mutilate
+1 Ostracize
+1 Raven's Crime
+1 Thoughtseize
+1 Vicious Rumors
+1 Dark Ritual
+1 Go for the Throat
+1 Hero's Downfall
+1 Sudden Spoiling
+1 Davriel, Rogue Shadowmage
+1 Liliana of the Veil
+1 Professor Onyx
