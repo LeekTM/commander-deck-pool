@@ -1,0 +1,103 @@
+// name: Flubs, the Fool (Bracket 3)
+// source: community
+// tags: self-mill, lands-matter, landfall, card-draw
+// bracket: 3
+
+Commander
+1 Flubs, the Fool
+
+Deck
+
+1 Aesi, Tyrant of Gyre Strait
+1 Aftermath Analyst
+1 Ancient Greenwarden
+1 Anger
+1 Augur of Autumn
+1 Avenger of Zendikar
+1 Azusa, Lost but Seeking
+1 Containment Construct
+1 Courser of Kruphix
+1 Cultivator Colossus
+1 Dryad of the Ilysian Grove
+1 Ghostly Pilferer
+1 Glacier Godmaw
+1 Goblin Anarchomancer
+1 Icetill Explorer
+1 Inti, Seneschal of the Sun
+1 Loot, Exuberant Explorer
+1 Lotus Cobra
+1 Mina and Denn, Wildborn
+1 Mossborn Hydra
+1 Omnath, Locus of Rage
+1 Oracle of Mul Daya
+1 Ramunap Excavator
+1 Scute Swarm
+1 Six
+1 Springheart Nantuko
+1 Summon: Titan
+1 Sylvan Safekeeper
+1 Tireless Provisioner
+1 Wayward Swordtooth
+1 Ancient Grudge
+1 Archdruid's Charm
+1 Auroral Procession
+1 Beast Within
+1 Chaos Warp
+1 Crop Rotation
+1 Noxious Revival
+1 Peerless Recycling
+1 Pongify
+1 Reclaim
+1 Arcane Signet
+1 Blackblade Reforged
+1 Conduit of Worlds
+1 Crucible of Worlds
+1 Exploration Broodship
+1 Gustha's Scepter
+1 Sol Ring
+1 Zuran Orb
+1 Bala Ged Recovery
+1 Nature's Lore
+1 Summer Bloom
+1 Three Visits
+1 Through the Forest Gate
+1 Bountiful Landscape
+1 Breeding Pool
+1 Command Tower
+1 Dreamroot Cascade
+1 Escape Tunnel
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+1 Ferrous Lake
+1 Field of the Dead
+7 Forest
+1 Ghost Quarter
+1 Gruul Turf
+1 Island
+1 Izzet Boilerworks
+1 Kessig Wolf Run
+1 Ketria Triome
+1 Mistrise Village
+1 Misty Rainforest
+1 Mossfire Valley
+1 Mountain
+1 Oboro, Palace in the Clouds
+1 Overflowing Basin
+1 Rockfall Vale
+1 Scalding Tarn
+1 Simic Growth Chamber
+1 Steam Vents
+1 Stomping Ground
+1 Stormcarved Coast
+1 Terramorphic Expanse
+1 Urza's Cave
+1 Urza's Saga
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Case of the Locked Hothouse
+1 Druid Class
+1 Exploration
+1 Seal of Removal
+1 Song of Creation
+1 Underworld Breach
