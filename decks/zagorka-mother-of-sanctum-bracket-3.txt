@@ -1,0 +1,91 @@
+// name: Zagorka, Mother of Sanctum (Bracket 3)
+// source: community
+// tags: group-hug, lands-matter, tokens
+// bracket: 3
+
+Commander
+1 Zagorka, Mother of Sanctum
+
+Deck
+
+
+1 Adrix and Nev, Twincasters
+1 Astral Dragon
+1 Birds of Paradise
+1 Gogo, Master of Mimicry
+1 Loki, Lord of Misrule
+1 Radiant Performer
+1 Sakashima of a Thousand Faces
+1 Spark Double
+1 Y'shtola Rhul
+1 Animist's Awakening
+1 Awaken the Woods
+1 Bala Ged Recovery
+1 Boundless Realms
+1 Doppelgang
+1 Fabricate
+1 Finale of Revelation
+1 For the Common Good
+1 Genesis Ultimatum
+1 Guided Passage
+1 Minds Aglow
+1 Mnemonic Deluge
+1 Mythos of Illuna
+1 Nature's Lore
+1 Relm's Sketching
+1 Reshape the Earth
+1 Savor the Moment
+1 Sea Gate Restoration
+1 Selvala's Stampede
+1 Three Visits
+1 Treacherous Terrain
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Chromatic Orrery
+1 Crawlspace
+1 Folio of Fancies
+1 Helm of the Host
+1 Howling Mine
+1 Lithoform Engine
+1 Mind's Eye
+1 Planar Bridge
+1 Sol Ring
+1 Strionic Resonator
+1 The Ten Rings
+1 Breeding Pool
+1 Command Tower
+1 Exotic Orchard
+6 Forest
+11 Island
+1 Ketria Triome
+1 Mistrise Village
+1 Misty Rainforest
+5 Mountain
+1 Rejuvenating Springs
+1 Spire Garden
+1 Steam Vents
+1 Stomping Ground
+1 Training Center
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Commit // Memory
+1 Gifts Ungiven
+1 Growth Spiral
+1 Heroic Intervention
+1 Mystical Tutor
+1 Radiate
+1 Second Harvest
+1 Sink into Stupor
+1 Storm King's Thunder
+1 Worldly Tutor
+1 Copy Enchantment
+1 Court of Vantress
+1 Estrid's Invocation
+1 Extravagant Replication
+1 Heartbeat of Spring
+1 Mana Flare
+1 Mirror Room // Fractured Realm
+1 Mirrormade
+1 Parallel Lives
+1 Primal Vigor
+1 Rites of Flourishing
