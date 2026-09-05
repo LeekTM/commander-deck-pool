@@ -1,0 +1,92 @@
+// name: Ajani, Nacatl Pariah (Bracket 3)
+// source: community
+// tags: +1/+1, aggro
+// bracket: 3
+
+Commander
+1 Ajani, Nacatl Pariah
+
+Deck
+
+1 Ajani Fells the Godsire
+1 Ajani's Welcome
+1 Assemble the Players
+1 Authority of the Consuls
+1 Caretaker's Talent
+1 Cleric Class
+1 Descendants' Fury
+1 Felidar Retreat
+1 Flowering of the White Tree
+1 Impact Tremors
+1 Land Tax
+1 Monologue Tax
+1 Trouble in Pairs
+1 Virtue of Loyalty
+1 Warleader's Call
+1 Ajani's Influence
+1 Day of Judgment
+1 Fumigate
+1 Wrath of God
+1 Ajani's Pridemate
+1 Alms Collector
+1 Arahbo, the First Fang
+1 Aurelia, the Law Above
+1 Brimaz, King of Oreskos
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Felidar Cub
+1 Felidar Guardian
+1 Felidar Sovereign
+1 Heliod, Sun-Crowned
+1 Highcliff Felidar
+1 Iroas, God of Victory
+1 Jazal Goldmane
+1 Leonin Vanguard
+1 Lion Sash
+1 Mentor of the Meek
+1 Mila, Crafty Companion
+1 Mother of Runes
+1 Nesting Dovehawk
+1 Ocelot Pride
+1 Oreskos Explorer
+1 Purphoros, God of the Forge
+1 Qala, Ajani's Pridemate
+1 Regal Caracal
+1 Roaming Throne
+1 Sacred Cat
+1 Skyknight Squire
+1 Stalking Leonin
+1 Sunscorch Regent
+1 Taurean Mauler
+1 Trove Warden
+1 Walking Ballista
+1 Ajani, Strength of the Pride
+1 Ancient Tomb
+1 Clifftop Retreat
+1 Command Tower
+6 Mountain
+1 Needleverge Pathway
+1 Nykthos, Shrine to Nyx
+1 Path of Ancestry
+13 Plains
+1 Reliquary Tower
+1 Restless Bivouac
+1 Sacred Foundry
+1 Slayers' Stronghold
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Gatewatch Beacon
+1 Oketra's Monument
+1 Pearl Medallion
+1 Sol Ring
+1 Staff of the Storyteller
+1 The One Ring
+1 Boros Charm
+1 Dawn Charm
+1 Enlightened Tutor
+1 Legion Leadership
+1 Path to Exile
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Wear // Tear
+1 White Sun's Zenith
