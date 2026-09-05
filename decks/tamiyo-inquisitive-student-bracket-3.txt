@@ -1,0 +1,100 @@
+// name: Tamiyo, Inquisitive Student (Bracket 3)
+// source: community
+// tags: combo, control, spellslinger
+// bracket: 3
+
+Commander
+1 Tamiyo, Inquisitive Student
+
+Deck
+
+
+1 Academy Manufactor
+1 Birds of Paradise
+1 Cankerbloom
+1 Chasm Skulker
+1 Deepglow Skate
+1 Dreamtide Whale
+1 Elvish Spirit Guide
+1 Eternal Witness
+1 Evolution Sage
+1 Faerie Mastermind
+1 Flux Channeler
+1 Hullbreaker Horror
+1 Laboratory Maniac
+1 Ledger Shredder
+1 Phyrexian Metamorph
+1 Psychosis Crawler
+1 Spellskite
+1 Tekuthal, Inquiry Dominus
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Borne Upon a Wind
+1 Brainstorm
+1 Brainsurge
+1 Counterspell
+1 Cyclonic Rift
+1 Delay
+1 Dig Through Time
+1 Flusterstorm
+1 Frantic Search
+1 Growth Spiral
+1 Heroic Intervention
+1 Long-Term Plans
+1 Mana Sculpt
+1 Mystical Tutor
+1 Nature's Claim
+1 Negate
+1 Noxious Revival
+1 Obscuring Haze
+1 Radstorm
+1 Ripples of Potential
+1 Swan Song
+1 Tamiyo's Safekeeping
+1 Veil of Summer
+1 Arcane Signet
+1 Ichormoon Gauntlet
+1 Mox Amber
+1 Sol Ring
+1 Talisman of Curiosity
+1 Tamiyo's Journal
+1 Thought Vessel
+1 Breeding Pool
+1 Cephalid Coliseum
+1 Command Tower
+1 Dreamroot Cascade
+1 Flooded Grove
+4 Forest
+1 Hedge Maze
+1 Hinterland Harbor
+8 Island
+1 Maze of Ith
+1 Mistrise Village
+1 Misty Rainforest
+1 Reflecting Pool
+1 Rejuvenating Springs
+1 Starting Town
+1 Waterlogged Grove
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+1 Careful Study
+1 Chart a Course
+1 Enter the Infinite
+1 Expansion Algorithm
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Nature's Lore
+1 Personal Tutor
+1 Ponder
+1 Preordain
+1 Show and Tell
+1 Tezzeret's Gambit
+1 Three Visits
+1 Windfall
+1 Winged Words
+1 Mystic Remora
+1 Omniscience
+1 Rhystic Study
+1 Oko, Thief of Crowns
