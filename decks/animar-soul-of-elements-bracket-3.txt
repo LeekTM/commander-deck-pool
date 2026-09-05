@@ -1,0 +1,100 @@
+// name: Animar, Soul of Elements (Bracket 3)
+// source: community
+// tags: mana-dorks, card-draw, ramp, +1/+1, stompy
+// bracket: 3
+
+Commander
+1 Animar, Soul of Elements
+
+Deck
+
+1 An Offer You Can't Refuse
+1 Beast Within
+1 Counterspell
+1 Heroic Intervention
+1 Negate
+1 Slip Out the Back
+1 Swan Song
+1 Ancient Ziggurat
+1 Breeding Pool
+1 Cinder Glade
+1 Command Tower
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Flooded Grove
+4 Forest
+1 Frontier Bivouac
+1 Hinterland Harbor
+4 Island
+1 Karplusan Forest
+4 Mountain
+1 Prismatic Vista
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rockfall Vale
+1 Rootbound Crag
+1 Shivan Reef
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Temple of Mystery
+1 Terramorphic Expanse
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+1 Animal Attendant
+1 Apex Devastator
+1 Artisan of Kozilek
+1 Badgermole Cub
+1 Beast Whisperer
+1 Beastcaller Savant
+1 Biophagus
+1 Birds of Paradise
+1 Blightsteel Colossus
+1 Bloom Tender
+1 Bristly Bill, Spine Sower
+1 Cloud of Faeries
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Elvish Mystic
+1 Faerie Mastermind
+1 Fanatic of Rhonas
+1 Fierce Empath
+1 Forgotten Ancient
+1 Fyndhorn Elves
+1 Goldvein Hydra
+1 Guardian Augmenter
+1 Hullbreaker Horror
+1 Hydroid Krasis
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Kozilek, Butcher of Truth
+1 Ledger Shredder
+1 Llanowar Elves
+1 Maelstrom Wanderer
+1 Managorger Hydra
+1 Mulldrifter
+1 Nulldrifter
+1 Ornithopter of Paradise
+1 Peregrine Drake
+1 Primordial Sage
+1 Quilled Greatwurm
+1 Rattleclaw Mystic
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Soul of the Harvest
+1 Surrak Dragonclaw
+1 Vigor
+1 Vizier of the Menagerie
+1 Branching Evolution
+1 Garruk's Uprising
+1 Guardian Project
+1 Hardened Scales
+1 Rhystic Study
+1 Rhythm of the Wild
+1 Temur Ascendancy
+1 Glimpse of Nature
+1 Nature's Lore
+1 Herd Heirloom
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Ozolith
