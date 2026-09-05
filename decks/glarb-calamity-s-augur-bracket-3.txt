@@ -1,0 +1,102 @@
+// name: Glarb, Calamity's Augur (Bracket 3)
+// source: community
+// tags: lands-matter, landfall, reanimater, graveyard
+// bracket: 3
+
+Commander
+1 Glarb, Calamity's Augur
+
+Deck
+
+1 Aftermath Analyst
+1 Ancient Greenwarden
+1 Archon of Cruelty
+1 Azusa, Lost but Seeking
+1 Birds of Paradise
+1 Bloom Tender
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Displacer Kitten
+1 Hullbreaker Horror
+1 Icetill Explorer
+1 Jarad, Golgari Lich Lord
+1 Kagha, Shadow Archdruid
+1 Kitsa, Otterball Elite
+1 Lier, Disciple of the Drowned
+1 Lotus Cobra
+1 Lotuslight Dancers
+1 Lumra, Bellow of the Woods
+1 Muldrotha, the Gravetide
+1 Oracle of Mul Daya
+1 Psychic Frog
+1 Rampaging Baloths
+1 Ramunap Excavator
+1 Seedborn Muse
+1 Sheoldred, Whispering One
+1 Six
+1 Stinkweed Imp
+1 Tatyova, Benthic Druid
+1 The Gitrog Monster
+1 Valley Floodcaller
+1 Wonder
+1 Amphibian Downpour
+1 Enhanced Surveillance
+1 Funeral Room // Awakening Hall
+1 Leyline Immersion
+1 Mystic Remora
+1 One with the Multiverse
+1 Phyrexian Arena
+1 Ripples of Undeath
+1 Blooming Marsh
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Command Tower
+1 Darkslick Shores
+1 Deathcap Glade
+1 Drowned Catacomb
+1 Fabled Passage
+1 Field of the Dead
+3 Forest
+1 Hedge Maze
+3 Island
+1 Mistrise Village
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Polluted Delta
+1 Shifting Woodland
+4 Swamp
+1 Takenuma, Abandoned Mire
+1 Undercity Sewers
+1 Underground Mortuary
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Wastewood Verge
+1 Woodland Cemetery
+1 Yavimaya, Cradle of Growth
+1 Zagoth Triome
+1 Brainstorm
+1 Counterspell
+1 Crop Rotation
+1 Deadly Rollick
+1 Entomb
+1 Fact or Fiction
+1 Flare of Malice
+1 Force of Vigor
+1 Polymorphist's Jest
+1 Buried Alive
+1 Culling Ritual
+1 Cultivate
+1 Dread Return
+1 Emergent Ultimatum
+1 Last March of the Ents
+1 Living Death
+1 Reanimate
+1 Rise of the Dark Realms
+1 Stitch Together
+1 Conduit of Worlds
+1 Hedge Shredder
+1 Lotus Petal
+1 Sol Ring
+1 Tyvar, Jubilant Brawler
