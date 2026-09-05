@@ -1,0 +1,104 @@
+// name: Commodore Guff (Bracket 3)
+// source: community
+// tags: burn, control, tokens, planeswalkers
+// bracket: 3
+
+Commander
+1 Commodore Guff
+
+Deck
+
+
+1 Abandoned Air Temple
+1 Adagia, Windswept Bastion
+1 Arcane Lighthouse
+1 Arid Mesa
+1 Azorius Chancery
+1 Boros Garrison
+1 Command Tower
+1 Flooded Strand
+1 Hallowed Fountain
+1 Interplanar Beacon
+3 Island
+1 Izzet Boilerworks
+1 Karn's Bastion
+1 Kor Haven
+1 Mana Confluence
+1 Maze of Ith
+1 Mountain
+1 Mystic Gate
+1 Mystic Monastery
+5 Plains
+1 Raugrin Triome
+1 Reliquary Tower
+1 Rugged Prairie
+1 Sacred Foundry
+1 Scalding Tarn
+1 Steam Vents
+1 Uthros, Titanic Godcore
+1 Aetheric Amplifier
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Gatewatch Beacon
+1 Ichormoon Gauntlet
+1 Izzet Signet
+1 Talisman of Conviction
+1 Talisman of Progress
+1 The Chain Veil
+1 Ajani Steadfast
+1 Ajani Unrelenting
+1 Ajani, Strength of the Pride
+1 Chandra, Awakened Inferno
+1 Chandra, Chill of Compliance
+1 Chandra, Legacy of Fire
+1 Chandra, Torch of Defiance
+1 Elspeth, Storm Slayer
+1 Elspeth, Sun's Champion
+1 Jace, the Mind Sculptor
+1 Kasmina, Enigmatic Mentor
+1 Narset of the Ancient Way
+1 Narset, Parter of Veils
+1 Sarkhan the Masterless
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Temporal Archmage
+1 The Eternal Wanderer
+1 The Theorist, Jace Beleren
+1 The Wanderer
+1 The Wandering Emperor
+1 Ugin, the Spirit Dragon
+1 Venser, the Sojourner
+1 Worzel, the Protector
+1 All Will Be One
+1 Fires of Invention
+1 Ghostly Prison
+1 Inexorable Tide
+1 Oath of Teferi
+1 Omniscience
+1 Propaganda
+1 Shark Typhoon
+1 Smothering Tithe
+1 Avatar's Wrath
+1 Call the Gatewatch
+1 Deploy the Gatewatch
+1 Farewell
+1 Promise of Loyalty
+1 Savor the Moment
+1 Starnheim Unleashed
+1 Supreme Verdict
+1 Triumphant Reckoning
+1 Fae of Wishes
+1 Flux Channeler
+1 Hydroelectric Specimen
+1 Jaya's Phoenix
+1 Kazuul, Tyrant of the Cliffs
+1 Lae'zel, Vlaakith's Champion
+1 Mila, Crafty Companion
+1 Narset, Enlightened Master
+1 Ojer Taq, Deepest Foundation
+1 Spark Double
+1 The Walls of Ba Sing Se
+1 Vivi Ornitier
+1 Mana Drain
+1 Sink into Stupor
+1 Valakut Awakening
