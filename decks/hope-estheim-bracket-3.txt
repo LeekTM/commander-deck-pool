@@ -1,0 +1,98 @@
+// name: Hope Estheim (Bracket 3)
+// source: community
+// tags: mill, lifegain
+// bracket: 3
+
+Commander
+1 Hope Estheim
+
+Deck
+
+1 Adarkar Wastes
+1 Adventurer's Inn
+1 Azorius Chancery
+1 Command Tower
+1 Deserted Beach
+1 Exotic Orchard
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Hallowed Fountain
+6 Island
+1 Mystic Gate
+1 Path of Ancestry
+7 Plains
+1 Plaza of Heroes
+1 Port Town
+1 Prairie Stream
+1 Reflecting Pool
+1 Sea of Clouds
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Tranquil Cove
+1 Aerith Gainsborough
+1 Aunt May
+1 Daxos, Blessed by the Sun
+1 Drogskol Reaver
+1 Enduring Innocence
+1 Esper Sentinel
+1 Exemplar of Light
+1 Guide of Souls
+1 Haliya, Guided by Light
+1 Ornithopter of Paradise
+1 Rhox Faithmender
+1 Sage of the Skies
+1 Serra Ascendant
+1 Soul Warden
+1 Sunscorch Regent
+1 Suture Priest
+1 The Gaffer
+1 The Mindskinner
+1 Voice of Victory
+1 Wall of Reverence
+1 Welcoming Vampire
+1 Will, Scion of Peace
+1 Aetherflux Reservoir
+1 Alhammarret's Archive
+1 Arcane Signet
+1 Azorius Signet
+1 Bender's Waterskin
+1 Commander's Sphere
+1 Cosmos Elixir
+1 Crawlspace
+1 Decanter of Endless Water
+1 Fellwar Stone
+1 Kimoyo Beads
+1 Lightning Greaves
+1 Mind Stone
+1 Mindcrank
+1 Sol Ring
+1 Talisman of Progress
+1 The One Ring
+1 The Water Crystal
+1 The Wind Crystal
+1 Thought Vessel
+1 An Offer You Can't Refuse
+1 Beacon of Immortality
+1 Congregate
+1 Cyclonic Rift
+1 Dovin's Veto
+1 Erode
+1 Generous Gift
+1 Path to Exile
+1 Restoration Magic
+1 Stroke of Midnight
+1 Swan Song
+1 Swords to Plowshares
+1 Authority of the Consuls
+1 Celestial Mantle
+1 Cleric Class
+1 Ghostly Prison
+1 Mystic Remora
+1 Pacifism
+1 Propaganda
+1 Rest in Peace
+1 Rhystic Study
+1 Sheltered by Ghosts
+1 Teferi's Ageless Insight
+1 Fumigate
+1 Righteous Confluence
