@@ -1,0 +1,78 @@
+// name: Fynn, the Fangbearer (Bracket 3)
+// source: community
+// tags: deathtouch, infect, aggro
+// bracket: 3
+
+Commander
+1 Fynn, the Fangbearer
+
+Deck
+
+1 Access Tunnel
+32 Forest
+1 Treetop Village
+1 Ambush Viper
+1 Ankle Biter
+1 Axebane Ferox
+1 Blooming Stinger
+1 Deathbloom Gardener
+1 Defiler of Vigor
+1 Dragon Sniper
+1 Elvish Herder
+1 Fang of Shigeki
+1 Flesh Burrower
+1 Frenzied Baloth
+1 Frog Butler
+1 Gnarlwood Dryad
+1 God-Eternal Rhonas
+1 Gran Pulse Ochu
+1 Heir of the Wilds
+1 Hornet Queen
+1 Ichorspit Basilisk
+1 Moss Viper
+1 Mwonvuli Beast Tracker
+1 Narnam Renegade
+1 Nightshade Dryad
+1 Noxious Newt
+1 Nylea, God of the Hunt
+1 Oakhame Adversary
+1 Ohran Frostfang
+1 Poison Dart Frog
+1 Questing Beast
+1 Rhonas the Indomitable
+1 Sedge Scorpion
+1 Shinen of Life's Roar
+1 Skullwinder
+1 Tajuru Blightblade
+1 Taunting Elf
+1 Thornweald Archer
+1 Toski, Bearer of Secrets
+1 Venerated Rotpriest
+1 Virulent Emissary
+1 Wasteland Viper
+1 Archdruid's Charm
+1 Biosynthic Burst
+1 Bite Down
+1 Defend the Rider
+1 Gaea's Gift
+1 Heroic Intervention
+1 Infectious Bite
+1 Master's Rebuke
+1 Origin of Metalbending
+1 Overprotect
+1 Snakeskin Veil
+1 Tamiyo's Safekeeping
+1 Bow of Nylea
+1 Shadowspear
+1 Swiftfoot Boots
+1 Cultivate
+1 Ezuri's Predation
+1 Hard-Hitting Question
+1 Harmonize
+1 Family's Favor
+1 Guardian Project
+1 Hunter's Talent
+1 Lure
+1 Sphere Grid
+1 Nissa, Ascended Animist
+1 Vivien, Champion of the Wilds
