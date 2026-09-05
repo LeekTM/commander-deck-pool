@@ -292,6 +292,23 @@ ul.issue-list li { margin-bottom: 0.15rem; }
 
 .deck-cardlist div { break-inside: avoid; }
 
+/* Keep a whole type group in one column rather than splitting its heading
+   away from its cards. */
+.card-group {
+  break-inside: avoid;
+  margin-bottom: 0.85rem;
+}
+
+.card-group h4 {
+  margin: 0 0 0.25rem;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-dim);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.2rem;
+}
+
 footer.site {
   text-align: center;
   color: var(--text-dim);
