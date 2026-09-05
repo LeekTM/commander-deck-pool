@@ -1,0 +1,89 @@
+// name: Dyfed, the Guiding Hand (Bracket 3)
+// source: community
+// tags: artifacts, proliferate, planewalkers
+// bracket: 3
+
+Commander
+1 Dyfed, the Guiding Hand
+
+Deck
+
+
+1 Academy Ruins
+1 Ancient Tomb
+1 Boseiju, Who Shelters All
+1 Buried Ruin
+1 Darksteel Citadel
+1 Hall of Tagsin
+1 Inkmoth Nexus
+22 Island
+1 Otawara, Soaring City
+1 Scene of the Crime
+1 Seat of the Synod
+1 Treasure Vault
+1 Urza's Saga
+1 Uthros, Titanic Godcore
+1 Arc Reactor
+1 Arcane Signet
+1 Contagion Clasp
+1 Contagion Engine
+1 Fellwar Stone
+1 Mind Stone
+1 Nettlecyst
+1 Portal to Phyrexia
+1 Powerstone Shard
+1 Sceptre of Eternal Glory
+1 Sculpting Steel
+1 Simulacrum Synthesizer
+1 Sky Diamond
+1 Sol Ring
+1 Staff of Compleation
+1 The Mightstone and Weakstone
+1 The One Ring
+1 Thran Dynamo
+1 Throne of Geth
+1 Worn Powerstone
+1 Cityscape Leveler
+1 Cyberdrive Awakener
+1 Dreamtide Whale
+1 Emry, Lurker of the Loch
+1 Flux Channeler
+1 Glacian, Powerstone Engineer
+1 Junk Winder
+1 Kappa Cannoneer
+1 Karn, Legacy Reforged
+1 Krang, Master Mind
+1 Kuldotha Forgemaster
+1 Panther Robot
+1 Phyrexian Metamorph
+1 Scrapyard Recombiner
+1 Shuri, Wakandan Inventor
+1 Sojourner's Companion
+1 Spellseeker
+1 Surge Conductor
+1 Thought Monitor
+1 Thran Spider
+1 Urza, Lord High Artificer
+1 Urza, Powerstone Prodigy
+1 Vedalken Archmage
+1 Counterspell
+1 Masterful Replication
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Prologue to Phyresis
+1 Ripples of Potential
+1 Sink into Stupor
+1 Whir of Invention
+1 Inexorable Tide
+1 Karn, Living Legacy
+1 Karn, Scion of Urza
+1 Tezzeret, Artifice Master
+1 Tezzeret, Betrayer of Flesh
+1 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+1 Merchant Scroll
+1 Rise and Shine
+1 Solve the Equation
+1 Splitting the Powerstone
+1 Tezzeret's Gambit
+1 Thoughtcast
