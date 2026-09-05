@@ -1,0 +1,99 @@
+// name: Sythis, Harvest's Hand (Bracket 3)
+// source: community
+// tags: pillow-fort, enchantments
+// bracket: 3
+
+Commander
+1 Sythis, Harvest's Hand
+
+Deck
+
+1 A Realm Reborn
+1 Abundance
+1 All That Glitters
+1 Ancestral Mask
+1 Aura of Silence
+1 Authority of the Consuls
+1 Bear Umbra
+1 Blind Obedience
+1 Burgeoning
+1 Buried in the Garden
+1 Darksteel Mutation
+1 Enchantress's Presence
+1 Ethereal Armor
+1 Ghostly Prison
+1 Gleaming Splendor
+1 Gossamer Chains
+1 Grasp of Fate
+1 Greater Auramancy
+1 Hum of the Radix
+1 Kenrith's Transformation
+1 Land Tax
+1 Lignify
+1 Mirari's Wake
+1 Overwhelming Splendor
+1 Privileged Position
+1 Rest in Peace
+1 Shield of the Oversoul
+1 Sigil of the Empty Throne
+1 Smothering Tithe
+1 Solemnity
+1 Solitary Confinement
+1 Song of the Dryads
+1 Sphere of Safety
+1 Starfield of Nyx
+1 Sterling Grove
+1 Stony Silence
+1 Test of Endurance
+1 Titania's Song
+1 Adagia, Windswept Bastion
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+5 Forest
+1 Hall of Heliod's Generosity
+1 Hushwood Verge
+1 Ishgard, the Holy See
+1 Lush Portico
+1 Overgrown Farmland
+7 Plains
+1 Prismatic Vista
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sunpetal Grove
+1 Temple Garden
+1 Tower of the Magistrate
+1 Urza's Saga
+1 Valgavoth's Lair
+1 Wasteland
+1 Windswept Heath
+1 Aegis of the Gods
+1 Argothian Enchantress
+1 Calix, Guided by Fate
+1 Destiny Spinner
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Herald of the Pantheon
+1 Jukai Naturalist
+1 Mesa Enchantress
+1 Sanctum Weaver
+1 Setessan Champion
+1 Summon: Yojimbo
+1 Yenna, Redtooth Regent
+1 Yuna, Hope of Spira
+1 Approach of the Second Sun
+1 Austere Command
+1 Farewell
+1 Idyllic Tutor
+1 Open the Vaults
+1 Bilbo's Gambit
+1 Dawn's Truce
+1 Enlightened Tutor
+1 Generous Gift
+1 Heroic Intervention
+1 Swords to Plowshares
+1 Helm of the Gods
+1 Sol Ring
