@@ -1,6 +1,6 @@
 // name: Ellie, Brick Master + Joel, Resolute Survivor (Bracket 3)
 // source: community
-// tags: aristocrats, tokens, group-hug
+// tags: aristocrats, tokens, group-hug, partners
 // bracket: 3
 
 Commander
