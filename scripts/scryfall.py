@@ -53,19 +53,42 @@ class CardInfo:
     keywords: tuple[str, ...] = ()
 
 
+# Scryfall occasionally rate-limits or 5xxs under load. Without a retry a
+# single blip aborts the whole pool rebuild, so a transient failure is worth
+# a few backed-off attempts. 404 is deliberately not retried -- it is how
+# search pagination signals "no more pages".
+_RETRY_STATUSES = {429, 500, 502, 503, 504}
+_MAX_ATTEMPTS = 4
+
+
 def _request_json(url: str, data: bytes | None = None) -> dict:
-    req = urllib.request.Request(
-        url,
-        data=data,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "application/json",
-            "Content-Type": "application/json",
-        },
-        method="POST" if data is not None else "GET",
-    )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    last_error: Exception | None = None
+
+    for attempt in range(_MAX_ATTEMPTS):
+        req = urllib.request.Request(
+            url,
+            data=data,
+            headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "application/json",
+                "Content-Type": "application/json",
+            },
+            method="POST" if data is not None else "GET",
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            if e.code not in _RETRY_STATUSES:
+                raise
+            last_error = e
+        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
+            last_error = e
+
+        if attempt < _MAX_ATTEMPTS - 1:
+            time.sleep(REQUEST_DELAY_SECONDS * (2 ** attempt))
+
+    raise last_error  # type: ignore[misc]
 
 
 def fetch_game_changers() -> set[str]:
@@ -162,6 +185,16 @@ def lookup_cards(names: list[str], game_changers: set[str] | None = None) -> tup
         for miss in result.get("not_found", []):
             queried = miss.get("name", "?")
             not_found.append(original_by_query.get(queried.lower(), queried))
+
+        # Scryfall should account for every identifier in either data or
+        # not_found. When a response comes back short it does neither, and the
+        # name then exists in no map at all -- callers indexing by_name[...]
+        # blow up with a KeyError far from the cause. Treat anything
+        # unaccounted for as not found, which callers already handle.
+        for n in batch:
+            if n.lower() not in by_name and n not in not_found:
+                not_found.append(n)
+
         if i + COLLECTION_BATCH_SIZE < len(unique_names):
             time.sleep(REQUEST_DELAY_SECONDS)
 

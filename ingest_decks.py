@@ -69,12 +69,18 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
 
     # Flagged, not blocked -- the group can playtest cards not (yet, or no
     # longer) legal in Commander. Deliberately not a rejection.
+    # by_name is guaranteed complete by the not_found return above; these
+    # membership checks are belt and braces so a gap can never take down the
+    # rebuild for every other deck too.
     banned = [n for n in unique_names
-              if not is_basic_land(n) and not by_name[n.lower()].legal_commander]
+              if not is_basic_land(n) and n.lower() in by_name
+              and not by_name[n.lower()].legal_commander]
     if banned:
         warnings.append(f"card(s) not legal in Commander (flagged, not blocked): {', '.join(sorted(set(banned)))}")
 
-    illegal_commanders = [c for c in commanders if not is_legal_commander_card(by_name[c.lower()])]
+    illegal_commanders = [c for c in commanders
+                          if c.lower() in by_name
+                          and not is_legal_commander_card(by_name[c.lower()])]
     if illegal_commanders:
         warnings.append(
             f"REJECTED: not a legal commander (not a legendary creature, no commander text): "
@@ -84,7 +90,9 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
 
     commander_identity: set[str] = set()
     for c in commanders:
-        commander_identity |= set(by_name[c.lower()].color_identity)
+        info = by_name.get(c.lower())
+        if info is not None:
+            commander_identity |= set(info.color_identity)
 
     # Rulebreaker commanders each grant their own exemption from colour
     # identity, written in prose per card, so skip the check rather than parse
@@ -92,6 +100,7 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
     rulebreaker = any(
         "rulebreaker" in {k.lower() for k in (by_name[c.lower()].keywords or ())}
         for c in commanders
+        if c.lower() in by_name
     )
 
     if rulebreaker:
@@ -101,7 +110,8 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
     else:
         out_of_identity = [
             n for n in unique_names
-            if not set(by_name[n.lower()].color_identity).issubset(commander_identity)
+            if n.lower() in by_name
+            and not set(by_name[n.lower()].color_identity).issubset(commander_identity)
         ]
         if out_of_identity:
             warnings.append(
@@ -115,8 +125,10 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
     gc_count = 0
     cards_out = []
     for card_name, qty in sorted(quantities.items()):
-        info = by_name[card_name.lower()]
+        info = by_name.get(card_name.lower())
         cards_out.append({"n": card_name, "q": qty})
+        if info is None:
+            continue
         all_colors |= set(info.color_identity)
         if not is_basic_land(card_name):
             price_usd += (info.price_usd or 0.0) * qty

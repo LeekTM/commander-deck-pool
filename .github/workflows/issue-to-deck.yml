@@ -4,7 +4,7 @@ name: Convert deck submission issue to file
 # Validates first (scripts/issue_to_deck.py -> scripts/validate_deck.py); an
 # invalid submission gets a comment explaining why and a "needs-changes"
 # label, and no file is written. A valid one is committed straight to main,
-# which build-db.yml then picks up to rebuild deck_db.json.
+# together with the rebuilt database.
 on:
   issues:
     types: [opened]
@@ -47,45 +47,105 @@ jobs:
           echo "exit_code=$?" >> "$GITHUB_OUTPUT"
           cat result.json
 
-      - name: Comment and commit on success
+      - name: Commit the deck and rebuild the database
+        if: steps.convert.outputs.exit_code == '0'
+        run: |
+          set -euo pipefail
+
+          DECK_PATH="$(python -c "import json; print(json.load(open('result.json'))['path'])")"
+          cp "$DECK_PATH" /tmp/new-deck.txt
+
+          git config user.name "deck-pool-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          # Rebuild deck_db.json here rather than leaving it to build-db.yml.
+          # A push made with the default GITHUB_TOKEN does not trigger other
+          # workflows (GitHub's guard against recursive runs), so build-db.yml
+          # never fires for this commit -- the deck file would land in decks/
+          # and the database would silently stay stale.
+          #
+          # Two submissions made within a couple of minutes of each other both
+          # check out the same commit, both spend ~90s in ingest, and then race
+          # to push. The loser used to die on "! [rejected] (fetch first)",
+          # having already commented that the deck was added. Rebuild against
+          # whatever is on main now, and try again.
+          pushed=0
+          for attempt in 1 2 3 4 5; do
+            python ingest_decks.py decks/ --out deck_db.json
+            cp deck_db.json docs/deck_db.json
+
+            git add decks/ deck_db.json docs/deck_db.json
+            git commit -m "Add deck from issue #$ISSUE_NUMBER" || true
+
+            if git push; then
+              pushed=1
+              break
+            fi
+
+            echo "Push rejected on attempt $attempt -- another run got there first. Resyncing."
+            git fetch origin main
+            git reset --hard origin/main
+
+            # The reset took our deck file with it. If another deck claimed the
+            # same slug while we were building, fall back to the issue-numbered
+            # name, matching unique_path() in issue_to_deck.py.
+            if [ -e "$DECK_PATH" ]; then
+              DECK_PATH="${DECK_PATH%.txt}-$ISSUE_NUMBER.txt"
+            fi
+            cp /tmp/new-deck.txt "$DECK_PATH"
+
+            sleep $(( (RANDOM % 15) + 5 ))
+          done
+
+          if [ "$pushed" -ne 1 ]; then
+            echo "Could not push after 5 attempts."
+            exit 1
+          fi
+
+      # Runs only once the push has actually landed, so a lost race can no
+      # longer leave an issue claiming the deck was added when it wasn't.
+      - name: Comment and close the issue
         if: steps.convert.outputs.exit_code == '0'
         run: |
           python - <<'PYEOF'
           import json
           r = json.load(open("result.json"))
           lines = [
-              f"✅ Added **{r['name']}** to the pool.",
+              f"Added **{r['name']}** to the pool.",
               "",
               f"- Commander(s): {', '.join(r['commanders'])}",
               f"- Cards: {r['total_cards']}",
               f"- Colours: {r['colors'] or 'Colourless'}",
               f"- Game Changers: {r['gc']}",
               f"- Bracket: {r['bracket']}" + (" (your override)" if r["bracket_overridden"] else " (computed)"),
-              f"- Price: €{r['price_eur']} / ${r['price_usd']}",
+              f"- Price: EUR {r['price_eur']} / USD {r['price_usd']}",
           ]
           if r["warnings"]:
               lines += ["", "Warnings:"] + [f"- {w}" for w in r["warnings"]]
           with open("comment.md", "w", encoding="utf-8") as f:
-              f.write("\n".join(lines))
+              for line in lines:
+                  print(line, file=f)
           PYEOF
           gh issue comment "$ISSUE_NUMBER" --body-file comment.md
-
-          # Rebuild deck_db.json right here rather than leaving it to
-          # build-db.yml. A push made with the default GITHUB_TOKEN does not
-          # trigger other workflows (GitHub's guard against recursive runs),
-          # so build-db.yml never fires for this commit -- the deck file
-          # would land in decks/ and the database would silently stay stale.
-          # Committing both together also keeps decks/ and deck_db.json
-          # consistent in a single commit.
-          python ingest_decks.py decks/ --out deck_db.json
-          cp deck_db.json docs/deck_db.json
-
-          git config user.name "deck-pool-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add decks/ deck_db.json docs/deck_db.json
-          git commit -m "Add deck from issue #$ISSUE_NUMBER"
-          git push
           gh issue close "$ISSUE_NUMBER" --reason completed
+
+      - name: Say so if a valid deck could not be committed
+        if: failure() && steps.convert.outputs.exit_code == '0'
+        run: |
+          python - <<'PYEOF'
+          lines = [
+              "This deck is valid, but it could not be committed: another "
+              "submission was being processed at the same time and the retries "
+              "ran out.",
+              "",
+              "Nothing is wrong with the deck itself. Submit it again and it "
+              "should go straight through.",
+          ]
+          with open("comment.md", "w", encoding="utf-8") as f:
+              for line in lines:
+                  print(line, file=f)
+          PYEOF
+          gh issue comment "$ISSUE_NUMBER" --body-file comment.md
 
       - name: Comment on failure
         if: steps.convert.outputs.exit_code != '0'
@@ -93,7 +153,7 @@ jobs:
           python - <<'PYEOF'
           import json
           r = json.load(open("result.json"))
-          lines = ["❌ This submission couldn't be added:", ""]
+          lines = ["This submission couldn't be added:", ""]
           lines += [f"- {e}" for e in r["errors"]]
           if r.get("warnings"):
               lines += ["", "Warnings:"] + [f"- {w}" for w in r["warnings"]]
@@ -103,7 +163,8 @@ jobs:
               "submission page, which checks all of this before you submit.",
           ]
           with open("comment.md", "w", encoding="utf-8") as f:
-              f.write("\n".join(lines))
+              for line in lines:
+                  print(line, file=f)
           PYEOF
           gh label create "needs-changes" --color FBCA04 --force
           gh issue comment "$ISSUE_NUMBER" --body-file comment.md
