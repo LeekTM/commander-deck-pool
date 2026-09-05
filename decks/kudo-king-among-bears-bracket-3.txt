@@ -1,0 +1,102 @@
+// name: Kudo, King Among Bears (Bracket 3)
+// source: community
+// tags: +1/+1, aggro, tokens
+// bracket: 3
+
+Commander
+1 Kudo, King Among Bears
+
+Deck
+
+1 Abzan Falconer
+1 Adeline, Resplendent Cathar
+1 Arwen, Weaver of Hope
+1 Ayula, Queen Among Bears
+1 Beast Whisperer
+1 Cadira, Caller of the Small
+1 Champion of Lambholt
+1 Charismatic Conqueror
+1 Elesh Norn, Grand Cenobite
+1 Enduring Innocence
+1 Enduring Vitality
+1 Esper Sentinel
+1 Finneas, Ace Archer
+1 Jacked Rabbit
+1 Kami of Whispered Hopes
+1 King Darien XLVIII
+1 Kodama of the West Tree
+1 Kutzil, Malamet Exemplar
+1 Legolas Greenleaf
+1 Mondrak, Glory Dominus
+1 Nesting Dovehawk
+1 Ocelot Pride
+1 Ohran Frostfang
+1 Precinct Captain
+1 Reluctant Role Model
+1 Roaming Throne
+1 Shalai, Voice of Plenty
+1 Sovereign Okinec Ahau
+1 Thalia, Heretic Cathar
+1 Torens, Fist of the Angels
+1 Toski, Bearer of Secrets
+1 Ultramarines Honour Guard
+1 Akroma's Will
+1 Arachnogenesis
+1 Inspiring Call
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Arcane Signet
+1 Patchwork Banner
+1 Sol Ring
+1 Spear of Heliod
+1 The Ozolith
+1 Arctic Treeline
+1 Bountiful Promenade
+1 Brushland
+1 Canopy Vista
+1 Cavern of Souls
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+1 Field of the Dead
+5 Forest
+1 Krosan Verge
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Overgrown Farmland
+1 Path of Ancestry
+4 Plains
+1 Reflecting Pool
+1 Reliquary Tower
+1 Selesnya Sanctuary
+1 Sunpetal Grove
+1 Temple Garden
+1 Temple of Plenty
+1 Thriving Grove
+1 Unclaimed Territory
+1 Windbrisk Heights
+1 Windswept Heath
+1 Wooded Bastion
+1 Wooded Foothills
+1 Awakening Zone
+1 Battle of Hoover Dam
+1 Branching Evolution
+1 Caretaker's Talent
+1 Court of Garenbrig
+1 Cryptolith Rite
+1 Dazzling Theater // Prop Room
+1 Doubling Season
+1 Felidar Retreat
+1 Flowering of the White Tree
+1 Garruk's Uprising
+1 Innkeeper's Talent
+1 Mirari's Wake
+1 Paladin Class
+1 Reverence
+1 Unnatural Growth
+1 Fangs of Kalonia
+1 Martial Coup
+1 Nature's Lore
+1 Overwhelming Stampede
+1 Rampant Growth
+1 Three Visits
