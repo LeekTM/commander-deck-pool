@@ -1,0 +1,106 @@
+// name: Peter Parker (Bracket 3)
+// source: community
+// tags: tokens, legendary, bounce
+// bracket: 3
+
+Commander
+1 Peter Parker
+
+Deck
+
+1 Absolute Virtue
+1 Adrix and Nev, Twincasters
+1 Aragorn and Arwen, Wed
+1 Avacyn's Pilgrim
+1 Bard, King of Dale
+1 Birds of Paradise
+1 Bloom Tender
+1 Citanul Stalwart
+1 Consecrated Sphinx
+1 Delighted Halfling
+1 Dour Port-Mage
+1 Elvish Mystic
+1 Exalted Sunborn
+1 Fyndhorn Elves
+1 Gene Pollinator
+1 Ghalta and Mavren
+1 Imoti, Celebrant of Bounty
+1 Isperia, Supreme Judge
+1 Jaspera Sentinel
+1 Jennifer Walters
+1 King T'Challa
+1 Kodama of the East Tree
+1 Laboratory Maniac
+1 Llanowar Elves
+1 Loam Dryad
+1 Lucy MacLean, Positively Armed
+1 Mother of Runes
+1 Myojin of Blooming Dawn
+1 Myojin of Seeing Winds
+1 Myojin of Towering Might
+1 Noble Hierarch
+1 Reed Richards, Smartest Man
+1 Rhys the Redeemed
+1 Saruli Caretaker
+1 Sigarda, Font of Blessings
+1 Spider-Man, Miles Morales
+1 Springheart Nantuko
+1 Tamiyo, Inquisitive Student
+1 The Notary Hobbits
+1 The Sixth Doctor
+1 The Unagi of Kyoshi Island
+1 The Wandering Rescuer
+1 Witch Enchanter
+1 Abundant Countryside
+1 Adagia, Windswept Bastion
+1 Breeding Pool
+1 Canopy Vista
+1 Command Tower
+1 Dreamroot Cascade
+1 Elven Passage
+2 Forest
+1 Fountainport
+1 Glacial Fortress
+1 Great Hall of the Citadel
+1 Hallowed Fountain
+1 Hedge Maze
+1 Holdout Settlement
+2 Island
+1 Meticulous Archive
+1 Misty Rainforest
+1 Multiversal Passage
+1 Nimbus Maze
+1 Overgrown Farmland
+2 Plains
+1 Plaza of Heroes
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Shifting Woodland
+1 Sunpetal Grove
+1 Survivors' Encampment
+1 Swarmyard
+1 Temple Garden
+1 Urban Retreat
+1 Willowrush Verge
+1 Windswept Heath
+1 Awaken the Woods
+1 Bridgeworks Battle
+1 For the Common Good
+1 Shamanic Revelation
+1 Clever Concealment
+1 Flawless Maneuver
+1 Heroic Intervention
+1 Moogles' Valor
+1 Moonmist
+1 Path to Exile
+1 Second Harvest
+1 Three Steps Ahead
+1 Doubling Season
+1 Kinbinding
+1 Strength of the Harvest
+1 Teferi's Ageless Insight
+1 Paradise Mantle
+1 Relic of Legends
+1 Springleaf Drum
+1 The Temporal Anchor
+1 Voyager Glidecar
