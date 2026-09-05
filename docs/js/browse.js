@@ -159,6 +159,14 @@ async function loadDeckDb() {
   throw new Error("Could not load deck_db.json from docs/ or the repo root.");
 }
 
+// A partner pair's name is long enough to push the pills onto a second line,
+// which reads as broken layout. Break it where the two commanders join so the
+// name stacks instead. Escaping runs first, so this only ever splits on the
+// literal " + " the deck name was built with.
+function deckNameHtml(name) {
+  return escapeHtml(name).split(" + ").join("<br>");
+}
+
 function colorPills(colors) {
   if (!colors) return '<span class="pill">Colourless</span>';
   return [...colors]
@@ -207,7 +215,7 @@ function renderDecks(decks) {
     return `
       <details class="deck-row" data-i="${i}" data-grouped="${grouped ? "1" : "0"}">
         <summary>
-          <span class="name">${escapeHtml(deck.name)}</span>
+          <span class="name">${deckNameHtml(deck.name)}</span>
           ${colorPills(deck.colors)}
           <span class="pill">Bracket ${deck.bracket}</span>
           <span class="pill">GC ${deck.gc}</span>
