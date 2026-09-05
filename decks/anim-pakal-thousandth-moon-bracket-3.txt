@@ -1,0 +1,94 @@
+// name: Anim Pakal, Thousandth Moon (Bracket 3)
+// source: community
+// tags: equipment, +1/+1, voltron, historic, extra-combats, artifacts
+// bracket: 3
+
+Commander
+1 Anim Pakal, Thousandth Moon
+
+Deck
+
+1 Agitator Ant
+1 Arabella, Abandoned Doll
+1 Aurelia, the Warleader
+1 Aya of Alexandria
+1 Belladonna Took
+1 Bloodthirster
+1 Cyberman Patrol
+1 Goldnight Commander
+1 Illustrious Wanderglyph
+1 Ingenious Artillerist
+1 Karlach, Fury of Avernus
+1 Kirol, Attentive First-Year
+1 Lae'zel, Vlaakith's Champion
+1 Losheel, Clockwork Scholar
+1 Mentor of the Meek
+1 Mighty Mutanimals
+1 Mondrak, Glory Dominus
+1 Neyali, Suns' Vanguard
+1 Ojer Taq, Deepest Foundation
+1 Puresteel Paladin
+1 Purphoros, God of the Forge
+1 Reckless Fireweaver
+1 Rosie Cotton of South Lane
+1 Akroma's Will
+1 Boros Charm
+1 Chaos Warp
+1 Dispatch
+1 Enlightened Tutor
+1 Flawless Maneuver
+1 Generous Gift
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Wear // Tear
+1 Amulet of Vigor
+1 Arcane Signet
+1 Boros Signet
+1 Fellwar Stone
+1 Ring of Valkas
+1 Sol Ring
+1 Star Compass
+1 Strionic Resonator
+1 Sword of Body and Mind
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Forge and Frontier
+1 Sword of Light and Shadow
+1 Sword of Sinew and Steel
+1 Sword of Truth and Justice
+1 Sword of War and Peace
+1 Talisman of Conviction
+1 Tarrian's Soulcleaver
+1 Thought Vessel
+1 Thousand Moons Smithy
+1 Angelfire Ignition
+1 Austere Command
+1 Blasphemous Act
+1 Collective Effort
+1 Idyllic Tutor
+1 Seize the Day
+1 Vandalblast
+1 Castle Embereth
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+1 Forge of Heroes
+1 Karn's Bastion
+1 Minas Tirith
+8 Mountain
+1 Needleverge Pathway
+1 Opal Palace
+9 Plains
+1 Reliquary Tower
+1 Restless Bivouac
+1 Rogue's Passage
+1 Rugged Prairie
+1 Sacred Foundry
+1 Slayers' Stronghold
+1 Spectator Seating
+1 Sundown Pass
+1 Sunhome, Fortress of the Legion
+1 Cathars' Crusade
+1 Impact Tremors
+1 Noble Heritage
+1 Warleader's Call
