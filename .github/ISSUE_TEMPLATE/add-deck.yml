@@ -3,12 +3,6 @@ description: Add a decklist to the shared pool
 title: "[Deck] "
 labels: ["deck-submission"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        There's no name field -- the deck's name in the pool is generated
-        automatically as "<Commander> (Bracket N)".
-
   - type: textarea
     id: decklist
     attributes:

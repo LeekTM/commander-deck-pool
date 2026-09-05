@@ -140,9 +140,11 @@ function renderResults(result) {
   updateSubmitEnabled();
 }
 
-// A banned-card flag needs an explicit bypass checkbox checked, on top of
-// having no blocking errors, before Submit enables -- everything else that's
-// merely a warning (card count, duplicate commander, etc.) doesn't need that.
+// Three things must all be true before Submit enables: no blocking errors,
+// a banned-card flag (if any) explicitly bypassed via its checkbox, and the
+// Bracket dropdown moved off "Calculate" onto the number Validate reported
+// -- everything else that's merely a warning (card count, duplicate
+// commander, etc.) doesn't gate it.
 function updateSubmitEnabled() {
   const btnSubmit = document.getElementById("btn-submit");
   if (!lastResult) {
@@ -151,7 +153,8 @@ function updateSubmitEnabled() {
   }
   const bypassCheckbox = document.getElementById("bypass-banned");
   const bannedOk = lastResult.bannedCards.length === 0 || (bypassCheckbox && bypassCheckbox.checked);
-  btnSubmit.disabled = lastResult.errors.length > 0 || !bannedOk;
+  const bracketChosen = document.getElementById("bracket").value !== "";
+  btnSubmit.disabled = lastResult.errors.length > 0 || !bannedOk || !bracketChosen;
 }
 
 function escapeHtml(s) {
@@ -267,6 +270,7 @@ function onSubmit() {
 
 document.getElementById("btn-validate").addEventListener("click", onValidate);
 document.getElementById("btn-submit").addEventListener("click", onSubmit);
+document.getElementById("bracket").addEventListener("change", updateSubmitEnabled);
 document.getElementById("tag-add-btn").addEventListener("click", addNewTag);
 document.getElementById("tag-new-input").addEventListener("keydown", (e) => {
   if (e.key === "Enter") {
