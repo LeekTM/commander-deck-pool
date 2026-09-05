@@ -1,0 +1,95 @@
+// name: The Everforger (Bracket 3)
+// source: community
+// tags: artifacts, equipment, midrange
+// bracket: 3
+
+Commander
+1 The Everforger
+
+Deck
+
+
+1 Assimilation Aegis
+1 Biorganic Carapace
+1 Bladehold War-Whip
+1 Celestial Armor
+1 Chromatic Lantern
+1 Citizen's Crowbar
+1 Coalition Relic
+1 Conqueror's Flail
+1 Cranial Ram
+1 Disruptor Flute
+1 Fellwar Stone
+1 Glimmer Lens
+1 Hexplate Wallbreaker
+1 Machinist's Arsenal
+1 Mana Vault
+1 Masterwork of Ingenuity
+1 Mystic Forge
+1 Nettlecyst
+1 Panharmonicon
+1 Pre-War Formalwear
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Springleaf Drum
+1 Sword of Hearth and Home
+1 Swordsman's Steel
+1 The One Ring
+1 Twinning Staff
+1 Baleful Strix
+1 Bronze Guardian
+1 Cityscape Leveler
+1 Cyberdrive Awakener
+1 Cybermen Squadron
+1 Duplicant
+1 Enthusiastic Mechanaut
+1 Esper Sentinel
+1 Etherium Sculptor
+1 Foundry Inspector
+1 Haywire Mite
+1 Iron Man, Bleeding Edge
+1 Jhoira's Familiar
+1 Kappa Cannoneer
+1 Kuldotha Forgemaster
+1 Liberator, Urza's Battlethopter
+1 Lion Sash
+1 Lizard Blades
+1 Master of Etherium
+1 Mendicant Core, Guidelight
+1 Myr Battlesphere
+1 Myr Retriever
+1 Noxious Gearhulk
+1 Ornithopter of Paradise
+1 Phyrexian Metamorph
+1 Research Thief
+1 Scrap Trawler
+1 Shimmer Myr
+1 Skitterbeam Battalion
+1 Solemn Simulacrum
+1 Soul of New Phyrexia
+1 Spellskite
+1 Steel Hellkite
+1 Thought Monitor
+1 Threefold Thunderhulk
+1 Voyager Quickwelder
+1 Buried Ruin
+1 Castle Doom
+1 City of Brass
+1 Command Beacon
+1 Exotic Orchard
+1 Fabled Passage
+1 Forbidden Orchard
+1 Gemstone Mine
+1 Glimmervoid
+1 Inventors' Fair
+6 Island
+1 Mana Confluence
+4 Mountain
+6 Plains
+1 Plaza of Heroes
+1 Power Depot
+1 Reflecting Pool
+1 Spire of Industry
+3 Swamp
+1 The Mycosynth Gardens
+1 Treasure Vault
