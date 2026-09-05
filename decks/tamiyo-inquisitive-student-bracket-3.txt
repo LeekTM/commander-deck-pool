@@ -1,6 +1,6 @@
 // name: Tamiyo, Inquisitive Student (Bracket 3)
 // source: community
-// tags: combo, control, spellslinger
+// tags: combo, control, spellslinger, card-draw
 // bracket: 3
 
 Commander
