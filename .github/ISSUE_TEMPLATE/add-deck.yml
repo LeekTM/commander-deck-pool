@@ -58,7 +58,7 @@ body:
         - "5"
       default: 0
     validations:
-      required: true
+      required: false
 
   - type: checkboxes
     id: confirmation
