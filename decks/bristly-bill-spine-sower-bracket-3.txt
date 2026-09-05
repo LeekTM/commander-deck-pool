@@ -1,0 +1,94 @@
+// name: Bristly Bill, Spine Sower (Bracket 3)
+// source: community
+// tags: ramp, lands-matter, +1/+1
+// bracket: 3
+
+Commander
+1 Bristly Bill, Spine Sower
+
+Deck
+
+1 Ancient Greenwarden
+1 Augur of Autumn
+1 Azusa, Lost but Seeking
+1 Badgermole Cub
+1 Bloomvine Regent
+1 Defiler of Vigor
+1 Evolution Sage
+1 Gyre Sage
+1 Horizon Explorer
+1 Icetill Explorer
+1 Insidious Fungus
+1 Kami of Whispered Hopes
+1 Leatherhead, Swamp Stalker
+1 Loot, Exuberant Explorer
+1 Lotus Cobra
+1 Lumra, Bellow of the Woods
+1 Marketback Walker
+1 Meltstrider Eulogist
+1 Michelangelo, Weirdness to 11
+1 Mossborn Hydra
+1 Mutagen Man, Living Ooze
+1 Ouroboroid
+1 Radagast of Rhosgobel
+1 Ramunap Excavator
+1 Sazh's Chocobo
+1 Sowing Mycospawn
+1 Spike Weaver
+1 Springheart Nantuko
+1 Steelbane Hydra
+1 Summon: Fenrir
+1 The Earth King
+1 Tireless Provisioner
+1 Titania, Voice of Gaea
+1 Traveling Chocobo
+1 Archdruid's Charm
+1 Collective Resistance
+1 Crop Rotation
+1 Entish Restoration
+1 Heroic Intervention
+1 Inspiring Call
+1 Lifestream's Blessing
+1 Smuggler's Surprise
+1 Worldly Tutor
+1 Argoth, Sanctum of Nature
+1 Arid Archway
+1 Ba Sing Se
+1 Boseiju, Who Endures
+1 Brokers Hideout
+1 Cabaretti Courtyard
+1 Demolition Field
+1 Echoing Deeps
+1 Escape Tunnel
+1 Evendo, Waking Haven
+1 Evolving Wilds
+1 Fabled Passage
+16 Forest
+1 Ghost Town
+1 Mosswort Bridge
+1 Nesting Grounds
+1 Nykthos, Shrine to Nyx
+1 Prismatic Vista
+1 Riveteers Overlook
+1 Rogue's Passage
+1 Shifting Woodland
+1 Terrain Generator
+1 Terramorphic Expanse
+1 Urza's Cave
+1 Yavimaya, Cradle of Growth
+1 Bow of Nylea
+1 The Earth Crystal
+1 The Ooze
+1 Bushwhack
+1 Dryad's Revival
+1 Selective Obliteration
+1 Traverse the Outlands
+1 Case of the Locked Hothouse
+1 Colossal Majesty
+1 Earthbender Ascension
+1 Guardian Project
+1 Innkeeper's Talent
+1 Sphere Grid
+1 Terrasymbiosis
+1 Tribute to the World Tree
+1 Nissa, Ascended Animist
