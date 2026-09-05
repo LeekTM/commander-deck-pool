@@ -1,0 +1,91 @@
+// name: Grub, Storied Matriarch (Bracket 3)
+// source: community
+// tags: +1/+1, -1/-1, tribal, reanimater
+// bracket: 3
+
+Commander
+1 Grub, Storied Matriarch
+
+Deck
+
+1 Along the Crooked Way
+1 Goblin Bombardment
+1 Impact Tremors
+1 Phyrexian Arena
+1 Sneak Attack
+1 Ancient Tomb
+1 Barad-dûr
+1 Blood Crypt
+1 Bojuka Bog
+1 Command Tower
+1 Dragonskull Summit
+1 Goblin-town
+1 Horizon of Progress
+1 Mount Doom
+10 Mountain
+1 Rakdos Carnarium
+1 Raucous Theater
+1 Smoldering Marsh
+1 Sulfurous Springs
+10 Swamp
+1 The Black Gate
+1 Anger
+1 Azog, Moria's Ruin
+1 Boggart Cursecrafter
+1 Boggart Trawler
+1 Bolg's Company
+1 Bolg, Erebor's Reckoning
+1 Bothersome Noisemaker
+1 Eclipsed Boggart
+1 Fearsome Goblin Pair
+1 Goblin Chieftain
+1 Goblin Engineer
+1 Goblin Matron
+1 Goblin Warchief
+1 Goblin-town Flunkies
+1 Gollum, Riddle Master
+1 Great Goblin, Foul-Hearted
+1 Great Ugly-Looking Goblin
+1 Hexing Squelcher
+1 Kiki-Jiki, Mirror Breaker
+1 Krenko, Mob Boss
+1 Mirkwood Bats
+1 Orcish Bowmasters
+1 Siege-Gang Commander
+1 Smaug the Impenetrable
+1 Stony-Voiced Goblins
+1 Taster of Wares
+1 The Great Goblin
+1 Troop of Ponies
+1 Village Pillagers
+1 Warren Soultrader
+1 Arcane Signet
+1 Cursed Mirror
+1 Hazoret's Monument
+1 My Precious
+1 Orcrist, Goblin-cleaver
+1 Sol Ring
+1 Tablet of Discovery
+1 Vanquisher's Banner
+1 Wayfarer's Bauble
+1 Bloodline Bidding
+1 Diabolic Intent
+1 Dread Return
+1 Faithless Looting
+1 Grub's Command
+1 Mutinous Massacre
+1 Read the Bones
+1 Reanimate
+1 Toxic Deluge
+1 Dark Ritual
+1 Defile
+1 Entomb
+1 Fell the Profane
+1 Kazuul's Fury
+1 Last-Ditch Effort
+1 Nasty End
+1 Plumb the Forbidden
+1 Reverent Howl
+1 Thrill of Possibility
+1 Vampiric Tutor
+1 Village Rites
