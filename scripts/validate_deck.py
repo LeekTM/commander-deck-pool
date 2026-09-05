@@ -33,6 +33,7 @@ from scryfall import (
 class ValidationResult:
     errors: list[str] = field(default_factory=list)
     warnings: list[str] = field(default_factory=list)
+    banned_cards: list[str] = field(default_factory=list)
     commanders: list[str] = field(default_factory=list)
     total_cards: int = 0
     price_usd: float = 0.0
@@ -81,8 +82,13 @@ def validate_parsed(deck, game_changers: set[str] | None = None) -> ValidationRe
         if not is_basic_land(name) and not info.legal_commander:
             banned.append(name)
     if banned:
-        result.errors.append(
-            "Card(s) not legal in Commander: " + ", ".join(sorted(set(banned)))
+        # Flagged, not blocked -- deliberately not an error, so the group can
+        # playtest cards not yet (or no longer) legal in Commander. Exposed
+        # separately from `warnings` too, so a caller can require an explicit
+        # bypass for this specific case rather than just noting it in passing.
+        result.banned_cards = sorted(set(banned))
+        result.warnings.append(
+            "Card(s) not legal in Commander (flagged, not blocked): " + ", ".join(result.banned_cards)
         )
 
     for cmdr_name in commanders:
@@ -176,6 +182,7 @@ def main():
             "ok": result.ok,
             "errors": result.errors,
             "warnings": result.warnings,
+            "banned_cards": result.banned_cards,
             "commanders": result.commanders,
             "total_cards": result.total_cards,
             "price_usd": result.price_usd,

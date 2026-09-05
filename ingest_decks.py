@@ -67,11 +67,12 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
         warnings.append(f"REJECTED: unrecognised card(s): {', '.join(sorted(set(not_found)))}")
         return None, warnings
 
+    # Flagged, not blocked -- the group can playtest cards not (yet, or no
+    # longer) legal in Commander. Deliberately not a rejection.
     banned = [n for n in unique_names
               if not is_basic_land(n) and not by_name[n.lower()].legal_commander]
     if banned:
-        warnings.append(f"REJECTED: card(s) not legal in Commander: {', '.join(sorted(set(banned)))}")
-        return None, warnings
+        warnings.append(f"card(s) not legal in Commander (flagged, not blocked): {', '.join(sorted(set(banned)))}")
 
     illegal_commanders = [c for c in commanders if not is_legal_commander_card(by_name[c.lower()])]
     if illegal_commanders:

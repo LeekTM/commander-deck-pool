@@ -11,6 +11,7 @@ async function validateDecklist(decklistText, gameChangers, bracketOverride) {
   const result = {
     errors: [],
     warnings: [],
+    bannedCards: [],
     commanders: [],
     totalCards: 0,
     priceUsd: 0,
@@ -48,6 +49,9 @@ async function validateDecklist(decklistText, gameChangers, bracketOverride) {
     result.errors.push(`Card name(s) not recognised by Scryfall: ${[...new Set(notFound)].sort().join(", ")}`);
   }
 
+  // Flagged, not blocked -- lets the group playtest cards not (yet, or no
+  // longer) legal in Commander. Exposed as its own field (not just folded
+  // into `warnings`) so the UI can require an explicit bypass for this one.
   const banned = [];
   for (const name of uniqueNames) {
     const info = byName.get(name.toLowerCase());
@@ -55,7 +59,8 @@ async function validateDecklist(decklistText, gameChangers, bracketOverride) {
     if (!isBasicLand(name) && !info.legalCommander) banned.push(name);
   }
   if (banned.length) {
-    result.errors.push(`Card(s) not legal in Commander: ${[...new Set(banned)].sort().join(", ")}`);
+    result.bannedCards = [...new Set(banned)].sort();
+    result.warnings.push(`Card(s) not legal in Commander (flagged, not blocked): ${result.bannedCards.join(", ")}`);
   }
 
   for (const cmdrName of commanders) {

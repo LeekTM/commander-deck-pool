@@ -109,6 +109,17 @@ function renderResults(result) {
     </div>`;
   }
 
+  if (result.bannedCards.length) {
+    html += `<div class="result-block warn">
+      <strong>Not currently legal in Commander:</strong>
+      <ul class="issue-list">${result.bannedCards.map((c) => `<li>${escapeHtml(c)}</li>`).join("")}</ul>
+      <label style="display:flex; align-items:center; gap:0.5rem; font-weight:600; margin-top:0.5rem;">
+        <input type="checkbox" id="bypass-banned" />
+        Add it anyway -- I'm playtesting a card not (yet, or no longer) legal in Commander.
+      </label>
+    </div>`;
+  }
+
   if (result.commanders.length) {
     html += `<div class="stat-grid">
       ${statBlock("Deck name (auto)", escapeHtml(computeDeckName(result)))}
@@ -121,6 +132,26 @@ function renderResults(result) {
   }
 
   body.innerHTML = html;
+
+  const bypassCheckbox = document.getElementById("bypass-banned");
+  if (bypassCheckbox) {
+    bypassCheckbox.addEventListener("change", updateSubmitEnabled);
+  }
+  updateSubmitEnabled();
+}
+
+// A banned-card flag needs an explicit bypass checkbox checked, on top of
+// having no blocking errors, before Submit enables -- everything else that's
+// merely a warning (card count, duplicate commander, etc.) doesn't need that.
+function updateSubmitEnabled() {
+  const btnSubmit = document.getElementById("btn-submit");
+  if (!lastResult) {
+    btnSubmit.disabled = true;
+    return;
+  }
+  const bypassCheckbox = document.getElementById("bypass-banned");
+  const bannedOk = lastResult.bannedCards.length === 0 || (bypassCheckbox && bypassCheckbox.checked);
+  btnSubmit.disabled = lastResult.errors.length > 0 || !bannedOk;
 }
 
 function escapeHtml(s) {
@@ -159,11 +190,12 @@ async function onValidate() {
     }
     lastResult = result;
     lastComputedName = result.commanders.length ? computeDeckName(result) : null;
-    renderResults(result);
+    renderResults(result); // also sets btnSubmit's disabled state via updateSubmitEnabled()
     statusEl.textContent = result.errors.length
       ? "Fix the issues above, then validate again."
-      : "Ready to submit.";
-    btnSubmit.disabled = result.errors.length > 0;
+      : result.bannedCards.length
+        ? "Check the box below to confirm you want to add a card not legal in Commander."
+        : "Ready to submit.";
   } catch (e) {
     statusEl.textContent = `Validation failed: ${e.message}`;
   } finally {

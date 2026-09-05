@@ -79,18 +79,23 @@ Sideboard
 - Split and modal-DFC cards (`Fire // Ice`) are recognised by either the full
   name or the front face alone.
 
-## Validation (blocking)
+## Validation
 
 A submission is rejected, with the offending card(s) named, if:
 
 - any card name isn't recognised by Scryfall (almost always a typo),
-- any card isn't legal in Commander (the banned list),
 - the marked commander isn't a legendary creature and has no text granting
   commander status, or
 - any card falls outside the commander's colour identity.
 
-A card count that isn't 100 is a warning, not a rejection -- decks get built
-slightly over/under for all sorts of legitimate reasons.
+A card on the Commander banned list is **flagged, not blocked** -- the
+submission page shows it as a warning with an explicit "add it anyway"
+checkbox that has to be ticked before Submit enables, so the group can
+playtest a card that isn't (yet, or no longer) tournament-legal without a
+human editing the file by hand afterward. `ingest_decks.py` never rejects a
+deck over this either, for the same reason. A card count that isn't 100 is
+also just a warning -- decks get built slightly over/under for all sorts of
+legitimate reasons.
 
 ## Brackets
 
