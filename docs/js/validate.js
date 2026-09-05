@@ -79,7 +79,21 @@ async function validateDecklist(decklistText, gameChangers, bracketOverride) {
     if (info) for (const c of info.colorIdentity) commanderIdentity.add(c);
   }
 
-  if (commanderIdentity.size > 0 || commanders.length) {
+  // Rulebreaker commanders each carve out their own exemption from colour
+  // identity ("Angel cards of any color identity", "artifact creature and
+  // Equipment cards of any color identity", and so on). The exemption is
+  // written in prose per card, so rather than parse it, skip the check and say
+  // so -- a false block is worse here than an unchecked deck.
+  const rulebreaker = commanders.some((c) => {
+    const info = byName.get(c.toLowerCase());
+    return !!info && (info.keywords || []).some((k) => k.toLowerCase() === "rulebreaker");
+  });
+
+  if (rulebreaker) {
+    result.warnings.push(
+      "Colour identity not checked: this commander has Rulebreaker, which lets the deck include cards outside its identity."
+    );
+  } else if (commanderIdentity.size > 0 || commanders.length) {
     const outOfIdentity = [];
     for (const name of uniqueNames) {
       const info = byName.get(name.toLowerCase());

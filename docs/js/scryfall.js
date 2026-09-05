@@ -87,6 +87,7 @@ function cardToInfo(card, gameChangers) {
     priceUsd: toPrice(prices.usd),
     priceEur: toPrice(prices.eur),
     colorIdentity,
+    keywords: card.keywords || [],
     legalCommander: (card.legalities || {}).commander === "legal",
     typeLine,
     oracleText: oracleText || "",

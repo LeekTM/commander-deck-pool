@@ -107,7 +107,23 @@ def validate_parsed(deck, game_changers: set[str] | None = None) -> ValidationRe
         if info:
             commander_identity |= set(info.color_identity)
 
-    if commander_identity:
+    # Rulebreaker commanders each carve out their own exemption from colour
+    # identity ("Angel cards of any color identity", "artifact creature and
+    # Equipment cards of any color identity", and so on). The exemption is
+    # written in prose per card, so rather than parse it, skip the check and
+    # say so -- a false block is worse here than an unchecked deck.
+    rulebreaker = any(
+        "rulebreaker" in {k.lower() for k in (info.keywords or ())}
+        for info in (by_name.get(c.lower()) for c in commanders)
+        if info is not None
+    )
+
+    if rulebreaker:
+        result.warnings.append(
+            "Colour identity not checked: this commander has Rulebreaker, "
+            "which lets the deck include cards outside its identity."
+        )
+    elif commander_identity:
         out_of_identity = []
         for name in unique_names:
             info = by_name.get(name.lower())

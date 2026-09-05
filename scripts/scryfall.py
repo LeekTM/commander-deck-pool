@@ -50,6 +50,7 @@ class CardInfo:
     edhrec_rank: int | None
     is_game_changer: bool
     front_face_name: str | None = None  # for split/MDFC cards
+    keywords: tuple[str, ...] = ()
 
 
 def _request_json(url: str, data: bytes | None = None) -> dict:
@@ -114,6 +115,7 @@ def _card_to_info(card: dict, game_changers: set[str]) -> CardInfo:
         price_usd=_price(prices.get("usd")),
         price_eur=_price(prices.get("eur")),
         color_identity=color_identity,
+        keywords=tuple(card.get("keywords") or ()),
         legal_commander=card.get("legalities", {}).get("commander") == "legal",
         type_line=type_line,
         oracle_text=oracle_text or "",
