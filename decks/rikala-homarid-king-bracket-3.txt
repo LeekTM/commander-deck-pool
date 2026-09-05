@@ -1,0 +1,95 @@
+// name: Rikala, Homarid King (Bracket 3)
+// source: community
+// tags: ramp, 11
+// bracket: 3
+
+Commander
+1 Rikala, Homarid King
+
+Deck
+
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Cyclonic Rift
+1 Experimental Augury
+1 Fierce Guardianship
+1 Flow of Knowledge
+1 Frantic Search
+1 Heroic Intervention
+1 High Tide
+1 Inspiring Call
+1 Mana Drain
+1 Planar Genesis
+1 Pongify
+1 Rapid Hybridization
+1 Ripples of Potential
+1 Snap
+1 Swan Song
+1 Worldly Tutor
+1 Andúril, Narsil Reforged
+1 Power Conduit
+1 Sol Ring
+1 Sword of Truth and Justice
+1 Avenger of Zendikar
+1 Berta, Wise Extrapolator
+1 Bristly Bill, Spine Sower
+1 Champion of Lambholt
+1 Dreamtide Whale
+1 Dryad of the Ilysian Grove
+1 Eluge, the Shoreless Sea
+1 Evolution Sage
+1 Evolution Witness
+1 Flux Channeler
+1 Goldberry, River-Daughter
+1 Hydroid Krasis
+1 Kodama of the West Tree
+1 Mister Hyde, Monster Within
+1 O'aka, Traveling Merchant
+1 Ouroboroid
+1 Pensive Professor
+1 Pollywog Prodigy
+1 Realmwright
+1 Rikku, Resourceful Guardian
+1 Sab-Sunen, Luxa Embodied
+1 Scourge of Fleets
+1 Tekuthal, Inquiry Dominus
+1 Thrummingbird
+1 Toski, Bearer of Secrets
+1 Wan Shi Tong, Librarian
+1 Bala Ged Recovery
+1 Farseek
+1 Finale of Devastation
+1 Nature's Lore
+1 Rampant Growth
+1 Spectral Deluge
+1 Stock Up
+1 Tezzeret's Gambit
+1 Three Visits
+1 Unnatural Restoration
+1 Windfall
+1 Breeding Pool
+1 Dreamroot Cascade
+1 Fabled Passage
+1 Flooded Strand
+5 Forest
+1 Hedge Maze
+11 Island
+1 Myriad Landscape
+1 Mystic Sanctuary
+1 Nesting Grounds
+1 Polluted Delta
+1 Rain-Slicked Copse
+1 Simic Growth Chamber
+1 Sodden Verdure
+1 Tangled Islet
+1 Turbulent Wilderness
+1 Waterlogged Grove
+1 Windswept Heath
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+1 Court of Garenbrig
+1 Innkeeper's Talent
+1 Mystic Remora
+1 Sphere Grid
+1 Wild Growth
