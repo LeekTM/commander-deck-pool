@@ -1,0 +1,81 @@
+// name: Katara, Waterbending Master (Bracket 3)
+// source: community
+// tags: counterspells, card-draw, spellslinger, control
+// bracket: 3
+
+Commander
+1 Katara, Waterbending Master
+
+Deck
+
+1 Access Tunnel
+1 Agna Qel'a
+29 Island
+1 Karn's Bastion
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Reliquary Tower
+1 Rogue's Passage
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Consider
+1 Counterspell
+1 Cyclonic Rift
+1 Experimental Augury
+1 Flusterstorm
+1 Frantic Search
+1 High Tide
+1 Into the Flood Maw
+1 Mental Misstep
+1 Narset's Reversal
+1 Negate
+1 Octopus Form
+1 Opt
+1 Peek
+1 Pongify
+1 Rapid Hybridization
+1 Reality Shift
+1 Resculpt
+1 Rewind
+1 Sink into Stupor
+1 Slip Out the Back
+1 Snap
+1 Spell Pierce
+1 Strix Serenade
+1 Swan Song
+1 Unwind
+1 Amphibian Downpour
+1 Aqueous Form
+1 Leyline of Anticipation
+1 Mystic Remora
+1 Propaganda
+1 Teferi's Ageless Insight
+1 Waterbender Ascension
+1 Wizard Class
+1 Arcane Signet
+1 Bender's Waterskin
+1 Lightning Greaves
+1 Sapphire Medallion
+1 Sceptre of Eternal Glory
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Brazen Borrower
+1 Eluge, the Shoreless Sea
+1 Faerie Mastermind
+1 Flux Channeler
+1 High Fae Trickster
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Laboratory Maniac
+1 Psychosis Crawler
+1 Snapcaster Mage
+1 Talrand, Sky Summoner
+1 Tishana's Tidebinder
+1 Triskaidekaphile
+1 Wan Shi Tong, Librarian
+1 Wavebreak Hippocamp
+1 Wonder
+1 Jace, Wielder of Mysteries
