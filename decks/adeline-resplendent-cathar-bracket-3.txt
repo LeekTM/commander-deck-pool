@@ -1,0 +1,96 @@
+// name: Adeline, Resplendent Cathar (Bracket 3)
+// source: community
+// tags: aggro, tokens
+// bracket: 3
+
+Commander
+1 Adeline, Resplendent Cathar
+
+Deck
+
+1 Ainok Strike Leader
+1 Angel of Destiny
+1 Archivist of Oghma
+1 Belladonna Took
+1 Beregond of the Guard
+1 Court Street Denizen
+1 Deep Gnome Terramancer
+1 Elesh Norn
+1 Exalted Sunborn
+1 Goldnight Commander
+1 Greymond, Avacyn's Stalwart
+1 Guardian Sunmare
+1 Guide of Souls
+1 Hammers of Moradin
+1 Lossarnach Captain
+1 Mangara, the Diplomat
+1 Mentor of the Meek
+1 Mondrak, Glory Dominus
+1 Moonshaker Cavalry
+1 Ojer Taq, Deepest Foundation
+1 Roaming Throne
+1 Rumor Gatherer
+1 Spider-UK
+1 Weathered Wayfarer
+1 Wyrm's Crossing Patrol
+1 Akroma's Will
+1 Cloudshift
+1 Ephemerate
+1 Path to Exile
+1 Sejiri Shelter
+1 Swords to Plowshares
+1 Anointed Procession
+1 Authority of the Consuls
+1 Cathars' Crusade
+1 Chivalric Alliance
+1 Darksteel Mutation
+1 Dazzling Theater // Prop Room
+1 Endless Foot Assault
+1 Ghostly Prison
+1 Land Tax
+1 Legion Loyalty
+1 Rabble Rousing
+1 Renewed Solidarity
+1 Smuggler's Share
+1 Touch the Spirit Realm
+1 Trouble in Pairs
+1 Valor in Akros
+1 Archaeomancer's Map
+1 Halo Fountain
+1 Idol of Oblivion
+1 Lightning Greaves
+1 Nyx Lotus
+1 Oketra's Monument
+1 Pearl Medallion
+1 Rammas Echor, Ancient Shield
+1 Slate of Ancestry
+1 Stonespeaker Crystal
+1 Strixhaven Stadium
+1 Throne of Eldraine
+1 Wand of the Worldsoul
+1 White Lotus Tile
+1 Austere Command
+1 By Invitation Only
+1 Launch the Fleet
+1 Bonders' Enclave
+1 Emeria, the Sky Ruin
+1 Field of Ruin
+1 Fountainport
+1 Hidden Courtyard
+1 Karoo
+1 Minas Tirith
+1 Myriad Landscape
+1 Nykthos, Shrine to Nyx
+1 Path of Ancestry
+14 Plains
+1 Plaza of Heroes
+1 Reliquary Tower
+1 Roadside Reliquary
+1 Secret Tunnel
+1 Sejiri Steppe
+1 Temple of the False God
+1 The Fair Basilica
+1 Three Tree City
+1 Urza's Cave
+1 Windbrisk Heights
+1 Elspeth, Storm Slayer
