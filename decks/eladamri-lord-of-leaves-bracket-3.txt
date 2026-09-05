@@ -1,0 +1,82 @@
+// name: Eladamri, Lord of Leaves (Bracket 3)
+// source: community
+// tags: aristocrats, tribal
+// bracket: 3
+
+Commander
+1 Eladamri, Lord of Leaves
+
+Deck
+
+1 Argothian Elder
+1 Beast Whisperer
+1 Drove of Elves
+1 Dwynen, Gilt-Leaf Daen
+1 Eladamri, Korvecdal
+1 Elvish Archdruid
+1 Elvish Champion
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Elvish Piper
+1 Elvish Visionary
+1 Essence Warden
+1 Ezuri, Renegade Leader
+1 Farhaven Elf
+1 Gaea's Liege
+1 Galadhrim Brigade
+1 Haldir, Lórien Lieutenant
+1 Heedless One
+1 Imaryll, Elfhame Elite
+1 Imperious Perfect
+1 Jagged-Scar Archers
+1 Joraga Warcaller
+1 Kithkin Mourncaller
+1 Krosan Restorer
+1 Lys Alana Huntmaster
+1 Marwyn, the Nurturer
+1 Priest of Titania
+1 Primordial Sage
+1 Reclamation Sage
+1 Seedborn Muse
+1 Selvala, Heart of the Wilds
+1 Skyshroud Poacher
+1 Sylvan Ranger
+1 Taunting Elf
+1 Thelonite Monk
+1 Wellwisher
+1 Wirewood Channeler
+1 Wirewood Herald
+1 Wolverine Riders
+1 Wood Elves
+1 Yeva, Nature's Herald
+1 Broken Wings
+1 Chord of Calling
+1 Elven Ambush
+1 Fog
+1 Galadhrim Ambush
+1 Kindred Summons
+1 Cavern of Souls
+28 Forest
+1 Nykthos, Shrine to Nyx
+1 Oran-Rief, the Vastwood
+1 Three Tree City
+1 Yavimaya, Cradle of Growth
+1 Coat of Arms
+1 Door of Destinies
+1 Sol Ring
+1 Collective Unconscious
+1 Cultivate
+1 Elvish Promenade
+1 Genesis Wave
+1 Green Sun's Zenith
+1 Lay of the Land
+1 Overrun
+1 Overwhelming Stampede
+1 Piper's Melody
+1 Shamanic Revelation
+1 Skyshroud Claim
+1 Defense of the Heart
+1 Doubling Season
+1 Parallel Lives
+1 Spidersilk Armor
+1 Freyalise, Llanowar's Fury
