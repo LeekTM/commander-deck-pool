@@ -161,10 +161,53 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
     return record, warnings
 
 
+# Fields the TTS device needs to list, filter and sort -- everything except
+# the card lists, which are what make deck_db.json big.
+INDEX_FIELDS = ("slug", "name", "commanders", "tags", "bracket",
+                "colors", "price_eur", "price_usd", "gc")
+
+
+def write_tts_files(tts_dir: str, db: dict, decks: list[dict]) -> None:
+    """Split the database into a small index and one file per deck.
+
+    TTS decodes JSON in Lua, which is slow enough that parsing the whole
+    database at table load takes many seconds. The index is a fraction of the
+    size, and a deck's cards are fetched only when that deck is imported.
+    """
+    os.makedirs(tts_dir, exist_ok=True)
+
+    index = [{k: d[k] for k in INDEX_FIELDS} for d in decks]
+    with open(os.path.join(tts_dir, "index.json"), "w", encoding="utf-8") as f:
+        json.dump(
+            {"version": 1, "generated": db["generated"], "decks": index},
+            f, separators=(",", ":"), ensure_ascii=False,
+        )
+
+    for d in decks:
+        with open(os.path.join(tts_dir, f"{d['slug']}.json"), "w", encoding="utf-8") as f:
+            json.dump(
+                {"name": d["name"], "commanders": d["commanders"], "cards": d["cards"]},
+                f, separators=(",", ":"), ensure_ascii=False,
+            )
+
+    # Drop files for decks that have since been deleted, so the folder can't
+    # accumulate orphans the index no longer references.
+    keep = {f"{d['slug']}.json" for d in decks} | {"index.json"}
+    for fn in os.listdir(tts_dir):
+        if fn.endswith(".json") and fn not in keep:
+            os.remove(os.path.join(tts_dir, fn))
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("decks_dir", nargs="?", default="decks", help="Folder of decklist .txt files")
     ap.add_argument("--out", default="deck_db.json", help="Output path for deck_db.json")
+    ap.add_argument(
+        "--tts-dir",
+        help="Also write a slim browse index plus one card list per deck here. "
+             "The TTS mod reads these instead of deck_db.json: it parses JSON "
+             "in Lua, where the full database is slow to decode.",
+    )
     args = ap.parse_args()
 
     if not os.path.isdir(args.decks_dir):
@@ -192,6 +235,7 @@ def main():
         if record is None:
             rejected += 1
             continue
+        record["slug"] = os.path.splitext(os.path.basename(path))[0]
         decks.append(record)
 
     decks.sort(key=lambda d: d["name"].lower())
@@ -207,6 +251,10 @@ def main():
         json.dump(db, f, separators=(",", ":"), ensure_ascii=False)
 
     print(f"Wrote {len(decks)} decks to {args.out} ({rejected} rejected)", file=sys.stderr)
+
+    if args.tts_dir:
+        write_tts_files(args.tts_dir, db, decks)
+        print(f"Wrote TTS index + {len(decks)} deck files to {args.tts_dir}", file=sys.stderr)
 
 
 if __name__ == "__main__":

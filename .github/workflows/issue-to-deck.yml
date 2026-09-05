@@ -71,10 +71,10 @@ jobs:
           # whatever is on main now, and try again.
           pushed=0
           for attempt in 1 2 3 4 5; do
-            python ingest_decks.py decks/ --out deck_db.json
+            python ingest_decks.py decks/ --out deck_db.json --tts-dir docs/tts
             cp deck_db.json docs/deck_db.json
 
-            git add decks/ deck_db.json docs/deck_db.json
+            git add decks/ deck_db.json docs/deck_db.json docs/tts
             git commit -m "Add deck from issue #$ISSUE_NUMBER" || true
 
             if git push; then

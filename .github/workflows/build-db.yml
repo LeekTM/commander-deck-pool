@@ -31,7 +31,7 @@ jobs:
           python-version: "3.12"
 
       - name: Build deck_db.json
-        run: python ingest_decks.py decks/ --out deck_db.json
+        run: python ingest_decks.py decks/ --out deck_db.json --tts-dir docs/tts
 
       - name: Publish a copy for GitHub Pages
         # GitHub Pages serves only docs/, but deck_db.json's source-of-truth
@@ -43,7 +43,7 @@ jobs:
         run: |
           git config user.name "deck-pool-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add deck_db.json docs/deck_db.json
+          git add deck_db.json docs/deck_db.json docs/tts
           if git diff --cached --quiet; then
             echo "deck_db.json unchanged"
           else
