@@ -86,15 +86,28 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
     for c in commanders:
         commander_identity |= set(by_name[c.lower()].color_identity)
 
-    out_of_identity = [
-        n for n in unique_names
-        if not set(by_name[n.lower()].color_identity).issubset(commander_identity)
-    ]
-    if out_of_identity:
+    # Rulebreaker commanders each grant their own exemption from colour
+    # identity, written in prose per card, so skip the check rather than parse
+    # it. Kept in step with validate_deck.py and docs/js/validate.js.
+    rulebreaker = any(
+        "rulebreaker" in {k.lower() for k in (by_name[c.lower()].keywords or ())}
+        for c in commanders
+    )
+
+    if rulebreaker:
         warnings.append(
-            f"REJECTED: card(s) outside commander colour identity: {', '.join(sorted(set(out_of_identity)))}"
+            "colour identity not checked: commander has Rulebreaker"
         )
-        return None, warnings
+    else:
+        out_of_identity = [
+            n for n in unique_names
+            if not set(by_name[n.lower()].color_identity).issubset(commander_identity)
+        ]
+        if out_of_identity:
+            warnings.append(
+                f"REJECTED: card(s) outside commander colour identity: {', '.join(sorted(set(out_of_identity)))}"
+            )
+            return None, warnings
 
     price_usd = 0.0
     price_eur = 0.0

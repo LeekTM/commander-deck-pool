@@ -18,7 +18,10 @@ const SECTION_HEADERS = {
 const EXCLUDED_SECTIONS = new Set(["sideboard", "maybeboard", "tokens", "companion"]);
 
 const SB_PREFIX_RE = /^(SB|Sideboard)\s*:\s*/i;
-const CARD_LINE_RE = /^(\d+)\s*[xX]?\s+(.+)$/;
+// The "x" only counts as a multiplier when whitespace follows it, so
+// "3 Xenagos, God of Revels" keeps its X. Whitespace after the count is
+// optional, so a pasted "1Rograkh, Son of Rohgahh" is not silently dropped.
+const CARD_LINE_RE = /^(\d+)\s*(?:[xX]\s+)?\s*(.+)$/;
 const CMDR_MARKER_RE = /\*\s*(CMDR|CMD|COMMANDER)\s*\*/i;
 const SET_CRUFT_RE = /\s*[([][A-Za-z0-9]{2,6}[)\]](\s*[A-Za-z0-9\-★]+)?(\s*\*F\*)?\s*$/;
 const SECTION_LINE_RE = /^([A-Za-z][A-Za-z ]*?)\s*:?\s*(?:\(\d+\))?\s*$/;

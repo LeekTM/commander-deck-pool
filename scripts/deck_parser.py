@@ -31,7 +31,10 @@ METADATA_KEYS = {"name", "url", "commander", "bracket", "tags", "set", "released
 _METADATA_RE = re.compile(r"^//\s*([a-zA-Z ]+?)\s*:\s*(.*)$")
 _SECTION_RE = re.compile(r"^([A-Za-z][A-Za-z ]*?)\s*:?\s*(?:\(\d+\))?\s*$")
 _SB_PREFIX_RE = re.compile(r"^(SB|Sideboard)\s*:\s*", re.IGNORECASE)
-_CARD_LINE_RE = re.compile(r"^(\d+)\s*[xX]?\s+(.+)$")
+# The "x" only counts as a multiplier when whitespace follows it, so
+# "3 Xenagos, God of Revels" keeps its X. Whitespace after the count is
+# optional, so a pasted "1Rograkh, Son of Rohgahh" is not silently dropped.
+_CARD_LINE_RE = re.compile(r"^(\d+)\s*(?:[xX]\s+)?\s*(.+)$")
 _CMDR_MARKER_RE = re.compile(r"\*\s*(CMDR|CMD|COMMANDER)\s*\*", re.IGNORECASE)
 # Trailing set-code / collector-number cruft, e.g. "(LTC) 285", "[M11]", "(M11) 123 *F*"
 _SET_CRUFT_RE = re.compile(
