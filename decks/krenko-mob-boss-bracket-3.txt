@@ -1,6 +1,6 @@
 // name: Krenko, Mob Boss (Bracket 3)
 // source: community
-// tags: goblins, aggro, tokens
+// tags: tribal, aggro, tokens
 
 Commander
 1 Krenko, Mob Boss
