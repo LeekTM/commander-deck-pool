@@ -1,0 +1,96 @@
+// name: Ragost, Deft Gastronaut (Bracket 3)
+// source: community
+// tags: lifegain, artifacts, burn
+// bracket: 3
+
+Commander
+1 Ragost, Deft Gastronaut
+
+Deck
+
+1 Academy Manufactor
+1 Apothecary White
+1 Astrid Peth
+1 Edgar, Master Machinist
+1 Farid, Enterprising Salvager
+1 Goblin Engineer
+1 Goblin Welder
+1 Haliya, Guided by Light
+1 Loyal Apprentice
+1 Market Gnome
+1 Mondrak, Glory Dominus
+1 Oswald Fiddlebender
+1 Ratchet, Field Medic
+1 Rose, Cutthroat Raider
+1 Solphim, Mayhem Dominus
+1 Stridehangar Automaton
+1 The Gaffer
+1 Treasure Nabber
+1 Ancient Den
+1 Arid Mesa
+1 Battlefield Forge
+1 Buried Ruin
+1 Clifftop Retreat
+1 Command Tower
+1 Darksteel Citadel
+1 Exotic Orchard
+1 Furycalm Snarl
+1 Great Furnace
+1 Inventors' Fair
+8 Mountain
+7 Plains
+1 Radiant Summit
+1 Rugged Prairie
+1 Rustvale Bridge
+1 Sacred Foundry
+1 Spectator Seating
+1 Spire of Industry
+1 Sunbillow Verge
+1 Sundown Pass
+1 Treasure Vault
+1 Urza's Saga
+1 Witch's Clinic
+1 Arcane Signet
+1 Basilisk Collar
+1 Caduceus, Staff of Hermes
+1 Candy Trail
+1 Chromatic Star
+1 Dancer's Chakrams
+1 Ichor Wellspring
+1 Instant Ramen
+1 Krark-Clan Ironworks
+1 Lembas
+1 Liquimetal Torque
+1 Mjölnir, Hammer of Thor
+1 Nimblewright Schematic
+1 Nuka-Cola Vending Machine
+1 Nutrient Block
+1 Omni-Cheese Pizza
+1 Prized Statue
+1 Servo Schematic
+1 Shadowspear
+1 Sol Ring
+1 Sting, the Glinting Dagger
+1 Talisman of Conviction
+1 The One Ring
+1 Thopter Shop
+1 Blasphemous Act
+1 Sevinne's Reclamation
+1 Chaos Warp
+1 Deflecting Swat
+1 Demand Answers
+1 Dispatch
+1 Enlightened Tutor
+1 Swords to Plowshares
+1 Untimely Malfunction
+1 City on Fire
+1 Curse of Opulence
+1 Felidar Umbra
+1 Monologue Tax
+1 Rune of Sustenance
+1 Sheltered by Ghosts
+1 Smothering Tithe
+1 Spirit Loop
+1 Trouble in Pairs
+1 Weapons Manufacturing
+1 Tezzeret, Cruel Captain
