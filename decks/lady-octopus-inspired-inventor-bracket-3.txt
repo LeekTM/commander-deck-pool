@@ -1,0 +1,88 @@
+// name: Lady Octopus, Inspired Inventor (Bracket 3)
+// source: community
+// tags: midrange, artifacts, tempo, good-stuff
+// bracket: 3
+
+Commander
+1 Lady Octopus, Inspired Inventor
+
+Deck
+
+1 Academy Ruins
+1 Agna Qel'a
+1 Buried Ruin
+1 Cephalid Coliseum
+1 Horizon of Progress
+1 Inventors' Fair
+22 Island
+1 Minamo, School at Water's Edge
+1 Otawara, Soaring City
+1 Seat of the Synod
+1 Uthros, Titanic Godcore
+1 War Room
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Archmage's Charm
+1 Artificer's Epiphany
+1 Consider
+1 Cyclonic Rift
+1 Desynchronization
+1 Fierce Guardianship
+1 Frantic Search
+1 Scour for Scrap
+1 Sink into Stupor
+1 Stern Lesson
+1 Swan Song
+1 Thirst for Discovery
+1 You Find the Villains' Lair
+1 Arcane Signet
+1 Bender's Waterskin
+1 Cloud Key
+1 Dreamstone Hedron
+1 Implement of Examination
+1 Machine God's Effigy
+1 Mnemonic Sphere
+1 Mox Amber
+1 Patriar's Seal
+1 Portal to Phyrexia
+1 Sapphire Medallion
+1 Sewer-veillance Cam
+1 Sting, the Glinting Dagger
+1 The Endstone
+1 The One Ring
+1 Thousand-Year Elixir
+1 Thran Dynamo
+1 Throne of Eldraine
+1 Uthros Research Craft
+1 Astral Dragon
+1 Cityscape Leveler
+1 Cybermen Squadron
+1 Drafna, Founder of Lat-Nam
+1 Etherium Sculptor
+1 Faerie Mastermind
+1 Hulking Metamorph
+1 Hydroelectric Specimen
+1 Iron Man, Bleeding Edge
+1 Kappa Cannoneer
+1 Krang, Utrom Warlord
+1 Ledger Shredder
+1 Maelstrom Colossus
+1 Master Transmuter
+1 Meteor Golem
+1 Mirran Spy
+1 Padeem, Consul of Innovation
+1 Phyrexian Metamorph
+1 Platinum Angel
+1 Riddlesmith
+1 Sai, Master Thopterist
+1 Shuri, Wakandan Inventor
+1 Spellskite
+1 The Walls of Ba Sing Se
+1 Triplicate Titan
+1 Ultron, Artificial Malevolence
+1 Wurmcoil Engine
+1 Mechanized Production
+1 Mystic Remora
+1 Noggle the Mind
+1 Shark Typhoon
+1 Will of the Temur
