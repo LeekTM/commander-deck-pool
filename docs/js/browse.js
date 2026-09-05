@@ -86,7 +86,7 @@ function groupDeck(deck) {
   return TYPE_GROUP_ORDER
     .filter((g) => groups.has(g))
     .map((g) => {
-      const cards = groups.get(g).sort((a, b) => a.n.localeCompare(b.n));
+      const cards = groups.get(g).sort((a, b) => cardLabel(a).localeCompare(cardLabel(b)));
       return {
         name: g,
         cards,
@@ -107,7 +107,7 @@ function groupedCardsHtml(deck) {
   return groupDeck(deck)
     .map((group) => {
       const items = group.cards
-        .map((c) => `<div>${c.q}&times; ${escapeHtml(c.n)}</div>`)
+        .map((c) => `<div>${c.q}&times; ${escapeHtml(cardLabel(c))}</div>`)
         .join("");
       return `<div class="card-group">${groupHeading(group)}${items}</div>`;
     })
@@ -119,7 +119,7 @@ function visualCardsHtml(deck) {
     .map((group) => {
       const items = group.cards.map((c) => {
         const cached = CARD_CACHE.get(c.n.toLowerCase());
-        const name = escapeHtml(c.n);
+        const name = escapeHtml(cardLabel(c));
         // loading="lazy" so only the cards actually scrolled into view are
         // ever fetched; the CDN's year-long cache headers make revisits free.
         const img = cached && cached.image
@@ -139,8 +139,8 @@ function visualCardsHtml(deck) {
 function flatCardsHtml(deck) {
   return deck.cards
     .slice()
-    .sort((a, b) => a.n.localeCompare(b.n))
-    .map((c) => `<div>${c.q}&times; ${escapeHtml(c.n)}</div>`)
+    .sort((a, b) => cardLabel(a).localeCompare(cardLabel(b)))
+    .map((c) => `<div>${c.q}&times; ${escapeHtml(cardLabel(c))}</div>`)
     .join("");
 }
 
@@ -163,6 +163,14 @@ async function loadDeckDb() {
 // which reads as broken layout. Break it where the two commanders join so the
 // name stacks instead. Escaping runs first, so this only ever splits on the
 // literal " + " the deck name was built with.
+// A card entry stores the name Scryfall knows as "n", and what the submitter
+// wrote as "as" when the two differ -- a Secret Lair reskin such as
+// "Miku, Lost but Singing" over "Azusa, Lost but Seeking". Look cards up by
+// "n"; show people the name they submitted.
+function cardLabel(c) {
+  return c.as || c.n;
+}
+
 function deckNameHtml(name) {
   return escapeHtml(name).split(" + ").join("<br>");
 }

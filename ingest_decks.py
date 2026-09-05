@@ -126,7 +126,16 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
     cards_out = []
     for card_name, qty in sorted(quantities.items()):
         info = by_name.get(card_name.lower())
-        cards_out.append({"n": card_name, "q": qty})
+
+        # Store the name Scryfall actually knows, and keep what the submitter
+        # wrote alongside it as "as". Secret Lair reskins are why: "Miku, Lost
+        # but Singing" IS "Azusa, Lost but Seeking", and only the real name
+        # resolves in a lookup -- but the pool should still show the Miku name.
+        if info is not None and info.name != card_name:
+            cards_out.append({"n": info.name, "q": qty, "as": card_name})
+        else:
+            cards_out.append({"n": card_name, "q": qty})
+
         if info is None:
             continue
         all_colors |= set(info.color_identity)
