@@ -1,0 +1,85 @@
+// name: Eladamri, Korvecdal (Bracket 3)
+// source: community
+// tags: aggro, tempo, tribal, mana-dorks
+// bracket: 3
+
+Commander
+1 Eladamri, Korvecdal
+
+Deck
+
+1 Allosaurus Shepherd
+1 Ancient Adamantoise
+1 Ancient Bronze Dragon
+1 Ancient Ooze
+1 Apex Altisaur
+1 Arbor Elf
+1 Archetype of Endurance
+1 Beast Whisperer
+1 Birds of Paradise
+1 Blightsteel Colossus
+1 Boreal Druid
+1 Circle of Dreams Druid
+1 Copperhorn Scout
+1 Craterhoof Behemoth
+1 Deceiver of Form
+1 Delighted Halfling
+1 Dionus, Elvish Archdruid
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Elvish Warmaster
+1 Emrakul, the Promised End
+1 Fanatic of Rhonas
+1 Fauna Shaman
+1 Fierce Empath
+1 Fyndhorn Elves
+1 Ghalta, Primal Hunger
+1 Ghalta, Stampede Tyrant
+1 Gilded Goose
+1 Impervious Greatwurm
+1 It That Betrays
+1 Leaf-Crowned Visionary
+1 Llanowar Elves
+1 Marwyn, the Nurturer
+1 Nyxbloom Ancient
+1 Oracle of Mul Daya
+1 Pathrazer of Ulamog
+1 Priest of Titania
+1 Quirion Ranger
+1 Regal Force
+1 Seeker of Skybreak
+1 Selvala, Heart of the Wilds
+1 Soul of the Harvest
+1 Summon: Bahamut
+1 The Walls of Ba Sing Se
+1 Ulamog, the Infinite Gyre
+1 Vaultborn Tyrant
+1 Wirewood Symbiote
+1 Worldspine Wurm
+1 Arcane Signet
+1 Lightning Greaves
+1 Skullclamp
+1 Sol Ring
+1 Thought Vessel
+1 Boseiju, Who Endures
+1 Evendo, Waking Haven
+1 Field of Ruin
+25 Forest
+1 Khalni Garden
+1 Lotus Field
+1 Mosswort Bridge
+1 Rogue's Passage
+1 Wirewood Lodge
+1 Growing Rites of Itlimoc
+1 Instill Energy
+1 Harmonize
+1 Rishkar's Expertise
+1 Shamanic Revelation
+1 Heroic Intervention
+1 Noxious Revival
+1 Obscuring Haze
+1 Return of the Wildspeaker
+1 Summoner's Pact
+1 Veil of Summer
+1 Vitalize
+1 Wrap in Vigor
