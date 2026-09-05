@@ -1,0 +1,100 @@
+// name: Frodo, Adventurous Hobbit + Sam, Loyal Attendant (Bracket 3)
+// source: community
+// tags: food, lifegain, lifedrain, tribal
+// bracket: 3
+
+Commander
+1 Frodo, Adventurous Hobbit
+1 Sam, Loyal Attendant
+
+Deck
+
+1 Academy Manufactor
+1 Banquet Guests
+1 Belladonna Took
+1 Bilbo, Fellow Conspirator
+1 Birds of Paradise
+1 Defiling Daemogoth
+1 Delighted Halfling
+1 Elanor Gardner
+1 Ellyn Harbreeze, Busybody
+1 Elvish Mystic
+1 Enduring Tenacity
+1 Essence Warden
+1 Experimental Confectioner
+1 Farmer Cotton
+1 Feasting Hobbit
+1 Gilded Goose
+1 Gollum, Obsessed Stalker
+1 Gwaihir, Greatest of the Eagles
+1 Jaheira, Friend of the Forest
+1 Lotho, Corrupt Shirriff
+1 Meriadoc Brandybuck
+1 Merry, Warden of Isengard
+1 Mirkwood Bats
+1 Nadier's Nightblade
+1 Peregrin Took
+1 Pippin, Warden of Isengard
+1 Prize Pig
+1 Prosperous Innkeeper
+1 Rapacious Guest
+1 Rosie Cotton of South Lane
+1 Samwise Gamgee
+1 Savvy Hunter
+1 Scavenging Ooze
+1 Scheming Silvertongue
+1 The Cabbage Merchant
+1 The Gaffer
+1 The Notary Hobbits
+1 The Queen of Dale
+1 The Sackville-Bagginses
+1 Tireless Provisioner
+1 Treebeard, Gracious Host
+1 Vito, Thorn of the Dusk Rose
+1 Anguished Unmaking
+1 Bilbo's Gambit
+1 Heroic Intervention
+1 Path to Exile
+1 Revitalizing Repast
+1 Swords to Plowshares
+1 Arcane Signet
+1 Bilbo's Ring
+1 Nuka-Cola Vending Machine
+1 Sol Ring
+1 The One Ring
+1 Well of Lost Dreams
+1 Assemble the Entmoot
+1 Black Market Connections
+1 Call of the Ring
+1 Night of the Sweets' Revenge
+1 Of Herbs and Stewed Rabbit
+1 Sanguine Bond
+1 Bleachbone Verge
+1 Bojuka Bog
+1 Bountiful Promenade
+1 Brushland
+1 Caves of Koilos
+1 Command Tower
+1 Deathcap Glade
+1 Exotic Orchard
+6 Forest
+1 Godless Shrine
+1 Hobbit Hole
+1 Indatha Triome
+1 Llanowar Wastes
+1 Overgrown Farmland
+1 Overgrown Tomb
+1 Path of Ancestry
+5 Plains
+1 Sandsteppe Citadel
+1 Shattered Sanctum
+1 Swamp
+1 Tainted Wood
+1 Temple Garden
+1 The Shire
+1 Undergrowth Stadium
+1 Vault of Champions
+1 Wastewood Verge
+1 Dusk // Dawn
+1 Many Partings
+1 The Battle of Bywater
