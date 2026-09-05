@@ -226,9 +226,33 @@ function renderDecks(decks) {
   });
 }
 
+const VIEW_PREF_KEY = "cdp_view";
+
 function currentView() {
   const el = document.getElementById("f-view");
-  return el ? el.value : "list";
+  return el ? el.value : "visual";
+}
+
+// Remember the list/images choice across visits. Images are the default:
+// decks render collapsed, and lazy loading means no image is fetched until
+// a deck is actually expanded, so defaulting to them costs nothing on load.
+function restoreViewPref() {
+  const el = document.getElementById("f-view");
+  if (!el) return;
+  let saved = null;
+  try {
+    saved = localStorage.getItem(VIEW_PREF_KEY);
+  } catch (e) {
+    // private browsing / storage blocked -- just use the default
+  }
+  if (saved === "list" || saved === "visual") el.value = saved;
+  el.addEventListener("change", () => {
+    try {
+      localStorage.setItem(VIEW_PREF_KEY, el.value);
+    } catch (e) {
+      // not worth surfacing -- the view still works, it just won't persist
+    }
+  });
 }
 
 function cardsHtmlFor(deck) {
@@ -306,6 +330,7 @@ function wireRepoLinks() {
 
 async function init() {
   wireRepoLinks();
+  restoreViewPref(); // before the first render, so it paints in the right view
   const status = document.getElementById("load-status");
   try {
     const db = await loadDeckDb();
