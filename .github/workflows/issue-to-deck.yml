@@ -69,9 +69,20 @@ jobs:
               f.write("\n".join(lines))
           PYEOF
           gh issue comment "$ISSUE_NUMBER" --body-file comment.md
+
+          # Rebuild deck_db.json right here rather than leaving it to
+          # build-db.yml. A push made with the default GITHUB_TOKEN does not
+          # trigger other workflows (GitHub's guard against recursive runs),
+          # so build-db.yml never fires for this commit -- the deck file
+          # would land in decks/ and the database would silently stay stale.
+          # Committing both together also keeps decks/ and deck_db.json
+          # consistent in a single commit.
+          python ingest_decks.py decks/ --out deck_db.json
+          cp deck_db.json docs/deck_db.json
+
           git config user.name "deck-pool-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add decks/
+          git add decks/ deck_db.json docs/deck_db.json
           git commit -m "Add deck from issue #$ISSUE_NUMBER"
           git push
           gh issue close "$ISSUE_NUMBER" --reason completed

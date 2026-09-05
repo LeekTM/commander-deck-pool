@@ -1,9 +1,13 @@
 name: Build deck database
 
-# Rebuilds deck_db.json whenever decks/ (or the ingest code) changes on main --
-# whether that push came from a merged PR or from issue-to-deck.yml committing
-# a new submission directly. Does NOT trigger on deck_db.json itself changing,
-# so this workflow's own commit can't re-trigger itself.
+# Rebuilds deck_db.json whenever decks/ (or the ingest code) changes on main:
+# a merged PR, an admin-panel edit/delete, or a hand-pushed commit. Does NOT
+# trigger on deck_db.json itself changing, so this workflow's own commit can't
+# re-trigger itself.
+#
+# It also does NOT cover issue-to-deck.yml's commits: a push made with the
+# default GITHUB_TOKEN never triggers another workflow (GitHub's guard against
+# recursive runs), so that workflow rebuilds the database inline itself.
 on:
   push:
     branches: [main]
