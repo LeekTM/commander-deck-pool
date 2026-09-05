@@ -1,0 +1,98 @@
+// name: Ardenn, Intrepid Archaeologist + Rograkh, Son of Rohgahh (Bracket 3)
+// source: community
+// tags: voltron, aggro, equipment, extra-combats
+// bracket: 3
+
+Commander
+1 Ardenn, Intrepid Archaeologist
+1 Rograkh, Son of Rohgahh
+
+Deck
+
+
+1 Adaptive Omnitool
+1 Bearded Axe
+1 Blackblade Reforged
+1 Bloodforged Battle-Axe
+1 Buster Sword
+1 Caduceus, Staff of Hermes
+1 Chainsaw
+1 Colossus Hammer
+1 Commander's Plate
+1 Genji Glove
+1 Golem-Skin Gauntlets
+1 Greataxe
+1 Improvised Arsenal
+1 Inquisitor's Flail
+1 Lightning Greaves
+1 Mask of Memory
+1 Masterwork of Ingenuity
+1 Mjölnir, Hammer of Thor
+1 Mox Amber
+1 Nettlecyst
+1 Ogre's Cleaver
+1 Paradise Mantle
+1 Rogue's Gloves
+1 Sol Ring
+1 Springleaf Drum
+1 Sunforger
+1 Swiftfoot Boots
+1 The Spear of Leonidas
+1 Thran Power Suit
+1 Umezawa's Jitte
+1 Wrecking Ball Arm
+1 All That Glitters
+1 Arterial Alchemy
+1 Idolized
+1 Noble Heritage
+1 Ancient Tomb
+1 Arena of Glory
+1 Arid Mesa
+1 Axgard Armory
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Fomori Vault
+1 Gemstone Caverns
+1 Inventors' Fair
+1 Marsh Flats
+1 Monumental Henge
+6 Mountain
+1 Needleverge Pathway
+8 Plains
+1 Remote Farm
+1 Rugged Prairie
+1 Sandstone Needle
+1 Slayers' Stronghold
+1 Spectator Seating
+1 Sunbaked Canyon
+1 Sunbillow Verge
+1 Urza's Saga
+1 Armored Skyhunter
+1 Combat Celebrant
+1 Gilgamesh, Master-at-Arms
+1 Lizard Blades
+1 Merry, Esquire of Rohan
+1 Nahiri, Forged in Fury
+1 Puresteel Paladin
+1 Ragavan, Nimble Pilferer
+1 Raiyuu, Storm's Edge
+1 Sram, Senior Edificer
+1 Boros Charm
+1 Galadriel's Dismissal
+1 Great Train Heist
+1 Legion Leadership
+1 Parting Gust
+1 Path to Exile
+1 Reprieve
+1 Savage Beating
+1 Sejiri Shelter
+1 Swords to Plowshares
+1 Tibalt's Trickery
+1 Valakut Awakening
+1 Divine Reckoning
+1 Overpowering Attack
+1 Relentless Assault
+1 Seize the Day
+1 Single Combat
+1 Strike It Rich
