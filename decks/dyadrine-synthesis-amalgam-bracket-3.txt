@@ -1,0 +1,95 @@
+// name: Dyadrine, Synthesis Amalgam (Bracket 3)
+// source: community
+// tags: +1/+1, tokens, combo, aggro
+// bracket: 3
+
+Commander
+1 Dyadrine, Synthesis Amalgam
+
+Deck
+
+1 Abandoned Air Temple
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Brushland
+1 Canopy Vista
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+10 Forest
+1 Fortified Village
+1 Gathering Place
+1 Horizon Canopy
+1 Hushwood Verge
+1 Overgrown Farmland
+6 Plains
+1 Prismatic Vista
+1 Sunpetal Grove
+1 Temple Garden
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+1 Abzan Falconer
+1 Agent Bishop, Man in Black
+1 Anafenza, Kin-Tree Spirit
+1 Arwen, Weaver of Hope
+1 Avacyn's Pilgrim
+1 Basking Broodscale
+1 Birds of Paradise
+1 Botanical Brawler
+1 Bristly Bill, Spine Sower
+1 Bulwark Ox
+1 Champion of Lambholt
+1 Conclave Mentor
+1 Disciple of Freyalise
+1 Duskshell Crawler
+1 Evolution Witness
+1 Forgotten Ancient
+1 Gala Greeters
+1 Good-Fortune Unicorn
+1 Haliya, Ascendant Cadet
+1 Incubation Druid
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Kodama of the West Tree
+1 Kutzil, Malamet Exemplar
+1 Leinore, Autumn Sovereign
+1 Luminarch Aspirant
+1 Managorger Hydra
+1 Ouroboroid
+1 Rishkar, Peema Renegade
+1 Shelinda, Yevon Acolyte
+1 Surrak and Goreclaw
+1 Toski, Bearer of Secrets
+1 Wakka, Devoted Guardian
+1 Warden of the Grove
+1 Witch Enchanter
+1 Arcane Signet
+1 Herd Heirloom
+1 Sol Ring
+1 Talisman of Unity
+1 The Great Henge
+1 Archdruid's Charm
+1 Beast Within
+1 Dawn's Truce
+1 Enlightened Tutor
+1 Flawless Maneuver
+1 Generous Gift
+1 Heroic Intervention
+1 Inspiring Call
+1 Path to Exile
+1 Swords to Plowshares
+1 Bridgeworks Battle
+1 Farseek
+1 Glimpse the Core
+1 Nature's Lore
+1 Rampant Growth
+1 Shared Roots
+1 Three Visits
+1 Cathars' Crusade
+1 Court of Garenbrig
+1 Felidar Retreat
+1 Hardened Scales
+1 Innkeeper's Talent
+1 Sphere Grid
+1 Terrasymbiosis
+1 Tribute to the World Tree
+1 Virtue of Loyalty
