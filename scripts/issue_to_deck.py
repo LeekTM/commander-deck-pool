@@ -23,11 +23,7 @@ from validate_deck import validate_parsed
 from deck_parser import parse_decklist_text
 from scryfall import fetch_game_changers
 
-FIELD_LABELS = {
-    "decklist": "Decklist",
-    "tags": "Tags (comma-separated)",
-    "bracket": "Bracket",
-}
+DECKLIST_LABEL = "Decklist"
 
 _HEADING_RE = re.compile(r"^###\s+(.+?)\s*$", re.MULTILINE)
 
@@ -103,40 +99,24 @@ def build_deck_text(deck_name: str, tags: str, bracket_digits: str, decklist: st
 
 def process(body: str, issue_number: int, out_dir: str) -> dict:
     fields = parse_issue_body(body)
-    decklist = _clean_value(fields.get(FIELD_LABELS["decklist"]))
-    tags_field = _clean_value(fields.get(FIELD_LABELS["tags"]))
-    bracket_field = _clean_value(fields.get(FIELD_LABELS["bracket"]))
+    decklist = _clean_value(fields.get(DECKLIST_LABEL))
 
     if not decklist:
         return {"ok": False, "errors": ["Decklist is missing."], "warnings": [], "path": None}
 
-    # The submission page embeds tags/bracket as // comments at the top of
-    # the decklist itself, because GitHub's query-param prefill has proven
-    # unreliable for the separate Tags/Bracket form fields (dropdown/input),
-    # while the decklist textarea's prefill is reliable. parse_decklist_text
-    # picks embedded metadata up the same way it would for a hand-written
-    # file. Someone filling this form out directly on GitHub (not via the
-    # page) has no embedded metadata, so fall back to the plain fields.
+    # There's no separate Tags/Bracket form field any more -- both ride as
+    # // comments at the top of the decklist itself (the submission page
+    # does this automatically; a hand-written direct-to-GitHub submission
+    # can too, per the field's description). parse_decklist_text reads
+    # those into .metadata the same way it would for a decks/*.txt file,
+    # and validate_parsed already applies a // bracket: override from
+    # .metadata internally -- bracket_digits here is only needed to decide
+    # whether the final file gets a // bracket: line at all.
     parsed = parse_decklist_text(decklist)
-    embedded_tags = parsed.metadata.get("tags", "").strip()
-    embedded_bracket = parsed.metadata.get("bracket", "").strip()
-
-    tags = embedded_tags or tags_field
-
-    # Match on "does this contain an actual 1-5 digit", not on the label
-    # text of the no-override option (has been "Auto", "Auto (recommended)",
-    # now "Calculate") -- keeps this correct across future relabels without
-    # another code change here.
-    bracket_digits = ""
-    if embedded_bracket in ("1", "2", "3", "4", "5"):
-        bracket_digits = embedded_bracket
-    else:
-        field_digits = re.sub(r"\D", "", bracket_field or "")
-        if field_digits in ("1", "2", "3", "4", "5"):
-            bracket_digits = field_digits
-            # Wasn't embedded, so re-parse with it injected the same way a
-            # hand-written file would carry it, so validate_parsed sees it.
-            parsed = parse_decklist_text(f"// bracket: {bracket_digits}\n{decklist}")
+    tags = parsed.metadata.get("tags", "").strip()
+    bracket_digits = parsed.metadata.get("bracket", "").strip()
+    if bracket_digits not in ("1", "2", "3", "4", "5"):
+        bracket_digits = ""
 
     game_changers = fetch_game_changers()
     result = validate_parsed(parsed, game_changers=game_changers)

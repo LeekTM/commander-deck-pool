@@ -17,8 +17,13 @@ body:
         Paste the exported decklist (MTGGoldfish "Exact Card Versions",
         Moxfield export, Archidekt export-to-text, or an EDHREC list all
         work). Mark your commander with a "Commander" section, or tag the
-        line with *CMDR*.
+        line with *CMDR*. To set tags or override the bracket, add
+        "// tags: your, tags" and/or "// bracket: N" as the first lines
+        (the submission page does this for you automatically).
       placeholder: |
+        // tags: superfriends, planeswalkers, grindy
+        // bracket: 4
+
         Commander
         1 Atraxa, Praetors' Voice
 
@@ -27,36 +32,5 @@ body:
         1 Arcane Signet
         ...
       render: text
-    validations:
-      required: true
-
-  - type: input
-    id: tags
-    attributes:
-      label: Tags (comma-separated)
-      description: >
-        No fixed list -- reuse a tag already used elsewhere in the pool if
-        one fits (see the submission page or browse the existing decks), or
-        make up a new one. Leave blank if you're not sure.
-      placeholder: superfriends, planeswalkers, grindy
-    validations:
-      required: false
-
-  - type: dropdown
-    id: bracket
-    attributes:
-      label: Bracket
-      description: >
-        Validate on the submission page first to see the calculated
-        bracket, then select that number here -- don't leave this on
-        "Calculate".
-      options:
-        - "Calculate"
-        - "1"
-        - "2"
-        - "3"
-        - "4"
-        - "5"
-      default: 0
     validations:
       required: true
