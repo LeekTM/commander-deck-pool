@@ -1,6 +1,6 @@
 // name: Dihada, Binder of Wills (Bracket 3)
 // source: community
-// tags: legendary, aggro
+// tags: legends, aggro
 // bracket: 3
 
 Commander

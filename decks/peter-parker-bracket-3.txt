@@ -1,6 +1,6 @@
 // name: Peter Parker (Bracket 3)
 // source: community
-// tags: tokens, legendary, bounce
+// tags: tokens, legends, bounce
 // bracket: 3
 
 Commander

@@ -101,6 +101,10 @@ function cardToInfo(card, gameChangers) {
 function isLegalCommanderCard(info) {
   const tl = info.typeLine.toLowerCase();
   if (tl.includes("legendary") && tl.includes("creature")) return true;
+  // Backgrounds are "Legendary Enchantment - Background" and carry no text
+  // granting commander status -- the permission comes from the "Choose a
+  // Background" creature they pair with, so the subtype is the only signal.
+  if (tl.includes("background")) return true;
   return info.oracleText.toLowerCase().includes("can be your commander");
 }
 
@@ -144,5 +148,31 @@ async function lookupCards(names, gameChangers) {
     if (i + SCRYFALL.BATCH_SIZE < uniqueNames.length) await sleep(SCRYFALL.DELAY_MS);
   }
 
-  return { byName, notFound };
+  // Secret Lair reskins are printed with a flavour name over a real card:
+  // "Miku, Lost but Singing" IS "Azusa, Lost but Seeking". /cards/collection
+  // matches the real name only, so retry the leftovers one at a time against
+  // /cards/named?exact=, which does match a flavour name. Deliberately exact
+  // rather than fuzzy: a genuine typo still 404s instead of being silently
+  // resolved to whatever card it happens to resemble.
+  const stillMissing = [];
+  for (const name of notFound) {
+    const resp = await fetch(
+      `${SCRYFALL.API_BASE}/cards/named?exact=${encodeURIComponent(name)}`,
+      { headers: { Accept: "application/json" } }
+    );
+    if (!resp.ok) {
+      stillMissing.push(name);
+      await sleep(SCRYFALL.DELAY_MS);
+      continue;
+    }
+    const info = cardToInfo(await resp.json(), gameChangers);
+    byName.set(info.name.toLowerCase(), info);
+    if (!byName.has(name.toLowerCase())) byName.set(name.toLowerCase(), info);
+    if (info.frontFaceName && !byName.has(info.frontFaceName.toLowerCase())) {
+      byName.set(info.frontFaceName.toLowerCase(), info);
+    }
+    await sleep(SCRYFALL.DELAY_MS);
+  }
+
+  return { byName, notFound: stillMissing };
 }

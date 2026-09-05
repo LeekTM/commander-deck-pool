@@ -16,6 +16,7 @@ from __future__ import annotations
 import json
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from dataclasses import dataclass, field
 
@@ -198,13 +199,44 @@ def lookup_cards(names: list[str], game_changers: set[str] | None = None) -> tup
         if i + COLLECTION_BATCH_SIZE < len(unique_names):
             time.sleep(REQUEST_DELAY_SECONDS)
 
+    # Secret Lair reskins are printed with a flavour name over a real card:
+    # "Miku, Lost but Singing" IS "Azusa, Lost but Seeking". /cards/collection
+    # matches the real name only, so retry the leftovers one at a time against
+    # /cards/named?exact=, which does match a flavour name. Deliberately exact
+    # rather than fuzzy: a genuine typo still 404s instead of being silently
+    # resolved to whatever card it happens to resemble.
+    if not_found:
+        still_missing = []
+        for name in not_found:
+            try:
+                card = _request_json(
+                    f"{API_BASE}/cards/named?exact={urllib.parse.quote(name)}"
+                )
+            except urllib.error.HTTPError:
+                still_missing.append(name)
+                time.sleep(REQUEST_DELAY_SECONDS)
+                continue
+
+            info = _card_to_info(card, game_changers)
+            by_name[info.name.lower()] = info
+            by_name.setdefault(name.lower(), info)
+            if info.front_face_name:
+                by_name.setdefault(info.front_face_name.lower(), info)
+            time.sleep(REQUEST_DELAY_SECONDS)
+        not_found = still_missing
+
     return by_name, not_found
 
 
 def is_legal_commander_card(info: CardInfo) -> bool:
-    """Legendary creature, or oracle text explicitly granting commander status."""
+    """Legendary creature, a Background, or text granting commander status."""
     tl = info.type_line.lower()
     if "legendary" in tl and "creature" in tl:
+        return True
+    # Backgrounds are "Legendary Enchantment - Background" and carry no text
+    # granting commander status -- the permission comes from the "Choose a
+    # Background" creature they pair with, so the subtype is the only signal.
+    if "background" in tl:
         return True
     ot = info.oracle_text.lower()
     return "can be your commander" in ot

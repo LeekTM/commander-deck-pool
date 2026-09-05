@@ -1,6 +1,6 @@
 // name: Atreus, Impulsive Son + Kratos, Stoic Father (Bracket 3)
 // source: community
-// tags: proliferate, extra-combats, aggro, legendary, experience, tribal
+// tags: proliferate, extra-combats, aggro, legends, experience, tribal
 // bracket: 3
 
 Commander
