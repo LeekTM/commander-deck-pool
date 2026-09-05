@@ -1,0 +1,105 @@
+// name: Uugguu, the Omniplasm (Bracket 3)
+// source: community
+// tags: reanimater, tribal, tokens
+// bracket: 3
+
+Commander
+1 Uugguu, the Omniplasm
+
+Deck
+
+
+1 Adrix and Nev, Twincasters
+1 Aeve, Progenitor Ooze
+1 Beast Whisperer
+1 Biowaste Blob
+1 Bloom Tender
+1 Cephalid Facetaker
+1 Chomping Changeling
+1 Clever Impersonator
+1 Flesh Duplicate
+1 Gelatinous Cube
+1 Glasspool Mimic
+1 Green Slime
+1 Hecteyes
+1 Manaplasm
+1 Metallic Mimic
+1 Mitotic Slime
+1 Mockingbird
+1 Morbid Opportunist
+1 Mutable Explorer
+1 Necrotic Ooze
+1 Ochre Jelly
+1 Omni-Changeling
+1 Oran-Rief Ooze
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Predator Ooze
+1 Prime Speaker Vannifar
+1 Ravenous Slime
+1 Roaming Throne
+1 Scavenging Ooze
+1 Sephiroth, Fabled SOLDIER
+1 Slurrk, All-Ingesting
+1 Species Specialist
+1 The Mimeoplasm
+1 Uchuulon
+1 Umori, the Collector
+1 Arcane Signet
+1 Ashnod's Altar
+1 Birthing Pod
+1 Cauldron of Essence
+1 Maskwood Nexus
+1 Skullclamp
+1 Assassin's Trophy
+1 Deadly Dispute
+1 Harmonized Crescendo
+1 Heroic Intervention
+1 Malakir Rebirth
+1 Plasm Capture
+1 Saw in Half
+1 Second Harvest
+1 Village Rites
+1 Voidslime
+1 Bloodline Bidding
+1 Convert to Slime
+1 Natural Order
+1 Neoform
+1 Raise the Palisade
+1 Reanimate
+1 Victimize
+1 Bojuka Bog
+1 Breeding Pool
+1 Command Tower
+1 Dreamroot Cascade
+1 Drowned Catacomb
+3 Forest
+1 Hedge Maze
+3 Island
+1 Llanowar Wastes
+1 Morphic Pool
+1 Mutavault
+1 Opulent Palace
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Phyrexian Tower
+1 Prismatic Vista
+1 Rejuvenating Springs
+1 Shifting Woodland
+2 Swamp
+1 Three Tree City
+1 Undercity Sewers
+1 Underground Mortuary
+1 Underground River
+1 Undergrowth Stadium
+1 Watery Grave
+1 Woodland Cemetery
+1 Yavimaya, Cradle of Growth
+1 Zagoth Triome
+1 Chthonian Nightmare
+1 Concordant Crossroads
+1 Corrupted Zendikon
+1 Cryptolith Rite
+1 Doubling Season
+1 Kindred Discovery
+1 Parallel Lives
