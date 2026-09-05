@@ -1,0 +1,105 @@
+// name: Ezio Auditore da Firenze (Bracket 3)
+// source: community
+// tags: tribal, legendary, historic
+// bracket: 3
+
+Commander
+1 Ezio Auditore da Firenze
+
+Deck
+
+1 Akroma's Will
+1 An Offer You Can't Refuse
+1 Anguished Unmaking
+1 Arcane Denial
+1 Assassin's Trophy
+1 Counterspell
+1 Crop Rotation
+1 Generous Gift
+1 Heroic Intervention
+1 Strix Serenade
+1 Swan Song
+1 Swords to Plowshares
+1 Altaïr Ibn-La'Ahad
+1 Aya of Alexandria
+1 Basim Ibn Ishaq
+1 Bayek of Siwa
+1 Birds of Paradise
+1 Captain Sisay
+1 Changeling Outcast
+1 Desmond Miles
+1 Edward Kenway
+1 Ezio, Blade of Vengeance
+1 Jhoira, Weatherlight Captain
+1 Jodah, the Unifier
+1 Layla Hassan
+1 Lotho, Corrupt Shirriff
+1 Mari, the Killing Quill
+1 Massacre Girl, Known Killer
+1 Morophon, the Boundless
+1 Olivia, Opulent Outlaw
+1 Queen Marchesa
+1 Ramses, Assassin Lord
+1 Realmwalker
+1 Roaming Throne
+1 Sisay, Weatherlight Captain
+1 The Lord of Pain
+1 Thraximundar
+1 Tree of Perdition
+1 Vein Ripper
+1 Virtus the Veiled
+1 Vraska, the Silencer
+1 Arcane Sanctum
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Breeding Pool
+1 Command Tower
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Forest
+1 Godless Shrine
+1 Hallowed Fountain
+1 Island
+1 Isolated Chapel
+1 Marsh Flats
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Plaza of Heroes
+1 Polluted Delta
+1 Reflecting Pool
+1 Sandsteppe Citadel
+1 Secluded Courtyard
+5 Swamp
+1 Tainted Field
+1 Tainted Isle
+1 The Black Gate
+1 The World Tree
+1 Turbulent Fen
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Vesuva
+1 Watery Grave
+1 Woodland Cemetery
+1 Arcane Signet
+1 Brotherhood Regalia
+1 Fellwar Stone
+1 Lightning Greaves
+1 Sol Ring
+1 Springleaf Drum
+1 Sword of Feast and Famine
+1 Wishclaw Talisman
+1 Black Market Connections
+1 Cover of Darkness
+1 Grievous Wound
+1 Kenrith's Transformation
+1 Kindred Discovery
+1 Mystic Remora
+1 Propaganda
+1 Reconnaissance
+1 Vraska Joins Up
+1 Eagle Vision
+1 Farseek
+1 Splinter's Technique
+1 Sorin Markov
