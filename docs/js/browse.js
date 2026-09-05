@@ -63,6 +63,7 @@ async function ensureCardDataFor(deck) {
     CARD_CACHE.set(name.toLowerCase(), {
       group: info ? typeGroupFor(info.typeLine) : "Other",
       image: info ? info.imageUrl : null,
+      large: info ? info.largeUrl : null,
       priceEur: info ? info.priceEur : null,
     });
   }
@@ -125,7 +126,10 @@ function visualCardsHtml(deck) {
           ? `<img src="${escapeHtml(cached.image)}" alt="${name}" title="${name}" loading="lazy" decoding="async" width="488" height="680" />`
           : `<div class="card-image-missing">${name}</div>`;
         const qty = c.q > 1 ? `<span class="card-qty">${c.q}&times;</span>` : "";
-        return `<div class="card-image">${img}${qty}</div>`;
+        const large = cached && (cached.large || cached.image);
+        // data-large drives the tap/click pop-out (delegated in wireLightbox).
+        const popout = large ? ` data-large="${escapeHtml(large)}" data-name="${name}"` : "";
+        return `<div class="card-image"${popout} tabindex="0" role="button" aria-label="Enlarge ${name}">${img}${qty}</div>`;
       }).join("");
       return `<div class="card-group">${groupHeading(group)}<div class="card-image-grid">${items}</div></div>`;
     })
@@ -227,6 +231,51 @@ function renderDecks(decks) {
 }
 
 const VIEW_PREF_KEY = "cdp_view";
+
+// -- pop-out ----------------------------------------------------------------
+// Hovering enlarges a card in place (desktop only, via CSS). Tapping or
+// clicking opens this full-size overlay, which is the only way to get a
+// readable card on touch, where there's no hover to speak of.
+
+function openLightbox(url, name) {
+  let box = document.getElementById("lightbox");
+  if (!box) {
+    box = document.createElement("div");
+    box.id = "lightbox";
+    box.className = "lightbox";
+    box.addEventListener("click", closeLightbox);
+    document.body.appendChild(box);
+  }
+  box.innerHTML = `<img src="${escapeHtml(url)}" alt="${escapeHtml(name)}" />`;
+  box.classList.add("open");
+}
+
+function closeLightbox() {
+  const box = document.getElementById("lightbox");
+  if (box) {
+    box.classList.remove("open");
+    box.innerHTML = ""; // don't keep a full-size image around once it's closed
+  }
+}
+
+function wireLightbox() {
+  // Delegated, because the deck list is re-rendered on every filter change.
+  const container = document.getElementById("decks");
+  container.addEventListener("click", (e) => {
+    const card = e.target.closest(".card-image[data-large]");
+    if (card) openLightbox(card.dataset.large, card.dataset.name);
+  });
+  container.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter" && e.key !== " ") return;
+    const card = e.target.closest(".card-image[data-large]");
+    if (!card) return;
+    e.preventDefault();
+    openLightbox(card.dataset.large, card.dataset.name);
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeLightbox();
+  });
+}
 
 function currentView() {
   const el = document.getElementById("f-view");
@@ -330,6 +379,7 @@ function wireRepoLinks() {
 
 async function init() {
   wireRepoLinks();
+  wireLightbox();
   restoreViewPref(); // before the first render, so it paints in the right view
   const status = document.getElementById("load-status");
   try {

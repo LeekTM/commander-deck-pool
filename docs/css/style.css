@@ -325,19 +325,50 @@ ul.issue-list li { margin-bottom: 0.15rem; }
   columns: auto;
 }
 
+/* Cards fan out horizontally, each overlapping the one before it, wrapping
+   to a new row when the container runs out of width. The container's
+   padding-left cancels the negative margin on whichever card starts a row,
+   so wrapped rows still line up flush with the left edge. */
 .card-image-grid {
-  display: grid;
-  /* 160px keeps cards readable on a desktop, but on a phone that's just wide
-     enough to fit only one per row -- min(...45%) drops the floor on narrow
-     screens so you always get at least two columns instead of one giant card. */
-  grid-template-columns: repeat(auto-fill, minmax(min(160px, 45%), 1fr));
-  gap: 0.6rem;
+  --card-w: 150px;
+  --card-overlap: 60px; /* how much of each card the next one covers */
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: var(--card-overlap);
+  row-gap: 0.6rem;
   margin-bottom: 1.1rem;
 }
 
 .card-image {
   position: relative;
   line-height: 0;
+  width: var(--card-w);
+  flex: 0 0 var(--card-w);
+  margin-left: calc(-1 * var(--card-overlap));
+  transition: transform 0.13s ease, filter 0.13s ease;
+  cursor: zoom-in;
+}
+
+/* Later cards sit on top of earlier ones, so the fan reads left-to-right. */
+.card-image img { box-shadow: -2px 0 6px rgba(0, 0, 0, 0.55); }
+
+/* Hover-to-enlarge is mouse-only: on touch there's no hover, and a sticky
+   :hover state after a tap would just leave a card stuck enlarged. Touch
+   users get the tap pop-out instead. */
+@media (hover: hover) and (pointer: fine) {
+  .card-image:hover,
+  .card-image:focus-visible {
+    transform: scale(1.75);
+    z-index: 10;
+    filter: drop-shadow(0 6px 18px rgba(0, 0, 0, 0.7));
+  }
+}
+
+/* Keyboard focus still needs to surface the card even on touch devices. */
+.card-image:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  z-index: 10;
 }
 
 .card-image img {
@@ -360,6 +391,31 @@ ul.issue-list li { margin-bottom: 0.15rem; }
   font-weight: 700;
   line-height: 1.4;
   color: var(--text);
+}
+
+/* Tap/click pop-out. Sized to fit the viewport on any screen, so a phone
+   gets a genuinely readable card rather than a scaled-down one. */
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(6, 7, 10, 0.88);
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  cursor: zoom-out;
+}
+
+.lightbox.open { display: flex; }
+
+.lightbox img {
+  max-width: min(460px, 92vw);
+  max-height: 92vh;
+  width: auto;
+  height: auto;
+  border-radius: 4.75% / 3.5%;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.8);
 }
 
 .card-image-missing {

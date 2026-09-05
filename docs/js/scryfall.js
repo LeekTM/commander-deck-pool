@@ -72,6 +72,9 @@ function cardToInfo(card, gameChangers) {
   const images = card.image_uris || faceImages;
   const imageUrl = images.grid || images.normal || images.large || null;
   const thumbUrl = images.thumb || images.small || imageUrl;
+  // Bigger still, for the hover/tap pop-out where the rules text has to be
+  // readable: "display" is the WebP equivalent of "large" (672x936, ~50KB).
+  const largeUrl = images.display || images.large || images.png || imageUrl;
 
   const prices = card.prices || {};
   const toPrice = (v) => (v === null || v === undefined || v === "" ? null : parseFloat(v));
@@ -80,6 +83,7 @@ function cardToInfo(card, gameChangers) {
     name: card.name,
     imageUrl,
     thumbUrl,
+    largeUrl,
     priceUsd: toPrice(prices.usd),
     priceEur: toPrice(prices.eur),
     colorIdentity,
