@@ -1,0 +1,107 @@
+// name: Esika, God of the Tree (Bracket 3)
+// source: community
+// tags: pillow-fort, upkeep, good-stuff
+// bracket: 3
+
+Commander
+1 Esika, God of the Tree
+
+Deck
+
+1 Ancient Adamantoise
+1 Archetype of Imagination
+1 Avacyn, Angel of Hope
+1 Blightsteel Colossus
+1 Consecrated Sphinx
+1 Elesh Norn, Grand Cenobite
+1 Etali, Primal Conqueror
+1 Gisela, Blade of Goldnight
+1 Koma, Cosmos Serpent
+1 Massacre Wurm
+1 Obeka, Splitter of Seconds
+1 Saryth, the Viper's Fang
+1 Serra's Emissary
+1 Sheoldred, Whispering One
+1 Sphinx of the Second Sun
+1 Summon: Bahamut
+1 The Ninth Doctor
+1 Urabrask the Hidden
+1 Worldspine Wurm
+1 Xenagos, God of Revels
+1 Anguished Unmaking
+1 Assassin's Trophy
+1 Beast Within
+1 Brainstorm
+1 Comeuppance
+1 Deadly Rollick
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Guff Rewrites History
+1 Imp's Mischief
+1 Inkshield
+1 Narset's Reversal
+1 Obscuring Haze
+1 Path to Exile
+1 Polymorphist's Jest
+1 Stroke of Midnight
+1 Sudden Spoiling
+1 Swords to Plowshares
+1 Take the Bait
+1 Teferi's Protection
+1 Arcane Signet
+1 Fellwar Stone
+1 Lithoform Engine
+1 Replicating Ring
+1 Sensei's Divining Top
+1 Strionic Resonator
+1 Blasphemous Act
+1 Damn
+1 Damnation
+1 Farseek
+1 Nature's Lore
+1 Open the Way
+1 Rishkar's Expertise
+1 Skyshroud Claim
+1 Three Visits
+1 Wrath of God
+1 Bojuka Bog
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Forbidden Orchard
+2 Forest
+1 Godless Shrine
+1 Indatha Triome
+2 Island
+1 Jetmir's Garden
+1 Ketria Triome
+1 Mana Confluence
+1 Mosswort Bridge
+1 Mountain
+1 Overgrown Tomb
+1 Plains
+1 Raffine's Tower
+1 Raugrin Triome
+1 Reflecting Pool
+1 Sacred Foundry
+1 Savai Triome
+1 Spara's Headquarters
+1 Stomping Ground
+1 Swamp
+1 Temple Garden
+1 Turbulent Fen
+1 Turbulent Moor
+1 Turbulent Springs
+1 Turbulent Steppe
+1 Turbulent Wilderness
+1 Windbrisk Heights
+1 Windswept Heath
+1 Zagoth Triome
+1 Ziatora's Proving Ground
+1 Defense of the Heart
+1 Oath of Druids
+1 Omenpath Journey
+1 Paradox Haze
+1 Sterling Grove
+1 Sylvan Library
