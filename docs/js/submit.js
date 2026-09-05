@@ -9,6 +9,25 @@ let lastComputedName = null;
 function computeDeckName(result) {
   return `${result.commanders.join(" + ")} (Bracket ${result.bracket})`;
 }
+
+// Assembles the Commander/Deck boxes into the "Commander\n...\n\nDeck\n..."
+// text the parser expects, so the user never has to type those headers
+// themselves. A commander line with no quantity prefix gets "1 " added;
+// leaving the Commander box empty falls back to using the Deck box as-is
+// (still works if someone pastes a full export, headers and all, into it).
+function buildDecklistText() {
+  const commanderRaw = document.getElementById("commander-input").value;
+  const deckRaw = document.getElementById("deck-input").value;
+
+  const commanderLines = commanderRaw
+    .split(/\r?\n/)
+    .map((l) => l.trim())
+    .filter(Boolean)
+    .map((l) => (/^\d/.test(l) ? l : `1 ${l}`));
+
+  if (commanderLines.length === 0) return deckRaw;
+  return `Commander\n${commanderLines.join("\n")}\n\nDeck\n${deckRaw}`;
+}
 const allTags = new Set();      // every tag offered as a chip (existing + newly added)
 const selectedTags = new Set(); // the subset currently toggled on
 
@@ -167,7 +186,7 @@ async function onValidate() {
   const statusEl = document.getElementById("validate-status");
   const btnValidate = document.getElementById("btn-validate");
   const btnSubmit = document.getElementById("btn-submit");
-  const decklist = document.getElementById("decklist").value;
+  const decklist = buildDecklistText();
   const bracketOverride = document.getElementById("bracket").value;
 
   if (!decklist.trim()) {
@@ -219,30 +238,28 @@ function buildIssueUrl() {
   const tags = [...selectedTags].join(", ");
 
   const bracketSel = document.getElementById("bracket");
-  const bracketDigits = bracketSel.value; // "" for Auto, else "1".."5"
-  const rawDecklist = document.getElementById("decklist").value;
+  const bracketDigits = bracketSel.value; // "" for Calculate, else "1".."5"
+  const commanderRaw = document.getElementById("commander-input").value;
+  const deckRaw = document.getElementById("deck-input").value;
 
   // GitHub's query-param prefill for dropdown/input form fields has proven
   // unreliable in practice -- Tags and Bracket showed up empty (or bled
-  // through to their placeholder text / a "None" state) even though
-  // decklist, a textarea, prefilled fine. Rather than send a param that
-  // sometimes silently fails and looks broken when it does, tags/bracket
-  // ride along ONLY as // comments at the top of the decklist text --
-  // the same header format decks/*.txt files already use, in the one field
-  // type that reliably prefills. issue_to_deck.py reads these the same way
-  // it reads a hand-written file, falling back to the separate Tags/Bracket
-  // form fields only for someone filling the GitHub form out directly
-  // without going through this page at all.
+  // through to their placeholder text / a "None" state) even though a
+  // textarea's prefill is reliable. So tags/bracket ride along as //
+  // comments at the top of the Deck field instead -- the same header
+  // format decks/*.txt files already use. issue_to_deck.py picks them up
+  // from anywhere in the combined text, position doesn't matter.
   const metaLines = [];
   if (tags) metaLines.push(`// tags: ${tags}`);
   if (bracketDigits) metaLines.push(`// bracket: ${bracketDigits}`);
-  const decklist = metaLines.length ? `${metaLines.join("\n")}\n\n${rawDecklist}` : rawDecklist;
+  const deckWithMeta = metaLines.length ? `${metaLines.join("\n")}\n\n${deckRaw}` : deckRaw;
 
   const params = new URLSearchParams();
   params.set("template", "add-deck.yml");
   params.set("labels", "deck-submission");
   params.set("title", `[Deck] ${lastComputedName}`);
-  params.set("decklist", decklist);
+  params.set("commander", commanderRaw);
+  params.set("decklist", deckWithMeta);
 
   return `https://github.com/${REPO}/issues/new?${params.toString()}`;
 }

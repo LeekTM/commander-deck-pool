@@ -98,6 +98,10 @@ textarea {
   resize: vertical;
 }
 
+textarea.small {
+  min-height: 60px;
+}
+
 button {
   background: var(--accent);
   color: #0c0d12;

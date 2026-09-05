@@ -28,23 +28,26 @@ docs/                   the submission + browse page (GitHub Pages)
 ## Adding a deck (three ways)
 
 1. **The submission page** (`docs/submit.html`, published via GitHub Pages).
-   Paste a decklist and hit Validate. It checks every card against Scryfall
-   in your browser -- typos, cards outside your commander's colour
-   identity, and cards not currently legal in Commander (flagged, not
-   blocked -- see below) -- and shows the calculated price, colours, Game
-   Changer count and bracket. Select that calculated bracket number from
-   the dropdown (it's required), pick any tags that fit, and "Submit via
-   GitHub" opens a prefilled issue; you need a GitHub account to send it.
-   There's no name or source-link field: the deck's name is generated as
-   `<Commander> (Bracket N)`.
-2. **A GitHub issue directly** -- open a "Submit a Commander deck" issue and
-   paste your decklist (it's the only field). Add tags or a bracket override
-   the same way a hand-written file would -- `// tags: ...` / `// bracket: N`
-   as the first lines -- if you want them; otherwise it computes the bracket
-   and leaves tags blank. A workflow validates it the same way the page
-   does; if something's wrong you get a comment explaining what, and no file
-   is created. If it passes, the deck file is committed automatically and
-   the database rebuilds.
+   Paste the commander's name into the Commander box and the other 99 cards
+   into the Deck box -- no need to type "Commander"/"Deck" headers or a
+   quantity for the commander, that's assembled for you -- then hit
+   Validate. It checks every card against Scryfall in your browser -- typos,
+   cards outside your commander's colour identity, and cards not currently
+   legal in Commander (flagged, not blocked -- see below) -- and shows the
+   calculated price, colours, Game Changer count and bracket. Select that
+   calculated bracket number from the dropdown (it's required), pick any
+   tags that fit, and "Submit via GitHub" opens a prefilled issue; you need
+   a GitHub account to send it. There's no name or source-link field: the
+   deck's name is generated as `<Commander> (Bracket N)`.
+2. **A GitHub issue directly** -- open a "Submit a Commander deck" issue.
+   Same two fields as the page: Commander (just the name) and Deck (the
+   other 99 cards, no header needed). Add tags or a bracket override the
+   same way a hand-written file would -- `// tags: ...` / `// bracket: N`
+   as the first lines of the Deck field -- if you want them; otherwise it
+   computes the bracket and leaves tags blank. A workflow validates it the
+   same way the page does; if something's wrong you get a comment
+   explaining what, and no file is created. If it passes, the deck file is
+   committed automatically and the database rebuilds.
 3. **A pull request** -- add `decks/your-deck-name.txt` yourself (see format
    below) and open a PR. A workflow validates it and comments the result, but
    **does not** commit `deck_db.json` for you -- that only happens once the

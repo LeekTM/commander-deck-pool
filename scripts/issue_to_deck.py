@@ -23,7 +23,8 @@ from validate_deck import validate_parsed
 from deck_parser import parse_decklist_text
 from scryfall import fetch_game_changers
 
-DECKLIST_LABEL = "Decklist"
+COMMANDER_LABEL = "Commander"
+DECKLIST_LABEL = "Deck"
 
 _HEADING_RE = re.compile(r"^###\s+(.+?)\s*$", re.MULTILINE)
 
@@ -82,6 +83,20 @@ def strip_embedded_metadata(text: str) -> str:
     return "\n".join(kept)
 
 
+def build_full_decklist(commander_raw: str, deck_raw: str) -> str:
+    """Assembles the separate Commander/Deck form fields into the
+    "Commander\\n...\\n\\nDeck\\n..." text the parser expects (mirrors
+    docs/js/submit.js's buildDecklistText()) -- so the submitter never has
+    to type those section headers themselves. An empty Commander field
+    falls back to the Deck field as-is, still supporting a full paste
+    (headers included) into that one field alone."""
+    commander_lines = [line.strip() for line in commander_raw.splitlines() if line.strip()]
+    commander_lines = [line if re.match(r"^\d", line) else f"1 {line}" for line in commander_lines]
+    if not commander_lines:
+        return deck_raw
+    return "Commander\n" + "\n".join(commander_lines) + f"\n\nDeck\n{deck_raw}"
+
+
 def build_deck_text(deck_name: str, tags: str, bracket_digits: str, decklist: str) -> str:
     lines = [
         f"// name: {deck_name}",
@@ -99,19 +114,23 @@ def build_deck_text(deck_name: str, tags: str, bracket_digits: str, decklist: st
 
 def process(body: str, issue_number: int, out_dir: str) -> dict:
     fields = parse_issue_body(body)
-    decklist = _clean_value(fields.get(DECKLIST_LABEL))
+    commander_raw = _clean_value(fields.get(COMMANDER_LABEL))
+    deck_raw = _clean_value(fields.get(DECKLIST_LABEL))
 
-    if not decklist:
+    if not deck_raw:
         return {"ok": False, "errors": ["Decklist is missing."], "warnings": [], "path": None}
 
-    # There's no separate Tags/Bracket form field any more -- both ride as
-    # // comments at the top of the decklist itself (the submission page
-    # does this automatically; a hand-written direct-to-GitHub submission
-    # can too, per the field's description). parse_decklist_text reads
-    # those into .metadata the same way it would for a decks/*.txt file,
-    # and validate_parsed already applies a // bracket: override from
-    # .metadata internally -- bracket_digits here is only needed to decide
-    # whether the final file gets a // bracket: line at all.
+    # Commander and Deck are separate form fields so the submitter never
+    # has to type "Commander"/"Deck" section headers themselves -- reunite
+    # them into the text the parser expects. Tags/bracket ride as // comments
+    # at the top of the Deck field (the submission page does this
+    # automatically; a hand-written direct-to-GitHub submission can too, per
+    # the field's description) -- parse_decklist_text picks metadata up from
+    # anywhere in the combined text, so position doesn't matter. validate_parsed
+    # already applies a // bracket: override from .metadata internally --
+    # bracket_digits here is only needed to decide whether the final file
+    # gets a // bracket: line at all.
+    decklist = build_full_decklist(commander_raw, deck_raw)
     parsed = parse_decklist_text(decklist)
     tags = parsed.metadata.get("tags", "").strip()
     bracket_digits = parsed.metadata.get("bracket", "").strip()

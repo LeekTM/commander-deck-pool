@@ -29,14 +29,20 @@
       automatically as "&lt;Commander&gt; (Bracket N)" once you validate.
     </p>
 
-    <label for="decklist">Decklist</label>
-    <textarea id="decklist" placeholder="Commander
-1 Atraxa, Praetors' Voice
+    <label for="commander-input">Commander</label>
+    <textarea id="commander-input" class="small" placeholder="Blor the Impervious"></textarea>
+    <p class="hint">
+      Just the name(s) &mdash; two lines if there's a partner pair. No need
+      to type "Commander" or a quantity, that's handled for you.
+    </p>
 
-Deck
-1 Sol Ring
+    <label for="deck-input">Deck</label>
+    <textarea id="deck-input" placeholder="1 Sol Ring
 1 Arcane Signet
 ..."></textarea>
+    <p class="hint">
+      The other 99 cards, straight from your export &mdash; no "Deck" header needed either.
+    </p>
 
     <label for="bracket">Bracket</label>
     <select id="bracket">

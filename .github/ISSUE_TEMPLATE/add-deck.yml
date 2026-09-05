@@ -4,24 +4,30 @@ title: "[Deck] "
 labels: ["deck-submission"]
 body:
   - type: textarea
+    id: commander
+    attributes:
+      label: Commander
+      description: >
+        Just the name(s) -- two lines if there's a partner pair. No need
+        to type "Commander" as a header, or a quantity: this field is
+        exactly that.
+      placeholder: |
+        Atraxa, Praetors' Voice
+    validations:
+      required: true
+
+  - type: textarea
     id: decklist
     attributes:
-      label: Decklist
+      label: Deck
       description: >
-        Paste the exported decklist (MTGGoldfish "Exact Card Versions",
-        Moxfield export, Archidekt export-to-text, or an EDHREC list all
-        work). Mark your commander with a "Commander" section, or tag the
-        line with *CMDR*. To set tags or override the bracket, add
-        "// tags: your, tags" and/or "// bracket: N" as the first lines
-        (the submission page does this for you automatically).
+        The other 99 cards, straight from your export (MTGGoldfish "Exact
+        Card Versions", Moxfield export, Archidekt export-to-text, or an
+        EDHREC list all work) -- no "Deck" header needed, set codes and
+        quantities are handled automatically. To set tags or override the
+        bracket, add "// tags: your, tags" and/or "// bracket: N" as the
+        first lines (the submission page does this for you automatically).
       placeholder: |
-        // tags: superfriends, planeswalkers, grindy
-        // bracket: 4
-
-        Commander
-        1 Atraxa, Praetors' Voice
-
-        Deck
         1 Sol Ring
         1 Arcane Signet
         ...
