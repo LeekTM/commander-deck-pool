@@ -4,11 +4,18 @@
 let ALL_DECKS = [];
 let RENDERED_DECKS = []; // the currently-filtered subset, indexed by data-i
 
-// deck_db.json deliberately stores only name + quantity per card, so card
-// types are fetched from Scryfall the first time a deck is expanded and
-// cached here (lowercase name -> group) for the rest of the session. Keeps
-// the data contract the TTS mod reads untouched.
-const TYPE_CACHE = new Map();
+// deck_db.json deliberately stores only name + quantity per card, so type,
+// image and price come from Scryfall the first time a deck is expanded and
+// are cached here (lowercase name -> {group, image, priceEur}) for the rest
+// of the session. Keeps the data contract the TTS mod reads untouched, and
+// costs no extra API calls: one /cards/collection response already carries
+// all three.
+//
+// Images themselves are hotlinked from cards.scryfall.io, which Scryfall
+// documents as having no rate limit ("The direct file origins located at
+// *.scryfall.io do not have rate limits") and serves with year-long cache
+// headers -- so we store no images ourselves and revisits cost nothing.
+const CARD_CACHE = new Map();
 
 // Display order. Creatures are never subdivided by creature subtype -- that
 // would shatter a tribal deck into dozens of one-card groups -- but the
@@ -40,30 +47,37 @@ function typeGroupFor(typeLine) {
 }
 
 function allTypesKnown(deck) {
-  return deck.cards.every((c) => TYPE_CACHE.has(c.n.toLowerCase()));
+  return deck.cards.every((c) => CARD_CACHE.has(c.n.toLowerCase()));
 }
 
-async function ensureTypesFor(deck) {
+async function ensureCardDataFor(deck) {
   const missing = deck.cards
     .map((c) => c.n)
-    .filter((n) => !TYPE_CACHE.has(n.toLowerCase()));
+    .filter((n) => !CARD_CACHE.has(n.toLowerCase()));
   if (missing.length === 0) return;
   // An empty Game Changers set is fine -- deck.gc already comes from
   // deck_db.json, so there's no need to spend a request fetching that list.
   const { byName } = await lookupCards(missing, new Set());
   for (const name of missing) {
     const info = byName.get(name.toLowerCase());
-    TYPE_CACHE.set(name.toLowerCase(), info ? typeGroupFor(info.typeLine) : "Other");
+    CARD_CACHE.set(name.toLowerCase(), {
+      group: info ? typeGroupFor(info.typeLine) : "Other",
+      image: info ? info.imageUrl : null,
+      priceEur: info ? info.priceEur : null,
+    });
   }
 }
 
-function groupedCardsHtml(deck) {
+// Splits a deck into its ordered type groups, with the commander(s) pulled
+// out of their type group into one of their own.
+function groupDeck(deck) {
   const commanders = new Set((deck.commanders || []).map((c) => c.toLowerCase()));
   const groups = new Map();
 
   for (const card of deck.cards) {
     const key = card.n.toLowerCase();
-    const group = commanders.has(key) ? "Commander" : (TYPE_CACHE.get(key) || "Other");
+    const cached = CARD_CACHE.get(key);
+    const group = commanders.has(key) ? "Commander" : ((cached && cached.group) || "Other");
     if (!groups.has(group)) groups.set(group, []);
     groups.get(group).push(card);
   }
@@ -72,9 +86,48 @@ function groupedCardsHtml(deck) {
     .filter((g) => groups.has(g))
     .map((g) => {
       const cards = groups.get(g).sort((a, b) => a.n.localeCompare(b.n));
-      const count = cards.reduce((sum, c) => sum + c.q, 0);
-      const items = cards.map((c) => `<div>${c.q}&times; ${escapeHtml(c.n)}</div>`).join("");
-      return `<div class="card-group"><h4>${g} (${count})</h4>${items}</div>`;
+      return {
+        name: g,
+        cards,
+        count: cards.reduce((sum, c) => sum + c.q, 0),
+        priceEur: cards.reduce((sum, c) => {
+          const cached = CARD_CACHE.get(c.n.toLowerCase());
+          return sum + (cached && cached.priceEur ? cached.priceEur * c.q : 0);
+        }, 0),
+      };
+    });
+}
+
+function groupHeading(group) {
+  return `<h4>${group.name} (${group.count})<span class="group-price">€${group.priceEur.toFixed(2)}</span></h4>`;
+}
+
+function groupedCardsHtml(deck) {
+  return groupDeck(deck)
+    .map((group) => {
+      const items = group.cards
+        .map((c) => `<div>${c.q}&times; ${escapeHtml(c.n)}</div>`)
+        .join("");
+      return `<div class="card-group">${groupHeading(group)}${items}</div>`;
+    })
+    .join("");
+}
+
+function visualCardsHtml(deck) {
+  return groupDeck(deck)
+    .map((group) => {
+      const items = group.cards.map((c) => {
+        const cached = CARD_CACHE.get(c.n.toLowerCase());
+        const name = escapeHtml(c.n);
+        // loading="lazy" so only the cards actually scrolled into view are
+        // ever fetched; the CDN's year-long cache headers make revisits free.
+        const img = cached && cached.image
+          ? `<img src="${escapeHtml(cached.image)}" alt="${name}" title="${name}" loading="lazy" decoding="async" width="488" height="680" />`
+          : `<div class="card-image-missing">${name}</div>`;
+        const qty = c.q > 1 ? `<span class="card-qty">${c.q}&times;</span>` : "";
+        return `<div class="card-image">${img}${qty}</div>`;
+      }).join("");
+      return `<div class="card-group">${groupHeading(group)}<div class="card-image-grid">${items}</div></div>`;
     })
     .join("");
 }
@@ -144,7 +197,7 @@ function renderDecks(decks) {
     // render flat now and regroup on first expand, so the list is never
     // blocked on a network call.
     const grouped = allTypesKnown(deck);
-    const cardsHtml = grouped ? groupedCardsHtml(deck) : flatCardsHtml(deck);
+    const cardsHtml = grouped ? cardsHtmlFor(deck) : flatCardsHtml(deck);
     const tagsHtml = (deck.tags || []).map((t) => `<span class="pill">${escapeHtml(t)}</span>`).join("");
 
     return `
@@ -162,7 +215,7 @@ function renderDecks(decks) {
           ${deck.source ? ` · ${escapeHtml(deck.source)}` : ""}
         </p>
         <div>${tagsHtml}</div>
-        <div class="deck-cardlist">${cardsHtml}</div>
+        <div class="deck-cardlist${grouped && currentView() === "visual" ? " visual" : ""}">${cardsHtml}</div>
       </details>
     `;
   }).join("");
@@ -173,6 +226,15 @@ function renderDecks(decks) {
   });
 }
 
+function currentView() {
+  const el = document.getElementById("f-view");
+  return el ? el.value : "list";
+}
+
+function cardsHtmlFor(deck) {
+  return currentView() === "visual" ? visualCardsHtml(deck) : groupedCardsHtml(deck);
+}
+
 async function onDeckToggle(el) {
   if (!el.open || el.dataset.grouped === "1" || el.dataset.loading === "1") return;
   const deck = RENDERED_DECKS[Number(el.dataset.i)];
@@ -181,11 +243,12 @@ async function onDeckToggle(el) {
   const listEl = el.querySelector(".deck-cardlist");
   el.dataset.loading = "1";
   const previous = listEl.innerHTML;
-  listEl.innerHTML = '<p class="hint">Grouping by card type...</p>';
+  listEl.innerHTML = '<p class="hint">Loading card data...</p>';
 
   try {
-    await ensureTypesFor(deck);
-    listEl.innerHTML = groupedCardsHtml(deck);
+    await ensureCardDataFor(deck);
+    listEl.innerHTML = cardsHtmlFor(deck);
+    listEl.classList.toggle("visual", currentView() === "visual");
     el.dataset.grouped = "1";
   } catch (e) {
     // Scryfall unreachable or rate-limited -- the flat list is still useful,
@@ -253,7 +316,7 @@ async function init() {
     status.textContent = `Could not load the deck database: ${e.message}`;
   }
 
-  for (const id of ["f-search", "f-bracket", "f-price", "f-colors", "f-sort"]) {
+  for (const id of ["f-search", "f-bracket", "f-price", "f-colors", "f-sort", "f-view"]) {
     document.getElementById(id).addEventListener("input", applyFilters);
   }
 }

@@ -64,11 +64,22 @@ function cardToInfo(card, gameChangers) {
     if (!typeLine) typeLine = card.card_faces[0].type_line || "";
   }
 
+  // Transform/MDFC cards carry no top-level image_uris -- each face has its
+  // own -- so fall back to the front face. "grid" is the WebP equivalent of
+  // "normal" (same 488x680, roughly half the bytes); "normal" is the JPG
+  // fallback if a card somehow lacks the WebP variant.
+  const faceImages = (card.card_faces && card.card_faces[0] && card.card_faces[0].image_uris) || {};
+  const images = card.image_uris || faceImages;
+  const imageUrl = images.grid || images.normal || images.large || null;
+  const thumbUrl = images.thumb || images.small || imageUrl;
+
   const prices = card.prices || {};
   const toPrice = (v) => (v === null || v === undefined || v === "" ? null : parseFloat(v));
 
   return {
     name: card.name,
+    imageUrl,
+    thumbUrl,
     priceUsd: toPrice(prices.usd),
     priceEur: toPrice(prices.eur),
     colorIdentity,
