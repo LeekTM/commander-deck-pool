@@ -1,0 +1,90 @@
+// name: Greensleeves (Bracket 3)
+// source: community
+// tags: landfall, graveyard
+// bracket: 3
+
+Commander
+1 Greensleeves
+
+Deck
+
+
+1 Aftermath Analyst
+1 Attuned Hunter
+1 Azusa, Lost but Seeking
+1 Bramble Familiar
+1 Craterhoof Behemoth
+1 Disciple of Freyalise
+1 Druid of Purification
+1 Elvish Reclaimer
+1 Emeritus of Abundance
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Greensleeves, Maro-Sorcerer
+1 Icetill Explorer
+1 Karametra's Acolyte
+1 Nylea, God of the Hunt
+1 Oviya, Automech Artisan
+1 Reclamation Sage
+1 Renata, Called to the Hunt
+1 Scute Swarm
+1 Six
+1 Sylvan Safekeeper
+1 Thunderfoot Baloth
+1 Timeless Witness
+1 Tireless Provisioner
+1 Titania, Nature's Force
+1 Titania, Protector of Argoth
+1 Titania, Voice of Gaea
+1 Willow Geist
+1 Archdruid's Charm
+1 Aspect of Hydra
+1 Beast Within
+1 Crop Rotation
+1 Gaea's Gift
+1 Heritage Reclamation
+1 Heroic Intervention
+1 Second Harvest
+1 Shared Summons
+1 Snakeskin Veil
+1 Tamiyo's Safekeeping
+1 Argoth, Sanctum of Nature
+1 Blighted Woodland
+1 Brokers Hideout
+1 Cabaretti Courtyard
+1 Dryad Arbor
+1 Emergence Zone
+1 Evendo, Waking Haven
+21 Forest
+1 Fountainport
+1 Lotus Field
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Nykthos, Shrine to Nyx
+1 Reliquary Tower
+1 Riveteers Overlook
+1 Shifting Woodland
+1 Bushwhack
+1 For the Common Good
+1 Life from the Loam
+1 Nature's Lore
+1 Nature's Rhythm
+1 Open the Way
+1 Overrun
+1 Splendid Reclamation
+1 Titania's Command
+1 Will of the Sultai
+1 Conduit of Worlds
+1 Esika's Chariot
+1 Hedge Shredder
+1 Idol of Oblivion
+1 Necklace of Girion
+1 Nyx Lotus
+1 Crawling Infestation
+1 Crawling Sensation
+1 Doubling Season
+1 Kenrith's Transformation
+1 Sphere Grid
+1 Tribute to the World Tree
+1 Walk-In Closet // Forgotten Cellar
+1 Wrenn and Seven
