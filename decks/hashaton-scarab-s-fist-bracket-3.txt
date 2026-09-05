@@ -1,0 +1,97 @@
+// name: Hashaton, Scarab's Fist (Bracket 3)
+// source: community
+// tags: discard
+// bracket: 3
+
+Commander
+1 Hashaton, Scarab's Fist
+
+Deck
+
+1 Accursed Duneyard
+1 Arcane Sanctum
+1 Bleachbone Verge
+1 Caves of Koilos
+1 Command Tower
+1 Deserted Beach
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Godless Shrine
+4 Island
+1 Isolated Chapel
+1 Path of Ancestry
+3 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Secluded Courtyard
+1 Shattered Sanctum
+1 Shipwreck Marsh
+1 Sunken Hollow
+8 Swamp
+1 Underground River
+1 Vault of Champions
+1 Angel of the Ruins
+1 Archfiend of Ifnir
+1 Archon of Cruelty
+1 Avacyn, Angel of Hope
+1 Bone Miser
+1 Consecrated Sphinx
+1 Cryptbreaker
+1 Death Baron
+1 Elesh Norn, Grand Cenobite
+1 Esper Sentinel
+1 Ghostly Pilferer
+1 Gleaming Overseer
+1 Kitsa, Otterball Elite
+1 Ledger Shredder
+1 Likeness Looter
+1 Lost Monarch of Ifnir
+1 Lotho, Corrupt Shirriff
+1 Malcolm, Alluring Scoundrel
+1 Massacre Wurm
+1 Metamorphosis Fanatic
+1 Mondrak, Glory Dominus
+1 Nezahal, Primal Tide
+1 Peregrine Drake
+1 Psychic Frog
+1 Putrid Imp
+1 Raffine, Scheming Seer
+1 Rona, Herald of Invasion
+1 Sheoldred, Whispering One
+1 The Queen of Dale
+1 The Scarab God
+1 Vohar, Vodalian Desecrator
+1 Witch Enchanter
+1 Witch-king of Angmar
+1 Zombie Master
+1 Animate Dead
+1 Mystic Remora
+1 On Wings of Gold
+1 Oversold Cemetery
+1 Renewed Solidarity
+1 Tortured Existence
+1 Arcane Signet
+1 Dimir Signet
+1 Matzalantli, the Great Door
+1 Monument to Endurance
+1 Orzhov Signet
+1 Palantír of Orthanc
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Bitter Triumph
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Faithful Mending
+1 Frantic Search
+1 Path to Exile
+1 Swan Song
+1 Swords to Plowshares
+1 Reanimate
+1 Sevinne's Reclamation
+1 Victimize
+1 Winternight Stories
