@@ -1,0 +1,78 @@
+// name: Istvan, Butcher of Eln (Bracket 3)
+// source: community
+// tags: voltron, equipment, triggered, sacrifice
+// bracket: 3
+
+Commander
+1 Istvan, Butcher of Eln
+
+Deck
+
+
+1 Alhammarret's Archive
+1 Bolas's Citadel
+1 Bontu's Monument
+1 Champion's Helm
+1 Crude Bent Blade
+1 Fireshrieker
+1 Genji Glove
+1 Gisa's Favorite Shovel
+1 Jet Medallion
+1 Leyline Axe
+1 Mithril Coat
+1 Panharmonicon
+1 Phantom Blade
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Darkness Crystal
+1 Whip of Erebos
+1 Whispersilk Cloak
+1 Ambition's Cost
+1 Demonic Tutor
+1 Feed the Swarm
+1 In Garruk's Wake
+1 Night's Whisper
+1 Plague Wind
+1 Read the Bones
+1 Sign in Blood
+1 Virtus's Maneuver
+1 Black Market
+1 Black Market Connections
+1 Dictate of Erebos
+1 Grave Pact
+1 Phyrexian Arena
+1 Bloodthirsty Conqueror
+1 Butcher of Malakir
+1 Crypt Ghast
+1 Dalek Drone
+1 Demon of Loathing
+1 Demon of Wailing Agonies
+1 Dread
+1 Erebos, God of the Dead
+1 Grim Haruspex
+1 Harvester of Souls
+1 K'rrik, Son of Yawgmoth
+1 Necron Deathmark
+1 Noxious Gearhulk
+1 Ob Nixilis, Unshackled
+1 Phyrexian Obliterator
+1 Pontiff of Blight
+1 Primaris Eliminator
+1 Ravenous Chupacabra
+1 Ultimo, Civilization's End
+1 Uncle Istvan
+1 Witch of the Moors
+1 Bojuka Bog
+1 Cabal Coffers
+1 Nykthos, Shrine to Nyx
+1 Rogue's Passage
+1 Shizo, Death's Storehouse
+33 Swamp
+1 Defile
+1 Imp's Mischief
+1 Liliana's Triumph
+1 Sheoldred's Edict
+1 Shriveling Rot
+1 Tragic Slip
+1 Vampiric Tutor
