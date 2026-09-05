@@ -6,12 +6,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        Prefer the [submission page](../../tree/main/docs) -- it checks your
-        decklist against Scryfall before you submit, so you'll know about
-        typos, banned cards, or colour-identity problems right away. This
-        form works too, but a bad decklist submitted here won't be added
-        until it's fixed (you'll get a comment explaining what's wrong).
-
         There's no name field -- the deck's name in the pool is generated
         automatically as "<Commander> (Bracket N)".
 

@@ -204,22 +204,28 @@ async function onValidate() {
 }
 
 function buildIssueUrl() {
+  // A tag typed into the "add new tag" box but never clicked "Add" would
+  // otherwise be silently lost on submit -- commit it now rather than
+  // dropping whatever's still sitting in that field.
+  const pendingTag = sanitizeTag(document.getElementById("tag-new-input").value);
+  if (pendingTag) selectedTags.add(pendingTag);
   const tags = [...selectedTags].join(", ");
+
   const bracketSel = document.getElementById("bracket");
-  const bracketLabel = bracketSel.value ? bracketSel.value : "Auto (recommended)";
   const bracketDigits = bracketSel.value; // "" for Auto, else "1".."5"
   const rawDecklist = document.getElementById("decklist").value;
 
   // GitHub's query-param prefill for dropdown/input form fields has proven
-  // unreliable in practice (Tags and Bracket showed up empty/default even
-  // though decklist -- a textarea -- came through fine). So tags/bracket
-  // ride along as // comments at the top of the decklist text instead --
+  // unreliable in practice -- Tags and Bracket showed up empty (or bled
+  // through to their placeholder text / a "None" state) even though
+  // decklist, a textarea, prefilled fine. Rather than send a param that
+  // sometimes silently fails and looks broken when it does, tags/bracket
+  // ride along ONLY as // comments at the top of the decklist text --
   // the same header format decks/*.txt files already use, in the one field
   // type that reliably prefills. issue_to_deck.py reads these the same way
   // it reads a hand-written file, falling back to the separate Tags/Bracket
-  // fields only for someone filling the GitHub form out directly. The
-  // separate params are still sent too, in case they do apply; embedding
-  // is just no longer the only path they can arrive by.
+  // form fields only for someone filling the GitHub form out directly
+  // without going through this page at all.
   const metaLines = [];
   if (tags) metaLines.push(`// tags: ${tags}`);
   if (bracketDigits) metaLines.push(`// bracket: ${bracketDigits}`);
@@ -229,8 +235,6 @@ function buildIssueUrl() {
   params.set("template", "add-deck.yml");
   params.set("labels", "deck-submission");
   params.set("title", `[Deck] ${lastComputedName}`);
-  params.set("tags", tags);
-  params.set("bracket", bracketLabel);
   params.set("decklist", decklist);
 
   return `https://github.com/${REPO}/issues/new?${params.toString()}`;
