@@ -1,0 +1,74 @@
+// name: Electro, Assaulting Battery (Bracket 3)
+// source: community
+// tags: combo, spellslinger, tokens, aggro, burn
+// bracket: 3
+
+Commander
+1 Electro, Assaulting Battery
+
+Deck
+
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Doubling Cube
+1 Extraplanar Lens
+1 Lightning Greaves
+1 Mind Stone
+1 Ruby Medallion
+1 Sol Ring
+1 Springleaf Drum
+1 Swiftfoot Boots
+1 Apex of Power
+1 Blasphemous Act
+1 Disrupt Decorum
+1 Gamble
+1 Grapeshot
+1 Heroes' Hangout
+1 Jeska's Will
+1 Light Up the Stage
+1 Mizzix's Mastery
+1 Overmaster
+1 Past in Flames
+1 Reforge the Soul
+1 Rite of Flame
+1 Romantic Rendezvous
+1 Snort
+1 Spitting Earth
+1 Strike It Rich
+1 Tormenting Voice
+1 Will of the Jeskai
+1 Aria of Flame
+1 Braid of Fire
+1 Price of Glory
+1 Rite of the Dragoncaller
+1 Underworld Breach
+1 Birgi, God of Storytelling
+1 Caldera Pyremaw
+1 Guttersnipe
+1 Longshot, Rebel Bowman
+1 Magus of the Wheel
+1 Runaway Steam-Kin
+1 Storm-Kiln Artist
+1 Stormshriek Feral
+1 Urabrask
+1 Young Pyromancer
+1 Burst Lightning
+1 Chaos Warp
+1 Deflecting Swat
+1 Demand Answers
+1 Desperate Ritual
+1 Galvanic Blast
+1 Galvanic Discharge
+1 Gut Shot
+1 Lightning Bolt
+1 March of Reckless Joy
+1 Mogg Salvage
+1 Redirect Lightning
+1 Seething Song
+1 Smelt
+1 Thrill of Possibility
+1 Tibalt's Trickery
+1 Unexpected Windfall
+1 Untimely Malfunction
+1 Fire Nation Palace
+36 Mountain
