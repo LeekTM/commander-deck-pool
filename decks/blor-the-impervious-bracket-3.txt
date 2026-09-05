@@ -1,0 +1,82 @@
+// name: Blor the Impervious (Bracket 3)
+// source: community
+// tags: voltron
+// bracket: 3
+
+Commander
+1 Blor the Impervious
+
+Deck
+
+1 Adaptive Omnitool
+1 Assault Suit
+1 Basilisk Collar
+1 Blackblade Reforged
+1 Buster Sword
+1 Captain America's Shield
+1 Excalibur, Sword of Eden
+1 Genji Glove
+1 Kusari-Gama
+1 Mana Vault
+1 Necklace of Girion
+1 Shadowspear
+1 Sol Ring
+1 Staff of Titania
+1 The Aetherspark
+1 The One Ring
+1 Trailblazer's Boots
+1 Wrecking Ball Arm
+1 Ancient Animus
+1 Archdruid's Charm
+1 Beast Within
+1 Berserk
+1 Choose Your Weapon
+1 Crop Rotation
+1 Fight for the Throne
+1 Fog
+1 Heroic Intervention
+1 Hunter's Insight
+1 Krosan Grip
+1 Lifestream's Blessing
+1 Obscuring Haze
+1 Primal Bellow
+1 Prizefight
+1 Ram Through
+1 Bear Umbra
+1 Blanchwood Armor
+1 Colossal Majesty
+1 Court of Garenbrig
+1 Hydra's Growth
+1 Level Up
+1 Mark of Sakiko
+1 Meltstrider's Resolve
+1 Predatory Hunger
+1 Song of the Dryads
+1 Strong Back
+1 Sylvan Library
+1 Well Rested
+1 Boseiju, Who Endures
+28 Forest
+1 Rogue's Passage
+1 Urza's Cave
+1 Urza's Saga
+1 Witch's Clinic
+1 Bristly Bill, Spine Sower
+1 Bugenhagen, Wise Elder
+1 Delighted Halfling
+1 Endurance
+1 Fanatic of Rhonas
+1 Forgotten Ancient
+1 Nantuko Mentor
+1 Silent Arbiter
+1 Tajuru Preserver
+1 Ulvenwald Tracker
+1 Contest of Claws
+1 Epic Fight
+1 Exponential Growth
+1 Harmonize
+1 Nature's Lore
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Season of Gathering
+1 Three Visits
