@@ -35,6 +35,13 @@ function sanitizeTag(raw) {
   return raw.trim().toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
 }
 
+// "artifacts, proliferate, planeswalkers" means three tags, not one. Without
+// splitting first, sanitizeTag strips the commas and glues them into a single
+// "artifacts-proliferate-planeswalkers".
+function sanitizeTagList(raw) {
+  return (raw || "").split(",").map(sanitizeTag).filter(Boolean);
+}
+
 function renderTagChips() {
   const container = document.getElementById("tag-existing");
   container.innerHTML = [...allTags].sort().map((t) => {
@@ -88,11 +95,13 @@ function findSameCommanderDecks(commanders) {
 
 function addNewTag() {
   const input = document.getElementById("tag-new-input");
-  const tag = sanitizeTag(input.value);
+  const tags = sanitizeTagList(input.value);
   input.value = "";
-  if (!tag) return;
-  allTags.add(tag);
-  selectedTags.add(tag);
+  if (tags.length === 0) return;
+  for (const tag of tags) {
+    allTags.add(tag);
+    selectedTags.add(tag);
+  }
   renderTagChips();
 }
 
@@ -233,8 +242,9 @@ function buildIssueUrl() {
   // A tag typed into the "add new tag" box but never clicked "Add" would
   // otherwise be silently lost on submit -- commit it now rather than
   // dropping whatever's still sitting in that field.
-  const pendingTag = sanitizeTag(document.getElementById("tag-new-input").value);
-  if (pendingTag) selectedTags.add(pendingTag);
+  for (const t of sanitizeTagList(document.getElementById("tag-new-input").value)) {
+    selectedTags.add(t);
+  }
   const tags = [...selectedTags].join(", ");
 
   const bracketSel = document.getElementById("bracket");
