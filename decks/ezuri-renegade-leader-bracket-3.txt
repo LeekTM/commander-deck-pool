@@ -1,0 +1,81 @@
+// name: Ezuri, Renegade Leader (Bracket 3)
+// source: community
+// tags: tribal, +1/+1, combo
+// bracket: 3
+
+Commander
+1 Ezuri, Renegade Leader
+
+Deck
+
+1 Arbor Elf
+1 Argothian Elder
+1 Beast Whisperer
+1 Circle of Dreams Druid
+1 Devoted Druid
+1 Dwynen's Elite
+1 Elderleaf Mentor
+1 Elvish Archdruid
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Elvish Skysweeper
+1 Elvish Visionary
+1 Elvish Warmaster
+1 Essence Warden
+1 Fyndhorn Elves
+1 Glistener Elf
+1 Immaculate Magistrate
+1 Imperious Perfect
+1 Joraga Warcaller
+1 Karametra's Acolyte
+1 Leaf Gilder
+1 Llanowar Elves
+1 Llanowar Tribe
+1 Marwyn, the Nurturer
+1 Masked Admirers
+1 Priest of Titania
+1 Realmwalker
+1 Reclamation Sage
+1 Rishkar, Peema Renegade
+1 Selvala, Heart of the Wilds
+1 Sylvan Messenger
+1 Sylvan Safekeeper
+1 Topiary Lecturer
+1 Viridian Corrupter
+1 Viridian Joiner
+1 Wirewood Channeler
+1 Wirewood Herald
+1 Wood Elves
+1 Yeva, Nature's Herald
+1 Blossoming Defense
+1 Crop Rotation
+1 Heroic Intervention
+1 Return of the Wildspeaker
+1 Vitalize
+1 Worldly Tutor
+1 Bounty of Skemfar
+1 Finale of Devastation
+1 Rishkar's Expertise
+1 Triumph of the Hordes
+1 Whirlwind
+1 Cavern of Souls
+1 Crystal Vein
+29 Forest
+1 Ghost Quarter
+1 Nykthos, Shrine to Nyx
+1 Wirewood Lodge
+1 Descendants' Path
+1 Elvish Guidance
+1 Leyline of Abundance
+1 Song of the Dryads
+1 Sylvan Library
+1 Tribute to the World Tree
+1 Freyalise, Llanowar's Fury
+1 Lightning Greaves
+1 Sensei's Divining Top
+1 Skullclamp
+1 Staff of Domination
+1 Swiftfoot Boots
+1 Sword of the Paruns
+1 Thousand-Year Elixir
+1 Umbral Mantle
