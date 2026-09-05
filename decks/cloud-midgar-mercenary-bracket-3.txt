@@ -1,0 +1,83 @@
+// name: Cloud, Midgar Mercenary (Bracket 3)
+// source: community
+// tags: equipment, triggered
+// bracket: 3
+
+Commander
+1 Cloud, Midgar Mercenary
+
+Deck
+
+1 Adaptive Omnitool
+1 Andúril, Flame of the West
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Bitterthorn, Nissa's Animus
+1 Brotherhood Regalia
+1 Buster Sword
+1 Captain America's Shield
+1 Commander's Plate
+1 Conqueror's Flail
+1 Excalibur, Sword of Eden
+1 Hammer of Nazahn
+1 Infiltration Lens
+1 Mithril Coat
+1 Pip-Boy 3000
+1 Pre-War Formalwear
+1 Robe of Stars
+1 Rogue's Gloves
+1 S.H.I.E.L.D. Spy Kit
+1 Shadowspear
+1 Silver Shroud Costume
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Body and Mind
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Forge and Frontier
+1 Sword of Hearth and Home
+1 Sword of the Animist
+1 Vibranium Strike Gauntlets
+1 Armored Skyhunter
+1 Balan, Wandering Knight
+1 Bastion Protector
+1 Captain America, Liberator
+1 Cid, Freeflier Pilot
+1 Codsworth, Handy Helper
+1 Esper Sentinel
+1 Loran of the Third Path
+1 Puresteel Paladin
+1 Sram, Senior Edificer
+1 Stoneforge Mystic
+1 Stonehewer Giant
+1 Zack Fair
+1 Éowyn, Lady of Rohan
+1 Avatar's Wrath
+1 Open the Armory
+1 Steelshaper's Gift
+1 Unfinished Business
+1 Buried Ruin
+1 Command Beacon
+1 Emeria, the Sky Ruin
+1 Fabled Passage
+1 Ishgard, the Holy See
+1 Monumental Henge
+1 Myriad Landscape
+27 Plains
+1 Reliquary Tower
+1 Rogue's Passage
+1 Clever Concealment
+1 Flawless Maneuver
+1 Generous Gift
+1 Path to Exile
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Forge Anew
+1 Forum Filibuster
+1 Land Tax
+1 Reconnaissance
+1 SOLDIER Military Program
+1 Sigarda's Aid
+1 Super-Soldier Serum
+1 Trouble in Pairs
