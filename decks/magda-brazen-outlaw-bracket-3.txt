@@ -1,0 +1,73 @@
+// name: Magda, Brazen Outlaw (Bracket 3)
+// source: community
+// tags: tribal, burn, treasures
+// bracket: 3
+
+Commander
+1 Magda, Brazen Outlaw
+
+Deck
+
+1 Abrade
+1 Deflecting Swat
+1 Lightning Bolt
+1 Tibalt's Trickery
+1 Ancient Copper Dragon
+1 Axgard Cavalry
+1 Changeling Wayfinder
+1 Dori, Bearer of Friends
+1 Dragonhawk, Fate's Tempest
+1 Drakuseth, Maw of Flames
+1 Dwarven Recruiter
+1 Fearless Liberator
+1 Fíli and Kíli, Joyous
+1 Gimli of the Glittering Caves
+1 Glóin the Mighty
+1 Goldspan Dragon
+1 Inferno of the Star Mounts
+1 Lathliss, Dragon Queen
+1 Leyline Tyrant
+1 Rapacious Dragon
+1 Roaming Throne
+1 Scourge of Valkas
+7 Seven Dwarves
+1 Smaug the Magnificent
+1 Terror of the Peaks
+1 Themberchaud
+1 Thorin, Company's Leader
+1 Three Tree Mascot
+1 Torbran, Thane of Red Fell
+1 Twinflame Tyrant
+1 Universal Automaton
+1 Worldgorger Dragon
+1 Wrathful Red Dragon
+1 Xorn
+1 Óin the Brave
+1 Arena of Glory
+1 Dwarven Mine
+1 Kavaron, Memorial World
+1 Mines of Moria
+31 Mountain
+1 The Lonely Mountain
+1 Valakut, the Molten Pinnacle
+1 Beamtown Beatstick
+1 Careening Mine Cart
+1 Clock of Omens
+1 Diamond Pick-Axe
+1 Firdoch Core
+1 Glittering Stockpile
+1 Liquimetal Torque
+1 Magmatic Galleon
+1 Maskwood Nexus
+1 Mithril Coat
+1 Sol Ring
+1 Springleaf Drum
+1 Swiftfoot Boots
+1 The Eternity Elevator
+1 Blasphemous Act
+1 Crackle with Power
+1 Jeska's Will
+1 Fiery Emancipation
+1 Spiteful Banditry
+1 There and Back Again
+1 Koth, Fire of Resistance
