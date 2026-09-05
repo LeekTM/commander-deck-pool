@@ -1,0 +1,105 @@
+// name: Aphelia, Viper Whisperer (Bracket 3)
+// source: community
+// tags: good-stuff, midrange, combo
+// bracket: 3
+
+Commander
+1 Aphelia, Viper Whisperer
+
+Deck
+
+1 Access Tunnel
+1 Bojuka Bog
+1 Command Tower
+1 Darkbore Pathway
+1 Deathcap Glade
+1 Escape Tunnel
+1 Exotic Orchard
+1 Fabled Passage
+4 Forest
+1 Minas Morgul, Dark Fortress
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Prismatic Vista
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rogue's Passage
+1 Shizo, Death's Storehouse
+2 Swamp
+1 Tainted Wood
+1 The Black Gate
+1 Three Tree City
+1 Twilight Mire
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Vernal Fen
+1 Wastewood Verge
+1 Woodland Cemetery
+1 Yavimaya, Cradle of Growth
+1 Ambush Viper
+1 Ankle Biter
+1 Archetype of Finality
+1 Bloodletter of Aclazotz
+1 Caustic Bronco
+1 Changeling Outcast
+1 Emeritus of Woe
+1 Enduring Tenacity
+1 Fanatic of Rhonas
+1 Fynn, the Fangbearer
+1 Hexdrinker
+1 Hooded Blightfang
+1 Hooded Hydra
+1 Lotus Cobra
+1 Mire Boa
+1 Moss Viper
+1 Ohran Frostfang
+1 Ohran Viper
+1 Pharika's Chosen
+1 Prowling Serpopard
+1 River Boa
+1 Rottenmouth Viper
+1 Sakura-Tribe Elder
+1 Seshiro the Anointed
+1 South Wind Avatar
+1 Stonecoil Serpent
+1 Tower Winder
+1 Vizier of the Menagerie
+1 Vraska, the Silencer
+1 Xathrid Gorgon
+1 Arcane Signet
+1 Brotherhood Regalia
+1 Dolmen Gate
+1 Orochi Hatchery
+1 Quietus Spike
+1 Scytheclaw
+1 Skullclamp
+1 Sol Ring
+1 Whip of Erebos
+1 Whispersilk Cloak
+1 Wishclaw Talisman
+1 Assassin's Trophy
+1 Beast Within
+1 Fell the Profane
+1 Golgari Charm
+1 Heroic Intervention
+1 Malakir Rebirth
+1 Return to Nature
+1 Revitalizing Repast
+1 Snakeskin Veil
+1 Worldly Tutor
+1 Bala Ged Recovery
+1 Diabolic Intent
+1 Grim Tutor
+1 Insatiable Avarice
+1 Kodama's Reach
+1 Profane Tutor
+1 Sosuke's Summons
+1 Beastmaster Ascension
+1 Cover of Darkness
+1 Exquisite Blood
+1 Grievous Wound
+1 Phyrexian Reclamation
+1 Snake Pit
+1 Wound Reflection
+1 Vraska, Golgari Queen
