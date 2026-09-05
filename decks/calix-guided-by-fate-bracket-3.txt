@@ -1,0 +1,90 @@
+// name: Calix, Guided by Fate (Bracket 3)
+// source: community
+// tags: enchantments, auras, +1/+1
+// bracket: 3
+
+Commander
+1 Calix, Guided by Fate
+
+Deck
+
+1 All That Glitters
+1 Alpha Authority
+1 Audacity
+1 Bear Umbra
+1 Branching Evolution
+1 Brave the Sands
+1 Brilliant Wings
+1 Canopy Cover
+1 Claim the Kingdom
+1 Court of Garenbrig
+1 Darksteel Mutation
+1 Doubling Season
+1 Enchantress's Presence
+1 Ethereal Armor
+1 Exploration
+1 Feather of Flight
+1 Ghostly Prison
+1 Grasp of Fate
+1 Hardened Scales
+1 High Score
+1 Hyena Umbra
+1 Innkeeper's Talent
+1 Kenrith's Transformation
+1 Level Up
+1 On Thin Ice
+1 Rancor
+1 Redemption Arc
+1 Sage's Reverie
+1 Shardmage's Rescue
+1 Sheltered by Ghosts
+1 Shield of the Oversoul
+1 Songbirds' Blessing
+1 Sphere Grid
+1 Spirit Mantle
+1 Strength of the Harvest
+1 Terrasymbiosis
+1 Thickest in the Thicket
+1 Utopia Sprawl
+1 Wild Growth
+1 Alseid of Life's Bounty
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Eidolon of Blossoms
+1 Jukai Naturalist
+1 Kor Spiritdancer
+1 Light-Paws, Emperor's Voice
+1 Llanowar Elves
+1 Mesa Enchantress
+1 Optimistic Scavenger
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Setessan Champion
+1 Sram, Senior Edificer
+1 Starfield Mystic
+1 Sythis, Harvest's Hand
+1 Tanglespan Lookout
+1 Weaver of Harmony
+1 Witch Enchanter
+1 Avatar's Wrath
+1 Bountiful Promenade
+1 Branchloft Pathway
+1 Brushland
+1 Canopy Vista
+1 Command Tower
+1 Fortified Village
+1 Gathering Place
+1 Hushwood Verge
+1 Lush Portico
+1 Overgrown Farmland
+1 Razorverge Thicket
+11 Snow-Covered Forest
+10 Snow-Covered Plains
+1 Sunpetal Grove
+1 Temple Garden
+1 Valgavoth's Lair
+1 Clever Concealment
+1 Path to Exile
+1 Royal Treatment
+1 Silence
+1 Swords to Plowshares
