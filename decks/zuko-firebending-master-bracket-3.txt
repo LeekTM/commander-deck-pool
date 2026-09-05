@@ -1,0 +1,82 @@
+// name: Zuko, Firebending Master (Bracket 3)
+// source: community
+// tags: voltron, aggro, spellslinger
+// bracket: 3
+
+Commander
+1 Zuko, Firebending Master
+
+Deck
+
+1 Abrade
+1 Big Score
+1 Blazing Crescendo
+1 Chaos Warp
+1 Comet Storm
+1 Commune with Lava
+1 Crossover Collaboration
+1 Cunning Maneuver
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Duelist's Flame
+1 Electrodominance
+1 Fire Magic
+1 Fire Nation Attacks
+1 Flashback
+1 Haste Magic
+1 Monstrous Rage
+1 Overwhelming Victory
+1 Redirect Lightning
+1 Return the Favor
+1 Showstopping Surprise
+1 Solstice Revelations
+1 Stun
+1 The Last Agni Kai
+1 Tibalt's Trickery
+1 Unexpected Windfall
+1 Untimely Malfunction
+1 Vivi's Persistence
+1 Wyll's Reversal
+1 Zuko's Exile
+1 Abstergo Entertainment
+1 Access Tunnel
+1 Emergence Zone
+1 Fire Nation Palace
+1 Jasmine Dragon Tea Shop
+28 Mountain
+1 Scavenger Grounds
+1 Thespian's Stage
+1 Valakut, the Molten Pinnacle
+1 Vesuva
+1 Aggravated Assault
+1 Firebender Ascension
+1 Ghitu Firebreathing
+1 The Legend of Roku
+1 Underworld Breach
+1 Ashling, Flame Dancer
+1 Avatar Roku, Firebender
+1 Electro, Assaulting Battery
+1 Emeritus of Conflict
+1 Firebending Student
+1 Hellkite Charger
+1 Leyline Tyrant
+1 Longshot, Rebel Bowman
+1 Neheb, the Eternal
+1 Professional Face-Breaker
+1 Runaway Steam-Kin
+1 Zuko, Exiled Prince
+1 Brotherhood Regalia
+1 Commander's Plate
+1 Embercleave
+1 Fire Nation Turret
+1 Helm of the Host
+1 Mithril Coat
+1 Primal Amulet
+1 Ruby Medallion
+1 Twin Blades
+1 Vibranium Strike Gauntlets
+1 Wand of Wonder
+1 Jeska's Will
+1 Past in Flames
+1 Reckless Blaze
+1 Vandalblast
