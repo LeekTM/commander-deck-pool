@@ -32,7 +32,9 @@ const allTags = new Set();      // every tag offered as a chip (existing + newly
 const selectedTags = new Set(); // the subset currently toggled on
 
 function sanitizeTag(raw) {
-  return raw.trim().toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+  // "+" and "/" are kept so counter tags like +1/+1 and -1/-1 survive;
+  // stripping them turned "+1/+1" into "11".
+  return raw.trim().toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9+/-]/g, "");
 }
 
 // "artifacts, proliferate, planeswalkers" means three tags, not one. Without

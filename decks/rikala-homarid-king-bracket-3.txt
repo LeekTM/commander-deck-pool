@@ -1,6 +1,6 @@
 // name: Rikala, Homarid King (Bracket 3)
 // source: community
-// tags: ramp, 11
+// tags: ramp, +1/+1
 // bracket: 3
 
 Commander
