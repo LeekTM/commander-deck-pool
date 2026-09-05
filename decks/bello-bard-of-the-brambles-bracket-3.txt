@@ -1,0 +1,98 @@
+// name: Bello, Bard of the Brambles (Bracket 3)
+// source: community
+// tags: aggro, artifacts, tokens, vehicles
+// bracket: 3
+
+Commander
+1 Bello, Bard of the Brambles
+
+Deck
+
+1 Arasta of the Endless Web
+1 Bane of Progress
+1 Depthshaker Titan
+1 Fanatic of Rhonas
+1 Karlach, Fury of Avernus
+1 Karn, Legacy Reforged
+1 Kodama of the East Tree
+1 Krang, Utrom Warlord
+1 Redshift, Rocketeer Chief
+1 Seedborn Muse
+1 Skitterbeam Battalion
+1 Spider Manifestation
+1 The Vision
+1 Threefold Thunderhulk
+1 Trailtracker Scout
+1 Ultron, Artificial Malevolence
+1 Virulent Silencer
+1 Arcane Signet
+1 Banner of Kinship
+1 Chimil, the Inner Sun
+1 Chronicle of Victory
+1 Cybership
+1 Esika's Chariot
+1 Hoard Hauler
+1 Knight Paladin
+1 Midnight Crusader Shuttle
+1 Mirrorworks
+1 Mithril Coat
+1 Mycosynth Lattice
+1 N'Yami-Class Mother Ship
+1 Nautiloid Ship
+1 RMS Titanic
+1 Reaver Titan
+1 Rolling Hamsphere
+1 S.H.I.E.L.D. Helicarrier
+1 Skysovereign, Consul Flagship
+1 Smuggler's Buggy
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Regalia
+1 The Thanos-Copter
+1 Thran Dynamo
+1 Thunderhawk Gunship
+1 Turtle Blimp
+1 Untethered Express
+1 Unwinding Clock
+1 Vibranium Mining Mech
+1 Weatherlight
+1 Asceticism
+1 Berserkers' Onslaught
+1 Greater Good
+1 Gruul War Chant
+1 Parallel Lives
+1 Barrier Breach
+1 Beast Within
+1 Chaos Warp
+1 Heroic Intervention
+1 Krosan Grip
+1 Return the Favor
+1 Snakeskin Veil
+1 Tamiyo's Safekeeping
+1 Tibalt's Trickery
+1 Blasphemous Act
+1 Gamble
+1 Nature's Lore
+1 Vandalblast
+1 Buried Ruin
+1 Cinder Glade
+1 City of Brass
+1 Command Tower
+1 Evendo, Waking Haven
+1 Fabled Passage
+7 Forest
+1 Great Furnace
+1 Karplusan Forest
+6 Mountain
+1 Muraganda Raceway
+1 Reliquary Tower
+1 Rockfall Vale
+1 Rootbound Crag
+1 Shifting Woodland
+1 Spire Garden
+1 Stomping Ground
+1 Temple of the False God
+1 Thornspire Verge
+1 Three Tree City
+1 Tree of Tales
+1 Wooded Foothills
