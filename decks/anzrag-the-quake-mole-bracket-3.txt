@@ -1,0 +1,97 @@
+// name: Anzrag, the Quake-Mole (Bracket 3)
+// source: community
+// tags: extra-combats, aggro, voltron, equipment
+
+Commander
+1 Anzrag, the Quake-Mole
+
+Deck
+
+1 Aggravated Assault
+1 Bear Umbra
+1 Defense of the Heart
+1 Family's Favor
+1 Fiery Emancipation
+1 Invasion Plans
+1 Lure
+1 Nature's Will
+1 Shadow in the Warp
+1 Anara, Wolvid Familiar
+1 Birds of Paradise
+1 Bloodthirster
+1 Bugenhagen, Wise Elder
+1 Delighted Halfling
+1 Elder Gargaroth
+1 Elvish Mystic
+1 Etali, Primal Storm
+1 Fanatic of Rhonas
+1 Halana and Alena, Partners
+1 Neheb, the Eternal
+1 Neyith of the Dire Hunt
+1 Selvala, Heart of the Wilds
+1 Slippery Bogbonder
+1 Spore Frog
+1 Sylvan Safekeeper
+1 Tinder Wall
+1 Vigor
+1 Xenagos, God of Revels
+1 Zhur-Taa Druid
+1 Zopandrel, Hunger Dominus
+1 Bonders' Enclave
+1 Command Beacon
+1 Command Tower
+1 Copperline Gorge
+1 Cragcrown Pathway
+1 Fire-Lit Thicket
+7 Forest
+1 Grove of the Burnwillows
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Maze of Ith
+1 Mossfire Valley
+6 Mountain
+1 Plaza of Heroes
+1 Rockfall Vale
+1 Rootbound Crag
+1 Shinka, the Bloodsoaked Keep
+1 Skarrg, the Rage Pits
+1 Spire Garden
+1 Stomping Ground
+1 Thespian's Stage
+1 Tyrite Sanctum
+1 Witch's Clinic
+1 Bridgeworks Battle
+1 Chandra's Ignition
+1 Compelled Duel
+1 Gamble
+1 Hull Breach
+1 Irresistible Prey
+1 Jeska's Will
+1 Pick Your Poison
+1 Reckless Handling
+1 Roar of Challenge
+1 You've Been Caught Stealing
+1 Collective Resistance
+1 Crop Rotation
+1 Hunter's Insight
+1 Moment's Peace
+1 Origin of Metalbending
+1 Tamiyo's Safekeeping
+1 Tyvar's Stand
+1 You Look Upon the Tarrasque
+1 Commander's Plate
+1 Cosmic Cube
+1 Darksteel Plate
+1 Dolmen Gate
+1 Hammer of Nazahn
+1 Helm of the Host
+1 Herd Heirloom
+1 Infiltration Lens
+1 Mithril Coat
+1 Power Fist
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Masamune
+1 The Reaver Cleaver
+1 Garruk, Primal Hunter
+1 Jeska, Thrice Reborn
