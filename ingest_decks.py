@@ -36,7 +36,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "scr
 from deck_parser import parse_decklist_text, aggregate_quantities
 from scryfall import (
     lookup_cards, fetch_game_changers, is_basic_land, is_legal_commander_card,
-    colors_string, compute_bracket,
+    is_companion_card, colors_string, compute_bracket,
 )
 
 
@@ -93,6 +93,7 @@ def parse_deck_file(path: str) -> dict:
         "tags": sorted({t.strip().lower() for t in deck.metadata.get("tags", "").split(",") if t.strip()}),
         "bracket_override": deck.metadata.get("bracket", "").strip(),
         "commanders": deck.commander_names(),
+        "companion": deck.companion_name(),
         "quantities": aggregate_quantities(deck.deck_cards()),
         "warnings": warnings,
         "reject": None,
@@ -110,8 +111,11 @@ def parse_deck_file(path: str) -> dict:
 
 
 def lookup_names_for(parsed: dict) -> list[str]:
-    """Every name this deck needs resolved -- its cards plus its commander(s)."""
-    return list(parsed["quantities"].keys()) + parsed["commanders"]
+    """Every name this deck needs resolved -- cards, commander(s), companion."""
+    names = list(parsed["quantities"].keys()) + parsed["commanders"]
+    if parsed.get("companion"):
+        names.append(parsed["companion"])
+    return names
 
 
 def enrich_deck(parsed: dict, by_name: dict, not_found: set[str]) -> tuple[dict | None, list[str]]:
@@ -219,6 +223,39 @@ def enrich_deck(parsed: dict, by_name: dict, not_found: set[str]) -> tuple[dict 
             if info.is_game_changer:
                 gc_count += 1
 
+    # The companion is the 101st card: it sits outside the 100, so it is
+    # resolved, checked and priced here rather than in the loop above. Almost
+    # no deck declares one; when none does, nothing here runs and the record
+    # carries no companion key at all.
+    companion_entry = None
+    companion = parsed.get("companion")
+    if companion:
+        info = by_name.get(companion.lower())
+        if info is None:
+            warnings.append(f"companion {companion!r} could not be resolved; left out")
+        else:
+            if not is_companion_card(info):
+                warnings.append(
+                    f"{companion!r} has no companion ability (flagged, not blocked)"
+                )
+            # A companion must sit inside the commander's colour identity, the
+            # same rule the 100 are held to, so it blocks the same way.
+            if (not rulebreaker and commander_identity
+                    and not set(info.color_identity).issubset(commander_identity)):
+                warnings.append(
+                    f"REJECTED: companion {companion!r} is outside the "
+                    f"commander's colour identity"
+                )
+                return None, warnings
+            companion_entry = {"n": info.name, "q": 1}
+            if info.name != companion:
+                companion_entry["as"] = companion
+                if (info.flavor_name or "").lower() == companion.lower() and info.scryfall_id:
+                    companion_entry["id"] = info.scryfall_id
+            # You have to own it to play it, so it counts toward the price.
+            price_usd += info.price_usd or 0.0
+            price_eur += info.price_eur or 0.0
+
     computed_bracket = compute_bracket(gc_count)
     override = parsed["bracket_override"]
     if override.isdigit():
@@ -246,6 +283,10 @@ def enrich_deck(parsed: dict, by_name: dict, not_found: set[str]) -> tuple[dict 
         "gc": gc_count,
         "bracket": bracket,
     }
+    # Present only when the deck actually declared one, which is almost never.
+    # An absent key leaves the record, and every consumer of it, unchanged.
+    if companion_entry is not None:
+        record["companion"] = companion_entry
     return record, warnings
 
 
@@ -272,11 +313,11 @@ def write_tts_files(tts_dir: str, db: dict, decks: list[dict]) -> None:
         )
 
     for d in decks:
+        payload = {"name": d["name"], "commanders": d["commanders"], "cards": d["cards"]}
+        if d.get("companion"):
+            payload["companion"] = d["companion"]
         with open(os.path.join(tts_dir, f"{d['slug']}.json"), "w", encoding="utf-8") as f:
-            json.dump(
-                {"name": d["name"], "commanders": d["commanders"], "cards": d["cards"]},
-                f, separators=(",", ":"), ensure_ascii=False,
-            )
+            json.dump(payload, f, separators=(",", ":"), ensure_ascii=False)
 
     # Drop files for decks that have since been deleted, so the folder can't
     # accumulate orphans the index no longer references.

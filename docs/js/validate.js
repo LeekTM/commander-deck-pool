@@ -13,6 +13,7 @@ async function validateDecklist(decklistText, gameChangers, bracketOverride) {
     warnings: [],
     bannedCards: [],
     commanders: [],
+    companion: null,
     totalCards: 0,
     priceUsd: 0,
     priceEur: 0,
@@ -43,7 +44,13 @@ async function validateDecklist(decklistText, gameChangers, bracketOverride) {
   }
   result.commanders = commanders;
 
-  const { byName, notFound } = await lookupCards([...uniqueNames, ...commanders], gameChangers);
+  // The companion is optional and almost always absent; when there is none,
+  // nothing about this lookup or the checks below changes.
+  const companion = companionName(cards);
+  const { byName, notFound } = await lookupCards(
+    [...uniqueNames, ...commanders, ...(companion ? [companion] : [])],
+    gameChangers
+  );
 
   if (notFound.length) {
     result.errors.push(`Card name(s) not recognised by Scryfall: ${[...new Set(notFound)].sort().join(", ")}`);
@@ -120,6 +127,27 @@ async function validateDecklist(decklistText, gameChangers, bracketOverride) {
       priceUsd += (info.priceUsd || 0) * qty;
       priceEur += (info.priceEur || 0) * qty;
       if (info.isGameChanger) gcCount += 1;
+    }
+  }
+
+  // The companion is the 101st card: outside the 100, so it is checked and
+  // priced here rather than in the loop above. You have to own it to play it,
+  // so it counts toward the price.
+  if (companion) {
+    const info = byName.get(companion.toLowerCase());
+    if (!info) {
+      result.warnings.push(`Companion '${companion}' was not recognised.`);
+    } else {
+      result.companion = info.name;
+      if (!isCompanionCard(info)) {
+        result.warnings.push(`'${companion}' has no companion ability (flagged, not blocked).`);
+      }
+      if (!rulebreaker && commanderIdentity.size > 0
+          && !(info.colorIdentity || []).every((c) => commanderIdentity.has(c))) {
+        result.errors.push(`Companion '${companion}' is outside the commander's colour identity.`);
+      }
+      priceUsd += info.priceUsd || 0;
+      priceEur += info.priceEur || 0;
     }
   }
 

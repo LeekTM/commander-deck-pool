@@ -26,7 +26,7 @@ SECTION_HEADERS = {
 # Sections whose cards do not count toward the 100-card deck.
 EXCLUDED_SECTIONS = {"sideboard", "maybeboard", "tokens", "companion"}
 
-METADATA_KEYS = {"name", "url", "commander", "bracket", "tags", "set", "released", "source"}
+METADATA_KEYS = {"name", "url", "commander", "companion", "bracket", "tags", "set", "released", "source"}
 
 _METADATA_RE = re.compile(r"^//\s*([a-zA-Z ]+?)\s*:\s*(.*)$")
 _SECTION_RE = re.compile(r"^([A-Za-z][A-Za-z ]*?)\s*:?\s*(?:\(\d+\))?\s*$")
@@ -71,6 +71,19 @@ class ParsedDeck:
             if n not in names:
                 names.append(n)
         return names
+
+    def companion_name(self) -> str | None:
+        """The deck's companion, if it declared one -- otherwise None.
+
+        A companion is the 101st card: it lives outside the 100, which is why
+        its section is excluded from deck_cards() and it has to be read back
+        here instead. Only ever one is legal, so a second is ignored. Written
+        either as a `Companion` section or `// companion: <name>`.
+        """
+        for c in self.cards:
+            if c.section == "companion":
+                return c.name
+        return self.metadata.get("companion", "").strip() or None
 
 
 def _strip_set_cruft(text: str) -> str:

@@ -100,6 +100,19 @@ function commanderNames(cards) {
   return names;
 }
 
+// The deck's companion, if it declared one -- otherwise null. A companion is
+// the 101st card: it lives outside the 100, which is why its section is
+// excluded from deckCards() and it has to be read back here. Only ever one is
+// legal, so a second is ignored. The `// companion:` metadata form that
+// scripts/deck_parser.py also accepts is deliberately absent here, for the
+// same reason no other `//` metadata is parsed on the page.
+function companionName(cards) {
+  for (const c of cards) {
+    if (c.section === "companion") return c.name;
+  }
+  return null;
+}
+
 function aggregateQuantities(cards) {
   const totals = new Map();
   for (const c of cards) totals.set(c.name, (totals.get(c.name) || 0) + c.quantity);

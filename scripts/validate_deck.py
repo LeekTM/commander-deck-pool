@@ -25,7 +25,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # allow running 
 from deck_parser import parse_decklist_text, aggregate_quantities
 from scryfall import (
     lookup_cards, fetch_game_changers, is_basic_land, is_legal_commander_card,
-    colors_string, compute_bracket,
+    is_companion_card, colors_string, compute_bracket,
 )
 
 
@@ -35,6 +35,7 @@ class ValidationResult:
     warnings: list[str] = field(default_factory=list)
     banned_cards: list[str] = field(default_factory=list)
     commanders: list[str] = field(default_factory=list)
+    companion: str | None = None
     total_cards: int = 0
     price_usd: float = 0.0
     price_eur: float = 0.0
@@ -67,7 +68,13 @@ def validate_parsed(deck, game_changers: set[str] | None = None) -> ValidationRe
         return result
     result.commanders = commanders
 
-    by_name, not_found = lookup_cards(unique_names + commanders, game_changers=game_changers)
+    # The companion is optional and almost always absent; when there is none,
+    # nothing about this lookup or the checks below changes.
+    companion = deck.companion_name()
+    by_name, not_found = lookup_cards(
+        unique_names + commanders + ([companion] if companion else []),
+        game_changers=game_changers,
+    )
 
     if not_found:
         result.errors.append(
@@ -153,6 +160,27 @@ def validate_parsed(deck, game_changers: set[str] | None = None) -> ValidationRe
                 gc_count += 1
         all_colors |= set(info.color_identity)
 
+    # The companion is the 101st card: outside the 100, so it is checked and
+    # priced here rather than in the loop above. You have to own it to play it,
+    # so it counts toward the price.
+    if companion:
+        info = by_name.get(companion.lower())
+        if info is None:
+            result.warnings.append(f"Companion '{companion}' was not recognised.")
+        else:
+            result.companion = info.name
+            if not is_companion_card(info):
+                result.warnings.append(
+                    f"'{companion}' has no companion ability (flagged, not blocked)."
+                )
+            if (not rulebreaker and commander_identity
+                    and not set(info.color_identity).issubset(commander_identity)):
+                result.errors.append(
+                    f"Companion '{companion}' is outside the commander's colour identity."
+                )
+            price_usd += info.price_usd or 0.0
+            price_eur += info.price_eur or 0.0
+
     result.price_usd = round(price_usd, 2)
     result.price_eur = round(price_eur, 2)
     result.colors = colors_string(all_colors)
@@ -200,6 +228,7 @@ def main():
             "warnings": result.warnings,
             "banned_cards": result.banned_cards,
             "commanders": result.commanders,
+            "companion": result.companion,
             "total_cards": result.total_cards,
             "price_usd": result.price_usd,
             "price_eur": result.price_eur,
@@ -217,6 +246,7 @@ def main():
             print(f"ERROR: {e}")
         if result.ok:
             print(f"OK: {', '.join(result.commanders)} | {result.total_cards} cards | "
+                  f"{('companion ' + result.companion + ' | ') if result.companion else ''}"
                   f"{result.colors or 'C'} | GC={result.game_changer_count} | "
                   f"bracket={result.bracket}{' (override)' if result.bracket_overridden else ''} | "
                   f"€{result.price_eur} / ${result.price_usd}")

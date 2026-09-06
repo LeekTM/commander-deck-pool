@@ -256,6 +256,14 @@ def is_legal_commander_card(info: CardInfo) -> bool:
     return "can be your commander" in ot
 
 
+def is_companion_card(info: CardInfo) -> bool:
+    """Does this card actually have a companion ability?
+
+    Scryfall puts it in keywords, the same place the Rulebreaker check reads.
+    """
+    return "companion" in {k.lower() for k in (info.keywords or ())}
+
+
 def colors_string(color_identity_letters: set[str]) -> str:
     return "".join(c for c in COLOR_ORDER if c in color_identity_letters)
 

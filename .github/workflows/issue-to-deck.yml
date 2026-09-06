@@ -120,6 +120,11 @@ jobs:
               "",
               f"- Commander(s): {', '.join(r['commanders'])}",
               f"- Cards: {r['total_cards']}",
+          ]
+          # Almost no deck has a companion; say nothing at all when none does.
+          if r.get("companion"):
+              lines.append(f"- Companion: {r['companion']}")
+          lines += [
               f"- Colours: {r['colors'] or 'Colourless'}",
               f"- Game Changers: {r['gc']}",
               f"- Bracket: {r['bracket']}" + (" (your override)" if r["bracket_overridden"] else " (computed)"),

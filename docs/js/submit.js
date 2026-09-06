@@ -154,6 +154,7 @@ function renderResults(result) {
     html += `<div class="stat-grid">
       ${statBlock("Deck name (auto)", escapeHtml(computeDeckName(result)))}
       ${statBlock("Cards", result.totalCards)}
+      ${result.companion ? statBlock("Companion", escapeHtml(result.companion)) : ""}
       ${statBlock("Colours", result.colors || "Colourless")}
       ${statBlock("Game Changers", result.gameChangerCount)}
       ${statBlock("Bracket", result.bracket + (result.bracketOverridden ? " (override)" : " (computed)"))}

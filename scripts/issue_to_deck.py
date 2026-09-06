@@ -159,6 +159,7 @@ def process(body: str, issue_number: int, out_dir: str) -> dict:
         "path": path,
         "name": deck_name,
         "commanders": result.commanders,
+        "companion": result.companion,
         "total_cards": result.total_cards,
         "price_eur": result.price_eur,
         "price_usd": result.price_usd,

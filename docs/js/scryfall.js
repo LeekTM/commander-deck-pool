@@ -108,6 +108,12 @@ function isLegalCommanderCard(info) {
   return info.oracleText.toLowerCase().includes("can be your commander");
 }
 
+// Does this card actually have a companion ability? Scryfall puts it in
+// keywords, the same place the Rulebreaker check reads.
+function isCompanionCard(info) {
+  return (info.keywords || []).some((k) => k.toLowerCase() === "companion");
+}
+
 /**
  * Looks up a batch of card names via /cards/collection.
  * Returns { byName: Map<lowercaseName, CardInfo>, notFound: string[] }.

@@ -108,10 +108,18 @@ Sideboard
   (export-to-text), and EDHREC all parse -- set codes, collector numbers, and
   `1x`-style quantities are stripped/handled automatically.
 - Section headers (`Commander`, `Deck`/`Mainboard`, `Sideboard`, `Companion`,
-  `Maybeboard`, `Tokens`) control placement. Sideboard, maybeboard, tokens and
-  companion cards don't count toward the deck.
+  `Maybeboard`, `Tokens`) control placement. Sideboard, maybeboard and tokens
+  don't count toward the deck and are otherwise ignored.
 - Mark your commander with a `Commander` section, a `*CMDR*` tag on the line,
   or `// commander: <name>` in the header -- any one of the three works.
+- **Companion (optional).** A `Companion` section, or `// companion: <name>`.
+  There is no form field for it and there never will be -- effectively no deck
+  wants one, so it stays out of the way of the ones that don't. A companion is
+  the 101st card: it doesn't count toward the 100, but it *is* validated (real
+  card, actually has a companion ability, inside the commander's colour
+  identity) and it *is* priced in, since you have to own it to play it. Decks
+  without one are completely unaffected: no field is written to
+  `deck_db.json`, and nothing changes in the TTS files.
 - Split and modal-DFC cards (`Fire // Ice`) are recognised by either the full
   name or the front face alone.
 
@@ -123,6 +131,12 @@ A submission is rejected, with the offending card(s) named, if:
 - the marked commander isn't a legendary creature and has no text granting
   commander status, or
 - any card falls outside the commander's colour identity.
+
+A companion outside the commander's colour identity is blocked, same as any
+other card -- worth knowing because it bites more often than people expect:
+Jegantha's own colour identity is all five colours, so in Commander it is only
+legal alongside a five-colour commander. A named companion that has no
+companion ability at all is flagged, not blocked.
 
 A card on the Commander banned list is **flagged, not blocked** -- the
 submission page shows it as a warning with an explicit "add it anyway"
