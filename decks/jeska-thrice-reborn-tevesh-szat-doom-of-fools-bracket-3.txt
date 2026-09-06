@@ -1,0 +1,95 @@
+// name: Jeska, Thrice Reborn + Tevesh Szat, Doom of Fools (Bracket 3)
+// source: community
+// tags: tokens, spellslinger, sacrifice, ramp
+
+Commander
+1 Jeska, Thrice Reborn
+1 Tevesh Szat, Doom of Fools
+
+Deck
+
+1 Apex of Power
+1 Call Forth the Tempest
+1 Dragon Fodder
+1 Empty the Warrens
+1 Fevered Suspicion
+1 Improvisation Capstone
+1 Jeska's Will
+1 Kari Zev's Expertise
+1 Krenko's Command
+1 Mana Geyser
+1 Mob Rule
+1 Past in Flames
+1 Seize the Spotlight
+1 Arcane Bombardment
+1 Artist's Talent
+1 Bitterblossom
+1 City on Fire
+1 Fiery Inscription
+1 Goblinslide
+1 Kaya's Ghostform
+1 Arcane Signet
+1 Ashnod's Altar
+1 Cori-Steel Cutter
+1 Helm of Awakening
+1 Jet Medallion
+1 Loki's Scepter
+1 Luxior, Giada's Gift
+1 Ruby Medallion
+1 Sol Ring
+1 Tablet of Discovery
+1 Talisman of Indulgence
+1 The Chain Veil
+1 The Fire Crystal
+1 Birgi, God of Storytelling
+1 Dragon's Rage Channeler
+1 Electro, Assaulting Battery
+1 Impulsive Pilferer
+1 Mahadi, Emporium Master
+1 Pitiless Plunderer
+1 Ragavan, Nimble Pilferer
+1 Runaway Steam-Kin
+1 Sedgemoor Witch
+1 Stingcaster Mage
+1 Storm-Kiln Artist
+1 The Vision and Scarlet Witch
+1 Warren Soultrader
+1 Young Pyromancer
+1 Blazemire Verge
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Castle Locthwain
+1 Command Tower
+1 Dragonskull Summit
+1 Karn's Bastion
+1 Luxury Suite
+9 Mountain
+1 Phyrexian Tower
+1 Raucous Theater
+1 Shizo, Death's Storehouse
+1 Sokenzan, Crucible of Defiance
+1 Spinerock Knoll
+1 Spymaster's Vault
+1 Susur Secundi, Void Altar
+6 Swamp
+1 Takenuma, Abandoned Mire
+1 The Black Gate
+1 Blood for the Blood God!
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Dispute
+1 Desperate Ritual
+1 Fury Storm
+1 Plumb the Forbidden
+1 Repeated Reverberation
+1 Return the Favor
+1 Saw in Half
+1 Seething Song
+1 Szat's Will
+1 Village Rites
+1 Chandra, Acolyte of Flame
+1 Liliana, Dreadhorde General
+1 Ob Nixilis, the Adversary
