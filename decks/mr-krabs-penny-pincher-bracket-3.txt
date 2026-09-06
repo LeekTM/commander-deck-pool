@@ -1,0 +1,82 @@
+// name: Mr. Krabs, Penny Pincher (Bracket 3)
+// source: community
+// tags: control, voltron, midrange, equipment, pillow-fort
+
+Commander
+1 Mr. Krabs, Penny Pincher
+
+Deck
+
+
+1 Academy Ruins
+1 Archway of Innovation
+1 Inventors' Fair
+28 Island
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Pit of Offerings
+1 Rogue's Passage
+1 Scavenger Grounds
+1 Urza's Saga
+1 Aetherize
+1 Archmage's Charm
+1 Counterspell
+1 Cyclonic Rift
+1 Disallow
+1 Domineering Will
+1 Fierce Guardianship
+1 Flow of Knowledge
+1 Illusionist's Gambit
+1 Mental Misstep
+1 Muddle the Mixture
+1 Negate
+1 Pongify
+1 Pull from Tomorrow
+1 Rapid Hybridization
+1 Reality Shift
+1 Reins of Power
+1 Resculpt
+1 Sink into Stupor
+1 Slip Out the Back
+1 Twisted Image
+1 Whirlwind Denial
+1 Arcane Signet
+1 Basilisk Collar
+1 Bitterthorn, Nissa's Animus
+1 Blackblade Reforged
+1 Caged Sun
+1 Commander's Plate
+1 Crawlspace
+1 Fireshrieker
+1 Gauntlet of Power
+1 Haunted Cloak
+1 Midnight Clock
+1 Mind Stone
+1 Mithril Coat
+1 Sapphire Medallion
+1 Stone of Erech
+1 Strata Scythe
+1 Surveyor's Scope
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Thought Vessel
+1 Wayfarer's Bauble
+1 Winged Boots
+1 Fabricate
+1 Flow of Ideas
+1 Lórien Revealed
+1 Silver Scrutiny
+1 Whelming Wave
+1 Hullbreaker Horror
+1 Nezahal, Primal Tide
+1 Omen Hawker
+1 PuPu UFO
+1 Scourge of Fleets
+1 Serpent of Yawning Depths
+1 Spawning Kraken
+1 Thassa, God of the Sea
+1 Walking Atlas
+1 Insight
+1 Propaganda
+1 Security Bypass
+1 Vanishing
