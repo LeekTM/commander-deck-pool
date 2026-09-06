@@ -1,0 +1,108 @@
+// name: Breya, Etherium Shaper (Bracket 3)
+// source: community
+// tags: burn, artifacts, aristocrats, tokens, midrange
+
+Commander
+1 Breya, Etherium Shaper
+
+Deck
+
+1 Academy Ruins
+1 Adarkar Wastes
+1 Ancient Tomb
+1 Arcane Sanctum
+1 Command Tower
+1 Crumbling Necropolis
+1 Dust Bowl
+1 Exotic Orchard
+1 Gemstone Caverns
+1 Glimmervoid
+1 Godless Shrine
+1 Grand Coliseum
+1 Hallowed Fountain
+1 High Market
+1 Inventors' Fair
+1 Island
+1 Mirrex
+1 Mystic Monastery
+1 Otawara, Soaring City
+1 Path of Ancestry
+1 Plains
+1 Power Depot
+1 Sacred Foundry
+1 Scavenger Grounds
+1 Scene of the Crime
+1 Shivan Reef
+1 Spire of Industry
+1 Steam Vents
+1 Swamp
+1 Temple of Deceit
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Treasure Vault
+1 Underground River
+1 Urza's Saga
+1 Watery Grave
+1 Agent of the Iron Throne
+1 Mirrodin Besieged
+1 Phyrexian Arena
+1 Skrelv's Hive
+1 Weapons Manufacturing
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Disenchant
+1 Dispel
+1 Force of Will
+1 Frantic Search
+1 Arcane Signet
+1 Chromatic Lantern
+1 Collector's Vault
+1 Cryogen Relic
+1 Esoteric Duplicator
+1 Oni-Cult Anvil
+1 Sculpting Steel
+1 Simulacrum Synthesizer
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Progress
+1 Worldwalker Helm
+1 Artificer's Assistant
+1 Bronze Guardian
+1 Cayth, Famed Mechanist
+1 Crime Novelist
+1 Disciple of the Vault
+1 Etherium Sculptor
+1 Forensic Gadgeteer
+1 Generous Plunderer
+1 Jan Jansen, Chaos Crafter
+1 Kappa Cannoneer
+1 Marionette Apprentice
+1 Master of Etherium
+1 Oltec Matterweaver
+1 Ornithopter of Paradise
+1 Osgir, the Reconstructor
+1 Phyrexian Metamorph
+1 Pinnacle Emissary
+1 Sai, Master Thopterist
+1 Sharding Sphinx
+1 Solemn Simulacrum
+1 Spellskite
+1 Stridehangar Automaton
+1 Teysa Karlov
+1 Urza, Chief Artificer
+1 Urza, Lord High Artificer
+1 Beyond the Quiet
+1 Damn
+1 Fabricate
+1 Faithless Looting
+1 Insatiable Avarice
+1 Organic Extinction
+1 Profane Tutor
+1 Reckless Handling
+1 Vindicate
+1 Winds of Abandon
+1 Tezzeret the Seeker
+1 Tezzeret, Master of the Bridge
