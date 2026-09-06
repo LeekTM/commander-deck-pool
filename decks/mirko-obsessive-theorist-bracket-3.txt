@@ -1,0 +1,103 @@
+// name: Mirko, Obsessive Theorist (Bracket 3)
+// source: community
+// tags: surveil, self-mill, reanimater
+// bracket: 3
+
+Commander
+1 Mirko, Obsessive Theorist
+
+Deck
+
+1 Accursed Duneyard
+1 Arid Archway
+1 Bojuka Bog
+1 Clearwater Pathway
+1 Command Tower
+1 Conduit Pylons
+1 Dimir Aqueduct
+1 Dismal Backwater
+1 Drowned Catacomb
+1 Endless Sands
+1 Field of the Dead
+1 Fountainport
+1 Geier Reach Sanitarium
+1 Hidden Grotto
+4 Island
+1 Lazotep Quarry
+1 Nesting Grounds
+1 Phyrexian Tower
+1 Sinister Hideout
+1 Soured Springs
+1 Strip Mine
+1 Susur Secundi, Void Altar
+4 Swamp
+1 Takenuma, Abandoned Mire
+1 Three Tree City
+1 Tocasia's Dig Site
+1 Undercity Sewers
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Arcane Signet
+1 Blade of the Bloodchief
+1 Candlestick
+1 Conjurer's Closet
+1 Cursecloth Wrappings
+1 Moxite Refinery
+1 Nim Deathmantle
+1 Phyrexian Altar
+1 Power Conduit
+1 Ring of Evos Isle
+1 Sol Ring
+1 Tarrian's Journal
+1 Wand of Orcus
+1 Beseech the Mirror
+1 Blasphemous Edict
+1 Bloodline Bidding
+1 Buried Alive
+1 Callous Dismissal
+1 Diabolic Intent
+1 Dread Return
+1 Lively Dirge
+1 Reanimate
+1 Victimize
+1 Case of the Shifting Visage
+1 Curse of the Restless Dead
+1 Dreadhorde Invasion
+1 Endless Ranks of the Dead
+1 Gossip's Talent
+1 Necroduality
+1 Open the Graves
+1 Cleaver Skaab
+1 Death Baron
+1 Diregraf Captain
+1 Eloise, Nephalia Sleuth
+1 Fain, the Broker
+1 Geralf, Visionary Stitcher
+1 Ghoulcaller Gisa
+1 Gisa, the Hellraiser
+1 Gleaming Overseer
+1 Grave Researcher
+1 Grave Titan
+1 Gray Merchant of Asphodel
+1 Heirloom Auntie
+1 Jadar, Ghoulcaller of Nephalia
+1 Lord of the Accursed
+1 Mikaeus, the Unhallowed
+1 O'aka, Traveling Merchant
+1 Soul Diviner
+1 The Scarab God
+1 Twilight Diviner
+1 Umbral Collar Zealot
+1 Vizier of the Scorpion
+1 Wilhelt, the Rotcleaver
+1 Zombie Master
+1 Clockspinning
+1 Culling the Weak
+1 Don't Make a Sound
+1 Entomb
+1 Ephara's Dispersal
+1 Lazotep Plating
+1 Pile On
+1 Sink into Stupor
+1 Liliana, Death's Majesty
