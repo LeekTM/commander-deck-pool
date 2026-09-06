@@ -1,0 +1,91 @@
+// name: Atla Palani, Nest Tender (Bracket 3)
+// source: community
+// tags: ramp, good-stuff
+
+Commander
+1 Atla Palani, Nest Tender
+
+Deck
+
+1 Altar of Dementia
+1 Arcane Signet
+1 Fellwar Stone
+1 Idol of Oblivion
+1 Lightning Greaves
+1 Skullclamp
+1 Sol Ring
+1 Spawning Pit
+1 Swiftfoot Boots
+1 Talisman of Conviction
+1 Talisman of Impulse
+1 Talisman of Unity
+1 Ancient Adamantoise
+1 Ancient Gold Dragon
+1 Apex Altisaur
+1 Blightsteel Colossus
+1 Darksteel Colossus
+1 Elesh Norn, Grand Cenobite
+1 Etali, Primal Conqueror
+1 Gisela, Blade of Goldnight
+1 Greater Gargadon
+1 Jumbo Cactuar
+1 Reya Dawnbringer
+1 Seedborn Muse
+1 Serra's Emissary
+1 Stonehoof Chieftain
+1 Terror of the Peaks
+1 Titan of Industry
+1 Verdant Sun's Avatar
+1 Worldspine Wurm
+1 Zopandrel, Hunger Dominus
+1 Annie Joins Up
+1 Aura Shards
+1 Garruk's Uprising
+1 Goblin Bombardment
+1 Parallel Lives
+1 Pattern of Rebirth
+1 Rhythm of the Wild
+1 Spidersilk Armor
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Diamond City
+1 Exotic Orchard
+1 Forbidden Orchard
+9 Forest
+1 High Market
+1 Mossfire Valley
+6 Mountain
+1 Overgrown Farmland
+5 Plains
+1 Rootbound Crag
+1 Sacred Foundry
+1 Spectator Seating
+1 Stomping Ground
+1 Sunpetal Grove
+1 Temple Garden
+1 Wooded Foothills
+1 Collective Resistance
+1 Erode
+1 Krosan Grip
+1 Nature's Claim
+1 Orim's Thunder
+1 Path to Exile
+1 Personify
+1 Reprieve
+1 Restoration Magic
+1 Return of the Wildspeaker
+1 Sundering Growth
+1 Swords to Plowshares
+1 Tamiyo's Safekeeping
+1 Worldly Tutor
+1 Farseek
+1 Gaea's Blessing
+1 Green Sun's Zenith
+1 Nature's Lore
+1 Promise of Loyalty
+1 Rampant Growth
+1 Road of Return
+1 Shared Roots
