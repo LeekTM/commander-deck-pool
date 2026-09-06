@@ -1,0 +1,104 @@
+// name: Urza, Lord Protector (Bracket 3)
+// source: community
+// tags: artifacts, control
+
+Commander
+1 Urza, Lord Protector
+
+Deck
+
+1 Academy Ruins
+1 Adarkar Wastes
+1 Ancient Den
+1 Archway of Innovation
+1 Azorius Chancery
+1 Command Tower
+1 Demolition Field
+1 Deserted Beach
+1 Flooded Strand
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Inventors' Fair
+4 Island
+1 Meticulous Archive
+1 Minas Tirith
+1 Monumental Henge
+2 Plains
+1 Planar Nexus
+1 Razortide Bridge
+1 Reliquary Tower
+1 Sea of Clouds
+1 Seat of the Synod
+1 Urza's Cave
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Saga
+1 Urza's Tower
+1 Urza's Workshop
+1 Uthros, Titanic Godcore
+1 Access Denied
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Frantic Search
+1 Generous Gift
+1 Holy Day
+1 Mandate of Peace
+1 Path to Exile
+1 Rewind
+1 Sink into Stupor
+1 Snap
+1 Swords to Plowshares
+1 Adaptive Omnitool
+1 Arcane Signet
+1 Bident of Thassa
+1 Cosmic Cube
+1 Crystal Skull, Isu Spyglass
+1 Fabrication Foundry
+1 Insight Engine
+1 King Solomon's Frogs
+1 Midnight Clock
+1 Moonsilver Key
+1 Nettlecyst
+1 Nexus of Becoming
+1 Salvation Engine
+1 Shorikai, Genesis Engine
+1 Simulacrum Synthesizer
+1 Sol Ring
+1 The Mightstone and Weakstone
+1 Thought Vessel
+1 Thran Dynamo
+1 Unstable Glyphbridge
+1 Uthros Research Craft
+1 Worldwalker Helm
+1 Artificer Class
+1 Gleaming Splendor
+1 Propaganda
+1 Rhystic Study
+1 Bard, King of Dale
+1 Cyberdrive Awakener
+1 Dauntless Scrapbot
+1 Emry, Lurker of the Loch
+1 Enduring Curiosity
+1 Glasspool Mimic
+1 Kappa Cannoneer
+1 Liberator, Urza's Battlethopter
+1 Myr Battlesphere
+1 Ornithopter of Paradise
+1 Padeem, Consul of Innovation
+1 Phyrexian Metamorph
+1 Sai, Master Thopterist
+1 Sharding Sphinx
+1 Shimmer Dragon
+1 Shuri, Wakandan Inventor
+1 Stridehangar Automaton
+1 Thought Monitor
+1 Ultron, Artificial Malevolence
+1 Whirler Rogue
+1 Witch Enchanter
+1 Practiced Offense
+1 Stock Up
+1 Teferi, Who Slows the Sunset
+1 Tezzeret, Betrayer of Flesh
+1 Tezzeret, Cruel Captain
