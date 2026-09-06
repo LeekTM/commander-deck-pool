@@ -1,0 +1,93 @@
+// name: Kambal, Consul of Allocation (Bracket 3)
+// source: community
+// tags: lifegain, lifedrain, good-stuff, aristocrats
+// bracket: 3
+
+Commander
+1 Kambal, Consul of Allocation
+
+Deck
+
+1 Anguished Unmaking
+1 Baleful Mastery
+1 Brave the Elements
+1 Dark Ritual
+1 Despark
+1 Dire Tactics
+1 Fracture
+1 Galadriel's Dismissal
+1 Inkshield
+1 Path to Exile
+1 Swords to Plowshares
+1 Vanishing Verse
+1 Village Rites
+1 Arcane Lighthouse
+1 Brightclimb Pathway
+1 Caves of Koilos
+1 City of Brass
+1 Command Tower
+1 Concealed Courtyard
+1 Eiganjo, Seat of the Empire
+1 Godless Shrine
+1 Isolated Chapel
+1 Mana Confluence
+1 Marsh Flats
+9 Plains
+1 Secluded Steppe
+1 Silent Clearing
+1 Strip Mine
+9 Swamp
+1 Tainted Field
+1 Takenuma, Abandoned Mire
+1 Temple of Silence
+1 Vault of Champions
+1 Vault of the Archangel
+1 Arcane Signet
+1 Charcoal Diamond
+1 Crawlspace
+1 Fellwar Stone
+1 Marble Diamond
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Hierarchy
+1 The One Ring
+1 Archon of Justice
+1 Ashen Rider
+1 Athreos, God of Passage
+1 Crypt Ghast
+1 Dauthi Voidwalker
+1 Divinity of Pride
+1 Enduring Tenacity
+1 Exemplar of Light
+1 Felidar Sovereign
+1 Grand Abolisher
+1 Gray Merchant of Asphodel
+1 High Priest of Penance
+1 Kambal, Profiteering Mayor
+1 Karlov of the Ghost Council
+1 Leonin Warleader
+1 Lotho, Corrupt Shirriff
+1 Nighthawk Scavenger
+1 Ophiomancer
+1 Orcish Bowmasters
+1 Remorseful Cleric
+1 Serene Master
+1 Serra Ascendant
+1 Serra Avatar
+1 Sunscorch Regent
+1 The Queen of Dale
+1 Vizkopa Guildmage
+1 Vona, Butcher of Magan
+1 Weathered Wayfarer
+1 Blind Obedience
+1 Darksteel Mutation
+1 Phyrexian Arena
+1 Damn
+1 Debt to the Deathless
+1 Demonic Tutor
+1 Night's Whisper
+1 Persist
+1 Reanimate
+1 Sign in Blood
+1 Toxic Deluge
+1 Sorin, Lord of Innistrad
