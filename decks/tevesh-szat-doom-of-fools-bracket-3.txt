@@ -1,6 +1,6 @@
 // name: Tevesh Szat, Doom of Fools (Bracket 3)
 // source: community
-// tags: sacrifice
+// tags: sacrifice, salty
 // bracket: 3
 
 Commander
