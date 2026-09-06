@@ -1,0 +1,95 @@
+// name: Atraxa, Praetors' Voice (Bracket 2)
+// source: community
+// tags: +1/+1, infect, tribal, control
+
+Commander
+1 Atraxa, Praetors' Voice
+
+Deck
+
+1 Akroma's Will
+1 Assassin's Trophy
+1 Blight Rot
+1 Dismember
+1 Last Gasp
+1 Path to Exile
+1 Prologue to Phyresis
+1 Radstorm
+1 Snakeskin Veil
+1 Swords to Plowshares
+1 Tainted Strike
+1 Vraska's Fall
+1 Arcane Signet
+1 Grafted Exoskeleton
+1 Mind Stone
+1 Sol Ring
+1 Arwen, Mortal Queen
+1 Atraxa, Grand Unifier
+1 Birds of Paradise
+1 Blightbelly Rat
+1 Blightsteel Colossus
+1 Branchblight Stalker
+1 Delighted Halfling
+1 Elvish Archdruid
+1 Emeritus of Abundance
+1 Evolution Sage
+1 Ezuri, Stalker of Spheres
+1 Formidable Speaker
+1 Glissa Sunslayer
+1 Glistener Elf
+1 High Perfect Morcant
+1 Ichor Rats
+1 Llanowar Dead
+1 Llanowar Elves
+1 Llanowar Loamspeaker
+1 Master Biomancer
+1 Pollenbright Druid
+1 Reclamation Sage
+1 Rhys, the Evermore
+1 Rishkar, Peema Renegade
+1 Skemfar Avenger
+1 Three Tree Rootweaver
+1 Tromell, Seymour's Butler
+1 Tyvar the Bellicose
+1 Urborg Elf
+1 Viridian Corrupter
+1 Breeding Pool
+1 Canopy Vista
+1 City of Brass
+1 Command Tower
+1 Dreamroot Cascade
+1 Evolving Wilds
+7 Forest
+1 Golgari Guildgate
+1 Hallowed Fountain
+3 Island
+1 Opulent Palace
+1 Orzhov Guildgate
+1 Overgrown Tomb
+3 Plains
+1 Prairie Stream
+1 Sandsteppe Citadel
+1 Shattered Sanctum
+1 Sodden Verdure
+4 Swamp
+1 Temple Garden
+1 Terramorphic Expanse
+1 Vernal Fen
+1 Watery Grave
+1 Woodland Cemetery
+1 Contentious Plan
+1 Cultivate
+1 Drown in Ichor
+1 Farseek
+1 Harmonize
+1 Infectious Inquiry
+1 Mind into Matter
+1 Night's Whisper
+1 Pact of the Serpent
+1 Phyresis Outbreak
+1 Practiced Offense
+1 Tezzeret's Gambit
+1 Thirsting Roots
+1 Triumph of the Hordes
+1 Defense of the Heart
+1 Vraska, Betrayal's Sting
