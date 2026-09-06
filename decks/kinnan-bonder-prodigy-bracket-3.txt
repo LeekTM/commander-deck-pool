@@ -1,6 +1,6 @@
 // name: Kinnan, Bonder Prodigy (Bracket 3)
 // source: community
-// tags: eldrazi, mana-dorks
+// tags: eldrazi, mana-dorks, big-mana
 // bracket: 3
 
 Commander
