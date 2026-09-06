@@ -1,0 +1,109 @@
+// name: Sisay, Weatherlight Captain (Bracket 3)
+// source: community
+// tags: good-stuff, planeswalkers, toolbox, historic, control, midrange, tempo
+// bracket: 3
+
+Commander
+1 Sisay, Weatherlight Captain
+
+Deck
+
+1 Aminatou, the Fateshifter
+1 Ashiok, Dream Render
+1 Chandra, Awakened Inferno
+1 Nicol Bolas, Dragon-God
+1 Nicol Bolas, God-Pharaoh
+1 Nicol Bolas, Planeswalker
+1 Nicol Bolas, the Deceiver
+1 Oko, Thief of Crowns
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Time Raveler
+1 Wrenn and Six
+1 Anafenza, the Foremost
+1 Avacyn's Pilgrim
+1 Birds of Paradise
+1 Bloom Tender
+1 Elvish Mystic
+1 Hapatra, Vizier of Poisons
+1 Ignoble Hierarch
+1 Kambal, Consul of Allocation
+1 Kethis, the Hidden Hand
+1 Lavinia, Azorius Renegade
+1 Mangara of Corondor
+1 Nicol Bolas, the Ravager
+1 Noble Hierarch
+1 Reki, the History of Kamigawa
+1 Shalai, Voice of Plenty
+1 Sheoldred, Whispering One
+1 Vorinclex, Monstrous Raider
+1 Approach of the Second Sun
+1 Day of Judgment
+1 Kamahl's Druidic Vow
+1 Primevals' Glorious Rebirth
+1 Ruinous Ultimatum
+1 Supreme Verdict
+1 Time Wipe
+1 Toxic Deluge
+1 Urza's Ruinous Blast
+1 Arcane Signet
+1 Blackblade Reforged
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Lightning Greaves
+1 Lithoform Engine
+1 Mox Amber
+1 Relic of Legends
+1 Sol Ring
+1 Sword of the Chosen
+1 Talisman of Curiosity
+1 Talisman of Hierarchy
+1 Talisman of Resilience
+1 Timeless Lotus
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Fabled Passage
+1 Flooded Strand
+1 Forest
+1 Godless Shrine
+1 Hallowed Fountain
+1 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+1 Overgrown Tomb
+1 Plains
+1 Plaza of Heroes
+1 Polluted Delta
+1 Raugrin Triome
+1 Rogue's Passage
+1 Sacred Foundry
+1 Savai Triome
+1 Scalding Tarn
+1 Steam Vents
+1 Stomping Ground
+1 Swamp
+1 Temple Garden
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Cyclonic Rift
+1 Deadly Rollick
+1 Path to Exile
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Flowering of the White Tree
+1 Oath of Chandra
+1 Oath of Gideon
+1 Oath of Jace
+1 Oath of Kaya
+1 Oath of Liliana
+1 Oath of Nissa
+1 Oath of Teferi
+1 Smothering Tithe
