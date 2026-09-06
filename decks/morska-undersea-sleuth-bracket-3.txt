@@ -1,0 +1,103 @@
+// name: Morska, Undersea Sleuth (Bracket 3)
+// source: community
+// tags: tokens, +1/+1, card-draw, clues
+// bracket: 3
+
+Commander
+1 Morska, Undersea Sleuth
+
+Deck
+
+1 Academy Manufactor
+1 Adrix and Nev, Twincasters
+1 Alandra, Sky Dreamer
+1 Bard, King of Dale
+1 Belladonna Took
+1 Bennie Bracks, Zoologist
+1 Chulane, Teller of Tales
+1 Detective of the Month
+1 Erdwal Illuminator
+1 Faerie Mastermind
+1 Homunculus Horde
+1 Ironheart, Clever Champion
+1 Jaheira, Friend of the Forest
+1 Jolrael, Mwonvuli Recluse
+1 Junk Winder
+1 Kappa Cannoneer
+1 Kellan, Inquisitive Prodigy
+1 Koma, Cosmos Serpent
+1 Krang, the All-Powerful
+1 Kutzil, Malamet Exemplar
+1 Lonis, Cryptozoologist
+1 Martha Jones
+1 Merchant of Truth
+1 Mister Fantastic, Reed Richards
+1 Mutagen Man, Living Ooze
+1 Psychosis Crawler
+1 Scrawling Crawler
+1 Shimmer Dragon
+1 Shuri, the Black Panther
+1 Surrak, Elusive Hunter
+1 Sygg, Wanderwine Wisdom
+1 Tangletrove Kelp
+1 Tireless Tracker
+1 Whirler Rogue
+1 Wistfulness
+1 Yotian Dissident
+1 Adarkar Wastes
+1 Bountiful Promenade
+1 Breeding Pool
+1 Canopy Vista
+1 Command Tower
+1 Deserted Beach
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Fabled Passage
+3 Forest
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hinterland Harbor
+3 Island
+1 Mistrise Village
+1 Overgrown Farmland
+3 Plains
+1 Port Town
+1 Prairie Stream
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sodden Verdure
+1 Spire of Industry
+1 Strip Mine
+1 Sunpetal Grove
+1 Temple Garden
+1 Tranquil Landscape
+1 Treva's Ruins
+1 Uthros, Titanic Godcore
+1 Windswept Heath
+1 Yavimaya Coast
+1 All That Glitters
+1 Knowledge Is Power
+1 Mechanized Production
+1 On the Trail
+1 Ongoing Investigation
+1 Proft's Eidetic Memory
+1 Teferi's Ageless Insight
+1 Ulvenwald Mysteries
+1 Wizard Class
+1 Dispatch
+1 Dovin's Veto
+1 Negate
+1 Officious Interrogation
+1 Swords to Plowshares
+1 Farewell
+1 Finale of Revelation
+1 Organic Extinction
+1 Rise and Shine
+1 Inspiring Statuary
+1 Mirrormind Crown
+1 Nettlecyst
+1 Talisman of Curiosity
+1 Narset, Parter of Veils
+1 Tezzeret, Betrayer of Flesh
+1 Ugin, Eye of the Storms
