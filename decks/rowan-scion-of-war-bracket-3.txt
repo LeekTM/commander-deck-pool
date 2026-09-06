@@ -1,0 +1,94 @@
+// name: Rowan, Scion of War (Bracket 3)
+// source: community
+// tags: self-damage, spellslinger
+
+Commander
+1 Rowan, Scion of War
+
+Deck
+
+1 Ad Nauseam
+1 Blood for the Blood God!
+1 Cabal Ritual
+1 Chaos Warp
+1 Dark Ritual
+1 Desperate Ritual
+1 Electrodominance
+1 Erebos's Intervention
+1 Imp's Mischief
+1 Pyretic Ritual
+1 Rowan's Grim Search
+1 Seething Song
+1 Snuff Out
+1 Tibalt's Trickery
+1 Untimely Malfunction
+1 Valakut Awakening
+1 Withering Boon
+1 Withering Torment
+1 Arcane Signet
+1 Bolas's Citadel
+1 Brotherhood Regalia
+1 Lightning Greaves
+1 Rakdos Signet
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Thousand-Year Elixir
+1 Black Market Connections
+1 Exquisite Blood
+1 Greed
+1 Blasphemous Act
+1 Crackle with Power
+1 Exsanguinate
+1 Fast Forward
+1 Feed the Swarm
+1 Glimpse the Impossible
+1 Grim Tutor
+1 Hex Magic
+1 Insurrection
+1 Jaya's Immolating Inferno
+1 Living Death
+1 Peer into the Abyss
+1 Profane Transfusion
+1 Profane Tutor
+1 Read the Bones
+1 Shatterskull Smashing
+1 Torment of Hailfire
+1 Toxic Deluge
+1 Vandalblast
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Boseiju, Who Shelters All
+1 Cabal Coffers
+1 Castle Locthwain
+1 City of Brass
+1 Command Tower
+1 Dragonskull Summit
+1 Graven Cairns
+1 Hall of the Bandit Lord
+3 Mountain
+1 Path of Ancestry
+1 Raucous Theater
+1 Reliquary Tower
+1 Smoldering Marsh
+1 Strip Mine
+1 Sulfurous Springs
+13 Swamp
+1 Tainted Peak
+1 Tarnished Citadel
+1 Bloodthirsty Conqueror
+1 Daredevil, Fearless Fighter
+1 Doom Whisperer
+1 Gray Merchant of Asphodel
+1 Heartless Hidetsugu
+1 Hexing Squelcher
+1 Hoarding Broodlord
+1 K'rrik, Son of Yawgmoth
+1 Myr Convert
+1 Ragavan, Nimble Pilferer
+1 Sheoldred
+1 Treasonous Ogre
+1 Vilis, Broker of Blood
+1 Wall of Blood
+1 Xantcha, Sleeper Agent
+1 Professor Onyx
