@@ -1,7 +1,6 @@
 // name: Lord Windgrace (Bracket 3)
 // source: community
 // tags: lands-matter, tokens, landfall, graveyard
-// bracket: 3
 
 Commander
 1 Lord Windgrace

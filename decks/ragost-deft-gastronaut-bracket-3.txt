@@ -1,7 +1,6 @@
 // name: Ragost, Deft Gastronaut (Bracket 3)
 // source: community
 // tags: lifegain, artifacts, burn
-// bracket: 3
 
 Commander
 1 Ragost, Deft Gastronaut

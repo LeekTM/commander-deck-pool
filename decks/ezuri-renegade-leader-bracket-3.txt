@@ -1,7 +1,6 @@
 // name: Ezuri, Renegade Leader (Bracket 3)
 // source: community
 // tags: tribal, +1/+1, combo
-// bracket: 3
 
 Commander
 1 Ezuri, Renegade Leader

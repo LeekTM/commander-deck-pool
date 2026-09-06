@@ -1,7 +1,6 @@
 // name: Dyadrine, Synthesis Amalgam (Bracket 3)
 // source: community
 // tags: +1/+1, tokens, combo, aggro
-// bracket: 3
 
 Commander
 1 Dyadrine, Synthesis Amalgam

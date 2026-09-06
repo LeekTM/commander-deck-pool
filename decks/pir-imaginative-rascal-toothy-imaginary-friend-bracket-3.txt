@@ -1,7 +1,6 @@
 // name: Pir, Imaginative Rascal + Toothy, Imaginary Friend (Bracket 3)
 // source: community
 // tags: partners, +1/+1, card-draw, good-stuff
-// bracket: 3
 
 Commander
 1 Pir, Imaginative Rascal

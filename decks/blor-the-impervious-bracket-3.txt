@@ -1,7 +1,6 @@
 // name: Blor the Impervious (Bracket 3)
 // source: community
 // tags: voltron
-// bracket: 3
 
 Commander
 1 Blor the Impervious

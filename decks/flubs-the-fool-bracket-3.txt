@@ -1,7 +1,6 @@
 // name: Flubs, the Fool (Bracket 3)
 // source: community
 // tags: self-mill, lands-matter, landfall, card-draw
-// bracket: 3
 
 Commander
 1 Flubs, the Fool

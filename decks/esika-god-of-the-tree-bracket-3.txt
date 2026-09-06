@@ -1,7 +1,6 @@
 // name: Esika, God of the Tree (Bracket 3)
 // source: community
 // tags: pillow-fort, upkeep, good-stuff
-// bracket: 3
 
 Commander
 1 Esika, God of the Tree

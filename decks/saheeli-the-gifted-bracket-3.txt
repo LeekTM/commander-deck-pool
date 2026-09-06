@@ -1,7 +1,6 @@
 // name: Saheeli, the Gifted (Bracket 3)
 // source: community
 // tags: artifacts, clones, tokens
-// bracket: 3
 
 Commander
 1 Saheeli, the Gifted

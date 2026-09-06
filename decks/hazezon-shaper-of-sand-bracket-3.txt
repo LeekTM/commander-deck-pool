@@ -1,7 +1,6 @@
 // name: Hazezon, Shaper of Sand (Bracket 3)
 // source: community
 // tags: combo, lands-matter, ramp, tokens
-// bracket: 3
 
 Commander
 1 Hazezon, Shaper of Sand

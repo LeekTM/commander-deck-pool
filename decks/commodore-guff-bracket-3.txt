@@ -1,7 +1,6 @@
 // name: Commodore Guff (Bracket 3)
 // source: community
 // tags: burn, control, tokens, planeswalkers
-// bracket: 3
 
 Commander
 1 Commodore Guff

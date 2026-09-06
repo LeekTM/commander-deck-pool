@@ -1,7 +1,6 @@
 // name: Miku, Lost but Singing (Bracket 3)
 // source: community
 // tags: ramp, lands-matter, tokens, big-mana
-// bracket: 3
 
 Commander
 1 Miku, Lost but Singing

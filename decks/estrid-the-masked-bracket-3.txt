@@ -1,7 +1,6 @@
 // name: Estrid, the Masked (Bracket 3)
 // source: community
 // tags: auras, enchantments
-// bracket: 3
 
 Commander
 1 Estrid, the Masked

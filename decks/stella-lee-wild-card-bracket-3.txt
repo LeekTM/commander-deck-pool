@@ -1,7 +1,6 @@
 // name: Stella Lee, Wild Card (Bracket 3)
 // source: community
 // tags: spellslinger, burn, control, card-draw
-// bracket: 3
 
 Commander
 1 Stella Lee, Wild Card

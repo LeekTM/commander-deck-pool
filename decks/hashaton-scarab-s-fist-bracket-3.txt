@@ -1,7 +1,6 @@
 // name: Hashaton, Scarab's Fist (Bracket 3)
 // source: community
 // tags: discard
-// bracket: 3
 
 Commander
 1 Hashaton, Scarab's Fist

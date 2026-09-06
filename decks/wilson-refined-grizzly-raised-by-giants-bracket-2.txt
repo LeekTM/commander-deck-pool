@@ -1,0 +1,75 @@
+// name: Wilson, Refined Grizzly + Raised by Giants (Bracket 2)
+// source: community
+// tags: aggro, voltron, ramp, background
+
+Commander
+1 Wilson, Refined Grizzly
+1 Raised by Giants
+
+Deck
+
+1 Arachnogenesis
+1 Beast Within
+1 Giant Growth
+1 Heroic Intervention
+1 Obscuring Haze
+1 Royal Treatment
+1 Summoner's Pact
+1 Tamiyo's Safekeeping
+1 Veil of Summer
+1 Beanstalk Giant
+1 Beast Whisperer
+1 Beorn, Reluctant Host
+1 Casal, Lurkwood Pathfinder
+1 Copper Host Crusher
+1 Dragon Sniper
+1 Eladamri, Korvecdal
+1 Elvish Regrower
+1 End-Raze Forerunners
+1 Eternal Witness
+1 Frenzied Baloth
+1 Ghalta, Primal Hunger
+1 Ghalta, Stampede Tyrant
+1 Goreclaw, Terror of Qal Sisma
+1 Halsin, Emerald Archdruid
+1 Jumbo Cactuar
+1 Kona, Rescue Beastie
+1 Little Bear
+1 Llanowar Elves
+1 Llanowar Loamspeaker
+1 Oracle of Mul Daya
+1 Owlbear Cub
+1 Questing Beast
+1 Radagast of Rhosgobel
+1 Sire of Seven Deaths
+1 Stonehoof Chieftain
+1 Stormkeld Vanguard
+1 Studious First-Year
+1 Surrak and Goreclaw
+1 Vigor
+1 Watcher in the Web
+1 Werebear
+1 Belt of Giant Strength
+1 Blackblade Reforged
+1 Buster Sword
+1 Caged Sun
+1 Monster Manual
+1 Beorn's Hospitality
+1 Defense of the Heart
+1 Elephant Grass
+1 Indomitable Might
+1 Primal Order
+1 Primeval Bounty
+1 Roaring Earth
+1 Sandwurm Convergence
+1 Super State
+1 Unnatural Growth
+1 Dryad Arbor
+34 Forest
+1 Epic Fight
+1 Gaea's Blessing
+1 Preposterous Proportions
+1 Regrowth
+1 Rockalanche
+1 Three Visits
+1 Triumph of the Hordes

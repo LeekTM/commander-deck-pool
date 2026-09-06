@@ -1,7 +1,6 @@
 // name: Kratos, God of War (Bracket 3)
 // source: community
 // tags: aggro, chaos, group-slug, burn
-// bracket: 3
 
 Commander
 1 Kratos, God of War

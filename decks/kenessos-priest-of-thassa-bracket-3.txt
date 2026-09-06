@@ -1,7 +1,6 @@
 // name: Kenessos, Priest of Thassa (Bracket 3)
 // source: community
 // tags: scry, control, tribal
-// bracket: 3
 
 Commander
 1 Kenessos, Priest of Thassa

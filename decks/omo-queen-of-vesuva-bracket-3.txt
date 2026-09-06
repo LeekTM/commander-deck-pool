@@ -1,7 +1,6 @@
 // name: Omo, Queen of Vesuva (Bracket 3)
 // source: community
 // tags: x, ramp, clones, lands-matter, midrange
-// bracket: 3
 
 Commander
 1 Omo, Queen of Vesuva

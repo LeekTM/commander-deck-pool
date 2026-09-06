@@ -1,7 +1,6 @@
 // name: Eladamri, Lord of Leaves (Bracket 3)
 // source: community
 // tags: aristocrats, tribal
-// bracket: 3
 
 Commander
 1 Eladamri, Lord of Leaves

@@ -1,7 +1,6 @@
 // name: Animar, Soul of Elements (Bracket 3)
 // source: community
 // tags: mana-dorks, card-draw, ramp, +1/+1, stompy, big-mana
-// bracket: 3
 
 Commander
 1 Animar, Soul of Elements

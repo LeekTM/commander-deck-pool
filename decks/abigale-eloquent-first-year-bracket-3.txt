@@ -1,7 +1,6 @@
 // name: Abigale, Eloquent First-Year (Bracket 3)
 // source: community
 // tags: control, politics
-// bracket: 3
 
 Commander
 1 Abigale, Eloquent First-Year

@@ -1,7 +1,6 @@
 // name: The Cabbage Merchant (Bracket 3)
 // source: community
 // tags: food, toolbox, tokens, big-mana, eldrazi
-// bracket: 3
 
 Commander
 1 The Cabbage Merchant

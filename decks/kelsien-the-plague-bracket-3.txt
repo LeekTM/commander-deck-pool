@@ -1,7 +1,6 @@
 // name: Kelsien, the Plague (Bracket 3)
 // source: community
 // tags: deathtouch, voltron, experience, equipment
-// bracket: 3
 
 Commander
 1 Kelsien, the Plague

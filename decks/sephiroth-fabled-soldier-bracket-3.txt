@@ -1,7 +1,6 @@
 // name: Sephiroth, Fabled SOLDIER (Bracket 3)
 // source: community
 // tags: aristocrats, sacrifice, combo, midrange
-// bracket: 3
 
 Commander
 1 Sephiroth, Fabled SOLDIER

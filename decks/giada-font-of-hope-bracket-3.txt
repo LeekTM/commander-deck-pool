@@ -1,7 +1,6 @@
 // name: Giada, Font of Hope (Bracket 3)
 // source: community
 // tags: aggro, equipment, +1/+1, lifegain, tribal, flying
-// bracket: 3
 
 Commander
 1 Giada, Font of Hope

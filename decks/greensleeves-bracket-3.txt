@@ -1,7 +1,6 @@
 // name: Greensleeves (Bracket 3)
 // source: community
 // tags: landfall, graveyard
-// bracket: 3
 
 Commander
 1 Greensleeves

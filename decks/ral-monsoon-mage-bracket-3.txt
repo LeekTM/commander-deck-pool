@@ -1,7 +1,6 @@
 // name: Ral, Monsoon Mage (Bracket 3)
 // source: community
 // tags: combo, coin-flip, storm, control, burn, spellslinger
-// bracket: 3
 
 Commander
 1 Ral, Monsoon Mage

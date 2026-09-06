@@ -1,0 +1,89 @@
+// name: Alesha, Who Laughs at Fate (Bracket 2)
+// source: community
+// tags: +1/+1, aggro, reanimater, triggered
+
+Commander
+1 Alesha, Who Laughs at Fate
+
+Deck
+
+1 Accursed Marauder
+1 Alexios, Deimos of Kosmos
+1 Archon of Cruelty
+1 Ardent Elementalist
+1 Author of Shadows
+1 Avalanche Riders
+1 Barrowgoyf
+1 Billowing Shriekmass
+1 Boggart Trawler
+1 Braids, Arisen Nightmare
+1 Burglar Rat
+1 Chainer, Nightmare Adept
+1 Charming Scoundrel
+1 Coalstoke Gearhulk
+1 Combustible Gearhulk
+1 Fain, the Broker
+1 Gaius van Baelsar
+1 Gix, Yawgmoth Praetor
+1 Goblin Engineer
+1 Inti, Seneschal of the Sun
+1 Judith, the Scourge Diva
+1 Kalain, Reclusive Painter
+1 Kardur, Doomscourge
+1 Kroxa, Titan of Death's Hunger
+1 Massacre Girl
+1 Massacre Wurm
+1 Mishra, Claimed by Gix
+1 Noxious Gearhulk
+1 Overlord of the Balemurk
+1 Phyrexian Dragon Engine
+1 Pinnacle Monk
+1 Ravenous Chupacabra
+1 Rottenmouth Viper
+1 Sepulchral Primordial
+1 Sheoldred, Whispering One
+1 Solemn Simulacrum
+1 Stitcher's Supplier
+1 Twilight Diviner
+1 Vile Entomber
+1 Yawgmoth, Thran Physician
+1 Agadeem's Awakening
+1 Bloodsoaked Insight
+1 Bone Shards
+1 Buried Alive
+1 Diabolic Intent
+1 Eaten Alive
+1 Faithless Looting
+1 Final Vengeance
+1 Victimize
+1 Basilisk Collar
+1 Darksteel Plate
+1 Gorgon's Head
+1 Lightning Greaves
+1 Palantír of Orthanc
+1 Sword of Truth and Justice
+1 Tarrian's Soulcleaver
+1 The Ozolith
+1 Whispersilk Cloak
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Tower
+1 Graven Cairns
+1 Great Furnace
+1 Luxury Suite
+9 Mountain
+1 Phyrexian Tower
+1 Raucous Theater
+1 Rogue's Passage
+1 Spymaster's Vault
+12 Swamp
+1 Takenuma, Abandoned Mire
+1 Vault of Whispers
+1 Fake Your Own Death
+1 Rakdos Charm
+1 Saw in Half
+1 Village Rites
+1 Fallen Ideal
+1 Ripples of Undeath
+1 Rune of Mortality

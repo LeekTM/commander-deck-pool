@@ -1,7 +1,6 @@
 // name: Rocco, Street Chef (Bracket 3)
 // source: community
 // tags: exile, tokens, food, group-hug, +1/+1
-// bracket: 3
 
 Commander
 1 Rocco, Street Chef

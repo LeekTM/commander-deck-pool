@@ -1,7 +1,6 @@
 // name: Haldan, Avid Arcanist + Pako, Arcane Retriever (Bracket 3)
 // source: community
 // tags: voltron, spellslinger, partners
-// bracket: 3
 
 Commander
 1 Haldan, Avid Arcanist

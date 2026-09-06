@@ -1,7 +1,6 @@
 // name: Zagorka, Mother of Sanctum (Bracket 3)
 // source: community
 // tags: group-hug, lands-matter, tokens
-// bracket: 3
 
 Commander
 1 Zagorka, Mother of Sanctum

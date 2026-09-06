@@ -1,7 +1,6 @@
 // name: Jaheira, Friend of the Forest + Inspiring Leader (Bracket 3)
 // source: community
 // tags: aggro, ramp, mana-dorks, tokens, background
-// bracket: 3
 
 Commander
 1 Jaheira, Friend of the Forest

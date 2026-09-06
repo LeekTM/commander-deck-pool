@@ -1,7 +1,6 @@
 // name: General Kreat, the Boltbringer (Bracket 3)
 // source: community
 // tags: burn, aggro, tokens, tribal
-// bracket: 3
 
 Commander
 1 General Kreat, the Boltbringer

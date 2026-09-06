@@ -1,7 +1,6 @@
 // name: Kudo, King Among Bears (Bracket 3)
 // source: community
 // tags: +1/+1, aggro, tokens
-// bracket: 3
 
 Commander
 1 Kudo, King Among Bears

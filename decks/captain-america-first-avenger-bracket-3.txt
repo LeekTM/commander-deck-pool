@@ -1,7 +1,6 @@
 // name: Captain America, First Avenger (Bracket 3)
 // source: community
 // tags: artifacts, equipment
-// bracket: 3
 
 Commander
 1 Captain America, First Avenger

@@ -1,7 +1,6 @@
 // name: Lady Octopus, Inspired Inventor (Bracket 3)
 // source: community
 // tags: midrange, artifacts, tempo, good-stuff
-// bracket: 3
 
 Commander
 1 Lady Octopus, Inspired Inventor

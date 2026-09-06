@@ -1,7 +1,6 @@
 // name: Terra, Magical Adept (Bracket 3)
 // source: community
 // tags: enchantments, reanimater, sagas
-// bracket: 3
 
 Commander
 1 Terra, Magical Adept

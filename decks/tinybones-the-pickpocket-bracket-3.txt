@@ -1,7 +1,6 @@
 // name: Tinybones, the Pickpocket (Bracket 3)
 // source: community
 // tags: theft, discard, mill
-// bracket: 3
 
 Commander
 1 Tinybones, the Pickpocket

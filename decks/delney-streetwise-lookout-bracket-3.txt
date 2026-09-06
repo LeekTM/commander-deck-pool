@@ -1,7 +1,6 @@
 // name: Delney, Streetwise Lookout (Bracket 3)
 // source: community
 // tags: weenies, triggered, aggro
-// bracket: 3
 
 Commander
 1 Delney, Streetwise Lookout

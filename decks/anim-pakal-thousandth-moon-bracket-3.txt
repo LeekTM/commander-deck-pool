@@ -1,7 +1,6 @@
 // name: Anim Pakal, Thousandth Moon (Bracket 3)
 // source: community
 // tags: equipment, +1/+1, voltron, historic, extra-combats, artifacts
-// bracket: 3
 
 Commander
 1 Anim Pakal, Thousandth Moon

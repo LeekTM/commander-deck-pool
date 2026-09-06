@@ -1,7 +1,6 @@
 // name: Zuko, Firebending Master (Bracket 3)
 // source: community
 // tags: voltron, aggro, spellslinger
-// bracket: 3
 
 Commander
 1 Zuko, Firebending Master

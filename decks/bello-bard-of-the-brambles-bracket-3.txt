@@ -1,7 +1,6 @@
 // name: Bello, Bard of the Brambles (Bracket 3)
 // source: community
 // tags: aggro, artifacts, tokens, vehicles
-// bracket: 3
 
 Commander
 1 Bello, Bard of the Brambles

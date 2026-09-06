@@ -1,7 +1,6 @@
 // name: Sarulf, Realm Eater (Bracket 3)
 // source: community
 // tags: ramp, salty, control
-// bracket: 3
 
 Commander
 1 Sarulf, Realm Eater

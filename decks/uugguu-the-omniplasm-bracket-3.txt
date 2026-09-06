@@ -1,7 +1,6 @@
 // name: Uugguu, the Omniplasm (Bracket 3)
 // source: community
 // tags: reanimater, tribal, tokens
-// bracket: 3
 
 Commander
 1 Uugguu, the Omniplasm

@@ -1,7 +1,6 @@
 // name: Rowan, Scion of War (Bracket 3)
 // source: community
 // tags: spellslinger, x, self-damage
-// bracket: 3
 
 Commander
 1 Rowan, Scion of War

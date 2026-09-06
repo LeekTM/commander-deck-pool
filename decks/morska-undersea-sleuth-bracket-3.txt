@@ -1,7 +1,6 @@
 // name: Morska, Undersea Sleuth (Bracket 3)
 // source: community
 // tags: tokens, +1/+1, card-draw, clues
-// bracket: 3
 
 Commander
 1 Morska, Undersea Sleuth

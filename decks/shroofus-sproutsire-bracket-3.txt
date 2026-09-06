@@ -1,7 +1,6 @@
 // name: Shroofus Sproutsire (Bracket 3)
 // source: community
 // tags: ramp, tokens
-// bracket: 3
 
 Commander
 1 Shroofus Sproutsire

@@ -1,7 +1,6 @@
 // name: Bristly Bill, Spine Sower (Bracket 3)
 // source: community
 // tags: ramp, lands-matter, +1/+1
-// bracket: 3
 
 Commander
 1 Bristly Bill, Spine Sower

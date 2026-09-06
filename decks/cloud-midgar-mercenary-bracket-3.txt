@@ -1,7 +1,6 @@
 // name: Cloud, Midgar Mercenary (Bracket 3)
 // source: community
 // tags: equipment, triggered
-// bracket: 3
 
 Commander
 1 Cloud, Midgar Mercenary

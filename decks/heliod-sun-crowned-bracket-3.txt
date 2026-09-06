@@ -1,7 +1,6 @@
 // name: Heliod, Sun-Crowned (Bracket 3)
 // source: community
 // tags: +1/+1, aggro, lifegain, midrange
-// bracket: 3
 
 Commander
 1 Heliod, Sun-Crowned

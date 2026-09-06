@@ -184,8 +184,11 @@ function updateSubmitEnabled() {
   }
   const bypassCheckbox = document.getElementById("bypass-banned");
   const bannedOk = lastResult.bannedCards.length === 0 || (bypassCheckbox && bypassCheckbox.checked);
-  const bracketChosen = document.getElementById("bracket").value !== "";
-  btnSubmit.disabled = lastResult.errors.length > 0 || !bannedOk || !bracketChosen;
+  // Leaving the dropdown on "Calculate" is the expected path: it writes no
+  // // bracket: line, so the deck's bracket is recomputed on every rebuild and
+  // follows the Game Changers list when WotC revises it. Picking a digit still
+  // works and still freezes that value, for a deck the computation gets wrong.
+  btnSubmit.disabled = lastResult.errors.length > 0 || !bannedOk;
 }
 
 function escapeHtml(s) {
@@ -230,9 +233,9 @@ async function onValidate() {
     } else if (result.bannedCards.length) {
       statusEl.textContent = "Check the box below to confirm you want to add a card not legal in Commander.";
     } else if (!bracketOverride) {
-      statusEl.textContent = `Select ${result.bracket} in the Bracket dropdown above (don't leave it on "Calculate"), then submit.`;
+      statusEl.textContent = `Ready to submit. Bracket ${result.bracket} will be recalculated on every rebuild -- pick a number above only to pin it.`;
     } else {
-      statusEl.textContent = "Ready to submit.";
+      statusEl.textContent = `Ready to submit, with bracket ${bracketOverride} pinned.`;
     }
   } catch (e) {
     statusEl.textContent = `Validation failed: ${e.message}`;

@@ -1,7 +1,6 @@
 // name: Karlov of the Ghost Council (Bracket 3)
 // source: community
 // tags: lifegain, control, prison, hatebearers
-// bracket: 3
 
 Commander
 1 Karlov of the Ghost Council

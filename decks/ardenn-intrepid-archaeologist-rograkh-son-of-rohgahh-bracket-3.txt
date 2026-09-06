@@ -1,7 +1,6 @@
 // name: Ardenn, Intrepid Archaeologist + Rograkh, Son of Rohgahh (Bracket 3)
 // source: community
 // tags: voltron, aggro, equipment, extra-combats, partners
-// bracket: 3
 
 Commander
 1 Ardenn, Intrepid Archaeologist

@@ -1,7 +1,6 @@
 // name: Rowan Kenrith + Will Kenrith (Bracket 3)
 // source: community
 // tags: control, counterspells, partners, spellslinger
-// bracket: 3
 
 Commander
 1 Rowan Kenrith

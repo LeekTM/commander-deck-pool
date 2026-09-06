@@ -1,7 +1,6 @@
 // name: Ketramose, the New Dawn (Bracket 3)
 // source: community
 // tags: aristocrats, blink, exile, combo
-// bracket: 3
 
 Commander
 1 Ketramose, the New Dawn

@@ -1,7 +1,6 @@
 // name: Glarb, Calamity's Augur (Bracket 3)
 // source: community
 // tags: lands-matter, landfall, reanimater, graveyard
-// bracket: 3
 
 Commander
 1 Glarb, Calamity's Augur

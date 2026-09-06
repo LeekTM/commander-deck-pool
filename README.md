@@ -62,9 +62,10 @@ docs/tts/             per-deck JSON for the TTS mod, generated -- never hand-edi
    Validate. It checks every card against Scryfall in your browser -- typos,
    cards outside your commander's colour identity, and cards not currently
    legal in Commander (flagged, not blocked -- see below) -- and shows the
-   calculated price, colours, Game Changer count and bracket. Select that
-   calculated bracket number from the dropdown (it's required), pick any
-   tags that fit, and "Submit via GitHub" opens a prefilled issue; you need
+   calculated price, colours, Game Changer count and bracket. Leave the
+   Bracket dropdown on "Calculate" so it keeps recomputing (pick a digit
+   only to pin one), choose any tags that fit, and "Submit via GitHub"
+   opens a prefilled issue; you need
    a GitHub account to send it. There's no name or source-link field: the
    deck's name is generated as `<Commander> (Bracket N)`.
 2. **A GitHub issue directly** -- open a "Submit a Commander deck" issue.
@@ -165,17 +166,19 @@ nothing countable can measure. Add `// bracket: N` to a deck file to
 override the computed value; it's a sorting hint for the group, not a
 ruling.
 
-The page/issue-form Bracket dropdown is deliberately **not** an "always
-recompute" auto option -- validating shows the calculated number, and
-you're expected to select that number yourself rather than leave it on
-"Calculate" (the field is required, precisely to force this). Once a
-digit is selected there, it's written to the file as a real `// bracket:`
-override, same as if you'd typed it into the file by hand -- which means
-it's a snapshot, not a live computation: if the Game Changers list changes
-later, that deck's bracket won't move with it unless someone edits the
-override. Leaving it on "Calculate" still works and does behave as a true
-live computation (forever recomputed on every rebuild) -- it's just no
-longer the expected path for page/issue submissions.
+**"Calculate" is the expected path** on the page's Bracket dropdown, and
+it's what almost every deck should be left on: the bracket is then
+recomputed on every rebuild, so it follows the Game Changers list when WotC
+revises it. Picking a digit instead writes a real `// bracket:` override,
+which is a *snapshot* -- that deck's bracket stops moving until someone
+edits it.
+
+That distinction is not academic. The page used to require an explicit
+digit, and the result was a pool of 130 decks where **every single one was
+bracket 3** and 27 of them had no Game Changers at all -- a field carrying
+no information, so filtering or sorting by it did nothing. Those overrides
+have since been stripped pool-wide and the dropdown defaults to
+"Calculate". Pin a digit only for a deck the count gets wrong.
 
 ## Prices and colours
 

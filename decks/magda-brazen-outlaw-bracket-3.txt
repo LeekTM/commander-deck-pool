@@ -1,7 +1,6 @@
 // name: Magda, Brazen Outlaw (Bracket 3)
 // source: community
 // tags: tribal, burn, treasures
-// bracket: 3
 
 Commander
 1 Magda, Brazen Outlaw

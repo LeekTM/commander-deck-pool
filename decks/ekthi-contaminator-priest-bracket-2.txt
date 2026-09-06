@@ -1,0 +1,83 @@
+// name: Ekthi, Contaminator Priest (Bracket 2)
+// source: community
+// tags: equipment, tokens
+
+Commander
+1 Ekthi, Contaminator Priest
+
+Deck
+
+
+1 Adaptive Omnitool
+1 Aettir and Priwen
+1 Andúril, Narsil Reforged
+1 Arcane Signet
+1 Argentum Armor
+1 Bitterthorn, Nissa's Animus
+1 Blackblade Reforged
+1 Bloodforged Battle-Axe
+1 Caduceus, Staff of Hermes
+1 Colossus Hammer
+1 Commander's Plate
+1 Fellwar Stone
+1 Godsend
+1 Infested Fleshcutter
+1 Lightning Greaves
+1 Liquimetal Torque
+1 Long-Lost Lances
+1 Machinist's Arsenal
+1 Mind Stone
+1 Nazgûl Battle-Mace
+1 Nettlecyst
+1 Orcrist, Goblin-cleaver
+1 Paradise Mantle
+1 Patchwork Banner
+1 Pip-Boy 3000
+1 Shadowspear
+1 Skullclamp
+1 Sol Ring
+1 Stoneforge Masterwork
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Forge and Frontier
+1 Swordsman's Steel
+1 The Irencrag
+1 The Mind Stone
+1 Thought Vessel
+1 Ultima Weapon
+1 Ancient Den
+1 Buried Ruin
+1 Darksteel Citadel
+1 Fomori Vault
+1 Inventors' Fair
+14 Plains
+14 Snow-Covered Plains
+1 Three Tree City
+1 Urza's Saga
+1 War Room
+1 Austere Command
+1 Hour of Reckoning
+1 Sunfall
+1 Clever Concealment
+1 Disenchant
+1 Get Lost
+1 Kabira Takedown
+1 Path to Exile
+1 Rebuff the Wicked
+1 Reprieve
+1 Ultimate Magic: Holy
+1 Codsworth, Handy Helper
+1 Enduring Innocence
+1 Esper Sentinel
+1 Halvar, God of Battle
+1 Indomitable Archangel
+1 Kíli the Resourceful
+1 Puresteel Paladin
+1 Sram, Senior Edificer
+1 Stone Haven Outfitter
+1 The Queen of Dale
+1 Vulpine Harvester
+1 Welcoming Vampire
+1 Witch Enchanter
+1 Zenith Chronicler
+1 Divine Visitation

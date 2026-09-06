@@ -1,7 +1,6 @@
 // name: Runadi, Behemoth Caller (Bracket 3)
 // source: community
 // tags: +1/+1, stompy
-// bracket: 3
 
 Commander
 1 Runadi, Behemoth Caller

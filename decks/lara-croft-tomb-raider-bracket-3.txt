@@ -1,7 +1,6 @@
 // name: Lara Croft, Tomb Raider (Bracket 3)
 // source: community
 // tags: graveyard, historic, exile, artifacts
-// bracket: 3
 
 Commander
 1 Lara Croft, Tomb Raider

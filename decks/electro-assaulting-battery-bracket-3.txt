@@ -1,7 +1,6 @@
 // name: Electro, Assaulting Battery (Bracket 3)
 // source: community
 // tags: combo, spellslinger, tokens, aggro, burn
-// bracket: 3
 
 Commander
 1 Electro, Assaulting Battery

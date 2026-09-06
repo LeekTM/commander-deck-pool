@@ -1,7 +1,6 @@
 // name: Dyfed, the Guiding Hand (Bracket 3)
 // source: community
 // tags: artifacts, proliferate, planeswalkers
-// bracket: 3
 
 Commander
 1 Dyfed, the Guiding Hand

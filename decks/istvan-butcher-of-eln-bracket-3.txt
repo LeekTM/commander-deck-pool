@@ -1,7 +1,6 @@
 // name: Istvan, Butcher of Eln (Bracket 3)
 // source: community
 // tags: voltron, equipment, triggered, sacrifice
-// bracket: 3
 
 Commander
 1 Istvan, Butcher of Eln

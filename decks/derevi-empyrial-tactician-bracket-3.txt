@@ -1,7 +1,6 @@
 // name: Derevi, Empyrial Tactician (Bracket 3)
 // source: community
 // tags: aggro, flying
-// bracket: 3
 
 Commander
 1 Derevi, Empyrial Tactician

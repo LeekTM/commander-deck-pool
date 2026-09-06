@@ -1,7 +1,6 @@
 // name: Mendicant Core, Guidelight (Bracket 3)
 // source: community
 // tags: historic, artifacts, ramp, tokens
-// bracket: 3
 
 Commander
 1 Mendicant Core, Guidelight

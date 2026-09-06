@@ -1,7 +1,6 @@
 // name: Sythis, Harvest's Hand (Bracket 3)
 // source: community
 // tags: pillow-fort, enchantments
-// bracket: 3
 
 Commander
 1 Sythis, Harvest's Hand

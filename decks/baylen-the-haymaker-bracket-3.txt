@@ -1,7 +1,6 @@
 // name: Baylen, the Haymaker (Bracket 3)
 // source: community
 // tags: aggro, zoo, tokens, midrange
-// bracket: 3
 
 Commander
 1 Baylen, the Haymaker

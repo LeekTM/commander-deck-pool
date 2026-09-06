@@ -1,7 +1,6 @@
 // name: Quintorius, History Chaser (Bracket 3)
 // source: community
 // tags: reanimater, discard, tokens
-// bracket: 3
 
 Commander
 1 Quintorius, History Chaser

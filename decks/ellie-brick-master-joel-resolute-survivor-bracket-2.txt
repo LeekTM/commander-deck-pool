@@ -1,0 +1,98 @@
+// name: Ellie, Brick Master + Joel, Resolute Survivor (Bracket 2)
+// source: community
+// tags: aristocrats, tokens, group-hug, partners
+
+Commander
+1 Ellie, Brick Master
+1 Joel, Resolute Survivor
+
+Deck
+
+1 Abby, Merciless Soldier
+1 Baeloth Barrityl, Entertainer
+1 Birds of Paradise
+1 Blood Artist
+1 Braids, Arisen Nightmare
+1 Carrion Feeder
+1 Chatterfang, Squirrel General
+1 Ellie, Vengeful Hunter
+1 Enduring Vitality
+1 Eternal Witness
+1 Goblin Spymaster
+1 Grismold, the Dreadsower
+1 Hansk, Slayer Zealot
+1 Ignoble Hierarch
+1 Jadar, Ghoulcaller of Nephalia
+1 Kardur, Doomscourge
+1 Loyal Apprentice
+1 Marionette Apprentice
+1 Massacre Wurm
+1 Mayhem Devil
+1 Mirkwood Bats
+1 Morbid Opportunist
+1 Mycoloth
+1 Ophiomancer
+1 Pitiless Plunderer
+1 Sakura-Tribe Elder
+1 Sephiroth, Fabled SOLDIER
+1 Slaughter Specialist
+1 Springheart Nantuko
+1 Syr Konrad, the Grim
+1 Tendershoot Dryad
+1 Umbral Collar Zealot
+1 Viscera Seer
+1 Yawgmoth, Thran Physician
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Cauldron of Essence
+1 Fellwar Stone
+1 Genesis Chamber
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Impulse
+1 Talisman of Indulgence
+1 Talisman of Resilience
+1 Urabrask's Forge
+1 Assassin's Trophy
+1 Beast Within
+1 Cabal Ritual
+1 Corrupted Conviction
+1 Nature's Claim
+1 Village Rites
+1 Bastion of Remembrance
+1 Dictate of Erebos
+1 Funeral Room // Awakening Hall
+1 Goblin Bombardment
+1 Grave Pact
+1 Impact Tremors
+1 Rite of the Raging Storm
+1 The Meathook Massacre
+1 Wild Growth
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Tower
+1 Exotic Orchard
+1 Forbidden Orchard
+4 Forest
+1 Fountainport
+1 High Market
+1 Karplusan Forest
+1 Kher Keep
+1 Llanowar Wastes
+1 Luxury Suite
+5 Mountain
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Shifting Woodland
+1 Spire Garden
+1 Stomping Ground
+1 Sulfurous Springs
+4 Swamp
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Ziatora's Proving Ground
+1 Eldritch Evolution
+1 Pest Infestation
+1 Reanimate
+1 Seize the Spotlight

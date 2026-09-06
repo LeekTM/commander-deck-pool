@@ -1,7 +1,6 @@
 // name: Isshin, Two Heavens as One (Bracket 3)
 // source: community
 // tags: aggro, tempo, extra-combats, tokens
-// bracket: 3
 
 Commander
 1 Isshin, Two Heavens as One

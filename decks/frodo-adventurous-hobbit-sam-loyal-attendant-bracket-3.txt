@@ -1,7 +1,6 @@
 // name: Frodo, Adventurous Hobbit + Sam, Loyal Attendant (Bracket 3)
 // source: community
 // tags: food, lifegain, lifedrain, tribal, partners
-// bracket: 3
 
 Commander
 1 Frodo, Adventurous Hobbit

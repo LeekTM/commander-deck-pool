@@ -1,7 +1,6 @@
 // name: Tasha, the Witch Queen (Bracket 3)
 // source: community
 // tags: theft, exile, mill
-// bracket: 3
 
 Commander
 1 Tasha, the Witch Queen

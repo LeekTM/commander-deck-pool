@@ -1,7 +1,6 @@
 // name: Eriette of the Charmed Apple (Bracket 3)
 // source: community
 // tags: lifegain, pillow-fort, auras, enchantments, group-slug, voltron, control
-// bracket: 3
 
 Commander
 1 Eriette of the Charmed Apple

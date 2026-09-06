@@ -1,7 +1,6 @@
 // name: Sisay, Weatherlight Captain (Bracket 3)
 // source: community
 // tags: good-stuff, planeswalkers, toolbox, historic, control, midrange, tempo
-// bracket: 3
 
 Commander
 1 Sisay, Weatherlight Captain

@@ -1,7 +1,6 @@
 // name: The Everforger (Bracket 3)
 // source: community
 // tags: artifacts, equipment, midrange
-// bracket: 3
 
 Commander
 1 The Everforger

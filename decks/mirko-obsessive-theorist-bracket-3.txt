@@ -1,7 +1,6 @@
 // name: Mirko, Obsessive Theorist (Bracket 3)
 // source: community
 // tags: surveil, self-mill, reanimater
-// bracket: 3
 
 Commander
 1 Mirko, Obsessive Theorist

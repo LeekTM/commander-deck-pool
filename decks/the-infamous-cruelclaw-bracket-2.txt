@@ -1,0 +1,12 @@
+// name: The Infamous Cruelclaw (Bracket 2)
+// source: community
+// tags: meme
+
+Commander
+1 The Infamous Cruelclaw
+
+Deck
+
+49 Mountain
+49 Swamp
+1 Worldfire

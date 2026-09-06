@@ -1,7 +1,6 @@
 // name: Grub, Storied Matriarch (Bracket 3)
 // source: community
 // tags: +1/+1, -1/-1, tribal, reanimater
-// bracket: 3
 
 Commander
 1 Grub, Storied Matriarch

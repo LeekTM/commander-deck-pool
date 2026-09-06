@@ -1,7 +1,6 @@
 // name: Aphelia, Viper Whisperer (Bracket 3)
 // source: community
 // tags: good-stuff, midrange, combo
-// bracket: 3
 
 Commander
 1 Aphelia, Viper Whisperer

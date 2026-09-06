@@ -1,7 +1,6 @@
 // name: Sefris of the Hidden Ways (Bracket 3)
 // source: community
 // tags: control, dungeon, reanimater, toolbox
-// bracket: 3
 
 Commander
 1 Sefris of the Hidden Ways

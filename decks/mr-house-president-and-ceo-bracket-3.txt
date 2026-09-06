@@ -1,7 +1,6 @@
 // name: Mr. House, President and CEO (Bracket 3)
 // source: community
 // tags: dice-roll, artifacts, treasures
-// bracket: 3
 
 Commander
 1 Mr. House, President and CEO
