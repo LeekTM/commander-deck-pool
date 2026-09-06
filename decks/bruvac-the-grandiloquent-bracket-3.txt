@@ -1,0 +1,65 @@
+// name: Bruvac the Grandiloquent (Bracket 3)
+// source: community
+// tags: control, mill, ripple
+
+Commander
+1 Bruvac the Grandiloquent
+
+Deck
+
+1 Abstergo Entertainment
+1 Castle Vantress
+1 Cavern of Souls
+1 Command Beacon
+1 Flooded Strand
+20 Island
+1 Jidoor, Aristocratic Capital
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Rivendell
+1 Scalding Tarn
+1 Scavenger Grounds
+1 Three Tree City
+1 Urza's Saga
+1 War Room
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Fierce Guardianship
+1 Flare of Denial
+1 Force of Negation
+1 Force of Will
+1 Harmonized Crescendo
+1 Mana Drain
+1 Pongify
+1 Rapid Hybridization
+1 Sink into Stupor
+1 Spider-Sense
+1 Swan Song
+1 Visions of Beyond
+1 Bribery
+1 Distant Melody
+1 Fractured Sanity
+1 Irenicus's Vile Duplication
+1 Mass Appeal
+1 Multiversal Recruitment
+1 Quantum Misalignment
+1 Chameleon, Master of Disguise
+1 Hydroelectric Specimen
+1 Irma, Part-Time Mutant
+25 Persistent Petitioners
+1 Sakashima of a Thousand Faces
+1 Sakashima the Impostor
+1 Spark Double
+1 Court of Cunning
+1 Intruder Alarm
+1 Mystic Remora
+1 Propaganda
+1 Rhystic Study
+1 Statecraft
+1 Meekstone
+1 Sapphire Medallion
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Thrumming Stone
