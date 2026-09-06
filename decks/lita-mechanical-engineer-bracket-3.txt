@@ -1,0 +1,84 @@
+// name: Lita, Mechanical Engineer (Bracket 3)
+// source: community
+// tags: artifacts, mana-dorks, aggro
+// bracket: 3
+
+Commander
+1 Lita, Mechanical Engineer
+
+Deck
+
+1 Adagia, Windswept Bastion
+1 Buried Ruin
+1 Eiganjo, Seat of the Empire
+1 Fomori Vault
+1 Inventors' Fair
+1 Minas Tirith
+1 Monumental Henge
+26 Plains
+1 War Room
+1 Aerial Surveyor
+1 Arcane Signet
+1 Fabrication Foundry
+1 Forsaken Monument
+1 Marble Diamond
+1 Mighty Servant of Leuk-o
+1 Mind Stone
+1 Nautiloid Ship
+1 Reckoner Bankbuster
+1 Skysovereign, Consul Flagship
+1 Sol Ring
+1 Springleaf Drum
+1 The Arkenstone
+1 Thunderhawk Gunship
+1 Unwinding Clock
+1 Weatherlight
+1 Akroma's Will
+1 Dawn's Truce
+1 Dispatch
+1 Flawless Maneuver
+1 Generous Gift
+1 Path to Exile
+1 Razorgrass Ambush
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Alloy Myr
+1 Automated Artificer
+1 Bronze Guardian
+1 Bronze Walrus
+1 Canoptek Spyder
+1 Cryptothrall
+1 Digsite Engineer
+1 Drumbellower
+1 Esper Sentinel
+1 Ethersworn Canonist
+1 Foundry Inspector
+1 Gold Myr
+1 H.E.R.B.I.E., Lovable Robot
+1 Hedron Crawler
+1 Illustrious Wanderglyph
+1 Karn, Legacy Reforged
+1 Losheel, Clockwork Scholar
+1 Manakin
+1 Metalworker
+1 Myr Convert
+1 Oasis Gardener
+1 Oltec Matterweaver
+1 Opaline Unicorn
+1 Ornithopter of Paradise
+1 Page, Loose Leaf
+1 Palladium Myr
+1 Plague Myr
+1 Platoon Dispenser
+1 Rebbec, Architect of Ascension
+1 Sanwell, Avenger Ace
+1 Scuttlemutt
+1 Skrelv, Defector Mite
+1 Steel Overseer
+1 Tower Worker
+1 Ultron, Artificial Malevolence
+1 Witch Enchanter
+1 Dazzling Theater // Prop Room
+1 Tocasia's Welcome
+1 Farewell
