@@ -1,0 +1,87 @@
+// name: General Kreat, the Boltbringer (Bracket 3)
+// source: community
+// tags: tribal, tokens, aggro, burn
+
+Commander
+1 General Kreat, the Boltbringer
+
+Deck
+
+1 Abrade
+1 Brightstone Ritual
+1 Chaos Warp
+1 Deflecting Swat
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Agate Instigator
+1 Battle Cry Goblin
+1 Beetleback Chief
+1 Birgi, God of Storytelling
+1 Conspicuous Snoop
+1 Goblin Chieftain
+1 Goblin Chirurgeon
+1 Goblin Matron
+1 Goblin Recruiter
+1 Goblin Trashmaster
+1 Goblin Warchief
+1 Hexing Squelcher
+1 Hobgoblin Bandit Lord
+1 Howlsquad Heavy
+1 Krenko, Mob Boss
+1 Krenko, Tin Street Kingpin
+1 Legion Warboss
+1 Mogg War Marshal
+1 Molten Gatekeeper
+1 Muxus, Goblin Grandee
+1 Ojer Axonil, Deepest Might
+1 Purphoros, God of the Forge
+1 Roaming Throne
+1 Rundvelt Hordemaster
+1 Searslicer Goblin
+1 Siege-Gang Lieutenant
+1 Skirk Prospector
+1 Squee, Dubious Monarch
+1 Squee, the Immortal
+1 Torbran, Thane of Red Fell
+1 Treasure Nabber
+1 Arcane Signet
+1 Gathering Stone
+1 Hazoret's Monument
+1 Herald's Horn
+1 Idol of Oblivion
+1 Ruby Medallion
+1 Skullclamp
+1 Sol Ring
+1 The Fire Crystal
+1 Vanquisher's Banner
+1 Arena of Glory
+1 Castle Embereth
+1 Den of the Bugbear
+1 Dwarven Mine
+1 Mines of Moria
+22 Mountain
+1 Muraganda Raceway
+1 Nykthos, Shrine to Nyx
+1 Path of Ancestry
+1 Rogue's Passage
+1 Spinerock Knoll
+1 Three Tree City
+1 War Room
+1 Blasphemous Act
+1 Dragon Fodder
+1 Faithless Looting
+1 Gamble
+1 Goblin War Strike
+1 Hordeling Outburst
+1 Jeska's Will
+1 Kindred Charge
+1 Krenko's Command
+1 Light Up the Stage
+1 Reckless Impulse
+1 Vandalblast
+1 Wheel of Misfortune
+1 Wrenn's Resolve
+1 City on Fire
+1 Goblin Warrens
+1 Impact Tremors
