@@ -1,0 +1,71 @@
+// name: Ashcoat of the Shadow Swarm (Bracket 3)
+// source: community
+// tags: ripple, tribal, midrange
+
+Commander
+1 Ashcoat of the Shadow Swarm
+
+Deck
+
+1 Archenemy's Charm
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Darkness
+1 Defile
+1 Lethal Scheme
+1 Malakir Rebirth
+1 Tragic Slip
+1 Vampiric Tutor
+1 Village Rites
+1 Ayara, First of Locthwain
+1 Crypt Rats
+1 Disciple of Bolas
+1 Infected Vermin
+1 Karumonix, the Rat King
+1 Lord Skitter's Butcher
+1 Lord Skitter, Sewer King
+1 Marrow-Gnawer
+1 Nezumi Prowler
+1 Ogre Slumlord
+1 Pack Rat
+1 Persistent Marshstalker
+1 Piper of the Swarm
+14 Rat Colony
+1 Rat King, Verminister
+1 Banner of Kinship
+1 Commander's Plate
+1 Jet Medallion
+1 Lightning Greaves
+1 Mind Stone
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 Stoneforge Masterwork
+1 Thought Vessel
+1 Urza's Incubator
+1 Whip of Erebos
+1 Black Market Connections
+1 Phyrexian Arena
+1 The Meathook Massacre
+1 Vampiric Link
+1 Bojuka Bog
+1 Cabal Coffers
+1 Phyrexian Tower
+1 Reliquary Tower
+1 Rogue's Passage
+1 Shizo, Death's Storehouse
+1 Spymaster's Vault
+25 Swamp
+1 Swarmyard
+1 Three Tree City
+1 Urborg, Tomb of Yawgmoth
+1 Bubbling Muck
+1 Crippling Fear
+1 Demonic Tutor
+1 Feed the Swarm
+1 Night's Whisper
+1 Sign in Blood
+1 Swarmyard Massacre
+1 Toxic Deluge
+1 Yawgmoth's Will
