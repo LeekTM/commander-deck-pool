@@ -1,0 +1,103 @@
+// name: Auntie Ool, Cursewretch (Bracket 2)
+// source: community
+// tags: -1/-1, salty
+
+Commander
+1 Auntie Ool, Cursewretch
+
+Deck
+
+1 Aberrant Return
+1 Black Sun's Zenith
+1 Nature's Lore
+1 Persist
+1 Soul Immolation
+1 Three Visits
+1 Toxic Deluge
+1 Vandalblast
+1 All Will Be One
+1 Blowfly Infestation
+1 Crumbling Ashes
+1 Everlasting Torment
+1 Flourishing Defenses
+1 Grave Venerations
+1 Nest of Scarabs
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Contagion Clasp
+1 Contagion Engine
+1 Sol Ring
+1 The Darkness Crystal
+1 The Ozolith
+1 Wickersmith's Tools
+1 Assassin's Trophy
+1 Beast Within
+1 Big Score
+1 Deadly Rollick
+1 Deflecting Swat
+1 Heroic Intervention
+1 Malakir Rebirth
+1 Redirect Lightning
+1 Birds of Paradise
+1 Bloom Tender
+1 Corrosive Mentor
+1 Dread Tiller
+1 Evolution Sage
+1 Generous Patron
+1 Glissa Sunslayer
+1 Grub, Storied Matriarch
+1 Hapatra, Vizier of Poisons
+1 Harbinger of Night
+1 Hexing Squelcher
+1 Ignoble Hierarch
+1 Kulrath Knight
+1 Maha, Its Feathers Night
+1 Massacre Girl, Known Killer
+1 Midnight Banshee
+1 Mikaeus, the Unhallowed
+1 Necroskitter
+1 Obelisk Spider
+1 Persistent Constrictor
+1 Scuzzback Scrounger
+1 Shadow Urchin
+1 Sinister Gnarlbark
+1 Soul Snuffers
+1 Spitting Dilophosaurus
+1 The Reaper, King No More
+1 The Scorpion God
+1 Tree of Perdition
+1 Village Pillagers
+1 Yawgmoth, Thran Physician
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Command Tower
+1 Commercial District
+1 Deathcap Glade
+1 Dragonskull Summit
+1 Forest
+1 Haunted Ridge
+1 Ifnir Deadlands
+1 Karn's Bastion
+1 Luxury Suite
+1 Mountain
+1 Nesting Grounds
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Raucous Theater
+1 Smoldering Marsh
+1 Spire Garden
+1 Stomping Ground
+1 Strip Mine
+6 Swamp
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Wastewood Verge
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Ziatora's Proving Ground
+1 Vraska, Betrayal's Sting
