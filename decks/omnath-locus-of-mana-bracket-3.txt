@@ -1,0 +1,89 @@
+// name: Omnath, Locus of Mana (Bracket 3)
+// source: community
+// tags: big-mana, stompy, good-stuff, ramp
+// bracket: 3
+
+Commander
+1 Omnath, Locus of Mana
+
+Deck
+
+1 Arbor Adherent
+1 Arbor Elf
+1 Ashaya, Soul of the Wild
+1 Birds of Paradise
+1 Craterhoof Behemoth
+1 Disciple of Freyalise
+1 Druid of Purification
+1 Elvish Mystic
+1 Fanatic of Rhonas
+1 Fyndhorn Elves
+1 Kamahl, Fist of Krosa
+1 Kodama of the East Tree
+1 Kogla, the Titan Ape
+1 Llanowar Elves
+1 Nissa, Vastwood Seer
+1 Nyxbloom Ancient
+1 Ohran Frostfang
+1 Priest of Titania
+1 Radagast of Rhosgobel
+1 Sakura-Tribe Elder
+1 Selvala, Heart of the Wilds
+1 Silverback Elder
+1 Stonehoof Chieftain
+1 Surrak and Goreclaw
+1 Tendershoot Dryad
+1 Thunderfoot Baloth
+1 Toski, Bearer of Secrets
+1 Wood Elves
+1 Yeva, Nature's Herald
+1 Bala Ged Recovery
+1 Bridgeworks Battle
+1 Cultivate
+1 Finale of Devastation
+1 Genesis Wave
+1 Green Sun's Zenith
+1 Into the North
+1 Kodama's Reach
+1 Last March of the Ents
+1 Nature's Lore
+1 Nature's Rhythm
+1 Praetor's Counsel
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Skyshroud Claim
+1 Three Visits
+1 Bear Umbra
+1 Garruk's Uprising
+1 Greater Good
+1 Guardian Project
+1 Kenrith's Transformation
+1 Lignify
+1 March of the World Ooze
+1 Song of the Dryads
+1 Tribute to the World Tree
+1 Utopia Sprawl
+1 Virtue of Strength
+1 Wild Growth
+1 Wilderness Reclamation
+1 Zendikar Resurgent
+1 Beast Within
+1 Harrow
+1 Heroic Intervention
+1 Lifestream's Blessing
+1 Noxious Revival
+1 Bender's Waterskin
+1 Caged Sun
+1 The Great Henge
+1 Bonders' Enclave
+1 Boseiju, Who Endures
+1 Castle Garenbrig
+1 Dryad Arbor
+1 Emergence Zone
+21 Forest
+1 Ghost Quarter
+1 Homeward Path
+1 War Room
+1 Yavimaya, Cradle of Growth
+1 Nissa, Who Shakes the World
+1 Nissa, Worldwaker
