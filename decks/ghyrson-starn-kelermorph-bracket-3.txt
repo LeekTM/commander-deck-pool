@@ -1,0 +1,91 @@
+// name: Ghyrson Starn, Kelermorph (Bracket 3)
+// source: community
+// tags: storm, spellslinger, burn, tempo
+
+Commander
+1 Ghyrson Starn, Kelermorph
+
+Deck
+
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Counterspell
+1 Disdainful Stroke
+1 Electrickery
+1 Flashback
+1 Force of Will
+1 Frantic Search
+1 Gut Shot
+1 Into the Flood Maw
+1 Mindbreak Trap
+1 Needle Drop
+1 Negate
+1 Opt
+1 Pongify
+1 Quicken
+1 Rapid Hybridization
+1 Spell Pierce
+1 Spikefield Hazard
+1 Arcane Signet
+1 Basilisk Collar
+1 Izzet Signet
+1 Lightning Greaves
+1 Lotus Petal
+1 Mithril Coat
+1 Sol Ring
+1 Archmage Emeritus
+1 Chandra's Incinerator
+1 Coruscation Mage
+1 Electro, Assaulting Battery
+1 Electrostatic Field
+1 Firebrand Archer
+1 Gandalf, Goblins' Bane
+1 Gelectrode
+1 Kessig Flamebreather
+1 Niv-Mizzet, Parun
+1 Razorkin Needlehead
+1 Sawblade Scamp
+1 Tandem Lookout
+1 Thermo-Alchemist
+1 Third Path Iconoclast
+1 Unruly Catapult
+1 Urabrask
+1 Vivi Ornitier
+1 Young Pyromancer
+1 Blazing Volley
+1 End the Festivities
+1 Expressive Iteration
+1 Flow State
+1 Gitaxian Probe
+1 Grapeshot
+1 Jeska's Will
+1 Light Up the Stage
+1 Ponder
+1 Preordain
+1 Sleight of Hand
+1 Smash to Dust
+1 Stock Up
+1 Tectonic Hazard
+1 Treasure Cruise
+1 Windfall
+1 Blinkmoth Nexus
+1 Cascade Bluffs
+1 Command Tower
+1 Desolate Lighthouse
+1 Fabled Passage
+1 Frostboil Snarl
+9 Island
+1 Lindblum, Industrial Regency
+10 Mountain
+1 Mystic Sanctuary
+1 Reliquary Tower
+1 Shivan Gorge
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Training Center
+1 Turbulent Springs
+1 Chandra, Dressed to Kill
+1 Curiosity
+1 Ophidian Eye
+1 Rhystic Study
+1 Sigil of Sleep
