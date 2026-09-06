@@ -1,0 +1,104 @@
+// name: Hope Estheim (Bracket 3)
+// source: community
+// tags: triggered, mill, tokens, lifegain, +1/+1
+
+Commander
+1 Hope Estheim
+
+Deck
+
+1 Adarkar Wastes
+1 Adventurer's Inn
+1 Azorius Chancery
+1 Command Tower
+1 Deserted Beach
+1 Evolving Wilds
+1 Fabled Passage
+1 Flooded Strand
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Idyllic Beachfront
+3 Island
+1 Jidoor, Aristocratic Capital
+1 Kabira Crossroads
+1 Lake-town
+1 Meticulous Archive
+1 Mistrise Village
+1 Mystic Gate
+1 Path of Ancestry
+3 Plains
+1 Radiant Fountain
+1 Sea of Clouds
+1 Seachrome Coast
+1 Sejiri Refuge
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Tranquil Cove
+1 Aerith Gainsborough
+1 Archangel of Thune
+1 Bard, King of Dale
+1 Belladonna Took
+1 Brimaz, King of Oreskos
+1 Bruvac the Grandiloquent
+1 Charismatic Conqueror
+1 Cosmogrand Zenith
+1 Daxos, Blessed by the Sun
+1 Delney, Streetwise Lookout
+1 Echo, Perceptive Prodigy
+1 Elenda's Hierophant
+1 Exemplar of Light
+1 Haliya, Guided by Light
+1 Heliod, Sun-Crowned
+1 Homunculus Horde
+1 Leonardo, Cutting Edge
+1 Leonin Warleader
+1 Loran of the Third Path
+1 Mentor of the Meek
+1 Mister Fantastic, Reed Richards
+1 Monastery Mentor
+1 Myrel, Shield of Argive
+1 Ocelot Pride
+1 Serra Ascendant
+1 Soul Warden
+1 Soul's Attendant
+1 Suture Priest
+1 The Queen of Dale
+1 Voice of Victory
+1 Walking Ballista
+1 Aligned Heart
+1 Anointed Procession
+1 Darksteel Mutation
+1 Endless Foot Assault
+1 Felidar Retreat
+1 Light of Promise
+1 Mystic Remora
+1 Rest in Peace
+1 Smothering Tithe
+1 Arcane Denial
+1 Brainstorm
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Flawless Maneuver
+1 Mana Sculpt
+1 Path to Exile
+1 Restoration Magic
+1 Swords to Plowshares
+1 Visions of Beyond
+1 Will of the Mardu
+1 Arcane Signet
+1 Azorius Signet
+1 Caduceus, Staff of Hermes
+1 Great Gilded Boat
+1 Horn of Gondor
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Progress
+1 The Wind Crystal
+1 Wizard's Staff
+1 Hop to It
+1 Maddening Cacophony
+1 Ponder
+1 White Sun's Twilight
