@@ -1,0 +1,99 @@
+// name: Ketramose, the New Dawn (Bracket 3)
+// source: community
+// tags: aristocrats, blink, exile, combo
+// bracket: 3
+
+Commander
+1 Ketramose, the New Dawn
+
+Deck
+
+1 Abdel Adrian, Gorion's Ward
+1 Aerial Extortionist
+1 Aven Mindcensor
+1 Barbed Servitor
+1 Black Panther, Most Dangerous
+1 Captain Marvel, Shooting Star
+1 Corpse Knight
+1 Dauthi Voidwalker
+1 Fiend Hunter
+1 Glorious Protector
+1 Grand Abolisher
+1 Kambal, Consul of Allocation
+1 Kambal, Profiteering Mayor
+1 Lord Skitter, Sewer King
+1 Lotho, Corrupt Shirriff
+1 Opposition Agent
+1 Phyrexian Obliterator
+1 Phyrexian Vindicator
+1 Ravenous Chupacabra
+1 Restoration Angel
+1 Senu, Keen-Eyed Protector
+1 Sheoldred, the Apocalypse
+1 Werefox Bodyguard
+1 Adagia, Windswept Bastion
+1 Bojuka Bog
+1 Cabal Coffers
+1 Caves of Koilos
+1 City of Brass
+1 Command Tower
+1 Demolition Field
+1 Desolate Mire
+1 Exotic Orchard
+1 Fetid Heath
+1 Flooded Strand
+1 Geier Reach Sanitarium
+1 Godless Shrine
+1 Isolated Chapel
+1 Marsh Flats
+1 Orzhov Basilica
+6 Plains
+1 Polluted Delta
+1 Scavenger Grounds
+1 Shattered Sanctum
+6 Swamp
+1 Tainted Field
+1 Thespian's Stage
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Saga
+1 Agatha's Soul Cauldron
+1 Altar of the Brood
+1 Arcane Signet
+1 Ghost Vacuum
+1 Sol Ring
+1 Talisman of Hierarchy
+1 The Darkness Crystal
+1 The Mind Stone
+1 The Soul Stone
+1 Thought Vessel
+1 Anguished Unmaking
+1 Deadly Rollick
+1 Erode
+1 Gideon's Sacrifice
+1 Imp's Mischief
+1 Inkshield
+1 Kaya's Guile
+1 Martyrdom
+1 Path to Exile
+1 Reprieve
+1 Simulacrum
+1 Teferi's Protection
+1 Black Market Connections
+1 Ghostly Prison
+1 Guilty Conscience
+1 Land Tax
+1 Necromancy
+1 Ninja Teen
+1 Pariah
+1 Phyrexian Scriptures
+1 Saving Grace
+1 Teleportation Circle
+1 With Great Power . . .
+1 Damn
+1 Damnation
+1 Deadly Cover-Up
+1 Demonic Tutor
+1 Idyllic Tutor
+1 Insatiable Avarice
+1 Lively Dirge
+1 Winds of Abandon
