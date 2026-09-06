@@ -1,0 +1,96 @@
+// name: Zurgo, Thunder's Decree (Bracket 3)
+// source: community
+// tags: aggro, tribal, anthem, aristocrats
+
+Commander
+1 Zurgo, Thunder's Decree
+
+Deck
+
+1 Afterlife Insurance
+1 Akroma's Will
+1 Deadly Dispute
+1 Duty Beyond Death
+1 Great Train Heist
+1 Saw in Half
+1 Secure the Wastes
+1 Swords to Plowshares
+1 Valakut Awakening
+1 Wear // Tear
+1 Will of the Mardu
+1 Ainok Strike Leader
+1 Alesha, Who Laughs at Fate
+1 Avenger of the Fallen
+1 Belladonna Took
+1 Bone-Cairn Butcher
+1 Brighthearth Banneret
+1 Caesar, Legion's Emperor
+1 Devilish Valet
+1 Dragonback Lancer
+1 Exalted Sunborn
+1 Goldnight Commander
+1 Iroas, God of Victory
+1 Isshin, Two Heavens as One
+1 Jacked Rabbit
+1 Mardu Siegebreaker
+1 Marshal of the Lost
+1 Mindblade Render
+1 Mondrak, Glory Dominus
+1 Neriv, Heart of the Storm
+1 Nesting Dovehawk
+1 Ocelot Pride
+1 Ogre Battledriver
+1 Pitiless Plunderer
+1 Professional Face-Breaker
+1 Redoubled Stormsinger
+1 Roaming Throne
+1 Shock Brigade
+1 Venerated Stormsinger
+1 Voice of Victory
+1 Zurgo Stormrender
+1 All-Out Assault
+1 Anointed Procession
+1 Barrensteppe Siege
+1 Cathars' Crusade
+1 Echoing Assault
+1 Felidar Retreat
+1 Renewed Solidarity
+1 Smothering Tithe
+1 Thunder of Unity
+1 Warleader's Call
+1 Windcrag Siege
+1 Within Range
+1 Arcane Signet
+1 Boros Signet
+1 Chromatic Lantern
+1 Door of Destinies
+1 Infantry Shield
+1 Orcrist, Goblin-cleaver
+1 Patchwork Banner
+1 Skullclamp
+1 Sol Ring
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Boros Garrison
+1 Command Tower
+1 Dalkovan Encampment
+1 Elegant Parlor
+1 Fabled Passage
+1 Godless Shrine
+1 Isolated Chapel
+1 Marsh Flats
+5 Mountain
+1 Myriad Landscape
+1 Phyrexian Tower
+5 Plains
+1 Sacred Foundry
+1 Savai Triome
+5 Swamp
+1 Three Tree City
+1 Urborg, Tomb of Yawgmoth
+1 Vault of the Archangel
+1 Blasphemous Edict
+1 Electroduplicate
+1 Molten Duplication
+1 Elspeth, Storm Slayer
