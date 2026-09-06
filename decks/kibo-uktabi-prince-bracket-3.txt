@@ -1,0 +1,97 @@
+// name: Kibo, Uktabi Prince (Bracket 3)
+// source: community
+// tags: tribal, +1/+1, artifacts
+// bracket: 3
+
+Commander
+1 Kibo, Uktabi Prince
+
+Deck
+
+1 Ancient Tomb
+1 Castle Garenbrig
+1 Cavern of Souls
+1 Cinder Glade
+1 Command Tower
+1 Copperline Gorge
+1 Cragcrown Pathway
+1 Exotic Orchard
+1 Fire-Lit Thicket
+13 Forest
+1 Game Trail
+1 Karplusan Forest
+1 Mountain
+1 Path of Ancestry
+1 Rockfall Vale
+1 Rogue's Passage
+1 Rootbound Crag
+1 Spire Garden
+1 Stomping Ground
+1 Thornspire Verge
+1 Treetop Village
+1 Yavimaya, Cradle of Growth
+1 Arcane Signet
+1 Idol of Oblivion
+1 Illusionist's Bracers
+1 Lightning Greaves
+1 Liquimetal Coating
+1 Liquimetal Torque
+1 Ozolith, the Shattered Spire
+1 Sol Ring
+1 Staff of Domination
+1 Swiftfoot Boots
+1 The Great Henge
+1 The Ozolith
+1 Umbral Mantle
+1 Arcbound Crusher
+1 Beast Whisperer
+1 Clockwork Percussionist
+1 Elephant-Mandrill
+1 Fanatic of Rhonas
+1 Fangren Marauder
+1 Gearbane Orangutan
+1 Gorilla Shaman
+1 Guerrilla Gorilla
+1 Hit-Monkey
+1 Kami of Whispered Hopes
+1 Karlach, Fury of Avernus
+1 Kird Ape
+1 Kodama of the West Tree
+1 Kogla and Yidaro
+1 Kogla, the Titan Ape
+1 Oracle of Mul Daya
+1 Ragavan, Nimble Pilferer
+1 Roxanne, Starfall Savant
+1 Scrounging Bandar
+1 Seeker of Skybreak
+1 Silverback Elder
+1 Simian Simulacrum
+1 Simian Spirit Guide
+1 Yavimaya Steelcrusher
+1 Zodiac Monkey
+1 Archdruid's Charm
+1 Entish Restoration
+1 Inspiring Call
+1 Legolas's Quick Reflexes
+1 Return of the Wildspeaker
+1 Tamiyo's Safekeeping
+1 Valakut Awakening
+1 Worldly Tutor
+1 Asceticism
+1 Branching Evolution
+1 Garruk's Uprising
+1 Hardened Scales
+1 Rhythm of the Wild
+1 Springleaf Parade
+1 Tribute to the World Tree
+1 Viridian Revel
+1 Bridgeworks Battle
+1 Gamble
+1 Kodama's Reach
+1 Meltdown
+1 Nature's Lore
+1 Rishkar's Expertise
+1 Shatterskull Smashing
+1 Skyshroud Claim
+1 Stump Stomp
+1 Vandalblast
