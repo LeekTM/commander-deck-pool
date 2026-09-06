@@ -1,0 +1,99 @@
+// name: Brenard, Ginger Sculptor (Bracket 3)
+// source: community
+// tags: artifacts, food, tokens
+
+Commander
+1 Brenard, Ginger Sculptor
+
+Deck
+
+1 A Realm Reborn
+1 Artificer Class
+1 Caretaker's Talent
+1 Greater Good
+1 Mystic Remora
+1 Ninja Pizza
+1 Smothering Tithe
+1 Sugar Coat
+1 The Antiquities War
+1 Academy Ruins
+1 Adarkar Wastes
+1 Ancient Den
+1 Branchloft Pathway
+1 Command Tower
+1 Darksteel Citadel
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Flooded Grove
+1 Flooded Strand
+6 Forest
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Hushwood Verge
+3 Island
+1 Mystic Gate
+3 Plains
+1 Rejuvenating Springs
+1 Sea of Clouds
+1 Seat of the Synod
+1 Tanglepool Bridge
+1 Temple Garden
+1 Thornglint Bridge
+1 Tree of Tales
+1 Willowrush Verge
+1 Windswept Heath
+1 Access Denied
+1 Mirrorform
+1 Swords to Plowshares
+1 Aerial Extortionist
+1 Apothecary White
+1 Big Mother Mouser
+1 Birds of Paradise
+1 Bloom Tender
+1 Esper Sentinel
+1 Forensic Gadgeteer
+1 Foundation Breaker
+1 Gilded Goose
+1 Gingerbrute
+1 Glasspool Mimic
+1 Hangarback Walker
+1 Haywire Mite
+1 Illustrious Wanderglyph
+1 Iron Spider, Stark Upgrade
+1 Losheel, Clockwork Scholar
+1 Mulldrifter
+1 Phyrexian Metamorph
+1 Piper Wright, Publick Reporter
+1 Riptide Gearhulk
+1 Sakura-Tribe Elder
+1 Sierra, Nuka's Biggest Fan
+1 Solemn Simulacrum
+1 Steel Overseer
+1 Stridehangar Automaton
+1 Syr Ginger, the Meal Ender
+1 Technodrome
+1 The Cabbage Merchant
+1 Thought Monitor
+1 Tireless Provisioner
+1 Tough Cookie
+1 The Goose Mother
+1 Whirler Rogue
+1 Wicked Wolf
+1 Witch Enchanter
+1 Ancient Stirrings
+1 Rise and Shine
+1 Thoughtcast
+1 Arcane Signet
+1 Esika's Chariot
+1 Fellwar Stone
+1 Idol of Oblivion
+1 Liquimetal Torque
+1 Selesnya Signet
+1 Simic Signet
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Unity
+1 Witch's Oven
+1 Oko, Thief of Crowns
+1 Tezzeret the Seeker
