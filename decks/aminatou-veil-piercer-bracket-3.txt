@@ -1,0 +1,99 @@
+// name: Aminatou, Veil Piercer (Bracket 3)
+// source: community
+// tags: control, enchantments, good-stuff
+
+Commander
+1 Aminatou, Veil Piercer
+
+Deck
+
+1 Abdel Adrian, Gorion's Ward
+1 Balemurk Leech
+1 Demon of Fate's Design
+1 Doomwake Giant
+1 Enduring Curiosity
+1 Esper Sentinel
+1 Faerie Mastermind
+1 Gremlin Tamer
+1 Grim Guardian
+1 Ledger Shredder
+1 Loran of the Third Path
+1 Lotho, Corrupt Shirriff
+1 Moon-Blessed Cleric
+1 Ondu Spiritdancer
+1 Sun Titan
+1 The Queen of Dale
+1 Zur the Enchanter
+1 Abundant Countryside
+1 Adarkar Wastes
+1 Caves of Koilos
+1 City of Brass
+1 Command Tower
+1 Darkwater Catacombs
+1 Deserted Beach
+1 Desolate Mire
+1 Exotic Orchard
+1 Floodfarm Verge
+1 Forbidden Orchard
+1 Gloomlake Verge
+1 Godless Shrine
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+5 Island
+4 Plains
+1 Raffine's Tower
+1 Shattered Sanctum
+1 Shipwreck Marsh
+1 Silent Clearing
+1 Skycloud Expanse
+3 Swamp
+1 Underground River
+1 Vault of Champions
+1 Watery Grave
+1 Altar of Dementia
+1 Arcane Signet
+1 Azorius Signet
+1 Fellwar Stone
+1 Scroll Rack
+1 Sensei's Divining Top
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Counterspell
+1 Culling the Weak
+1 Dark Ritual
+1 Enlightened Tutor
+1 Entomb
+1 Memory Lapse
+1 Mental Misstep
+1 Swords to Plowshares
+1 Animate Dead
+1 Cacophony Unleashed
+1 Copy Enchantment
+1 Counterbalance
+1 Enchanted Evening
+1 Ghostly Prison
+1 Grasp of Fate
+1 Kaya's Ghostform
+1 Mystic Remora
+1 Necropotence
+1 Penance
+1 Rest in Peace
+1 Rhystic Study
+1 Secret Arcade // Dusty Parlor
+1 Smuggler's Share
+1 Starfield of Nyx
+1 Touch the Spirit Realm
+1 Trouble in Pairs
+1 Asinine Antics
+1 Buried Alive
+1 Cruel Tutor
+1 Grim Tutor
+1 Idyllic Tutor
+1 Portent
+1 Scheming Symmetry
+1 Jace, the Mind Sculptor
