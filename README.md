@@ -165,11 +165,17 @@ longer the expected path for page/issue submissions.
 
 ## Prices and colours
 
-- Prices come from Scryfall's cheapest known printing (`prices.eur` /
-  `prices.usd`) via `/cards/collection`, excluding basic lands. **EUR is the
-  default currency** (`price_eur`) since this group is UK-based and Cardmarket
-  tracks real cost better than TCGplayer USD -- `price_usd` is stored too, but
-  EUR is what the page and (later) the TTS mod default to.
+- Prices come from whichever printing Scryfall returns for the card's *name*
+  via `/cards/collection` (`prices.eur` / `prices.usd`), excluding basic lands.
+  That's Scryfall's own default printing, which is usually the most recent one
+  and **not** the cheapest -- Sol Ring prices as its newest printing (~EUR
+  1.62) rather than its cheapest (~EUR 0.69, and it has 130 paper printings).
+  Pricing every card at its cheapest printing would need a `unique=prints`
+  search per card -- thousands of calls -- which isn't worth it for what is
+  explicitly a sorting hint.
+- **EUR is the default currency** (`price_eur`) since this group is UK-based
+  and Cardmarket tracks real cost better than TCGplayer USD -- `price_usd` is
+  stored too, but EUR is what the page and the TTS mod default to.
 - Colour identity is the union of every card's `color_identity`, same
   Scryfall call.
 - Treat both as a floor, not a market quote.
@@ -312,3 +318,18 @@ no schema tolerance.
   ever wanted, never called from the browser page.
 - Scryfall is the only card-data source. Respect its rate limit
   (`scripts/scryfall.py` and `docs/js/scryfall.js` both do).
+- Scryfall's bulk-data files can't reproduce these prices, so don't "optimise"
+  the rebuild onto them expecting the numbers to stay put. Measured, on this
+  pool: `oracle_cards` (23 MB) holds one printing per card, and for ~23 of the
+  pool's cards that printing is MTGO-only with no paper price at all
+  (`Lotus Petal`, `Strip Mine`, `Plateau`...). `default_cards` (78 MB) has
+  every printing, but nothing in the data marks *which* one
+  `/cards/collection` returns for a name, and the closest rule ("newest
+  non-promo paper printing") comes out a median 12.7% low, ranging -52% to
+  +77%, matching only 4 of 83 decks. Also beware art-series printings: they
+  are separate objects whose front-face name collides with the real card
+  (`Deflecting Swat` art card, EUR 0.00, vs the real one at EUR 61.38), so any
+  name index built from bulk has to drop `layout: art_series` /
+  `set_type: memorabilia`. Bulk is still the correct answer if lookups ever
+  need to be genuinely rapid or high-volume -- it just is not a drop-in for
+  pricing.
