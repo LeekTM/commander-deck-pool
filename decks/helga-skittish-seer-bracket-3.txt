@@ -1,0 +1,99 @@
+// name: Helga, Skittish Seer (Bracket 3)
+// source: community
+// tags: +1/+1, good-stuff
+// bracket: 3
+
+Commander
+1 Helga, Skittish Seer
+
+Deck
+
+1 Acidic Slime
+1 Apex Devastator
+1 Beast Whisperer
+1 Birds of Paradise
+1 Bloom Tender
+1 Chakram Retriever
+1 Chulane, Teller of Tales
+1 Clamavus
+1 Craterhoof Behemoth
+1 Danny Pink
+1 Delighted Halfling
+1 Falco Spara, Pactweaver
+1 Forgotten Ancient
+1 Ghalta, Primal Hunger
+1 Goldvein Hydra
+1 Haliya, Ascendant Cadet
+1 Hamza, Guardian of Arashin
+1 Inga and Esika
+1 Kami of Whispered Hopes
+1 Llanowar Elves
+1 Mockingbird
+1 Murkfiend Liege
+1 Mystic Snake
+1 Noble Hierarch
+1 Ouroboroid
+1 Railway Brawler
+1 Sab-Sunen, Luxa Embodied
+1 Shalai, Voice of Plenty
+1 Silverback Elder
+1 Surrak and Goreclaw
+1 The Goose Mother
+1 The Unagi of Kyoshi Island
+1 Twenty-Toed Toad
+1 Wan Shi Tong, Librarian
+1 Wistfulness
+1 Zimone, Paradox Sculptor
+1 Adarkar Wastes
+1 Bountiful Promenade
+1 Breeding Pool
+1 Brushland
+1 Command Tower
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Fabled Passage
+1 Flooded Grove
+1 Flooded Strand
+6 Forest
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hinterland Harbor
+1 Hushwood Verge
+4 Island
+1 Misty Rainforest
+3 Plains
+1 Rejuvenating Springs
+1 Sea of Clouds
+1 Seaside Citadel
+1 Spara's Headquarters
+1 Sunpetal Grove
+1 Temple Garden
+1 Tranquil Landscape
+1 Willowrush Verge
+1 Windswept Heath
+1 Yavimaya Coast
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Beast Within
+1 Dovin's Veto
+1 Generous Gift
+1 Growth Spiral
+1 Inspiring Call
+1 Negate
+1 Path to Exile
+1 Swords to Plowshares
+1 Arcane Signet
+1 Sol Ring
+1 The Earth Crystal
+1 The Great Henge
+1 Austere Command
+1 Damning Verdict
+1 Nature's Lore
+1 Three Visits
+1 Wave Goodbye
+1 Brokers Ascendancy
+1 Guardian Project
+1 Intruder Alarm
+1 Simic Ascendancy
+1 Kiora, Behemoth Beckoner
