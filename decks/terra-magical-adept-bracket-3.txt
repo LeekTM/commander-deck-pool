@@ -1,0 +1,104 @@
+// name: Terra, Magical Adept (Bracket 3)
+// source: community
+// tags: enchantments, reanimater, sagas
+// bracket: 3
+
+Commander
+1 Terra, Magical Adept
+
+Deck
+
+1 A Realm Reborn
+1 Cacophony Unleashed
+1 Copy Enchantment
+1 Elspeth Conquers Death
+1 Fable of the Mirror-Breaker
+1 Rhystic Study
+1 Search for Azcanta
+1 Sphere of Safety
+1 The Creation of Avacyn
+1 The Legend of Kuruk
+1 The Legend of Kyoshi
+1 The Legend of Yangchen
+1 The Tale of Tamiyo
+1 Tortured Existence
+1 Wild Growth
+1 Abundant Countryside
+1 Blood Crypt
+1 Breeding Pool
+1 Command Tower
+1 Elegant Parlor
+1 Exotic Orchard
+1 Field of the Dead
+2 Forest
+1 Godless Shrine
+1 Hall of Heliod's Generosity
+1 Ishgard, the Holy See
+2 Island
+1 Lush Portico
+1 Meticulous Archive
+2 Mountain
+1 Nesting Grounds
+1 Overgrown Tomb
+2 Plains
+1 Raucous Theater
+1 Shadowy Backstreet
+1 Starting Town
+1 Stomping Ground
+2 Swamp
+1 The World Tree
+1 Thundering Falls
+1 Turbulent Wilderness
+1 Vesuva
+1 Watery Grave
+1 Anger
+1 Anikthea, Hand of Erebos
+1 Birds of Paradise
+1 Bloom Tender
+1 Celes, Rune Knight
+1 Eiganjo Dynastorian
+1 Formidable Speaker
+1 Iroas, God of Victory
+1 Joshua, Phoenix's Dominant
+1 Rydia, Summoner of Mist
+1 Sanctum Weaver
+1 Satsuki, the Living Lore
+1 Summon: Bahamut
+1 Summon: Fenrir
+1 Summon: G.F. Ifrit
+1 Summon: Ixion
+1 Summon: Knights of Round
+1 Summon: Kujata
+1 Summon: Primal Garuda
+1 Summon: Primal Odin
+1 Summon: Shiva
+1 Summon: Titan
+1 Summon: Valefor
+1 Summon: Yojimbo
+1 Sythis, Harvest's Hand
+1 Terra, Herald of Hope
+1 Tom Bombadil
+1 Yuna, Grand Summoner
+1 Yuna, Hope of Spira
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Entomb
+1 Heroic Intervention
+1 Manamorphose
+1 Sink into Stupor
+1 Tamiyo's Safekeeping
+1 Arcane Signet
+1 Birthing Pod
+1 Chromatic Lantern
+1 Sol Ring
+1 Clash of the Eikons
+1 Eerie Ultimatum
+1 Esper Origins
+1 Farseek
+1 Idyllic Tutor
+1 Nature's Lore
+1 Past in Flames
+1 Reanimate
+1 Victimize
