@@ -1,0 +1,98 @@
+// name: Adrix and Nev, Twincasters (Bracket 3)
+// source: community
+// tags: tokens, clones, combo
+
+Commander
+1 Adrix and Nev, Twincasters
+
+Deck
+
+1 Abundance
+1 Concordant Crossroads
+1 Cryptolith Rite
+1 Growing Rites of Itlimoc
+1 Parallel Lives
+1 Sylvan Library
+1 Amulet of Vigor
+1 Arcane Signet
+1 Sol Ring
+1 Wizard's Staff
+1 An Offer You Can't Refuse
+1 Arachnogenesis
+1 Chord of Calling
+1 Crop Rotation
+1 Double Major
+1 Heritage Reclamation
+1 Mystic Reflection
+1 Pongify
+1 Rapid Hybridization
+1 Reality Shift
+1 Resculpt
+1 Swan Song
+1 Theoretical Duplication
+1 Three Steps Ahead
+1 Applied Geometry
+1 Awaken the Woods
+1 Doppelgang
+1 Ezuri's Predation
+1 Farseek
+1 Finale of Devastation
+1 Green Sun's Zenith
+1 Irenicus's Vile Duplication
+1 Natural Order
+1 Nature's Lore
+1 Replication Technique
+1 Rite of Replication
+1 Three Visits
+1 Avenger of Zendikar
+1 Craterhoof Behemoth
+1 Curiosity Crafter
+1 Enduring Curiosity
+1 Enduring Vitality
+1 Esix, Fractal Bloom
+1 Eternal Witness
+1 Gilded Goose
+1 Glasspool Mimic
+1 Hornet Queen
+1 Koma, Cosmos Serpent
+1 Master of Waves
+1 Mutable Explorer
+1 Overlord of the Hauntwoods
+1 Peregrin Took
+1 Sakashima of a Thousand Faces
+1 Scurry of Squirrels
+1 Scute Swarm
+1 Shang-Chi, Master of Kung Fu
+1 Spark Double
+1 Springheart Nantuko
+1 Tamiyo, Inquisitive Student
+1 The Unbeatable Squirrel Girl
+1 Timeless Witness
+1 Tireless Provisioner
+1 Toski, Bearer of Secrets
+1 Barkchannel Pathway
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Command Beacon
+1 Command Tower
+1 Dreamroot Cascade
+1 Dryad Arbor
+1 Evendo, Waking Haven
+1 Fabled Passage
+1 Field of the Dead
+9 Forest
+1 Hedge Maze
+1 Hinterland Harbor
+3 Island
+1 Mistrise Village
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Prismatic Vista
+1 Rejuvenating Springs
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Sodden Verdure
+1 Turbulent Wilderness
+1 Willowrush Verge
+1 Yavimaya, Cradle of Growth
