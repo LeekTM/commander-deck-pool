@@ -1,0 +1,98 @@
+// name: Pir, Imaginative Rascal + Toothy, Imaginary Friend (Bracket 3)
+// source: community
+// tags: partners, +1/+1, card-draw, good-stuff
+// bracket: 3
+
+Commander
+1 Pir, Imaginative Rascal
+1 Toothy, Imaginary Friend
+
+Deck
+
+1 Aetherize
+1 Beast Within
+1 Blur
+1 Brainstorm
+1 Counterspell
+1 Cryptic Command
+1 Cyclonic Rift
+1 Displace
+1 Essence Flux
+1 Ghostly Flicker
+1 Growth Spiral
+1 Heroic Intervention
+1 Krosan Grip
+1 Negate
+1 Planar Incision
+1 Pongify
+1 Rapid Hybridization
+1 Siren's Ruse
+1 Snakeskin Veil
+1 Swan Song
+1 Unsubstantiate
+1 Arcane Signet
+1 Fellwar Stone
+1 Ozolith, the Shattered Spire
+1 Sol Ring
+1 Talisman of Curiosity
+1 Ash Barrens
+1 Barkchannel Pathway
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Command Tower
+1 Flooded Grove
+6 Forest
+1 Forge of Heroes
+7 Island
+1 Karn's Bastion
+1 Misty Rainforest
+1 Myriad Landscape
+1 Novijen, Heart of Progress
+1 Oran-Rief, the Vastwood
+1 Reflecting Pool
+1 Reliquary Tower
+1 Sanctum of Eternity
+1 Temple of Mystery
+1 Waterlogged Grove
+1 Willowrush Verge
+1 Yavimaya Coast
+1 Yavimaya, Cradle of Growth
+1 Beast Whisperer
+1 Birds of Paradise
+1 Danny Pink
+1 Displacer Kitten
+1 Eternal Witness
+1 Evolution Sage
+1 Fertilid
+1 Forgotten Ancient
+1 Gilded Goose
+1 Herald of Secret Streams
+1 Kami of Whispered Hopes
+1 Laboratory Maniac
+1 Lulu, Stern Guardian
+1 Mulldrifter
+1 Rishkar, Peema Renegade
+1 Skycoach Conductor
+1 Snapcaster Mage
+1 Tyvar, the Pummeler
+1 Uro, Titan of Nature's Wrath
+1 Vorinclex, Monstrous Raider
+1 Walking Ballista
+1 Wistfulness
+1 Doubling Season
+1 Exploration
+1 Gossip's Talent
+1 Innkeeper's Talent
+1 Mystic Remora
+1 Proft's Eidetic Memory
+1 Rhystic Study
+1 Simic Ascendancy
+1 Standstill
+1 Wizard Class
+1 Explore
+1 Nature's Lore
+1 Ponder
+1 Rampant Growth
+1 Three Visits
+1 Jace Beleren
+1 Oko, Thief of Crowns
