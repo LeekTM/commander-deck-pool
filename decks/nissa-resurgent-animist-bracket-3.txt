@@ -1,0 +1,90 @@
+// name: Nissa, Resurgent Animist (Bracket 3)
+// source: community
+// tags: ramp, tribal, aggro, combo, tokens
+// bracket: 3
+
+Commander
+1 Nissa, Resurgent Animist
+
+Deck
+
+1 Allosaurus Shepherd
+1 Ambush Commander
+1 Ancient Greenwarden
+1 Arwen, Weaver of Hope
+1 Ashaya, Soul of the Wild
+1 Avenger of Zendikar
+1 Beast Whisperer
+1 Canopy Tactician
+1 Eladamri, Korvecdal
+1 Elvish Archdruid
+1 Elvish Champion
+1 Elvish Piper
+1 Elvish Warmaster
+1 Evolution Sage
+1 Evolution Witness
+1 Galadhrim Brigade
+1 Imperious Perfect
+1 Leaf-Crowned Visionary
+1 Lumra, Bellow of the Woods
+1 Mossborn Hydra
+1 Nullmage Shepherd
+1 Omnath, Locus of Mana
+1 Oracle of Mul Daya
+1 Priest of Titania
+1 Realm Seekers
+1 Seeker of Skybreak
+1 Springbloom Druid
+1 Titania, Voice of Gaea
+1 Vigor
+1 Argoth, Sanctum of Nature
+1 Boseiju, Who Endures
+1 Deserted Temple
+1 Escape Tunnel
+1 Evolving Wilds
+1 Fabled Passage
+20 Forest
+1 Jungle Basin
+1 Nykthos, Shrine to Nyx
+1 Promising Vein
+1 Shifting Woodland
+1 Shire Terrace
+1 Terramorphic Expanse
+1 Urza's Cave
+1 Vibrant Cityscape
+1 Yavimaya, Cradle of Growth
+1 Avoid Fate
+1 Beast Within
+1 Entish Restoration
+1 Force of Vigor
+1 Galadhrim Ambush
+1 Harrow
+1 Heroic Intervention
+1 Windswift Slice
+1 Worldly Tutor
+1 Bala Ged Recovery
+1 Carnivorous Canopy
+1 Genesis Wave
+1 Open the Way
+1 Overwhelming Stampede
+1 Retrieve
+1 Scapeshift
+1 Splendid Reclamation
+1 Unnatural Restoration
+1 Concordant Crossroads
+1 Down in the Valley
+1 Elven Chorus
+1 Exploration
+1 Growing Rites of Itlimoc
+1 Parallel Lives
+1 Spelunking
+1 Spidersilk Armor
+1 Undergrowth Recon
+1 Conduit of Worlds
+1 Emerald Medallion
+1 Exploration Broodship
+1 Lightning Greaves
+1 Rings of Brighthearth
+1 Sol Ring
+1 Nissa, Who Shakes the World
+1 Nissa, Worldwaker
