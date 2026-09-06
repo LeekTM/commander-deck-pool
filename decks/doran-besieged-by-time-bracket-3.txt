@@ -1,0 +1,90 @@
+// name: Doran, Besieged by Time (Bracket 3)
+// source: community
+// tags: toughness-matters, tribal
+
+Commander
+1 Doran, Besieged by Time
+
+Deck
+
+1 Akroma's Will
+1 Assassin's Trophy
+1 Beast Within
+1 Flawless Maneuver
+1 Force of Vigor
+1 Heroic Intervention
+1 Kindred Summons
+1 Return of the Wildspeaker
+1 Swords to Plowshares
+1 Ancient Lumberknot
+1 Bosk Banneret
+1 Colfenor, the Last Yew
+1 Doran, the Siege Tower
+1 Ezzaroot Channeler
+1 Faeburrow Elder
+1 Fangorn, Tree Shepherd
+1 Gaea's Avenger
+1 Generous Ent
+1 Great Forest Druid
+1 Heartwood Storyteller
+1 Indomitable Ancients
+1 Leaf-Crowned Elder
+1 Nemata, Primeval Warden
+1 Nylea, God of the Hunt
+1 Orchard Warden
+1 Ouroboroid
+1 Quickbeam, Upstart Ent
+1 Roaming Throne
+1 Sapling of Colfenor
+1 Shriekwood Devourer
+1 Six
+1 Timber Protector
+1 Treebeard, Gracious Host
+1 Treefolk Harbinger
+1 Verdeloth the Ancient
+1 Arcane Signet
+1 Chronicle of Victory
+1 Golgari Signet
+1 Lightning Greaves
+1 Selesnya Signet
+1 Sol Ring
+1 Talisman of Resilience
+1 Talisman of Unity
+1 The Great Henge
+1 Urza's Incubator
+1 Bala Ged Recovery
+1 Farseek
+1 Last March of the Ents
+1 Nature's Lore
+1 Rishkar's Expertise
+1 Slaughter the Strong
+1 Three Visits
+1 Toxic Deluge
+1 Boseiju, Who Endures
+1 Canopy Vista
+1 Command Tower
+1 Exotic Orchard
+15 Forest
+1 Fortified Village
+1 Hushwood Verge
+1 Indatha Triome
+1 Isolated Chapel
+1 Llanowar Wastes
+1 Overgrown Tomb
+3 Plains
+1 Sandsteppe Citadel
+3 Swamp
+1 Temple Garden
+1 Undergrowth Stadium
+1 Wastewood Verge
+1 Woodland Cemetery
+1 Yavimaya, Cradle of Growth
+1 Brave the Sands
+1 Dormant Grove
+1 Garruk's Uprising
+1 Guardian Project
+1 Lignify
+1 Sapling Nursery
+1 Smothering Tithe
+1 Stoneskin
+1 Wrenn and Seven
