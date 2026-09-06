@@ -1,0 +1,101 @@
+// name: Davros, Dalek Creator (Bracket 3)
+// source: community
+// tags: historic, burn, discard, artifacts
+
+Commander
+1 Davros, Dalek Creator
+
+Deck
+
+
+1 Arcane Denial
+1 Chaos Warp
+1 Cyber Conversion
+1 Desynchronization
+1 Gifts Ungiven
+1 Rakdos Charm
+1 Snuff Out
+1 Split Decision
+1 Swan Song
+1 This Is How It Ends
+1 Arcane Signet
+1 Coercive Portal
+1 Lightning Greaves
+1 Palantír of Orthanc
+1 Reaver Titan
+1 Sol Ring
+1 Sonic Screwdriver
+1 Strionic Resonator
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Thought Vessel
+1 Auton Soldier
+1 Combustible Gearhulk
+1 Cryptothrall
+1 Cult of Skaro
+1 Cyberdrive Awakener
+1 Cyberman Patrol
+1 Cybermat
+1 Cybermen Squadron
+1 Dalek Drone
+1 Dalek Squadron
+1 Etherium Sculptor
+1 Golbez, Crystal Collector
+1 Jhoira, Weatherlight Captain
+1 Labyrinth Raptor
+1 Loyal Subordinate
+1 Missy
+1 Ornithopter of Paradise
+1 Perforating Artist
+1 Ravenous Robots
+1 Scientist Supreme of A.I.M.
+1 Shaun, Father of Synths
+1 Shuri, Wakandan Inventor
+1 Solemn Simulacrum
+1 Spellskite
+1 Sygg, River Cutthroat
+1 The Cyber-Controller
+1 The Dalek Emperor
+1 The Valeyard
+1 Weeping Angel
+1 Y'shtola Rhul
+1 Blood Crypt
+1 Cascade Bluffs
+1 Choked Estuary
+1 Command Tower
+1 Crumbling Necropolis
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fabled Passage
+1 Fiery Islet
+1 Frostboil Snarl
+1 Graven Cairns
+1 Haunted Ridge
+5 Island
+2 Mountain
+1 Ominous Cemetery
+1 Reliquary Tower
+1 Seething Landscape
+1 Shipwreck Marsh
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfurous Springs
+4 Swamp
+1 Turbulent Springs
+1 Underground River
+1 Watery Grave
+1 Xander's Lounge
+1 Boltwave
+1 Delete
+1 Ensnared by the Mara
+1 Exterminate!
+1 Fateful Tempest
+1 Molten Psyche
+1 Prisoner's Dilemma
+1 Sadistic Shell Game
+1 Court of Ambition
+1 Genesis of the Daleks
+1 Protection Racket
+1 The Sound of Drums
