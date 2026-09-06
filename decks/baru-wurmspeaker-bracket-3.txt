@@ -1,0 +1,80 @@
+// name: Baru, Wurmspeaker (Bracket 3)
+// source: community
+// tags: ramp, stompy, tribal
+
+Commander
+1 Baru, Wurmspeaker
+
+Deck
+
+1 Archdruid's Charm
+1 Kindred Summons
+1 Snakeskin Veil
+1 Withstand Death
+1 Worldly Tutor
+1 Wrap in Vigor
+1 Balustrade Wurm
+1 Bellowing Tanglewurm
+1 Bookwurm
+1 Bramble Wurm
+1 Colossal Rattlewurm
+1 Defiler of Vigor
+1 Dirtcowl Wurm
+1 Elderscale Wurm
+1 Emergent Woodwurm
+1 Engulfing Slagwurm
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Germinating Wurm
+1 Ilysian Caryatid
+1 Impervious Greatwurm
+1 Karametra's Acolyte
+1 Llanowar Elves
+1 Ojer Kaslem, Deepest Growth
+1 Ouroboroid
+1 Pelakka Wurm
+1 Penumbra Wurm
+1 Plated Slagwurm
+1 Quilled Greatwurm
+1 Realmwalker
+1 Runadi, Behemoth Caller
+1 Soul Swallower
+1 Voracious Wurm
+1 Whisperer of the Wilds
+1 Witherscale Wurm
+1 Worldspine Wurm
+1 Blasted Landscape
+1 Castle Garenbrig
+1 Deserted Temple
+29 Forest
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Oran-Rief, the Vastwood
+1 Rogue's Passage
+1 Temple of the False God
+1 Tranquil Thicket
+1 Broken Bond
+1 Bushwhack
+1 Cultivate
+1 Explore
+1 Finale of Devastation
+1 Nature's Lore
+1 Rishkar's Expertise
+1 Selective Obliteration
+1 Shamanic Revelation
+1 Skyshroud Claim
+1 Wurmcalling
+1 Concordant Crossroads
+1 Garruk's Uprising
+1 Gravity Well
+1 Greater Good
+1 Kenrith's Transformation
+1 Monstrous Vortex
+1 Sandwurm Convergence
+1 Virtue of Strength
+1 Wild Growth
+1 Emerald Medallion
+1 Sol Ring
+1 Swiftfoot Boots
+1 Garruk, Primal Hunter
+1 Invasion of Shandalar
