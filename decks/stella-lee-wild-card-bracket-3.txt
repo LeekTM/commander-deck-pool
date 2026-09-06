@@ -1,0 +1,94 @@
+// name: Stella Lee, Wild Card (Bracket 3)
+// source: community
+// tags: spellslinger, burn, control, card-draw
+// bracket: 3
+
+Commander
+1 Stella Lee, Wild Card
+
+Deck
+
+1 Arcane Denial
+1 Big Score
+1 Brainstorm
+1 Cerulean Wisps
+1 Comet Storm
+1 Consider
+1 Counterspell
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Dramatic Reversal
+1 Frantic Search
+1 Galvanic Iteration
+1 High Tide
+1 Increasing Vengeance
+1 Magic Damper
+1 Octopus Form
+1 Opt
+1 Pongify
+1 Refocus
+1 Resculpt
+1 Seething Song
+1 Shore Up
+1 Teach by Example
+1 Trickbind
+1 Unexpected Windfall
+1 Arcane Signet
+1 Bender's Waterskin
+1 Fellwar Stone
+1 Izzet Signet
+1 Mox Amber
+1 Sol Ring
+1 Tablet of Discovery
+1 Talisman of Creativity
+1 Archmage Emeritus
+1 Emeritus of Conflict
+1 Goblin Electromancer
+1 Guttersnipe
+1 Jori En, Ruin Diver
+1 Longshot, Rebel Bowman
+1 Storm-Kiln Artist
+1 Third Path Iconoclast
+1 Thunderclap Drake
+1 Veyran, Voice of Duality
+1 Vivi Ornitier
+1 Young Pyromancer
+1 Cascade Bluffs
+1 Command Tower
+1 Exotic Orchard
+1 Frostboil Snarl
+9 Island
+1 Minamo, School at Water's Edge
+1 Mistrise Village
+8 Mountain
+1 Mystic Sanctuary
+1 Reliquary Tower
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Scorched Geyser
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Thundering Falls
+1 Training Center
+1 Turbulent Springs
+1 Crackle with Power
+1 Expressive Iteration
+1 Faithless Looting
+1 Flow State
+1 Gitaxian Probe
+1 Inspired Tinkering
+1 Jaya's Immolating Inferno
+1 Jeska's Will
+1 Mana Geyser
+1 Mizzix's Mastery
+1 Overmaster
+1 Past in Flames
+1 Pirate's Pillage
+1 Ponder
+1 Preordain
+1 Serum Visions
+1 Sleight of Hand
+1 Stock Up
+1 Propaganda
