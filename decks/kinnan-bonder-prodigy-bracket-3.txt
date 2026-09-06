@@ -1,0 +1,86 @@
+// name: Kinnan, Bonder Prodigy (Bracket 3)
+// source: community
+// tags: mana-dorks, big-mana, control
+
+Commander
+1 Kinnan, Bonder Prodigy
+
+Deck
+
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Blue Elemental Blast
+1 Counterspell
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Heroic Intervention
+1 Mana Drain
+1 March of Swirling Mist
+1 Negate
+1 Rapid Hybridization
+1 Reality Shift
+1 Swan Song
+1 Apex Altisaur
+1 Armored Scrapgorger
+1 Birds of Paradise
+1 Blightsteel Colossus
+1 Bloom Tender
+1 Colossal Skyturtle
+1 Dawnglade Regent
+1 Delighted Halfling
+1 Elder Gargaroth
+1 Elvish Mystic
+1 Enduring Vitality
+1 Fanatic of Rhonas
+1 Glen Elendra Archmage
+1 Gwenna, Eyes of Gaea
+1 Hullbreaker Horror
+1 Ilysian Caryatid
+1 Kogla, the Titan Ape
+1 Koma, Cosmos Serpent
+1 Kona, Rescue Beastie
+1 Kozilek, Butcher of Truth
+1 Llanowar Elves
+1 Lord of Change
+1 Marang River Regent
+1 Old Gnawbone
+1 Phyrexian Metamorph
+1 Sakura-Tribe Elder
+1 Seedborn Muse
+1 Silverback Elder
+1 Sphinx of the Second Sun
+1 Terastodon
+1 The Unagi of Kyoshi Island
+1 Thorn Mammoth
+1 Tidespout Tyrant
+1 Vigor
+1 Arcane Signet
+1 Basilisk Collar
+1 Fellwar Stone
+1 Mind Stone
+1 Mox Amber
+1 Shadowspear
+1 Simic Signet
+1 Sledge-Class Seedship
+1 Sol Ring
+1 Talisman of Curiosity
+1 The Great Henge
+1 Thought Vessel
+1 Asceticism
+1 Copy Artifact
+1 Garruk's Uprising
+1 Guardian Project
+1 Boseiju, Who Endures
+1 Command Tower
+1 Dreamroot Cascade
+1 Exotic Orchard
+9 Forest
+1 Homeward Path
+15 Island
+1 Reliquary Tower
+1 Temple of Mystery
+1 The Shire
+1 Vineglimmer Snarl
+1 Green Sun's Zenith
+1 Nature's Lore
+1 Wash Out
