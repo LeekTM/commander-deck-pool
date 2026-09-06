@@ -1,0 +1,89 @@
+// name: Heliod, Sun-Crowned (Bracket 3)
+// source: community
+// tags: +1/+1, aggro, lifegain, midrange
+// bracket: 3
+
+Commander
+1 Heliod, Sun-Crowned
+
+Deck
+
+1 Aerith Gainsborough
+1 Archangel of Thune
+1 Archivist of Oghma
+1 Battle Angels of Tyr
+1 Children of Korlis
+1 Crested Sunmare
+1 Daxos, Blessed by the Sun
+1 Delney, Streetwise Lookout
+1 Essence Channeler
+1 Felidar Sovereign
+1 Grand Abolisher
+1 Guide of Souls
+1 Haliya, Guided by Light
+1 Luminous Broodmoth
+1 Lunarch Veteran
+1 Mangara, the Diplomat
+1 Mother of Runes
+1 Resplendent Angel
+1 Rhox Faithmender
+1 Serra Ascendant
+1 Serra Paragon
+1 Soul Warden
+1 Soul's Attendant
+1 Spirited Companion
+1 Sunscorch Regent
+1 Suture Priest
+1 The Gaffer
+1 Voice of the Blessed
+1 Walking Ballista
+1 Witch Enchanter
+1 Aetherflux Reservoir
+1 Archaeomancer's Map
+1 Mind Stone
+1 Pearl Medallion
+1 Sol Ring
+1 The Ozolith
+1 The Wind Crystal
+1 Throne of Eldraine
+1 Vedalken Orrery
+1 Well of Lost Dreams
+1 Ajani's Welcome
+1 Angelic Accord
+1 Authority of the Consuls
+1 Cleric Class
+1 Ghostly Prison
+1 Land Tax
+1 Rest in Peace
+1 Smothering Tithe
+1 Smuggler's Share
+1 Test of Endurance
+1 Ajani, Strength of the Pride
+1 Elspeth, Storm Slayer
+1 Akroma's Will
+1 Erode
+1 Generous Gift
+1 Heliod's Intervention
+1 Path to Exile
+1 Razorgrass Ambush
+1 Reprieve
+1 Riot Control
+1 Shelter
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Buried Ruin
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Emergence Zone
+1 Exotic Orchard
+1 Minas Tirith
+21 Plains
+1 Radiant Fountain
+1 Reliquary Tower
+1 Rogue's Passage
+1 Seraph Sanctuary
+1 War Room
+1 Windbrisk Heights
+1 Witch's Clinic
+1 Fumigate
+1 Secret Rendezvous
