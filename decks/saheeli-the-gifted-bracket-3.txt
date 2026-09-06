@@ -1,0 +1,91 @@
+// name: Saheeli, the Gifted (Bracket 3)
+// source: community
+// tags: artifacts, clones, tokens
+// bracket: 3
+
+Commander
+1 Saheeli, the Gifted
+
+Deck
+
+1 Academy Ruins
+1 Buried Ruin
+1 Cascade Bluffs
+1 Darksteel Citadel
+1 Great Furnace
+1 Inventors' Fair
+14 Island
+6 Mountain
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Seat of the Synod
+1 Silverbluff Bridge
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Urza's Saga
+1 Ancient Stone Idol
+1 Craterclaw Colossus
+1 Darksteel Juggernaut
+1 Enthusiastic Mechanaut
+1 Etherium Sculptor
+1 Foundry Inspector
+1 Goblin Welder
+1 HYDRA Assault Robot
+1 Iron Spider, Stark Upgrade
+1 Jhoira, Weatherlight Captain
+1 Kappa Cannoneer
+1 Karn, Legacy Reforged
+1 Kuldotha Forgemaster
+1 Machinesmith Automaton
+1 Master Transmuter
+1 Master of Etherium
+1 Metalworker
+1 Myr Battlesphere
+1 Ornithopter of Paradise
+1 Phyrexian Metamorph
+1 Pinnacle Emissary
+1 Ravenous Robots
+1 Saheeli, the Sun's Brilliance
+1 Sai, Master Thopterist
+1 Sharding Sphinx
+1 Shuri, Wakandan Inventor
+1 Steel Overseer
+1 Thought Monitor
+1 Triplicate Titan
+1 Urza, Lord High Artificer
+1 Wurmcoil Engine
+1 Arcane Signet
+1 Darksteel Forge
+1 Idol of Oblivion
+1 Izzet Signet
+1 Mind Stone
+1 Mirage Mirror
+1 Mirrorworks
+1 Mystic Forge
+1 Retrofitter Foundry
+1 Sculpting Steel
+1 Simulacrum Synthesizer
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 The One Ring
+1 Unwinding Clock
+1 Blasphemous Act
+1 Fabricate
+1 Saheeli's Artistry
+1 Saheeli's Directive
+1 Thoughtcast
+1 Vision Quest
+1 Chaos Warp
+1 Counterspell
+1 Cyclonic Rift
+1 Desynchronization
+1 Mana Drain
+1 Thirst for Knowledge
+1 Whir of Invention
+1 Efficient Construction
+1 Mechanized Production
+1 Mirrodin Besieged
+1 Rhystic Study
+1 Thopter Spy Network
