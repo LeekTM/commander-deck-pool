@@ -1,0 +1,95 @@
+// name: Deadpool, Trading Card (Bracket 3)
+// source: community
+// tags: chaos, clones, combo
+
+Commander
+1 Deadpool, Trading Card
+
+Deck
+
+1 Aggravated Assault
+1 Animate Dead
+1 Black Market Connections
+1 Echoing Assault
+1 Grip of Chaos
+1 Impact Tremors
+1 Phyrexian Arena
+1 Possibility Storm
+1 Alexios, Deimos of Kosmos
+1 Blood Artist
+1 Dualcaster Mage
+1 Elturel Survivors
+1 Flamerush Rider
+1 Goldlust Triad
+1 Jaxis, the Troublemaker
+1 Mayhem Devil
+1 Mirage Phalanx
+1 Mirkwood Bats
+1 Morbid Opportunist
+1 Pitiless Plunderer
+1 Professional Face-Breaker
+1 Rionya, Fire Dancer
+1 Solemn Simulacrum
+1 Terror of the Peaks
+1 Valgavoth, Harrower of Souls
+1 Vein Ripper
+1 Worldgorger Dragon
+1 Xantcha, Sleeper Agent
+1 Arcane Signet
+1 Blade of Selves
+1 Conjurer's Closet
+1 Cursed Mirror
+1 Fellwar Stone
+1 Helm of the Host
+1 Mirror Box
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Hearth and Home
+1 Talisman of Indulgence
+1 Blasphemous Act
+1 Damnation
+1 Demonic Tutor
+1 Diabolic Tutor
+1 Electroduplicate
+1 Faithless Looting
+1 Feed the Swarm
+1 Harmless Offering
+1 Heat Shimmer
+1 Jeska's Will
+1 Molten Duplication
+1 Reanimate
+1 Twinflame
+1 Vandalblast
+1 Wheel of Misfortune
+1 Blazemire Verge
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Command Beacon
+1 Command Tower
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Graven Cairns
+1 Haunted Ridge
+1 Luxury Suite
+9 Mountain
+1 Rakdos Carnarium
+1 Raucous Theater
+1 Rogue's Passage
+1 Smoldering Marsh
+1 Sulfurous Springs
+6 Swamp
+1 Tainted Peak
+1 Chaos Warp
+1 Dark Ritual
+1 Deadly Rollick
+1 Deflecting Swat
+1 Feign Death
+1 Not Dead After All
+1 Rakdos Charm
+1 Saw in Half
+1 Tibalt's Trickery
+1 Undying Malice
+1 Withering Torment
