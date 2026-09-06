@@ -1,0 +1,96 @@
+// name: Avatar Aang (Bracket 3)
+// source: community
+// tags: benders, tribal
+
+Commander
+1 Avatar Aang
+
+Deck
+
+1 Aang, Airbending Master
+1 Aang, Swift Savior
+1 Aang, at the Crossroads
+1 Appa, Steadfast Guardian
+1 Badgermole
+1 Badgermole Cub
+1 Birds of Paradise
+1 Bloom Tender
+1 Bumi, Unleashed
+1 Deepglow Skate
+1 Fyndhorn Elves
+1 General Tazri
+1 Great Divide Guide
+1 Hakoda, Selfless Commander
+1 Haru, Hidden Talent
+1 Katara, Bending Prodigy
+1 Katara, Water Tribe's Hope
+1 Katara, the Fearless
+1 Llanowar Elves
+1 Monk Gyatso
+1 North Pole Patrol
+1 Resolute Blademaster
+1 Temur Battlecrier
+1 Toph, Greatest Earthbender
+1 Toph, Hardheaded Teacher
+1 Toph, the Blind Bandit
+1 Abandoned Air Temple
+1 Agna Qel'a
+1 Blossoming Sands
+1 Command Tower
+1 Escape Tunnel
+10 Forest
+1 Island
+1 Meditation Pools
+1 Mountain
+1 Omashu City
+1 Opulent Palace
+4 Plains
+1 Reliquary Tower
+1 Rugged Highlands
+1 Rumble Arena
+1 Sandsteppe Citadel
+1 Sun-Blessed Peak
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Thriving Bluff
+1 Thriving Grove
+1 Thriving Heath
+1 Thriving Isle
+1 Tranquil Expanse
+1 Wind-Scarred Crag
+1 Airbender Ascension
+1 Earthbender Ascension
+1 Sokka's Charge
+1 Solid Ground
+1 Allies at Last
+1 Bolt Bend
+1 Cloudshift
+1 Cycle of Renewal
+1 Cyclonic Rift
+1 Earthshape
+1 Eladamri's Call
+1 Ephemerate
+1 Force of Vigor
+1 Heroic Intervention
+1 Katara's Reversal
+1 Mana Leak
+1 Moonmist
+1 Nature's Claim
+1 Negate
+1 Silence
+1 Waterbender's Restoration
+1 Arcane Signet
+1 Bender's Waterskin
+1 Chromatic Lantern
+1 Commander's Sphere
+1 Fellwar Stone
+1 Herd Heirloom
+1 Lightning Greaves
+1 Sol Ring
+1 The Ozolith
+1 White Lotus Tile
+1 Austere Command
+1 Avatar's Wrath
+1 Farseek
+1 Pick Your Poison
+1 Spirit Water Revival
