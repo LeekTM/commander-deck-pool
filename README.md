@@ -2,26 +2,54 @@
 
 A community-maintained pool of Magic: The Gathering Commander decklists,
 stored as plain text, validated and enriched against
-[Scryfall](https://scryfall.com), and published as `deck_db.json` for a
-Tabletop Simulator mod (later phase) to roll a random deck from.
+[Scryfall](https://scryfall.com), and published as `deck_db.json` (plus
+per-deck files in `docs/tts/`) for a Tabletop Simulator mod to roll a random
+deck from.
 
 - **Browse / submit page:** `docs/` (GitHub Pages)
 - **Source of truth:** `decks/*.txt`, one file per deck
 - **Generated database:** `deck_db.json` (never hand-edit; rebuilt on every push to `decks/`)
 
+## Legal
+
+This project is unofficial Fan Content permitted under Wizards of the Coast's
+[Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy).
+Not approved/endorsed by Wizards. Portions of the materials used are property
+of Wizards of the Coast LLC. © Wizards of the Coast LLC.
+
+Card data and images come from [Scryfall](https://scryfall.com/docs/api),
+used under its API terms -- the same terms exist specifically for fan tools
+like this one. This project doesn't use the Scryfall name or logo in any way
+implying Scryfall's endorsement, doesn't crop, distort, recolor, or watermark
+card images, and sends an accurate `User-Agent` on every request while
+respecting Scryfall's rate limits and caching results (`scripts/scryfall.py`,
+`docs/js/scryfall.js`) rather than hammering the API.
+
+Everything here -- the browse page, the submission page, the deck pool
+itself -- is free: no login, paywall, survey, or subscription gates any of
+it, and nothing is sold or sublicensed.
+
+## AI disclosure
+
+All code in this repository -- Python, JavaScript, HTML/CSS, and the GitHub
+Actions workflows -- was written using AI (Claude Code). The decks themselves
+are human-submitted and the card data is Scryfall-sourced; the code that
+validates, builds, and serves them is AI-generated.
+
 ## Repo layout
 
 ```
-decks/                  one .txt per deck, the source of truth
-deck_db.json            generated -- never hand-edit
-ingest_decks.py         builds deck_db.json from decks/
+decks/                one .txt per deck, the source of truth
+deck_db.json          generated -- never hand-edit
+ingest_decks.py       builds deck_db.json (and docs/tts/) from decks/
 scripts/
-  deck_parser.py        decklist text -> structured cards (no network)
-  scryfall.py           all Scryfall access lives behind this one module
-  validate_deck.py      the blocking/warning rules, CLI + library
-  issue_to_deck.py       turns a submission issue into a decks/*.txt file
-docs/                   the submission + browse page (GitHub Pages)
-.github/workflows/      build + validate + issue-to-deck automation
+  deck_parser.py      decklist text -> structured cards (no network)
+  scryfall.py         all Scryfall access lives behind this one module
+  validate_deck.py    the blocking/warning rules, CLI + library
+  issue_to_deck.py    turns a submission issue into a decks/*.txt file
+docs/                 the submission + browse page (GitHub Pages)
+docs/tts/             per-deck JSON for the TTS mod, generated -- never hand-edit
+.github/workflows/    build + validate + issue-to-deck automation
 .github/ISSUE_TEMPLATE/add-deck.yml   the issue form
 ```
 
@@ -245,12 +273,15 @@ hosted database or auth -- GitHub is the backend. `build-db.yml` and
 `issue-to-deck.yml` push straight to `main`, so leave it unprotected (or grant
 the Actions bot a bypass) -- a required-review branch rule would block them.
 
-## Out of scope (for now)
+## The Tabletop Simulator mod
 
-The Tabletop Simulator mod that reads `deck_db.json` is a later phase. This
-repo only builds and serves the database. See `deck_db.json`'s schema (in the
-project brief) before changing any field name or type -- the mod will read it
-in Lua with no schema tolerance.
+The mod itself -- the Lua object script that reads this data in-game -- lives
+outside this repo (it's a local TTS Saved Object, not a web asset). This repo
+only builds and serves the data it reads: `deck_db.json` and the per-deck
+files in `docs/tts/` (both written by `ingest_decks.py --tts-dir docs/tts`
+and committed by `build-db.yml`). See `deck_db.json`'s schema (in the project
+brief) before changing any field name or type -- the mod reads it in Lua with
+no schema tolerance.
 
 ## Constraints (don't rediscover these)
 
