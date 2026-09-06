@@ -1,0 +1,106 @@
+// name: Sefris of the Hidden Ways (Bracket 3)
+// source: community
+// tags: control, dungeon, reanimater, toolbox
+// bracket: 3
+
+Commander
+1 Sefris of the Hidden Ways
+
+Deck
+
+1 Acererak the Archlich
+1 Archaeomancer
+1 Ashen Rider
+1 Bilbo, Luckwearer
+1 Cataclysmic Gearhulk
+1 Cathar Commando
+1 Consecrated Sphinx
+1 Doom Whisperer
+1 Glasspool Mimic
+1 Grave Researcher
+1 Gray Merchant of Asphodel
+1 Herald of Eternal Dawn
+1 Jirina, Dauntless General
+1 Ledger Shredder
+1 Massacre Wurm
+1 Midnight Pathlighter
+1 Mulldrifter
+1 Nadaar, Selfless Paladin
+1 Obsessive Stitcher
+1 Overlord of the Balemurk
+1 Overlord of the Floodpits
+1 Phantasmal Image
+1 Radiant Solar
+1 Ravenous Chupacabra
+1 Riptide Gearhulk
+1 Seasoned Dungeoneer
+1 Solemn Simulacrum
+1 The Queen of Dale
+1 Tomb of Horrors Adventurer
+1 Triumphant Adventurer
+1 Troop of Ponies
+1 Twilight Diviner
+1 Umbral Collar Zealot
+1 Vohar, Vodalian Desecrator
+1 White Plume Adventurer
+1 Yuan-Ti Malison
+1 Altar of Dementia
+1 Arcane Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 The Soul Stone
+1 Wayfarer's Bauble
+1 Wizard's Staff
+1 An Offer You Can't Refuse
+1 Entomb
+1 Fierce Guardianship
+1 Flare of Denial
+1 Flare of Fortitude
+1 Force of Will
+1 Saw in Half
+1 Swords to Plowshares
+1 Arcane Sanctum
+1 City of Brass
+1 Command Tower
+1 Contaminated Landscape
+1 Deserted Beach
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+1 Fetid Heath
+1 Flooded Strand
+1 Floodfarm Verge
+1 Godless Shrine
+1 Hallowed Fountain
+1 High Market
+2 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Meticulous Archive
+1 Mystic Gate
+1 Phyrexian Tower
+2 Plains
+1 Polluted Delta
+1 Raffine's Tower
+1 Reflecting Pool
+1 Reliquary Tower
+1 Sea of Clouds
+1 Shadowy Backstreet
+1 Shipwreck Marsh
+2 Swamp
+1 Undercity Sewers
+1 Vault of Champions
+1 Watery Grave
+1 Buried Alive
+1 Damn
+1 Diabolic Intent
+1 Incarnation Technique
+1 Living Death
+1 Reanimate
+1 Victimize
+1 Dungeon Delver
+1 Gleaming Splendor
+1 Tortured Existence
