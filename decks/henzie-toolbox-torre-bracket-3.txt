@@ -1,0 +1,99 @@
+// name: Henzie "Toolbox" Torre (Bracket 3)
+// source: community
+// tags: aggro, midrange, reanimater, chaos
+// bracket: 3
+
+Commander
+1 Henzie "Toolbox" Torre
+
+Deck
+
+1 Abundant Countryside
+1 Blazemire Verge
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cinder Glade
+1 Command Tower
+1 Commercial District
+1 Darkbore Pathway
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Fabled Passage
+5 Forest
+1 Kessig Wolf Run
+3 Mountain
+1 Raucous Theater
+1 Rogue's Passage
+1 Smoldering Marsh
+1 Spire Garden
+1 Stomping Ground
+5 Swamp
+1 Twilight Mire
+1 Twisted Landscape
+1 Wastewood Verge
+1 Yavimaya, Cradle of Growth
+1 Ziatora's Proving Ground
+1 Alexios, Deimos of Kosmos
+1 Alpha Deathclaw
+1 Ancient Copper Dragon
+1 Archon of Cruelty
+1 Archpriest of Shadows
+1 Balor
+1 Bane of Progress
+1 Bringer of the Last Gift
+1 Chainer, Nightmare Adept
+1 Colossal Grave-Reaver
+1 Deadpool, Trading Card
+1 Disciple of Bolas
+1 Enduring Courage
+1 Etali, Primal Conqueror
+1 Goreclaw, Terror of Qal Sisma
+1 Gray Merchant of Asphodel
+1 Gwenna, Eyes of Gaea
+1 Hideous Taskmaster
+1 Honest Rutstein
+1 Ignoble Hierarch
+1 Ilharg, the Raze-Boar
+1 Jecht, Reluctant Guardian
+1 Jumbo Cactuar
+1 Junji, the Midnight Sky
+1 Kardur, Doomscourge
+1 Kokusho, the Evening Star
+1 Ojer Kaslem, Deepest Growth
+1 Overlord of the Balemurk
+1 Overlord of the Boilerbilges
+1 Overlord of the Hauntwoods
+1 Oviya, Automech Artisan
+1 Perigee Beckoner
+1 Rampant Rejuvenator
+1 Ravenous Chupacabra
+1 Roxanne, Starfall Savant
+1 Scarlet Spider, Ben Reilly
+1 Seedguide Ash
+1 Spider Manifestation
+1 Spinner of Souls
+1 Timeless Witness
+1 Tom, Bert, and William
+1 Vaultborn Tyrant
+1 Vincent Valentine
+1 Assassin's Trophy
+1 Berserk
+1 Kazuul's Fury
+1 Malakir Rebirth
+1 Rushed Rebirth
+1 Saw in Half
+1 Tear Asunder
+1 Tibalt's Trickery
+1 Vampiric Tutor
+1 Birthing Pod
+1 Cauldron of Essence
+1 Foot Chopper
+1 Herd Heirloom
+1 The Great Henge
+1 Thought Vessel
+1 Birthing Ritual
+1 Garruk's Uprising
+1 Rhythm of the Wild
+1 Riveteers Ascendancy
+1 Farseek
+1 Living Death
