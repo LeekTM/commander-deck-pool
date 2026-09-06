@@ -1,0 +1,108 @@
+// name: Urtet, Remnant of Memnarch (Bracket 3)
+// source: community
+// tags: +1/+1, artifacts, aggro, ramp, tribal
+
+Commander
+1 Urtet, Remnant of Memnarch
+
+Deck
+
+1 Adaptive Automaton
+1 Alloy Myr
+1 Chief of the Foundry
+1 Copper Myr
+1 Darksteel Myr
+1 Foundry Inspector
+1 Gold Myr
+1 Hovermyr
+1 Ichorclaw Myr
+1 Iron Myr
+1 Leaden Myr
+1 Lodestone Golem
+1 Metallic Mimic
+1 Myr Battlesphere
+1 Myr Convert
+1 Myr Custodian
+1 Myr Galvanizer
+1 Myr Kinsmith
+1 Myr Mindservant
+1 Myr Moonvessel
+1 Myr Propagator
+1 Myr Retriever
+1 Myr Scrapling
+1 Myr Servitor
+1 Myr Welder
+1 Palladium Myr
+1 Perilous Myr
+1 Plague Myr
+1 Scrap Trawler
+1 Shimmer Myr
+1 Silver Myr
+1 Steel Overseer
+1 Aether Spellbomb
+1 Arcane Signet
+1 Chromatic Sphere
+1 Chromatic Star
+1 Chrome Mox
+1 Cloud Key
+1 Conjurer's Bauble
+1 Everflowing Chalice
+1 Expedition Map
+1 Fellwar Stone
+1 Genesis Chamber
+1 Krark-Clan Ironworks
+1 Mind Stone
+1 Mishra's Bauble
+1 Mox Opal
+1 Myr Incubator
+1 Myr Matrix
+1 Myr Turbine
+1 Mystic Forge
+1 Paradise Mantle
+1 Pyrite Spellbomb
+1 Sculpting Steel
+1 Sensei's Divining Top
+1 Skullclamp
+1 Sol Ring
+1 Springleaf Drum
+1 Staff of Domination
+1 Talisman of Dominance
+1 Talisman of Impulse
+1 Talisman of Indulgence
+1 Talisman of Progress
+1 Talisman of Unity
+1 The One Ring
+1 Urza's Incubator
+1 Ancient Den
+1 Ancient Tomb
+1 Buried Ruin
+1 City of Brass
+1 Command Tower
+1 Darkmoss Bridge
+1 Darksteel Citadel
+1 Drossforge Bridge
+1 Exotic Orchard
+1 Forest
+1 Glimmervoid
+1 Goldmire Bridge
+1 Great Furnace
+1 Inventors' Fair
+1 Island
+1 Mana Confluence
+1 Mistvault Bridge
+1 Mountain
+1 Plains
+1 Razortide Bridge
+1 Rustvale Bridge
+1 Seat of the Synod
+1 Silverbluff Bridge
+1 Slagwoods Bridge
+1 Spire of Industry
+1 Swamp
+1 Tanglepool Bridge
+1 The Mycosynth Gardens
+1 Thornglint Bridge
+1 Tomb of the Spirit Dragon
+1 Treasure Vault
+1 Tree of Tales
+1 Vault of Whispers
