@@ -1,0 +1,94 @@
+// name: Wolverine, Best There Is (Bracket 2)
+// source: community
+// tags: voltron, +1/+1, aggro
+
+Commander
+1 Wolverine, Best There Is
+
+Deck
+
+1 Ancient Animus
+1 Beast Within
+1 Berserk
+1 Heroic Intervention
+1 Inscription of Abundance
+1 Khalni Ambush
+1 Mutant's Prey
+1 Pit Fight
+1 Prizefight
+1 Ram Through
+1 Return of the Wildspeaker
+1 Snakeskin Veil
+1 Tail Swipe
+1 Temur Battle Rage
+1 Titanic Brawl
+1 Arcane Lighthouse
+1 Arena
+1 Cinder Glade
+1 Command Tower
+11 Forest
+1 Game Trail
+1 Karplusan Forest
+1 Kessig Wolf Run
+5 Mountain
+1 Reliquary Tower
+1 Rockfall Vale
+1 Rogue's Passage
+1 Rootbound Crag
+1 Spire Garden
+1 Stomping Ground
+1 Taiga
+1 Thornspire Verge
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Arcane Signet
+1 Basilisk Collar
+1 Mage Slayer
+1 Mithril Coat
+1 Ozolith, the Shattered Spire
+1 Power Fist
+1 Shadowspear
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Ozolith
+1 Arni Slays the Troll
+1 Bear Umbra
+1 Gratuitous Violence
+1 Hardened Scales
+1 Hunter's Talent
+1 Innkeeper's Talent
+1 Predatory Urge
+1 Raised by Giants
+1 Rhythm of the Wild
+1 Rising of the Day
+1 Rite of Passage
+1 Unnatural Growth
+1 Beastie Beatdown
+1 Blasphemous Act
+1 Bridgeworks Battle
+1 Bushwhack
+1 Chandra's Ignition
+1 Contest of Claws
+1 Cultivate
+1 Nature's Lore
+1 Overpowering Attack
+1 Rampant Growth
+1 Season of Gathering
+1 Stump Stomp
+1 Three Visits
+1 Waltz of Rage
+1 Birds of Paradise
+1 Delighted Halfling
+1 Fanatic of Rhonas
+1 Forgotten Ancient
+1 Goblin Anarchomancer
+1 Halana and Alena, Partners
+1 Kami of Whispered Hopes
+1 Kediss, Emberclaw Familiar
+1 Kodama of the West Tree
+1 Neyith of the Dire Hunt
+1 Ornery Tumblewagg
+1 Ulvenwald Tracker
+1 Vigor
+1 Xenagos, God of Revels
+1 Jeska, Thrice Reborn
