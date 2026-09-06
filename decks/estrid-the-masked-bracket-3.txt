@@ -1,0 +1,97 @@
+// name: Estrid, the Masked (Bracket 3)
+// source: community
+// tags: auras, enchantments
+// bracket: 3
+
+Commander
+1 Estrid, the Masked
+
+Deck
+
+1 Abundant Growth
+1 Aura Shards
+1 Dawn's Reflection
+1 Estrid's Invocation
+1 Fertile Ground
+1 Oath of Teferi
+1 Overgrowth
+1 Sigil of the Empty Throne
+1 Sphere of Safety
+1 Sterling Grove
+1 Tribute to the World Tree
+1 Utopia Sprawl
+1 Wild Growth
+1 Adarkar Wastes
+1 Ash Barrens
+1 Brokers Hideout
+1 Canopy Vista
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Flood Plain
+5 Forest
+1 Grasslands
+1 Idyllic Beachfront
+5 Island
+1 Myriad Landscape
+1 Path of Ancestry
+5 Plains
+1 Prairie Stream
+1 Radiant Grove
+1 Seaside Citadel
+1 Serra's Sanctum
+1 Skycloud Expanse
+1 Sungrass Prairie
+1 Tangled Islet
+1 Temple of Enlightenment
+1 Temple of Mystery
+1 Temple of Plenty
+1 Terramorphic Expanse
+1 Yavimaya Coast
+1 Ajani's Chosen
+1 Archon of Sun's Grace
+1 Aura Gnarlid
+1 Bruna, Light of Alabaster
+1 Calix, Guided by Fate
+1 Celestial Archon
+1 Composer of Spring
+1 Danitha, New Benalia's Light
+1 Destiny Spinner
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Eidolon of Countless Battles
+1 Ellivere of the Wild Court
+1 Gylwain, Casting Director
+1 Herald of the Pantheon
+1 Kestia, the Cultivator
+1 Nylea's Colossus
+1 Nyxbloom Ancient
+1 Nyxborn Behemoth
+1 Ondu Spiritdancer
+1 Pearl-Ear, Imperial Advisor
+1 Sanctum Weaver
+1 Setessan Champion
+1 Silent Sentinel
+1 Sythis, Harvest's Hand
+1 Tuvasa the Sunlit
+1 Weaver of Harmony
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Counterspell
+1 Dovin's Veto
+1 Enlightened Tutor
+1 Frantic Search
+1 Growth Spiral
+1 Negate
+1 Path to Exile
+1 Swan Song
+1 Swords to Plowshares
+1 Tamiyo's Safekeeping
+1 Arcane Signet
+1 Mind Stone
+1 Sol Ring
+1 Contentious Plan
+1 Farseek
+1 Ponder
+1 Tezzeret's Gambit
+1 Winds of Rath
