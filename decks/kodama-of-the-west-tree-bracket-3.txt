@@ -1,0 +1,87 @@
+// name: Kodama of the West Tree (Bracket 3)
+// source: community
+// tags: +1/+1, stompy
+
+Commander
+1 Kodama of the West Tree
+
+Deck
+
+1 Agatha's Soul Cauldron
+1 Boxing Ring
+1 Emerald Medallion
+1 Necklace of Girion
+1 Ozolith, the Shattered Spire
+1 Sol Ring
+1 The Earth Crystal
+1 The Great Henge
+1 The Ozolith
+1 Arwen, Weaver of Hope
+1 Beorn the Fierce
+1 Biophagus
+1 Birds of Paradise
+1 Bristly Bill, Spine Sower
+1 Champion of Lambholt
+1 Defiler of Vigor
+1 Disciple of Freyalise
+1 Evolution Sage
+1 Evolution Witness
+1 Forgotten Ancient
+1 Goldvein Hydra
+1 Gyre Sage
+1 Haywire Mite
+1 Incubation Druid
+1 Joraga Treespeaker
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Kinetic Ooze
+1 Llanowar Elves
+1 Managorger Hydra
+1 Mossborn Hydra
+1 Ohran Frostfang
+1 Ouroboroid
+1 Railway Brawler
+1 Rishkar, Peema Renegade
+1 Scythecat Cub
+1 Silverback Elder
+1 Springheart Nantuko
+1 Toski, Bearer of Secrets
+1 Ulvenwald Tracker
+1 Vorinclex, Monstrous Raider
+1 Wildgrowth Archaic
+1 Bear Umbra
+1 Hardened Scales
+1 Innkeeper's Talent
+1 Keen Sense
+1 Kenrith's Transformation
+1 Sphere Grid
+1 Terrasymbiosis
+1 Tribute to the World Tree
+1 Bonders' Enclave
+1 Castle Garenbrig
+1 Drannith Ruins
+22 Forest
+1 Karn's Bastion
+1 Llanowar Reborn
+1 Nykthos, Shrine to Nyx
+1 Oran-Rief, the Vastwood
+1 Prismatic Vista
+1 Shifting Woodland
+1 War Room
+1 Windswept Heath
+1 Wooded Foothills
+1 Bridgeworks Battle
+1 Contest of Claws
+1 Eldritch Evolution
+1 Ezuri's Predation
+1 Green Sun's Zenith
+1 Longstalk Brawl
+1 Natural Order
+1 Rishkar's Expertise
+1 Season of Gathering
+1 Turntimber Symbiosis
+1 Fight for the Throne
+1 Inspiring Call
+1 Return of the Wildspeaker
+1 Silkguard
+1 Smuggler's Surprise
