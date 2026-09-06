@@ -1,0 +1,91 @@
+// name: Tovolar, Dire Overlord (Bracket 2)
+// source: community
+// tags: transform, aggro, extra-combats, tribal
+
+Commander
+1 Tovolar, Dire Overlord
+
+Deck
+
+1 Afflicted Deserter
+1 Ascendant Packleader
+1 Avabruck Caretaker
+1 Breakneck Rider
+1 Cemetery Prowler
+1 Cult of the Waxing Moon
+1 Duskwatch Recruiter
+1 Geier Reach Bandit
+1 Hound Tamer
+1 Howlpack Piper
+1 Huntmaster of the Fells
+1 Ill-Tempered Loner
+1 Immerwolf
+1 Instigator Gang
+1 Karlach, Fury of Avernus
+1 Kessig Naturalist
+1 Kruin Outlaw
+1 Mayor of Avabruck
+1 Nightpack Ambusher
+1 Ohran Frostfang
+1 Outland Liberator
+1 Professional Face-Breaker
+1 Pyreheart Wolf
+1 Reckless Stormseeker
+1 Roaming Throne
+1 Sage of Ancient Lore
+1 Silverfur Partisan
+1 Torgal, A Fine Hound
+1 Tovolar's Huntmaster
+1 Aggravated Assault
+1 Bear Umbra
+1 Beastmaster Ascension
+1 Berserkers' Onslaught
+1 Cryptolith Rite
+1 Growing Rites of Itlimoc
+1 Howling Moon
+1 Nature's Will
+1 Rhythm of the Wild
+1 Shared Animosity
+1 Tribute to the World Tree
+1 Unnatural Growth
+1 Utopia Sprawl
+1 Arcane Signet
+1 Dolmen Gate
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Talisman of Impulse
+1 The Celestus
+1 The Great Henge
+1 Arlinn, the Pack's Hope
+1 Beast Within
+1 Chaos Warp
+1 Heroic Intervention
+1 Krosan Grip
+1 Moonmist
+1 Nature's Claim
+1 Savage Beating
+1 Blasphemous Act
+1 Farseek
+1 Kodama's Reach
+1 Nature's Lore
+1 Overpowering Attack
+1 Triumph of the Hordes
+1 Vandalblast
+1 Boseiju, Who Endures
+1 Castle Garenbrig
+1 Cinder Glade
+1 Command Tower
+1 Fabled Passage
+12 Forest
+1 Game Trail
+1 Karplusan Forest
+1 Kessig Wolf Run
+7 Mountain
+1 Rockfall Vale
+1 Rootbound Crag
+1 Spire Garden
+1 Stomping Ground
+1 Wooded Ridgeline
+1 Yavimaya, Cradle of Growth
