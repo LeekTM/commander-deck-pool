@@ -1,0 +1,77 @@
+// name: Runadi, Behemoth Caller (Bracket 3)
+// source: community
+// tags: +1/+1, stompy
+// bracket: 3
+
+Commander
+1 Runadi, Behemoth Caller
+
+Deck
+
+1 Aberrant
+1 Apex Altisaur
+1 Apex Devastator
+1 Arbor Elf
+1 Birds of Paradise
+1 Boreal Druid
+1 Cityscape Leveler
+1 Defiler of Vigor
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Elder Gargaroth
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Garruk's Horde
+1 Garruk's Packleader
+1 Giant Ankheg
+1 Inspirited Vanguard
+1 Jadelight Spelunker
+1 Kalonian Hydra
+1 Keeper of Fables
+1 Kogla, the Titan Ape
+1 Kurbis, Harvest Celebrant
+1 Llanowar Elves
+1 Michelangelo, On the Scene
+1 Ohran Frostfang
+1 Railway Brawler
+1 Rampaging Yao Guai
+1 Silverback Elder
+1 Sire of Seven Deaths
+1 Soul of the Harvest
+1 Spearbreaker Behemoth
+1 Summon: Bahamut
+1 Surrak and Goreclaw
+1 Tervigon
+1 Thorn Mammoth
+1 Threefold Thunderhulk
+1 Tri-Sentinel, Act of Vengeance
+1 Ulamog, the Defiler
+1 Vaultborn Tyrant
+1 Vorinclex, Voice of Hunger
+1 Zopandrel, Hunger Dominus
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Dryad Arbor
+33 Forest
+1 Nykthos, Shrine to Nyx
+1 Bala Ged Recovery
+1 Ezuri's Predation
+1 Green Sun's Zenith
+1 Primal Command
+1 Rishkar's Expertise
+1 Titania's Command
+1 Verdant Confluence
+1 Weird Harvest
+1 Burgeoning
+1 Exploration
+1 Glorious Sunrise
+1 Thickest in the Thicket
+1 Utopia Sprawl
+1 Virtue of Strength
+1 Wild Growth
+1 World War Hulk
+1 Garruk, Primal Hunter
+1 Return of the Wildspeaker
+1 Shared Summons
+1 Sol Ring
+1 The Great Henge
