@@ -1,0 +1,99 @@
+// name: Rowan Kenrith + Will Kenrith (Bracket 3)
+// source: community
+// tags: control, counterspells, partners, spellslinger
+// bracket: 3
+
+Commander
+1 Rowan Kenrith
+1 Will Kenrith
+
+Deck
+
+1 An Offer You Can't Refuse
+1 Beyeen Veil
+1 Cyclonic Rift
+1 Delayed Blast Fireball
+1 Flame of Anor
+1 Flashback
+1 Frantic Search
+1 Mana Drain
+1 Mana Sculpt
+1 Mystical Tutor
+1 Nexus Mentality
+1 Pongify
+1 Prologue to Phyresis
+1 Radstorm
+1 Rapid Hybridization
+1 Release to the Wind
+1 Repeated Reverberation
+1 Return the Favor
+1 Ripples of Potential
+1 Silundi Vision
+1 Sink into Stupor
+1 Swan Song
+1 Turnabout
+1 Valakut Awakening
+1 Arcane Signet
+1 Glittering Stockpile
+1 Resonating Lute
+1 Sol Ring
+1 Archmage Emeritus
+1 Gogo, Master of Mimicry
+1 Harmonic Prodigy
+1 Jace, Vryn's Prodigy
+1 Jaya's Phoenix
+1 Pinnacle Monk
+1 Ral, Monsoon Mage
+1 Spark Double
+1 Storm-Kiln Artist
+1 Third Path Iconoclast
+1 Valley Floodcaller
+1 Veyran, Voice of Duality
+1 Arid Mesa
+1 Bloodstained Mire
+1 Coastal Peak
+1 Command Tower
+1 Fabled Passage
+1 Flooded Strand
+8 Island
+1 Izzet Boilerworks
+1 Misty Rainforest
+4 Mountain
+1 Myriad Landscape
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Scorched Geyser
+1 Sokenzan, Crucible of Defiance
+1 Steam Vents
+1 Temple of the False God
+1 Thundering Falls
+1 Training Center
+1 Turbulent Springs
+1 Wooded Foothills
+1 Chandra, Hope's Beacon
+1 Ral, Crackling Wit
+1 Saheeli, Sublime Artificer
+1 Teferi, Temporal Archmage
+1 Vronos, Masked Inquisitor
+1 Deep Analysis
+1 Expansion Algorithm
+1 Expressive Iteration
+1 Faithless Looting
+1 Fiery Confluence
+1 Flow State
+1 Inspired Tinkering
+1 Jeska's Will
+1 Lórien Revealed
+1 Mizzix's Mastery
+1 Past in Flames
+1 Rapturous Moment
+1 Sea Gate Restoration
+1 Shatterskull Smashing
+1 Stock Up
+1 Strike It Rich
+1 Tezzeret's Gambit
+1 Mystic Remora
+1 Search for Azcanta
