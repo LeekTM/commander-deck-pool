@@ -1,0 +1,98 @@
+// name: Satoru Umezawa (Bracket 3)
+// source: community
+// tags: theft, midrange, ninjutsu
+// bracket: 3
+
+Commander
+1 Satoru Umezawa
+
+Deck
+
+1 Agent of Treachery
+1 Archetype of Imagination
+1 Archfiend of Depravity
+1 Archfiend of Despair
+1 Baleful Strix
+1 Changeling Outcast
+1 Dauthi Voidwalker
+1 Dokuchi Silencer
+1 Faerie Mastermind
+1 Fallen Shinobi
+1 Grim Hireling
+1 Gudul Lurker
+1 Higure, the Still Wind
+1 Ingenious Infiltrator
+1 Ingenious Prodigy
+1 Ink-Eyes, Servant of Oni
+1 Krang & Shredder
+1 Lord of the Void
+1 Memory Vampire
+1 Mindleech Mass
+1 Mist-Cloaked Herald
+1 Mistblade Shinobi
+1 Nashi, Moon Sage's Scion
+1 Nether Traitor
+1 Ornithopter
+1 Orochi Soul-Reaver
+1 Prosperous Thief
+1 Satoru, the Infiltrator
+1 Shark Shredder, Killer Clone
+1 Silent-Blade Oni
+1 Silver-Fur Master
+1 Slither Blade
+1 Sower of Discord
+1 Spectral Sailor
+1 Summon: Bahamut
+1 Thieving Amalgam
+1 Thousand-Faced Shadow
+1 Throat Slitter
+1 Tormented Soul
+1 Triton Shorestalker
+1 Wingcrafter
+1 Yuriko, the Tiger's Shadow
+1 Arcane Signet
+1 Dimir Signet
+1 Dowsing Dagger
+1 Sol Ring
+1 The Enigma Jewel
+1 The Indomitable
+1 Bojuka Bog
+1 Choked Estuary
+1 Command Tower
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Drowned Catacomb
+1 Fetid Pools
+1 Gloomlake Verge
+7 Island
+1 Misty Rainforest
+1 Morphic Pool
+1 Muraganda Raceway
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Realm of Koh
+1 Rogue's Passage
+1 Scavenger Grounds
+1 Shipwreck Marsh
+1 Shizo, Death's Storehouse
+1 Sunken Hollow
+1 Sunken Ruins
+6 Swamp
+1 Tainted Isle
+1 Undercity Sewers
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Watery Grave
+1 Cover of Darkness
+1 Propaganda
+1 Unstoppable Plan
+1 Damnation
+1 Make an Example
+1 Unearth
+1 Fierce Guardianship
+1 Force of Negation
+1 Force of Will
+1 Malakir Rebirth
+1 March of Swirling Mist
+1 Kaito, Bane of Nightmares
+1 Kaito, Cunning Infiltrator
