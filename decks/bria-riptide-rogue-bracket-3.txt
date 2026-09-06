@@ -1,0 +1,93 @@
+// name: Bria, Riptide Rogue (Bracket 3)
+// source: community
+// tags: aggro, spellslinger, prowess
+
+Commander
+1 Bria, Riptide Rogue
+
+Deck
+
+1 Aetherize
+1 Consider
+1 Deflecting Swat
+1 Electrolyze
+1 Fierce Guardianship
+1 Kazuul's Fury
+1 Press the Enemy
+1 Prismari Command
+1 Snap
+1 Think Twice
+1 Arcane Signet
+1 Astrologian's Planisphere
+1 Bitterthorn, Nissa's Animus
+1 Champion's Helm
+1 Cori-Steel Cutter
+1 Dragonfire Blade
+1 Fellwar Stone
+1 Izzet Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Arena of Glory
+1 Boseiju, Who Shelters All
+1 Cascade Bluffs
+1 Cephalid Coliseum
+1 Command Tower
+1 Fiery Islet
+9 Island
+1 Mistrise Village
+8 Mountain
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Shinka, the Bloodsoaked Keep
+1 Shivan Reef
+1 Spinerock Knoll
+1 Steam Vents
+1 Stormcarved Coast
+1 Strip Mine
+1 Sulfur Falls
+1 Temple of Epiphany
+1 Thundering Falls
+1 Bond of Insight
+1 Deep Analysis
+1 Expressive Iteration
+1 Faithless Looting
+1 Gitaxian Probe
+1 Glimpse the Impossible
+1 Isengard Unleashed
+1 Jeska's Will
+1 Lórien Revealed
+1 Mists of Lórien
+1 Overmaster
+1 Pearl of Wisdom
+1 Ponder
+1 Preordain
+1 Sleight of Hand
+1 Stock Up
+1 Temporal Manipulation
+1 Copy Enchantment
+1 Frostcliff Siege
+1 Mystic Remora
+1 Observed Stasis
+1 Proft's Eidetic Memory
+1 Rhystic Study
+1 Stormchaser's Talent
+1 Dragon's Rage Channeler
+1 Drake Hatcher
+1 Enduring Curiosity
+1 Eris, Roar of the Storm
+1 Gandalf, Goblins' Bane
+1 Ghostly Pilferer
+1 Helmut Zemo, Mastermind
+1 Hermes, Overseer of Elpis
+1 Hraesvelgr of the First Brood
+1 Hurkyl, Master Wizard
+1 Hydro-Man, Fluid Felon
+1 Longshot, Rebel Bowman
+1 Pinnacle Monk
+1 Tandem Lookout
+1 Third Path Iconoclast
+1 Ty Lee, Chi Blocker
+1 Valley Floodcaller
+1 Veyran, Voice of Duality
+1 Ral, Izzet Viceroy
