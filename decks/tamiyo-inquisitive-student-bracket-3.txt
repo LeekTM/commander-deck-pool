@@ -1,0 +1,102 @@
+// name: Tamiyo, Inquisitive Student (Bracket 3)
+// source: community
+// tags: tempo, combo, card-draw, proliferate
+
+Commander
+1 Tamiyo, Inquisitive Student
+
+Deck
+
+1 Alandra, Sky Dreamer
+1 Body of Knowledge
+1 Cankerbloom
+1 Chasm Skulker
+1 Dreamtide Whale
+1 Emrakul's Messenger
+1 Evolution Sage
+1 Faerie Mastermind
+1 Flux Channeler
+1 Hydroelectric Specimen
+1 Jolrael, Mwonvuli Recluse
+1 Laboratory Maniac
+1 Ledger Shredder
+1 Minn, Wily Illusionist
+1 Mischievous Mystic
+1 Psychosis Crawler
+1 Thassa's Oracle
+1 Thrummingbird
+1 Tishana's Tidebinder
+1 Vexing Radgull
+1 Arcane Signet
+1 Sapphire Medallion
+1 Simic Signet
+1 Talisman of Curiosity
+1 Thought Vessel
+1 Barkchannel Pathway
+1 Blighted Woodland
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cephalid Coliseum
+1 Command Tower
+1 Dreamroot Cascade
+1 Fabled Passage
+1 Flooded Grove
+1 Forest
+1 Hedge Maze
+1 Hinterland Harbor
+1 Inkmoth Nexus
+7 Island
+1 Lonely Sandbar
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Overflowing Basin
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rimewood Falls
+1 Tangled Islet
+1 Temple of Mystery
+1 Vineglimmer Snarl
+1 Waterlogged Grove
+1 Yavimaya Coast
+1 Beast Within
+1 Brainstorm
+1 Brainsurge
+1 Consider
+1 Defend the Rider
+1 Evacuation
+1 Experimental Augury
+1 Frantic Search
+1 Growth Spiral
+1 Heroic Intervention
+1 March of Swirling Mist
+1 Mutational Advantage
+1 Obscuring Haze
+1 Opt
+1 Perilous Research
+1 Pongify
+1 Prologue to Phyresis
+1 Radstorm
+1 Rapid Hybridization
+1 Reality Shift
+1 Resculpt
+1 Ripples of Potential
+1 Run Away Together
+1 Sink into Stupor
+1 Tamiyo's Safekeeping
+1 Careful Study
+1 Chart a Course
+1 Explore
+1 See Beyond
+1 Tezzeret's Gambit
+1 Windfall
+1 Winged Words
+1 Jace, Wielder of Mysteries
+1 Tamiyo, Collector of Tales
+1 Tamiyo, Compleated Sage
+1 Tamiyo, the Moon Sage
+1 Ominous Seas
+1 On the Trail
+1 Proft's Eidetic Memory
+1 Teferi's Ageless Insight
+1 The Tale of Tamiyo
