@@ -1,0 +1,99 @@
+// name: Zinnia, Valley's Voice (Bracket 3)
+// source: community
+// tags: aggro, tokens, weenies
+
+Commander
+1 Zinnia, Valley's Voice
+
+Deck
+
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Cascade Bluffs
+1 Castle Ardenvale
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Ferrous Lake
+1 Fountainport
+1 Glacial Fortress
+6 Island
+1 Lupinflower Village
+1 Mountain
+1 Mystic Monastery
+1 Path of Ancestry
+5 Plains
+1 Rugged Prairie
+1 Seachrome Coast
+1 Shivan Reef
+1 Skycloud Expanse
+1 Sulfur Falls
+1 Sunscorched Divide
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
+1 Thriving Heath
+1 Thriving Isle
+1 Uncharted Haven
+1 Aether Channeler
+1 Agate Instigator
+1 Anim Pakal, Thousandth Moon
+1 Battlefield Raptor
+1 Bay Falcon
+1 Curiosity Crafter
+1 Delney, Streetwise Lookout
+1 Dream Thrush
+1 Empyrean Eagle
+1 Esior, Wardwing Familiar
+1 Esper Sentinel
+1 Hanna, Ship's Navigator
+1 Ishai, Ojutai Dragonspeaker
+1 Kangee, Sky Warden
+1 Kastral, the Windcrested
+1 Kykar, Wind's Fury
+1 Lifecreed Duo
+1 Monastery Messenger
+1 Nesting Dovehawk
+1 Old Thrush
+1 Oltec Matterweaver
+1 Pollywog Prodigy
+1 Rapid Augmenter
+1 Scouting Hawk
+1 Tetsuko Umezawa, Fugitive
+1 The Lord of the Eagles
+1 Watcher of the Spheres
+1 Welcoming Vampire
+1 Aetherize
+1 Boros Charm
+1 Counterspell
+1 Cyclonic Rift
+1 Dawn's Truce
+1 Dazzling Denial
+1 Path to Exile
+1 Pull from Tomorrow
+1 Secure the Wastes
+1 Teferi's Protection
+1 Unbreakable Formation
+1 Amulet of Vigor
+1 Arcane Signet
+1 Azorius Signet
+1 Bident of Thassa
+1 Boros Signet
+1 Izzet Signet
+1 Lightning Greaves
+1 Oketra's Monument
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Progress
+1 Anointed Procession
+1 Caretaker's Talent
+1 Echoing Assault
+1 Impact Tremors
+1 Land Tax
+1 Murmuration
+1 Elspeth, Sun's Champion
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+1 Heroic Reinforcements
+1 Stolen by the Fae
