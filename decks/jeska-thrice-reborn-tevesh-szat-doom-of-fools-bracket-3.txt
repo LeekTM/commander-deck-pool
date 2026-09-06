@@ -1,6 +1,6 @@
 // name: Jeska, Thrice Reborn + Tevesh Szat, Doom of Fools (Bracket 3)
 // source: community
-// tags: tokens, spellslinger, sacrifice, ramp
+// tags: tokens, spellslinger, sacrifice, ramp, partners
 
 Commander
 1 Jeska, Thrice Reborn
