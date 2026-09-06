@@ -1,0 +1,98 @@
+// name: Ajani, Nacatl Pariah (Bracket 2)
+// source: community
+// tags: planeswalkers, burn, tokens, aggro
+
+Commander
+1 Ajani, Nacatl Pariah
+
+Deck
+
+1 Adeline, Resplendent Cathar
+1 Ainok Strike Leader
+1 Arabella, Abandoned Doll
+1 Arena Rector
+1 Belladonna Took
+1 Bennie Bracks, Zoologist
+1 Charismatic Conqueror
+1 Enduring Innocence
+1 Fanatical Firebrand
+1 Frostling
+1 Jaya's Phoenix
+1 Kataki, War's Wage
+1 Loyal Apprentice
+1 Masked Meower
+1 Mogg Fanatic
+1 Purphoros, God of the Forge
+1 Sand Scout
+1 Skyhunter Strike Force
+1 The Queen of Dale
+1 Toby, Beastie Befriender
+1 Welcoming Vampire
+1 Witch Enchanter
+1 Ajani Unrelenting
+1 Archangel Elspeth
+1 Chandra, Torch of Defiance
+1 Comet, Stellar Pup
+1 Elspeth, Storm Slayer
+1 Elspeth, Sun's Champion
+1 Jaya, Fiery Negotiator
+1 Quintorius Kand
+1 Teyo, Geometric Tactician
+1 The Eternal Wanderer
+1 Arid Mesa
+1 Battlefield Forge
+1 Castle Embereth
+1 Clifftop Retreat
+1 Command Tower
+1 Desert
+1 Exotic Orchard
+1 Fabled Passage
+1 High Market
+1 Inspiring Vantage
+1 Lazotep Quarry
+3 Mountain
+1 Needleverge Pathway
+9 Plains
+1 Prismatic Vista
+1 Rugged Prairie
+1 Sacred Foundry
+1 Shefet Dunes
+1 Spinerock Knoll
+1 Sunbaked Canyon
+1 Sunbillow Verge
+1 Sunscorched Divide
+1 Windbrisk Heights
+1 Witch's Clinic
+1 Ascend from Avernus
+1 Burning Curiosity
+1 Dusk // Dawn
+1 Forth Eorlingas!
+1 Infernal Plunge
+1 Meltdown
+1 Sundering Eruption
+1 Battle Hymn
+1 Clever Concealment
+1 Duty Beyond Death
+1 Erode
+1 Flawless Maneuver
+1 Will of the Mardu
+1 Caretaker's Talent
+1 City on Fire
+1 Court of Embereth
+1 Deification
+1 Dollmaker's Shop // Porcelain Gallery
+1 Elspeth's Talent
+1 Endless Foot Assault
+1 Goblin Bombardment
+1 Legion's Landing
+1 Prosperous Partnership
+1 Rabble Rousing
+1 Reconnaissance
+1 Rowan's Talent
+1 Starlight Spectacular
+1 Tocasia's Welcome
+1 Warleader's Call
+1 Invasion of Gobakhan
+1 Skullclamp
+1 The Chain Veil
+1 Witch's Oven
