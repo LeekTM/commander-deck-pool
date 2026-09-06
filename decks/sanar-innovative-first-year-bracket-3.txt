@@ -1,0 +1,14 @@
+// name: Sanar, Innovative First-Year (Bracket 3)
+// source: community
+// tags: meme
+// bracket: 3
+
+Commander
+1 Sanar, Innovative First-Year
+
+Deck
+
+48 Island
+1 Magmakin Artillerist
+49 Mountain
+1 Treasure Hunt
