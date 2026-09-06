@@ -1,0 +1,106 @@
+// name: Kelsien, the Plague (Bracket 3)
+// source: community
+// tags: deathtouch, voltron, experience, equipment
+// bracket: 3
+
+Commander
+1 Kelsien, the Plague
+
+Deck
+
+1 Akiri, Fearless Voyager
+1 Alesha, Who Laughs at Fate
+1 Cloud, Midgar Mercenary
+1 Ertha Jo, Frontier Mentor
+1 Falthis, Shadowcat Familiar
+1 High-Society Hunter
+1 Imperial Recruiter
+1 Kalemne, Disciple of Iroas
+1 Kellan, the Fae-Blooded
+1 Kratos, Stoic Father
+1 Lae'zel, Vlaakith's Champion
+1 Magda, the Hoardmaster
+1 Mari, the Killing Quill
+1 Minthara, Merciless Soul
+1 Morbid Opportunist
+1 Otharri, Suns' Glory
+1 Professional Face-Breaker
+1 Shay Cormac
+1 Species Specialist
+1 Vincent Valentine
+1 Arcane Signet
+1 Basilisk Collar
+1 Brotherhood Regalia
+1 Buster Sword
+1 Crawlspace
+1 Gorgon's Head
+1 Haystack
+1 Illusionist's Bracers
+1 Quietus Spike
+1 Shadowspear
+1 Sol Ring
+1 Sting, the Glinting Dagger
+1 The Arkenstone
+1 The Reaver Cleaver
+1 Thornbite Staff
+1 Vorpal Sword
+1 Arid Mesa
+1 Blazemire Verge
+1 Bleachbone Verge
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Brightclimb Pathway
+1 Buried Ruin
+1 Clifftop Retreat
+1 Command Tower
+1 Dragonskull Summit
+1 Eclipsed Steppe
+1 Fetid Heath
+1 Godless Shrine
+1 Graven Cairns
+1 Haunted Ridge
+1 Isolated Chapel
+1 Marsh Flats
+1 Mountain
+1 Needleverge Pathway
+1 Nomad Outpost
+3 Plains
+1 Radiant Summit
+1 Rugged Prairie
+1 Sacred Foundry
+1 Savai Triome
+1 Shattered Sanctum
+1 Smoldering Marsh
+1 Sunbillow Verge
+1 Sundown Pass
+2 Swamp
+1 Chandra's Ignition
+1 Recommission
+1 Single Combat
+1 Chaos Warp
+1 Continue?
+1 Dawn's Truce
+1 Deflecting Palm
+1 Kazuul's Fury
+1 Overkill
+1 Path to Exile
+1 Rakdos Charm
+1 Return the Favor
+1 Sejiri Shelter
+1 Swords to Plowshares
+1 Valakut Awakening
+1 Vampiric Tutor
+1 Wear // Tear
+1 Dazzling Theater // Prop Room
+1 Fighter Class
+1 Forge Anew
+1 Gift of Doom
+1 Gleaming Splendor
+1 Reconnaissance
+1 Revel in Riches
+1 Rune of Mortality
+1 Smuggler's Share
+1 Spiteful Banditry
+1 Trouble in Pairs
