@@ -1,0 +1,94 @@
+// name: Brago, King Eternal (Bracket 3)
+// source: community
+// tags: control, blink
+
+Commander
+1 Brago, King Eternal
+
+Deck
+
+1 Adarkar Wastes
+1 Ancient Den
+1 Castle Ardenvale
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Irrigated Farmland
+9 Island
+1 Lonely Sandbar
+1 Nimbus Maze
+7 Plains
+1 Reliquary Tower
+1 Seat of the Synod
+1 Skycloud Expanse
+1 Survivors' Encampment
+1 Temple of Enlightenment
+1 Terramorphic Expanse
+1 Aether Channeler
+1 Agent of Treachery
+1 Archaeomancer
+1 Charming Prince
+1 Cloudkin Seer
+1 Displacer Kitten
+1 Elesh Norn, Mother of Machines
+1 Felidar Guardian
+1 Helpful Hunter
+1 Hero of Bretagard
+1 Jin-Gitaxias, Progress Tyrant
+1 Mulldrifter
+1 Peregrine Drake
+1 Reflector Mage
+1 Restoration Angel
+1 Skyclave Apparition
+1 Skyclave Cleric
+1 Solemn Simulacrum
+1 Soulherder
+1 Spirited Companion
+1 Starfield Vocalist
+1 Trinket Mage
+1 Wall of Omens
+1 Watcher for Tomorrow
+1 Witch Enchanter
+1 Yorion, Sky Nomad
+1 Aetherize
+1 Arcane Denial
+1 Counterspell
+1 Eerie Interlude
+1 Ephemerate
+1 Erode
+1 Fact or Fiction
+1 Fierce Guardianship
+1 Force of Will
+1 Ghostly Flicker
+1 Negate
+1 Silundi Vision
+1 Stroke of Midnight
+1 Swan Song
+1 Swords to Plowshares
+1 Three Steps Ahead
+1 Altar of the Brood
+1 Arcane Signet
+1 Cryogen Relic
+1 Fellwar Stone
+1 Hedron Archive
+1 Mind Stone
+1 Panharmonicon
+1 Sol Ring
+1 Talisman of Progress
+1 The Mind Stone
+1 Thought Vessel
+1 Approach of the Second Sun
+1 Fell the Mighty
+1 Merchant Scroll
+1 Solve the Equation
+1 Supreme Verdict
+1 Elspeth Resplendent
+1 Narset, Parter of Veils
+1 Teferi, Hero of Dominaria
+1 The Eternal Wanderer
+1 The Wandering Emperor
+1 Touch the Spirit Realm
