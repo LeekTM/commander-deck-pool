@@ -1,0 +1,83 @@
+// name: Kratos, God of War (Bracket 3)
+// source: community
+// tags: aggro, chaos, group-slug, burn
+// bracket: 3
+
+Commander
+1 Kratos, God of War
+
+Deck
+
+1 Abrade
+1 Bolt Bend
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Flare of Duplication
+1 Great Train Heist
+1 Redirect Lightning
+1 Return the Favor
+1 Seething Song
+1 The Last Agni Kai
+1 Thrill of Possibility
+1 Unexpected Windfall
+1 Alexios, Deimos of Kosmos
+1 Avatar Roku, Firebender
+1 Bloodcrusher of Khorne
+1 Bloodthirster
+1 Brash Taunter
+1 Clive, Ifrit's Dominant
+1 Death Kiss
+1 Electro, Assaulting Battery
+1 Frontier Warmonger
+1 Karlach, Fury of Avernus
+1 Khârn the Betrayer
+1 Laelia, the Blade Reforged
+1 Professional Face-Breaker
+1 Slicer, Hired Muscle
+1 Solemn Simulacrum
+1 Solphim, Mayhem Dominus
+1 Twinflame Tyrant
+1 Varchild, Betrayer of Kjeldor
+1 Vincent, Vengeful Atoner
+1 Zhao, the Moon Slayer
+1 Arcane Signet
+1 Basilisk Collar
+1 Champion's Helm
+1 Chrome Mox
+1 Commander's Plate
+1 Cursed Mirror
+1 Dowsing Dagger
+1 Extraplanar Lens
+1 Lightning Greaves
+1 Lotus Petal
+1 Mjölnir, Storm Hammer
+1 Shadowspear
+1 Silver Shroud Costume
+1 Sol Ring
+1 Swiftfoot Boots
+1 Tarrian's Soulcleaver
+1 Blasphemous Act
+1 Disrupt Decorum
+1 Faithless Looting
+1 Isengard Unleashed
+1 Mana Geyser
+1 Pirate's Pillage
+1 Vandalblast
+1 World at War
+1 City on Fire
+1 Curse of Opulence
+1 Fated Firepower
+1 Pyrohemia
+1 Rite of the Raging Storm
+1 Sulfuric Vortex
+1 The Sound of Drums
+1 Uphill Battle
+1 Fabled Passage
+1 Fire Nation Palace
+1 Rogue's Passage
+27 Snow-Covered Mountain
+1 Spinerock Knoll
+1 Terramorphic Expanse
+1 Tyrite Sanctum
+1 Valakut, the Molten Pinnacle
+1 War Room
