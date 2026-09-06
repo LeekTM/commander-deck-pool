@@ -1,0 +1,95 @@
+// name: Alela, Artful Provocateur (Bracket 3)
+// source: community
+// tags: flying, control, midrange, tokens, artifacts, enchantments
+
+Commander
+1 Alela, Artful Provocateur
+
+Deck
+
+1 Alela, Cunning Conqueror
+1 Archmage of Echoes
+1 Baleful Strix
+1 Brazen Borrower
+1 Cloud of Faeries
+1 Empyrean Eagle
+1 Faerie Harbinger
+1 Faerie Mastermind
+1 Faerie Swarm
+1 Glen Elendra Archmage
+1 Glen Elendra Liege
+1 High Fae Trickster
+1 Obyra, Dreaming Duelist
+1 Ornithopter of Paradise
+1 Roaming Throne
+1 Sai, Master Thopterist
+1 Selfless Spirit
+1 Shadow Puppeteers
+1 Spellstutter Sprite
+1 Tegwyll, Duke of Splendor
+1 The Reality Chip
+1 All That Glitters
+1 Amphibian Downpour
+1 Anointed Procession
+1 Bitterblossom
+1 Etchings of the Chosen
+1 Favorable Winds
+1 Feywild Visitor
+1 Intangible Virtue
+1 Kindred Discovery
+1 Reconnaissance Mission
+1 Arcane Signet
+1 Azorius Signet
+1 Bident of Thassa
+1 Chromatic Lantern
+1 Commander's Sphere
+1 Fellwar Stone
+1 Helm of the Gods
+1 Instruments of War
+1 Lightning Greaves
+1 Patchwork Banner
+1 Skullclamp
+1 Sol Ring
+1 Spear of Heliod
+1 Spellbook
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Talisman of Dominance
+1 Brightclimb Pathway
+1 Clearwater Pathway
+1 Command Tower
+1 Contaminated Landscape
+1 Eclipsed Realms
+1 Exotic Orchard
+1 Fabled Passage
+1 Faerie Conclave
+1 Flooded Strand
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Hengegate Pathway
+7 Island
+1 Path of Ancestry
+4 Plains
+1 Plaza of Heroes
+1 Polluted Delta
+1 Prairie Stream
+1 Raffine's Tower
+1 Reflecting Pool
+1 Reliquary Tower
+1 Secluded Glen
+5 Swamp
+1 Watery Grave
+1 Clever Concealment
+1 Counterspell
+1 Deadly Rollick
+1 Dovin's Veto
+1 Faerie Trickery
+1 Force of Will
+1 Sink into Stupor
+1 Spell Stutter
+1 Swords to Plowshares
+1 Unbreakable Formation
+1 Damnation
+1 Distant Melody
+1 Kindred Dominance
+1 Notorious Throng
