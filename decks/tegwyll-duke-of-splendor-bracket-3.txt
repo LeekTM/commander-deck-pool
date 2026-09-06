@@ -1,0 +1,99 @@
+// name: Tegwyll, Duke of Splendor (Bracket 3)
+// source: community
+// tags: tribal, midrange, control, flying
+// bracket: 3
+
+Commander
+1 Tegwyll, Duke of Splendor
+
+Deck
+
+1 Alela, Cunning Conqueror
+1 Archmage of Echoes
+1 Bitterbloom Bearer
+1 Blood Artist
+1 Brazen Borrower
+1 Faerie Bladecrafter
+1 Faerie Formation
+1 Faerie Harbinger
+1 Faerie Mastermind
+1 Glen Elendra Archmage
+1 Glen Elendra Liege
+1 High Fae Trickster
+1 Likeness Looter
+1 Malleable Impostor
+1 Mistbind Clique
+1 Nettling Nuisance
+1 Nymris, Oona's Trickster
+1 Obyra, Dreaming Duelist
+1 Oona, Queen of the Fae
+1 Quickling
+1 Rankle, Master of Pranks
+1 Roaming Throne
+1 Scion of Oona
+1 Shadow Puppeteers
+1 Spellstutter Sprite
+1 Talion's Messenger
+1 Talion, the Kindly Lord
+1 Umbral Collar Zealot
+1 Vendilion Clique
+1 Viscera Seer
+1 Zulaport Cutthroat
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Cyclonic Rift
+1 Deadly Rollick
+1 Fell the Profane
+1 Fierce Guardianship
+1 Malakir Rebirth
+1 Plumb the Forbidden
+1 Sink into Stupor
+1 Spell Stutter
+1 Waterlogged Teachings
+1 Arcane Signet
+1 Ashnod's Altar
+1 Bident of Thassa
+1 Coat of Arms
+1 Dimir Signet
+1 Fellwar Stone
+1 Misleading Signpost
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Dominance
+1 Thought Vessel
+1 Bastion of Remembrance
+1 Bitterblossom
+1 Black Market Connections
+1 Favorable Winds
+1 Kindred Discovery
+1 Mystic Remora
+1 Rhystic Study
+1 Bojuka Bog
+1 Cavern of Souls
+1 Clearwater Pathway
+1 Command Tower
+1 Drowned Catacomb
+1 Eclipsed Realms
+1 Exotic Orchard
+1 Faerie Conclave
+1 Gloomlake Verge
+1 High Market
+8 Island
+1 Morphic Pool
+1 Otawara, Soaring City
+1 Path of Ancestry
+1 Phyrexian Tower
+1 Polluted Delta
+1 Secluded Glen
+1 Shipwreck Marsh
+4 Swamp
+1 Takenuma, Abandoned Mire
+1 Undercity Sewers
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Faerie Slumber Party
+1 Notorious Throng
+1 Stolen by the Fae
+1 Tegwyll's Scouring
+1 Toxic Deluge
