@@ -12,12 +12,20 @@ with a warning printed to stderr -- one bad file must not break the build for
 everyone else. A deck whose card count isn't 100 is included with a warning;
 that's a hint for review, not a build blocker.
 
+Enrichment is cached. Every deck record carries the hash of the .txt it was
+built from, so a rebuild only re-fetches decks whose file actually changed --
+adding one deck costs one deck's worth of Scryfall calls, not the whole pool's.
+Pass --full to re-enrich everything (refreshes prices pool-wide); a revision to
+the Game Changers list invalidates the cache on its own, since gc and the
+computed bracket both derive from it.
+
 deck_db.json's schema is fixed by the TTS mod that will read it -- see the
 "data contract" section of the project brief before changing field names.
 """
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import sys
@@ -32,39 +40,74 @@ from scryfall import (
 )
 
 
-def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, list[str]]:
-    """Returns (record, warnings). record is None if the deck was rejected."""
-    warnings: list[str] = []
+def content_hash(text: str) -> str:
+    """Short, stable digest identifying a deck file's exact contents."""
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()[:16]
+
+
+def parse_deck_file(path: str) -> dict:
+    """Parse one decklist file into the pieces enrichment needs. No network.
+
+    `reject` is set for anything rejectable without asking Scryfall, so a
+    broken file never costs an API call.
+    """
     with open(path, encoding="utf-8") as f:
         text = f.read()
 
     deck = parse_decklist_text(text)
-    warnings.extend(f"parse: {w}" for w in deck.warnings)
+    warnings: list[str] = [f"parse: {w}" for w in deck.warnings]
 
     filename_stem = os.path.splitext(os.path.basename(path))[0]
-    name = deck.metadata.get("name", "").strip() or filename_stem
-    url = deck.metadata.get("url", "").strip()
-    source = deck.metadata.get("source", "").strip() or "community"
-    set_code = deck.metadata.get("set", "").strip()
-    released = deck.metadata.get("released", "").strip()
-    tags = sorted({t.strip().lower() for t in deck.metadata.get("tags", "").split(",") if t.strip()})
+    parsed = {
+        "path": path,
+        "slug": filename_stem,
+        "hash": content_hash(text),
+        "name": deck.metadata.get("name", "").strip() or filename_stem,
+        "url": deck.metadata.get("url", "").strip(),
+        "source": deck.metadata.get("source", "").strip() or "community",
+        "set": deck.metadata.get("set", "").strip(),
+        "released": deck.metadata.get("released", "").strip(),
+        "tags": sorted({t.strip().lower() for t in deck.metadata.get("tags", "").split(",") if t.strip()}),
+        "bracket_override": deck.metadata.get("bracket", "").strip(),
+        "commanders": deck.commander_names(),
+        "quantities": aggregate_quantities(deck.deck_cards()),
+        "warnings": warnings,
+        "reject": None,
+    }
 
-    commanders = deck.commander_names()
-    if not commanders:
-        warnings.append("REJECTED: no commander detected")
-        return None, warnings
+    if not parsed["commanders"]:
+        parsed["reject"] = "REJECTED: no commander detected"
+        return parsed
 
-    deck_cards = deck.deck_cards()
-    quantities = aggregate_quantities(deck_cards)
-    total_cards = sum(quantities.values())
+    total_cards = sum(parsed["quantities"].values())
     if total_cards != 100:
         warnings.append(f"deck has {total_cards} cards, not 100")
 
-    unique_names = list(quantities.keys())
-    by_name, not_found = lookup_cards(unique_names + commanders, game_changers=game_changers)
+    return parsed
 
-    if not_found:
-        warnings.append(f"REJECTED: unrecognised card(s): {', '.join(sorted(set(not_found)))}")
+
+def lookup_names_for(parsed: dict) -> list[str]:
+    """Every name this deck needs resolved -- its cards plus its commander(s)."""
+    return list(parsed["quantities"].keys()) + parsed["commanders"]
+
+
+def enrich_deck(parsed: dict, by_name: dict, not_found: set[str]) -> tuple[dict | None, list[str]]:
+    """Returns (record, warnings). record is None if the deck was rejected.
+
+    Card data comes from `by_name`, fetched once for the whole batch rather
+    than per deck: Commander lists overlap heavily (most of them run Sol Ring),
+    so pooling the names across every stale deck collapses most of the calls.
+    `not_found` is the pool-wide miss set, lowercased -- a name missing from it
+    rejects only the decks that actually reference it.
+    """
+    warnings = list(parsed["warnings"])
+    commanders = parsed["commanders"]
+    quantities = parsed["quantities"]
+    unique_names = list(quantities.keys())
+
+    missing = sorted({n for n in lookup_names_for(parsed) if n.lower() in not_found})
+    if missing:
+        warnings.append(f"REJECTED: unrecognised card(s): {', '.join(missing)}")
         return None, warnings
 
     # Flagged, not blocked -- the group can playtest cards not (yet, or no
@@ -154,21 +197,26 @@ def build_deck_record(path: str, game_changers: set[str]) -> tuple[dict | None, 
                 gc_count += 1
 
     computed_bracket = compute_bracket(gc_count)
-    override = deck.metadata.get("bracket", "").strip()
+    override = parsed["bracket_override"]
     if override.isdigit():
         bracket = int(override)
     else:
         bracket = computed_bracket
 
     record = {
-        "name": name,
-        "source": source,
-        "url": url,
-        "set": set_code,
-        "released": released,
+        "slug": parsed["slug"],
+        # Hash of the .txt this was built from. The next rebuild reuses this
+        # record wholesale for as long as the file still hashes to the same
+        # thing -- see main().
+        "hash": parsed["hash"],
+        "name": parsed["name"],
+        "source": parsed["source"],
+        "url": parsed["url"],
+        "set": parsed["set"],
+        "released": parsed["released"],
         "commanders": commanders,
         "cards": cards_out,
-        "tags": tags,
+        "tags": parsed["tags"],
         "price_eur": round(price_eur, 2),
         "price_usd": round(price_usd, 2),
         "colors": colors_string(all_colors),
@@ -225,6 +273,13 @@ def main():
              "The TTS mod reads these instead of deck_db.json: it parses JSON "
              "in Lua, where the full database is slow to decode.",
     )
+    ap.add_argument(
+        "--full",
+        action="store_true",
+        help="Re-enrich every deck instead of reusing cached records for "
+             "unchanged files. This is what refreshes prices pool-wide, so "
+             "run it on a schedule; a one-deck submission does not need it.",
+    )
     args = ap.parse_args()
 
     if not os.path.isdir(args.decks_dir):
@@ -239,20 +294,83 @@ def main():
     if not paths:
         print(f"No .txt decklists found in {args.decks_dir}", file=sys.stderr)
 
+    # Records from the previous build, keyed by slug. Each carries the hash of
+    # the .txt it came from, so an unchanged file can be reused verbatim
+    # instead of re-fetched. This is what stops a single-deck submission from
+    # paying to re-enrich the entire pool -- the cost of adding a deck stays
+    # flat as the pool grows.
+    cache: dict[str, dict] = {}
+    cached_gc_hash = ""
+    if not args.full and os.path.exists(args.out):
+        try:
+            with open(args.out, encoding="utf-8") as f:
+                previous = json.load(f)
+            cached_gc_hash = previous.get("gc_hash", "")
+            cache = {
+                d["slug"]: d for d in previous.get("decks", [])
+                if d.get("slug") and d.get("hash")
+            }
+        except (OSError, ValueError) as e:
+            print(f"Could not reuse {args.out} ({e}) -- rebuilding everything.", file=sys.stderr)
+            cache = {}
+
+    parsed_decks = [parse_deck_file(p) for p in paths]
+
     print("Fetching current Game Changers list from Scryfall...", file=sys.stderr)
     game_changers = fetch_game_changers()
     print(f"  {len(game_changers)} Game Changers", file=sys.stderr)
+    gc_hash = content_hash(",".join(sorted(game_changers)))
+
+    # gc and the computed bracket are both derived from that list, so a
+    # revision to it makes every cached record stale, not just changed files.
+    if cache and cached_gc_hash and cached_gc_hash != gc_hash:
+        print("Game Changers list has changed -- re-enriching every deck.", file=sys.stderr)
+        cache = {}
+
+    stale = [
+        p for p in parsed_decks
+        if p["reject"] is None and cache.get(p["slug"], {}).get("hash") != p["hash"]
+    ]
+
+    # One pooled lookup covering every stale deck at once, rather than a
+    # separate round of calls per deck.
+    by_name: dict = {}
+    not_found_lower: set[str] = set()
+    if stale:
+        names = sorted({n for p in stale for n in lookup_names_for(p)})
+        print(
+            f"Looking up {len(names)} distinct cards for {len(stale)} changed deck(s)...",
+            file=sys.stderr,
+        )
+        by_name, not_found = lookup_cards(names, game_changers=game_changers)
+        not_found_lower = {n.lower() for n in not_found}
+    else:
+        print("No deck files changed -- reusing every cached record.", file=sys.stderr)
 
     decks = []
     rejected = 0
-    for path in paths:
-        record, warnings = build_deck_record(path, game_changers)
+    reused = 0
+    for p in parsed_decks:
+        base = os.path.basename(p["path"])
+
+        if p["reject"] is not None:
+            for w in p["warnings"] + [p["reject"]]:
+                print(f"[{base}] {w}", file=sys.stderr)
+            rejected += 1
+            continue
+
+        cached = cache.get(p["slug"])
+        if cached is not None and cached.get("hash") == p["hash"]:
+            decks.append(cached)
+            reused += 1
+            continue
+
+        record, warnings = enrich_deck(p, by_name, not_found_lower)
         for w in warnings:
-            print(f"[{os.path.basename(path)}] {w}", file=sys.stderr)
+            print(f"[{base}] {w}", file=sys.stderr)
         if record is None:
             rejected += 1
             continue
-        record["slug"] = os.path.splitext(os.path.basename(path))[0]
         decks.append(record)
 
     decks.sort(key=lambda d: d["name"].lower())
@@ -260,6 +378,7 @@ def main():
     db = {
         "version": 1,
         "generated": datetime.now(timezone.utc).date().isoformat(),
+        "gc_hash": gc_hash,
         "enriched": True,
         "decks": decks,
     }
@@ -267,7 +386,11 @@ def main():
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump(db, f, separators=(",", ":"), ensure_ascii=False)
 
-    print(f"Wrote {len(decks)} decks to {args.out} ({rejected} rejected)", file=sys.stderr)
+    print(
+        f"Wrote {len(decks)} decks to {args.out} "
+        f"({reused} reused, {len(decks) - reused} enriched, {rejected} rejected)",
+        file=sys.stderr,
+    )
 
     if args.tts_dir:
         write_tts_files(args.tts_dir, db, decks)

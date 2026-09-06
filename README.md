@@ -231,6 +231,24 @@ Scryfall's rate-limit guidance). A deck that fails a blocking check is
 skipped with a warning printed to stderr -- one bad file doesn't break the
 build for everyone else.
 
+**It's incremental.** Every deck record stores a hash of the `.txt` it was
+built from, so a rebuild only re-fetches decks whose file actually changed and
+pools those lookups into one batch. Adding a single deck costs one deck's
+worth of Scryfall calls (~2s) instead of the whole pool's (~70s and climbing),
+which is what keeps submission time flat as the pool grows. Nothing changed
+means no card lookups at all.
+
+The catch is prices: an untouched deck keeps its stored prices until something
+re-enriches it. `--full` ignores the cache and re-prices everything --
+
+```bash
+python ingest_decks.py decks/ --out deck_db.json --full
+```
+
+-- and `build-db.yml` runs exactly that on a weekly schedule. A change to the
+Game Changers list invalidates the whole cache by itself, since `gc` and the
+computed bracket derive from it.
+
 Validate a single decklist (used by the issue-to-deck workflow, and handy
 while writing one by hand):
 
@@ -259,7 +277,9 @@ GitHub repo settings -> Pages -> Deploy from a branch -> `main` / `/docs`.
 
 - **`build-db.yml`** -- on push to `main` touching `decks/`, `ingest_decks.py`,
   or `scripts/`: rebuilds `deck_db.json`, mirrors it to `docs/deck_db.json`
-  (Pages only serves `docs/`), and commits both if changed.
+  (Pages only serves `docs/`), and commits both if changed. Also runs weekly
+  on a schedule with `--full` to refresh prices across the pool; the same run
+  can be triggered by hand from the Actions tab.
 - **`validate-deck-pr.yml`** -- on a PR touching `decks/`: validates each
   changed file and comments the result. Never commits.
 - **`issue-to-deck.yml`** -- on a new "Submit a Commander deck" issue:

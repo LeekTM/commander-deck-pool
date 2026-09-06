@@ -64,11 +64,16 @@ jobs:
           # never fires for this commit -- the deck file would land in decks/
           # and the database would silently stay stale.
           #
-          # Two submissions made within a couple of minutes of each other both
-          # check out the same commit, both spend ~90s in ingest, and then race
-          # to push. The loser used to die on "! [rejected] (fetch first)",
-          # having already commented that the deck was added. Rebuild against
-          # whatever is on main now, and try again.
+          # Two submissions made close together both check out the same commit,
+          # both rebuild, and then race to push. The loser used to die on
+          # "! [rejected] (fetch first)", having already commented that the deck
+          # was added. Rebuild against whatever is on main now, and try again.
+          #
+          # ingest is incremental (it re-enriches only the deck whose file
+          # changed, reusing cached records for the rest), so a rebuild is a
+          # couple of seconds rather than the ~90s it took when every
+          # submission re-fetched the whole pool. That shrinks the window these
+          # retries exist for, and makes each retry cheap.
           pushed=0
           for attempt in 1 2 3 4 5; do
             python ingest_decks.py decks/ --out deck_db.json --tts-dir docs/tts

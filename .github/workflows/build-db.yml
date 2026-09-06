@@ -15,7 +15,17 @@ on:
       - "decks/**"
       - "ingest_decks.py"
       - "scripts/**"
-  workflow_dispatch: {}
+  # Enrichment is cached per deck file, so an unchanged deck keeps its stored
+  # prices until something forces a re-enrich. Prices are the one thing that
+  # goes stale on its own, so refresh the whole pool once a week.
+  schedule:
+    - cron: "17 4 * * 1"  # Mondays, 04:17 UTC
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Re-enrich every deck (refreshes prices pool-wide)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -31,7 +41,10 @@ jobs:
           python-version: "3.12"
 
       - name: Build deck_db.json
-        run: python ingest_decks.py decks/ --out deck_db.json --tts-dir docs/tts
+        # Incremental by default: only decks whose .txt actually changed are
+        # re-fetched from Scryfall. The weekly scheduled run (and a manual run
+        # ticking "full") passes --full to re-price the entire pool.
+        run: python ingest_decks.py decks/ --out deck_db.json --tts-dir docs/tts ${{ (github.event_name == 'schedule' || inputs.full) && '--full' || '' }}
 
       - name: Publish a copy for GitHub Pages
         # GitHub Pages serves only docs/, but deck_db.json's source-of-truth
