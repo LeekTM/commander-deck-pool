@@ -1,0 +1,106 @@
+// name: Mr. House, President and CEO (Bracket 3)
+// source: community
+// tags: dice-roll, artifacts, treasures
+// bracket: 3
+
+Commander
+1 Mr. House, President and CEO
+
+Deck
+
+1 Academy Manufactor
+1 Ancient Brass Dragon
+1 Ancient Copper Dragon
+1 Ancient Gold Dragon
+1 Belladonna Took
+1 Brazen Dwarf
+1 Celebr-8000
+1 Chaos Dragon
+1 Cyberman Patrol
+1 Delina, Wild Mage
+1 Exalted Sunborn
+1 Generous Plunderer
+1 Goldspan Dragon
+1 Kambal, Profiteering Mayor
+1 Knuckles the Echidna
+1 Krang, Utrom Warlord
+1 Lightfoot Rogue
+1 Losheel, Clockwork Scholar
+1 Lotho, Corrupt Shirriff
+1 Magda, Brazen Outlaw
+1 Master of Ceremonies
+1 Mirkwood Bats
+1 Professional Face-Breaker
+1 Reckless Fireweaver
+1 Smaug the Magnificent
+1 Steel Overseer
+1 Vihaan, Goldwaker
+1 Weftstalker Ardent
+1 Wyll, Blade of Frontiers
+1 Xorn
+1 Alchemist's Talent
+1 Barbarian Class
+1 Black Market Connections
+1 Gleaming Splendor
+1 Maddening Hex
+1 Smothering Tithe
+1 Ancient Den
+1 Battlefield Forge
+1 Blazemire Verge
+1 Bleachbone Verge
+1 Blightstep Pathway
+1 Blood Crypt
+1 Brightclimb Pathway
+1 Caves of Koilos
+1 City of Brass
+1 Command Tower
+1 Desolate Mire
+1 Fetid Heath
+1 Godless Shrine
+1 Graven Cairns
+1 Great Furnace
+1 Haunted Ridge
+1 Inventors' Fair
+1 Luxury Suite
+1 Mines of Moria
+2 Mountain
+1 Needleverge Pathway
+2 Plains
+1 Rugged Prairie
+1 Sacred Foundry
+1 Savai Triome
+1 Shadowblood Ridge
+1 Shattered Sanctum
+1 Sulfurous Springs
+1 Sunbillow Verge
+1 Sundown Pass
+1 Sunscorched Divide
+2 Swamp
+1 Vault of Whispers
+1 Arcane Signet
+1 Clown Car
+1 Component Pouch
+1 Ebony Fly
+1 Glittering Stockpile
+1 Sol Ring
+1 The Deck of Many Things
+1 Vexing Puzzlebox
+1 Big Score
+1 Contraband Livestock
+1 Dawn's Truce
+1 Deadly Dispute
+1 Dispatch
+1 Lae'zel's Acrobatics
+1 Path to Exile
+1 Unexpected Windfall
+1 Wyll's Reversal
+1 Clowning Around
+1 Danse Macabre
+1 Gamble
+1 Myrkul's Edict
+1 Pirate's Pillage
+1 Reckless Endeavor
+1 Ruinous Ultimatum
+1 Seize the Spoils
+1 Vandalblast
+1 Comet, Stellar Pup
