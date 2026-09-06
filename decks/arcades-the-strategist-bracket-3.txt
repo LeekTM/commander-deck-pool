@@ -1,0 +1,98 @@
+// name: Arcades, the Strategist (Bracket 3)
+// source: community
+// tags: defenders, toughness-matters
+
+Commander
+1 Arcades, the Strategist
+
+Deck
+
+1 Access Tunnel
+1 Ba Sing Se
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Escape Tunnel
+1 Exotic Orchard
+1 Flooded Strand
+4 Forest
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hinterland Harbor
+3 Island
+1 Marsh Flats
+6 Plains
+1 Polluted Delta
+1 Rogue's Passage
+1 Secret Tunnel
+1 Sunpetal Grove
+1 Temple Garden
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Akroma's Will
+1 Bilbo's Gambit
+1 Counterspell
+1 Cyclonic Rift
+1 Dovin's Veto
+1 Eerie Interlude
+1 Generous Gift
+1 Nature's Claim
+1 Origin of Metalbending
+1 Path to Exile
+1 Razorgrass Ambush
+1 Swan Song
+1 Swords to Plowshares
+1 Tower Defense
+1 Assault Formation
+1 Brave the Sands
+1 High Alert
+1 Smothering Tithe
+1 Axebane Guardian
+1 Birds of Paradise
+1 Crashing Drawbridge
+1 Crystal Barricade
+1 Delighted Halfling
+1 Flumph
+1 Fortified Rampart
+1 Hydroelectric Specimen
+1 Noble Hierarch
+1 Orator of Ojutai
+1 Overgrown Battlement
+1 Perimeter Captain
+1 Resolute Watchdog
+1 Rigo, Streetwise Mentor
+1 Shield Sphere
+1 Stalwart Shield-Bearers
+1 Sunscape Familiar
+1 Sylvan Caryatid
+1 Tataru Taru
+1 Tetsuko Umezawa, Fugitive
+1 The Pride of Hull Clade
+1 The Walls of Ba Sing Se
+1 Towering Viewpoint
+1 Walking Bulwark
+1 Wall of Blossoms
+1 Wall of Denial
+1 Wall of Junk
+1 Wall of Omens
+1 Wall of Roots
+1 Wall of Shards
+1 Wall of Stolen Identity
+1 Wall of Tanglecord
+1 Weathered Sentinels
+1 Witch Enchanter
+1 Bala Ged Recovery
+1 Dusk // Dawn
+1 Nature's Lore
+1 Raise the Past
+1 Slaughter the Strong
+1 The Battle of Bywater
+1 Three Visits
+1 Captain America's Shield
+1 Lightning Greaves
+1 Meekstone
+1 Sol Ring
+1 Swiftfoot Boots
+1 The One Ring
