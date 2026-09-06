@@ -1,0 +1,94 @@
+// name: Shroofus Sproutsire (Bracket 3)
+// source: community
+// tags: ramp, tokens
+// bracket: 3
+
+Commander
+1 Shroofus Sproutsire
+
+Deck
+
+1 Access Tunnel
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Command Beacon
+16 Forest
+1 Fountainport
+1 Heart of Yavimaya
+1 Maze of Ith
+1 Okina, Temple to the Grandfathers
+1 Oran-Rief, the Vastwood
+1 Pendelhaven
+1 Plaza of Heroes
+1 Rogue's Passage
+1 Secret Tunnel
+1 Shifting Woodland
+1 Strip Mine
+1 Three Tree City
+1 Yavimaya, Cradle of Growth
+1 Bala Ged Recovery
+1 Bridgeworks Battle
+1 Ezuri's Predation
+1 For the Common Good
+1 Harmonize
+1 Natural Order
+1 Nature's Cloak
+1 Nature's Lore
+1 Overrun
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Season of Gathering
+1 Shared Roots
+1 Three Visits
+1 Beast Within
+1 Blossoming Defense
+1 Collective Resistance
+1 Crop Rotation
+1 Defend the Rider
+1 Echoing Courage
+1 Force of Vigor
+1 Heroic Intervention
+1 Invigorate
+1 Khalni Ambush
+1 Krosan Grip
+1 Obscuring Haze
+1 Overprotect
+1 Ram Through
+1 Return of the Wildspeaker
+1 Sarkhan's Resolve
+1 Silkguard
+1 Snakeskin Veil
+1 Tamiyo's Safekeeping
+1 Tyvar's Stand
+1 Wrap in Vigor
+1 Beastmaster Ascension
+1 Earthcraft
+1 Fecundity
+1 Fungal Plots
+1 Gaea's Touch
+1 Greater Good
+1 March of the World Ooze
+1 Night Soil
+1 Seal of Strength
+1 Sylvan Anthem
+1 Sylvan Library
+1 Tribute to the World Tree
+1 Birds of Paradise
+1 Brightcap Badger
+1 Craterhoof Behemoth
+1 Ohran Frostfang
+1 Psychotrope Thallid
+1 Regal Force
+1 Roaming Throne
+1 Runic Armasaur
+1 Selfless Safewright
+1 Sporecrown Thallid
+1 Tendershoot Dryad
+1 Toski, Bearer of Secrets
+1 Utopia Mycon
+1 Coveted Jewel
+1 Eldrazi Monument
+1 Emerald Medallion
+1 Idol of Oblivion
+1 Skullclamp
+1 Throne of the God-Pharaoh
