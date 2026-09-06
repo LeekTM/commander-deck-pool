@@ -1,0 +1,92 @@
+// name: Alela, Cunning Conqueror (Bracket 3)
+// source: community
+// tags: spellslinger, control, flash, tokens, tribal
+
+Commander
+1 Alela, Cunning Conqueror
+
+Deck
+
+1 Amphibian Downpour
+1 Bitterblossom
+1 Kindred Discovery
+1 Nowhere to Run
+1 Rhystic Study
+1 Arcane Signet
+1 Banner of Kinship
+1 Bender's Waterskin
+1 Dimir Signet
+1 Fellwar Stone
+1 Mithril Coat
+1 Patchwork Banner
+1 Sol Ring
+1 Talisman of Dominance
+1 Thought Vessel
+1 Bitterbloom Bearer
+1 Brazen Borrower
+1 Enduring Curiosity
+1 Faerie Harbinger
+1 Faerie Mastermind
+1 Mistbind Clique
+1 Notion Thief
+1 Obyra, Dreaming Duelist
+1 Oona's Blackguard
+1 Quickling
+1 Roaming Throne
+1 Scion of Oona
+1 Spellstutter Sprite
+1 Talion, the Kindly Lord
+1 Tegwyll, Duke of Splendor
+1 Voracious Tome-Skimmer
+1 Wavebreak Hippocamp
+1 Bojuka Bog
+1 Cavern of Souls
+1 Choked Estuary
+1 Clearwater Pathway
+1 Command Tower
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Gloomlake Verge
+13 Island
+1 Morphic Pool
+1 Mystic Sanctuary
+1 Polluted Delta
+1 Reliquary Tower
+1 Secluded Glen
+1 Shipwreck Marsh
+1 Sunken Hollow
+5 Swamp
+1 Underground River
+1 Watery Grave
+1 Brainstorm
+1 Consider
+1 Corrupted Conviction
+1 Counterspell
+1 Countersquall
+1 Deadly Dispute
+1 Disallow
+1 Disrupt
+1 Faebloom Trick
+1 Familiar's Ruse
+1 Infernal Grasp
+1 Malakir Rebirth
+1 Muddle the Mixture
+1 Negate
+1 Opt
+1 Pongify
+1 Rapid Hybridization
+1 Resculpt
+1 Sheoldred's Edict
+1 Silundi Vision
+1 Sink into Stupor
+1 Snap
+1 Soul Shatter
+1 Spell Stutter
+1 Unwind
+1 Village Rites
+1 Wash Away
+1 Withering Torment
+1 Candlekeep Inspiration
+1 Kindred Dominance
+1 Notorious Throng
+1 Raise the Palisade
