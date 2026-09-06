@@ -224,8 +224,16 @@ def lookup_cards(names: list[str], game_changers: set[str] | None = None) -> tup
                 continue
 
             info = _card_to_info(card, game_changers)
-            by_name[info.name.lower()] = info
-            by_name.setdefault(name.lower(), info)
+            # The flavour name is what this lookup was for, so it maps to the
+            # reskin printing outright.
+            by_name[name.lower()] = info
+            # The real card underneath does NOT get clobbered if the batch
+            # above already resolved it. A reskin is one specific printing
+            # (Secret Lair Azusa, EUR 20.88); a deck running the ordinary card
+            # must keep the ordinary printing's price (EUR 8.51). Only fill the
+            # real name in when nothing else has, so the reskin still resolves
+            # when it is the only way this card was asked for.
+            by_name.setdefault(info.name.lower(), info)
             if info.front_face_name:
                 by_name.setdefault(info.front_face_name.lower(), info)
             time.sleep(REQUEST_DELAY_SECONDS)

@@ -45,6 +45,29 @@ def content_hash(text: str) -> str:
     return hashlib.sha256(text.encode("utf-8")).hexdigest()[:16]
 
 
+# The code that decides what ends up in a deck record. A cached record is only
+# reusable while this is unchanged: otherwise a fix to enrichment would never
+# reach decks whose .txt happens not to have changed, and the cache would
+# preserve the very bug the fix was for. (It did, once: a Secret Lair reskin
+# was overwriting the ordinary card's price for every other deck running it.)
+# Comment-only edits invalidate it too -- a needless full rebuild costs ~70s,
+# which is far cheaper than silently serving stale records.
+_BUILDER_FILES = ("ingest_decks.py", "scripts/deck_parser.py", "scripts/scryfall.py")
+
+
+def builder_hash() -> str:
+    here = os.path.dirname(os.path.abspath(__file__))
+    digests = []
+    for rel in _BUILDER_FILES:
+        path = os.path.join(here, *rel.split("/"))
+        try:
+            with open(path, "rb") as f:
+                digests.append(hashlib.sha256(f.read()).hexdigest())
+        except OSError:
+            digests.append("missing")
+    return content_hash("|".join(digests))
+
+
 def parse_deck_file(path: str) -> dict:
     """Parse one decklist file into the pieces enrichment needs. No network.
 
@@ -301,6 +324,7 @@ def main():
     # flat as the pool grows.
     cache: dict[str, dict] = {}
     cached_gc_hash = ""
+    build_id = builder_hash()
     if not args.full and os.path.exists(args.out):
         try:
             with open(args.out, encoding="utf-8") as f:
@@ -310,6 +334,9 @@ def main():
                 d["slug"]: d for d in previous.get("decks", [])
                 if d.get("slug") and d.get("hash")
             }
+            if cache and previous.get("builder") != build_id:
+                print("Enrichment code has changed -- re-enriching every deck.", file=sys.stderr)
+                cache = {}
         except (OSError, ValueError) as e:
             print(f"Could not reuse {args.out} ({e}) -- rebuilding everything.", file=sys.stderr)
             cache = {}
@@ -379,6 +406,7 @@ def main():
         "version": 1,
         "generated": datetime.now(timezone.utc).date().isoformat(),
         "gc_hash": gc_hash,
+        "builder": build_id,
         "enriched": True,
         "decks": decks,
     }

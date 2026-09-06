@@ -166,8 +166,15 @@ async function lookupCards(names, gameChangers) {
       continue;
     }
     const info = cardToInfo(await resp.json(), gameChangers);
-    byName.set(info.name.toLowerCase(), info);
-    if (!byName.has(name.toLowerCase())) byName.set(name.toLowerCase(), info);
+    // The flavour name is what this lookup was for, so it maps to the reskin
+    // printing outright. The real card underneath must not clobber an entry
+    // the batch above already resolved -- a reskin is one specific printing
+    // (Secret Lair Azusa) and the ordinary card keeps its own price. This page
+    // validates a single deck, which cannot legally hold both (Miku IS Azusa,
+    // and Commander is singleton), but it stays in step with
+    // scripts/scryfall.py, where pooled lookups make it load-bearing.
+    byName.set(name.toLowerCase(), info);
+    if (!byName.has(info.name.toLowerCase())) byName.set(info.name.toLowerCase(), info);
     if (info.frontFaceName && !byName.has(info.frontFaceName.toLowerCase())) {
       byName.set(info.frontFaceName.toLowerCase(), info);
     }
