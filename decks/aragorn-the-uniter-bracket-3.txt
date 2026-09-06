@@ -1,0 +1,93 @@
+// name: Aragorn, the Uniter (Bracket 3)
+// source: community
+// tags: colours-matter, tribal, good-stuff, tokens, toolbox, legends
+
+Commander
+1 Aragorn, the Uniter
+
+Deck
+
+1 Andúril, Narsil Reforged
+1 Arcane Signet
+1 Crown of Gondor
+1 Herald's Horn
+1 Herd Heirloom
+1 Mithril Coat
+1 Orcrist, Goblin-cleaver
+1 Sol Ring
+1 The Great Henge
+1 Wizard's Staff
+1 Annie Joins Up
+1 Elven Chorus
+1 Frostcliff Siege
+1 Kellan Joins Up
+1 Rising of the Day
+1 Trace of Abundance
+1 Aragorn, Hornburg Hero
+1 Aragorn, King of Gondor
+1 Archetype of Imagination
+1 Bard, Heir of Girion
+1 Birds of Paradise
+1 Boromir, Warden of the Tower
+1 Champion of Lambholt
+1 Chulane, Teller of Tales
+1 Faeburrow Elder
+1 Galadriel, Light of Valinor
+1 General Ferrous Rokiric
+1 Inga and Esika
+1 Jetmir, Nexus of Revels
+1 Katilda, Dawnhart Prime
+1 Kyler, Sigardian Emissary
+1 Merry, Esquire of Rohan
+1 Pippin, Guard of the Citadel
+1 Rienne, Angel of Rebirth
+1 Selvala, Heart of the Wilds
+1 Serah Farron
+1 Sigarda, Font of Blessings
+1 Surrak Dragonclaw
+1 The Queen of Dale
+1 Théoden, King of Rohan
+1 Éomer, King of Rohan
+1 Éowyn, Fearless Knight
+1 Éowyn, Shieldmaiden
+1 Beast Within
+1 Boros Charm
+1 Brokers Charm
+1 Counterspell
+1 Dovin's Veto
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Galadriel's Dismissal
+1 Growth Spiral
+1 Heroic Intervention
+1 Naya Charm
+1 Settle the Wreckage
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Thraben Charm
+1 Breeding Pool
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+8 Forest
+1 Hallowed Fountain
+2 Island
+1 Ketria Triome
+1 Minamo, School at Water's Edge
+1 Minas Tirith
+2 Mountain
+1 Mystic Monastery
+1 Path of Ancestry
+7 Plains
+1 Plaza of Heroes
+1 Port Town
+1 Raugrin Triome
+1 Reliquary Tower
+1 Secluded Courtyard
+1 Temple Garden
+1 Decimate
+1 Farseek
+1 Forth Eorlingas!
+1 Nature's Lore
