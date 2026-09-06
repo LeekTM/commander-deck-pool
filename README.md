@@ -328,6 +328,17 @@ no schema tolerance.
 
 ## Constraints (don't rediscover these)
 
+- Anything that pushes to `main` from Actions has to survive losing a push
+  race. Two workflows write there: `build-db.yml` (on any `decks/**` change)
+  and `issue-to-deck.yml` (on a submission). The admin panel deletes one file
+  per click, so deleting a dozen decks fires a dozen builds seconds apart --
+  they used to build from different commits and race, and the losers failed on
+  `! [rejected] (fetch first)`. `build-db.yml` now serialises against itself
+  with a `concurrency` group; both workflows additionally retry by resyncing
+  onto `main` and rebuilding. Don't put `issue-to-deck.yml` in that
+  concurrency group: GitHub keeps only one run pending per group and
+  supersedes older ones, which is harmless for interchangeable full rebuilds
+  but would silently drop a deck submission.
 - MTGGoldfish and Moxfield have no public API and prohibit/block scraping --
   exporting is a manual, human step.
 - Archidekt has a usable public JSON API (`/api/decks/v3/`,

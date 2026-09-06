@@ -27,12 +27,36 @@ on:
         type: boolean
         default: false
 
+# Every run rebuilds the whole pool from decks/, so runs are interchangeable:
+# when several are queued at once, only the newest one's output matters.
+#
+# The admin panel deletes one file per click, and each delete is its own
+# commit and so its own run. Deleting a dozen decks therefore fired a dozen
+# runs seconds apart, each building from a different commit and then racing to
+# push -- and the losers died on "! [rejected] (fetch first)". Serialising them
+# fixes that at the source. GitHub keeps at most one run pending per group and
+# supersedes any older pending one, which is exactly right here: a superseded
+# run would only have written a staler copy of what the newest run is about to
+# write anyway.
+#
+# cancel-in-progress stays false so a run that is already mid-push finishes
+# cleanly rather than being killed partway through.
+concurrency:
+  group: build-deck-db
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Incremental by default: only decks whose .txt actually changed are
+      # re-fetched from Scryfall. The weekly scheduled run (and a manual run
+      # ticking "full") re-prices the entire pool. Set once here because the
+      # retry loop below has to rebuild with the same flags.
+      FULL: ${{ (github.event_name == 'schedule' || inputs.full) && '--full' || '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -41,10 +65,7 @@ jobs:
           python-version: "3.12"
 
       - name: Build deck_db.json
-        # Incremental by default: only decks whose .txt actually changed are
-        # re-fetched from Scryfall. The weekly scheduled run (and a manual run
-        # ticking "full") passes --full to re-price the entire pool.
-        run: python ingest_decks.py decks/ --out deck_db.json --tts-dir docs/tts ${{ (github.event_name == 'schedule' || inputs.full) && '--full' || '' }}
+        run: python ingest_decks.py decks/ --out deck_db.json --tts-dir docs/tts $FULL
 
       - name: Publish a copy for GitHub Pages
         # GitHub Pages serves only docs/, but deck_db.json's source-of-truth
@@ -53,13 +74,46 @@ jobs:
         run: cp deck_db.json docs/deck_db.json
 
       - name: Commit if changed
+        # The concurrency group above stops this workflow racing *itself*, but
+        # issue-to-deck.yml pushes to main too and is deliberately not in that
+        # group (its runs are not interchangeable -- each one adds a different
+        # deck, so superseding a pending one would silently drop a submission).
+        # So a cross-workflow race is still possible, and a rejected push is
+        # recoverable rather than fatal: resync onto main and rebuild against
+        # it. The rebuild is incremental and reuses the cached records, so a
+        # retry costs seconds.
         run: |
+          set -euo pipefail
+
           git config user.name "deck-pool-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add deck_db.json docs/deck_db.json docs/tts
-          if git diff --cached --quiet; then
-            echo "deck_db.json unchanged"
-          else
+
+          pushed=0
+          for attempt in 1 2 3 4 5; do
+            git add deck_db.json docs/deck_db.json docs/tts
+
+            if git diff --cached --quiet; then
+              echo "deck_db.json unchanged"
+              pushed=1
+              break
+            fi
+
             git commit -m "Rebuild deck_db.json"
-            git push
+            if git push; then
+              pushed=1
+              break
+            fi
+
+            echo "Push rejected on attempt $attempt -- another run got there first. Rebuilding against main."
+            git fetch origin main
+            git reset --hard origin/main
+            python ingest_decks.py decks/ --out deck_db.json --tts-dir docs/tts $FULL
+            cp deck_db.json docs/deck_db.json
+
+            sleep $(( (RANDOM % 15) + 5 ))
+          done
+
+          if [ "$pushed" -ne 1 ]; then
+            echo "Could not push after 5 attempts."
+            exit 1
           fi

@@ -243,7 +243,7 @@ async function doDelete(i) {
         branch: "main",
       }),
     });
-    setStatus("Deleted. deck_db.json rebuilds automatically in the background.");
+    setStatus("Deleted. deck_db.json rebuilds automatically in the background -- deleting several in a row is fine, they queue into one rebuild.");
     await loadEverything();
   } catch (e) {
     if (e.message.includes("404")) {
