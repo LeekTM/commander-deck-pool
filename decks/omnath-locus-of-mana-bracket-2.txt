@@ -1,0 +1,84 @@
+// name: Omnath, Locus of Mana (Bracket 2)
+// source: community
+// tags: big-mana, stompy
+
+Commander
+1 Omnath, Locus of Mana
+
+Deck
+
+1 Arashi, the Sky Asunder
+1 Arbor Elf
+1 Beast Whisperer
+1 Craterhoof Behemoth
+1 Defiler of Vigor
+1 Elder Gargaroth
+1 Elvish Mystic
+1 Emergent Woodwurm
+1 Fanatic of Rhonas
+1 Garruk's Packleader
+1 Goreclaw, Terror of Qal Sisma
+1 Guardian Augmenter
+1 Hulking Raptor
+1 Kogla, the Titan Ape
+1 Llanowar Elves
+1 Loot, Exuberant Explorer
+1 Nyxbloom Ancient
+1 Ohran Frostfang
+1 Regal Behemoth
+1 Regal Force
+1 Sakiko, Mother of Summer
+1 Saryth, the Viper's Fang
+1 Sasaya, Orochi Ascendant
+1 Scavenging Ooze
+1 Surrak, Elusive Hunter
+1 Tanuki Transplanter
+1 Terastodon
+1 Thunderfoot Baloth
+1 Titan of Industry
+1 Toski, Bearer of Secrets
+1 Vorinclex, Voice of Hunger
+1 Ash Barrens
+1 Castle Garenbrig
+1 Deserted Temple
+25 Forest
+1 Jungle Basin
+1 Mosswort Bridge
+1 Oran-Rief, the Vastwood
+1 Reliquary Tower
+1 Rogue's Passage
+1 Urza's Cave
+1 War Room
+1 Yavimaya, Cradle of Growth
+1 Bear Umbra
+1 Garruk's Uprising
+1 Monstrous Vortex
+1 Song of the Dryads
+1 Triumph of Ferocity
+1 Unnatural Growth
+1 Utopia Sprawl
+1 Wild Growth
+1 Wilderness Reclamation
+1 Beast Within
+1 Collective Resistance
+1 Entish Restoration
+1 Fog
+1 Hunter's Insight
+1 Jaheira's Respite
+1 Lull
+1 Obscuring Haze
+1 Once and Future
+1 Ram Through
+1 Return of the Wildspeaker
+1 Royal Treatment
+1 Smuggler's Surprise
+1 Snakeskin Veil
+1 Emerald Medallion
+1 Herd Heirloom
+1 Flare of Cultivation
+1 Genesis Wave
+1 Nissa's Pilgrimage
+1 Open the Way
+1 Rampant Growth
+1 Garruk, Caller of Beasts
+1 Nissa, Who Shakes the World
