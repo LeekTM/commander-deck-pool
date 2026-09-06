@@ -1,0 +1,90 @@
+// name: Mendicant Core, Guidelight (Bracket 3)
+// source: community
+// tags: midrange, artifacts
+
+Commander
+1 Mendicant Core, Guidelight
+
+Deck
+
+1 All That Glitters
+1 Dazzling Theater // Prop Room
+1 Moonlit Meditation
+1 Smothering Tithe
+1 Ancient Den
+1 Avishkar Raceway
+1 Command Tower
+1 Fomori Vault
+1 Gleaming Bastion
+1 Hallowed Fountain
+1 Inventors' Fair
+11 Island
+1 Monumental Henge
+1 Nimbus Maze
+9 Plains
+1 Razortide Bridge
+1 Reliquary Tower
+1 Sea of Clouds
+1 Seat of the Synod
+1 Arcane Signet
+1 Arena of the Ancients
+1 Azorius Signet
+1 Brotherhood Regalia
+1 Clown Car
+1 Commander's Sphere
+1 Gilded Lotus
+1 Marble Diamond
+1 Mind Stone
+1 Mirage Mirror
+1 Mystic Forge
+1 Neurok Stealthsuit
+1 Perilous Snare
+1 Racers' Scoreboard
+1 Simulacrum Synthesizer
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Unidentified Hovership
+1 Welding Jar
+1 Whispersilk Cloak
+1 Worldwalker Helm
+1 Arcbound Ravager
+1 Artificer's Assistant
+1 Chief of the Foundry
+1 Cyberdrive Awakener
+1 Cyberman Patrol
+1 Ethersworn Canonist
+1 Ethersworn Sphinx
+1 Foundry Inspector
+1 Frogmite
+1 Gold Myr
+1 Hope of Ghirapur
+1 Jhoira's Familiar
+1 Kuldotha Forgemaster
+1 Losheel, Clockwork Scholar
+1 Metalwork Colossus
+1 Meteor Golem
+1 Myr Battlesphere
+1 Oaken Siren
+1 Ornithopter of Paradise
+1 Patchwork Automaton
+1 Riptide Gearhulk
+1 Silver Myr
+1 Solemn Simulacrum
+1 Steelswarm Operator
+1 Counterspell
+1 Generous Gift
+1 Loran's Escape
+1 Negate
+1 Path to Exile
+1 Scour for Scrap
+1 Stoic Rebuttal
+1 Swords to Plowshares
+1 Dance of the Manse
+1 Enter the Enigma
+1 Fabricate
+1 Organic Extinction
+1 Ponder
+1 Stock Up
+1 Thoughtcast
+1 Ugin, Eye of the Storms
