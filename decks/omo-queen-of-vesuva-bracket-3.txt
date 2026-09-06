@@ -1,0 +1,109 @@
+// name: Omo, Queen of Vesuva (Bracket 3)
+// source: community
+// tags: x, ramp, clones, lands-matter, midrange
+// bracket: 3
+
+Commander
+1 Omo, Queen of Vesuva
+
+Deck
+
+1 An Offer You Can't Refuse
+1 Auroral Procession
+1 Blue Sun's Zenith
+1 Chord of Calling
+1 Consult the Star Charts
+1 Counterspell
+1 Drown in Dreams
+1 Eldrazi Confluence
+1 Elemental Teachings
+1 Frantic Search
+1 Ghostly Flicker
+1 Louisoix's Sacrifice
+1 Muddle the Mixture
+1 Planar Genesis
+1 Pull from Tomorrow
+1 Realms Uncharted
+1 Rewind
+1 Sink into Stupor
+1 Snap
+1 Three Steps Ahead
+1 Unwind
+1 Worldly Counsel
+1 Arbor Elf
+1 Faerie Mastermind
+1 Feline Sovereign
+1 Formidable Speaker
+1 Glacier Godmaw
+1 Hakbal of the Surging Soul
+1 Haywire Mite
+1 Hydroelectric Specimen
+1 Insidious Fungus
+1 Kellan, Inquisitive Prodigy
+1 Kiora's Follower
+1 Long River Lurker
+1 Mindspring Merfolk
+1 Nezahal, Primal Tide
+1 Pathbreaker Ibex
+1 Portent Tracker
+1 Sage of the Maze
+1 Sea Gate Loremaster
+1 Skyserpent Seeker
+1 Sowing Mycospawn
+1 Summon: Leviathan
+1 Thrasios, Triton Hero
+1 Ulvenwald Hydra
+1 Wandering Archaic
+1 Baldur's Gate
+1 Barkchannel Pathway
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Cloudpost
+1 Command Tower
+1 Deserted Temple
+1 Dryad Arbor
+1 Echoing Deeps
+1 Field of the Dead
+1 Flooded Strand
+1 Forest
+1 Hedge Maze
+1 Island
+1 Minamo, School at Water's Edge
+1 Mistrise Village
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Scavenger Grounds
+1 Shifting Woodland
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Thespian's Stage
+1 Tolaria West
+1 Urza's Cave
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Verdant Catacombs
+1 Vesuva
+1 Volatile Fault
+1 Waterlogged Grove
+1 Yavimaya Coast
+1 Bring to Light
+1 Cosmium Confluence
+1 Doppelgang
+1 Finale of Devastation
+1 Finale of Revelation
+1 Genesis Wave
+1 Green Sun's Zenith
+1 Mass Appeal
+1 Nature's Rhythm
+1 Of One Mind
+1 Pir's Whim
+1 Sea Gate Restoration
+1 Solve the Equation
+1 Stock Up
+1 Sylvan Scrying
+1 Copy Land
+1 Gossip's Talent
+1 Invasion of Ikoria
