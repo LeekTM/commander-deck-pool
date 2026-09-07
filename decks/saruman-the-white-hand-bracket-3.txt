@@ -1,0 +1,91 @@
+// name: Saruman, the White Hand (Bracket 3)
+// source: community
+// tags: amass, fling, tribal, spellslinger, aggro
+
+Commander
+1 Saruman, the White Hand
+
+Deck
+
+1 All Will Be One
+1 Fall of Cair Andros
+1 Spiteful Banditry
+1 Underworld Breach
+1 An Offer You Can't Refuse
+1 Bolt Bend
+1 Counterspell
+1 Culling the Weak
+1 Dark Ritual
+1 Deadly Dispute
+1 Fact or Fiction
+1 Flame of Anor
+1 Fling
+1 Kazuul's Fury
+1 Nasty End
+1 Pull from Tomorrow
+1 Rowan's Grim Search
+1 Saruman's Trickery
+1 Three Steps Ahead
+1 Anger
+1 Azog, Moria's Ruin
+1 Bothersome Noisemaker
+1 Great Goblin, Foul-Hearted
+1 Mauhúr, Uruk-hai Captain
+1 Orcish Bowmasters
+1 Orcish Siegemaster
+1 Sauron, the Dark Lord
+1 The Great Goblin
+1 Troll of Khazad-dûm
+1 Warg Rider
+1 Arcane Signet
+1 Basalt Monolith
+1 Dawnsire, Sunstar Dreadnought
+1 Dimir Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Mind Stone
+1 Palantír of Orthanc
+1 Rakdos Signet
+1 Relic of Sauron
+1 Shadowspear
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 The Eternity Elevator
+1 The Reaver Cleaver
+1 Worn Powerstone
+1 Blasphemous Act
+1 Chandra's Ignition
+1 Deep Analysis
+1 Diabolic Intent
+1 Feed the Swarm
+1 Isengard Unleashed
+1 Jeska's Will
+1 Languish
+1 Lórien Revealed
+1 Mordor Muster
+1 Ringsight
+1 Rite of Consumption
+1 Shatterskull Smashing
+1 Solve the Equation
+1 Soul Immolation
+1 Stock Up
+1 Summons of Saruman
+1 Treasure Cruise
+1 Blood Crypt
+1 Command Tower
+1 Crumbling Necropolis
+1 Darkwater Catacombs
+1 Dragonskull Summit
+1 Drowned Catacomb
+7 Island
+1 Minas Morgul, Dark Fortress
+8 Mountain
+1 Rogue's Passage
+1 Smoldering Marsh
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Sunken Hollow
+5 Swamp
+1 Undercity Sewers
+1 Underground River
