@@ -1,0 +1,105 @@
+// name: Neriv, Heart of the Storm (Bracket 2)
+// source: community
+// tags: lifedrain, aggro, tokens, triggered
+
+Commander
+1 Neriv, Heart of the Storm
+
+Deck
+
+1 Ancient Craving
+1 Damn
+1 Hazardous Blast
+1 Indulge // Excess
+1 Insatiable Avarice
+1 Ruinous Ultimatum
+1 Vindicate
+1 Anim Pakal, Thousandth Moon
+1 Ardoz, Cobbler of War
+1 Battle Angels of Tyr
+1 Calamity, Galloping Inferno
+1 Drana, Liberator of Malakir
+1 Elturel Survivors
+1 Enduring Courage
+1 Goblin Chainwhirler
+1 Goldlust Triad
+1 Hammers of Moradin
+1 Hero of Oxid Ridge
+1 Imperial Recruiter
+1 Isshin, Two Heavens as One
+1 Kiki-Jiki, Mirror Breaker
+1 Kinscaer Sentry
+1 Lagomos, Hand of Hatred
+1 Loyal Apprentice
+1 Mahadi, Emporium Master
+1 Morbid Opportunist
+1 Neheb, the Eternal
+1 Ocelot Pride
+1 Ogre Battledriver
+1 Solemn Simulacrum
+1 The Master, Multiplied
+1 Undead Sprinter
+1 Vengeful Reaper
+1 Village Pillagers
+1 Voice of Victory
+1 Arcane Signet
+1 Cursed Mirror
+1 Fellwar Stone
+1 Glittering Stockpile
+1 Idol of Oblivion
+1 Infantry Shield
+1 Inquisitorial Rosette
+1 Sol Ring
+1 Urabrask's Forge
+1 Whip of Erebos
+1 Arid Mesa
+1 Blackcleave Cliffs
+1 Blightstep Pathway
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Clifftop Retreat
+1 Command Tower
+1 Concealed Courtyard
+1 Dalkovan Encampment
+1 Elegant Parlor
+1 Exotic Orchard
+1 Fetid Heath
+1 Godless Shrine
+1 Isolated Chapel
+1 Luxury Suite
+1 Minas Tirith
+2 Mountain
+1 Needleverge Pathway
+1 Nomad Outpost
+1 Plains
+1 Rakdos Carnarium
+1 Reliquary Tower
+1 Rogue's Passage
+1 Savai Triome
+1 Shattered Landscape
+1 Shattered Sanctum
+1 Sulfurous Springs
+3 Swamp
+1 Temple of Triumph
+1 Vault of Champions
+1 Vault of the Archangel
+1 Windbrisk Heights
+1 Aurelia's Fury
+1 Big Score
+1 Boros Charm
+1 Deflecting Swat
+1 Flare of Fortitude
+1 Legion Leadership
+1 Mercadia's Downfall
+1 Rakdos Charm
+1 Reprieve
+1 Riot Control
+1 Swords to Plowshares
+1 Valakut Awakening
+1 Village Rites
+1 Demonic Ruckus
+1 Fervent Charge
+1 Glasswing Grace
+1 Legion's Initiative
+1 Warleader's Call
+1 Windcrag Siege
