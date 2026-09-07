@@ -1,0 +1,98 @@
+// name: Niko, Light of Hope (Bracket 3)
+// source: community
+// tags: blink, tokens, control
+
+Commander
+1 Niko, Light of Hope
+
+Deck
+
+1 Aang, Swift Savior
+1 Aether Channeler
+1 Aven Interrupter
+1 Beza, the Bounding Spring
+1 Charming Prince
+1 Claim Jumper
+1 Deadeye Navigator
+1 Displacer Kitten
+1 Dour Port-Mage
+1 Elesh Norn, Mother of Machines
+1 Emeritus of Ideation
+1 Fear of Impostors
+1 Flickerwisp
+1 Frost Titan
+1 Karmic Guide
+1 Moonshaker Cavalry
+1 Mulldrifter
+1 Overlord of the Mistmoors
+1 Phelia, Exuberant Shepherd
+1 Quantum Riddler
+1 Recruiter of the Guard
+1 Reflector Mage
+1 Restoration Angel
+1 Riptide Gearhulk
+1 Skyhunter Strike Force
+1 Snapcaster Mage
+1 Solemn Simulacrum
+1 Solitude
+1 Soulherder
+1 Stonehorn Dignitary
+1 Sun Titan
+1 Thassa, Deep-Dwelling
+1 Venser, Shaper Savant
+1 Witch Enchanter
+1 Acrobatic Maneuver
+1 Blur
+1 Cloudshift
+1 Cyclonic Rift
+1 Displace
+1 Ephemerate
+1 Essence Flux
+1 Fierce Guardianship
+1 Flicker of Fate
+1 Ghostly Flicker
+1 Ghostway
+1 Justiciar's Portal
+1 Momentary Blink
+1 Mystical Tutor
+1 Parting Gust
+1 Path to Exile
+1 Scrollshift
+1 Swords to Plowshares
+1 Adarkar Wastes
+1 Azorius Chancery
+1 Celestial Colonnade
+1 Command Tower
+1 Deserted Beach
+1 Eiganjo, Seat of the Empire
+1 Exotic Orchard
+1 Fabled Passage
+1 Flooded Strand
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Meticulous Archive
+1 Myriad Landscape
+1 Mystic Gate
+1 Nimbus Maze
+1 Otawara, Soaring City
+1 Port Town
+1 Prairie Stream
+1 Prismatic Vista
+1 Reliquary Tower
+1 Sea of Clouds
+1 Skycloud Expanse
+8 Snow-Covered Island
+4 Snow-Covered Plains
+1 Temple of Enlightenment
+1 Airbender Ascension
+1 Teleportation Circle
+1 Virtue of Knowledge
+1 Arcane Signet
+1 Azorius Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Talisman of Progress
+1 Avatar's Wrath
+1 Ponder
