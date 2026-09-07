@@ -1,0 +1,102 @@
+// name: Rakdos, Lord of Riots (Bracket 3)
+// source: community
+// tags: burn, group-slug, aggro
+
+Commander
+1 Rakdos, Lord of Riots
+
+Deck
+
+1 Akoum Refuge
+1 Badlands
+1 Barren Moor
+1 Blazemire Verge
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodfell Caves
+1 Boiling Rock Prison
+1 Bojuka Bog
+1 Canyon Slough
+1 Command Tower
+1 Demolition Field
+1 Dragonskull Summit
+1 Foreboding Ruins
+1 Forgotten Cave
+1 Geothermal Bog
+1 Goblin-town
+1 Jagged Barrens
+1 Leechridden Swamp
+1 Luxury Suite
+1 Mount Doom
+7 Mountain
+1 Piranha Marsh
+1 Rakdos Carnarium
+1 Razortrap Gorge
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Swamp
+1 Temple of Malice
+1 Ancestral Statue
+1 Archon of Cruelty
+1 Ardyn, the Usurper
+1 Artisan of Kozilek
+1 Calamity, Galloping Inferno
+1 Chainer, Nightmare Adept
+1 Clive, Ifrit's Dominant
+1 Combustible Gearhulk
+1 Creeping Bloodsucker
+1 Duplicant
+1 Etali, Primal Storm
+1 Florian, Voldaren Scion
+1 Gray Merchant of Asphodel
+1 It That Betrays
+1 Jecht, Reluctant Guardian
+1 Keen Duelist
+1 Knollspine Dragon
+1 Lobber Crew
+1 Marketback Walker
+1 Massacre Wurm
+1 Meteor Golem
+1 Neheb, the Eternal
+1 Nettle Drone
+1 Rakdos, Patron of Chaos
+1 Savanti Romero, Time's Exile
+1 Solemn Simulacrum
+1 Solphim, Mayhem Dominus
+1 Steel Hellkite
+1 Stonecoil Serpent
+1 Stormfist Crusader
+1 The Balrog of Moria
+1 The Walls of Ba Sing Se
+1 Thermo-Alchemist
+1 Ulamog's Crusher
+1 Arcane Signet
+1 Cryptolith Fragment
+1 Fellwar Stone
+1 Lightning Greaves
+1 Rakdos Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Indulgence
+1 The One Ring
+1 Whip of Erebos
+1 Bedevil
+1 Bolt Bend
+1 Chaos Warp
+1 Fell the Profane
+1 Lightning Bolt
+1 Malakir Rebirth
+1 Rakdos Charm
+1 Blasphemous Act
+1 Feed the Swarm
+1 Mutinous Massacre
+1 Risky Shortcut
+1 Vandalblast
+1 Wheel of Misfortune
+1 Descent into Avernus
+1 Lim-Dûl's Hex
+1 Pandemonium
+1 Rising of the Day
+1 Sarkhan's Unsealing
+1 Warstorm Surge
+1 Ob Nixilis, the Adversary
