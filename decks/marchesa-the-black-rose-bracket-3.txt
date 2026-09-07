@@ -1,0 +1,104 @@
+// name: Marchesa, the Black Rose (Bracket 3)
+// source: community
+// tags: +1/+1, reanimater, aristocrats
+
+Commander
+1 Marchesa, the Black Rose
+
+Deck
+
+1 Academy Ruins
+1 Cascade Bluffs
+1 Choked Estuary
+1 City of Brass
+1 Command Tower
+1 Crumbling Necropolis
+1 Darksteel Citadel
+1 Darkwater Catacombs
+1 Dragonskull Summit
+1 Drossforge Bridge
+1 Foreboding Ruins
+1 Forge of Heroes
+1 Glimmervoid
+1 Great Furnace
+1 Inventors' Fair
+2 Island
+1 Karn's Bastion
+1 Luxury Suite
+1 Mistvault Bridge
+1 Morphic Pool
+3 Mountain
+1 Nesting Grounds
+1 Seat of the Synod
+1 Seething Landscape
+1 Shivan Reef
+1 Silverbluff Bridge
+2 Swamp
+1 Urza's Saga
+1 Uthros, Titanic Godcore
+1 Vault of Whispers
+1 Watery Grave
+1 All Will Be One
+1 Attrition
+1 Goblin Bombardment
+1 Rhystic Study
+1 Teval's Judgment
+1 Uncivil Unrest
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Boompile
+1 Dimir Signet
+1 Izzet Signet
+1 Krark-Clan Ironworks
+1 Phyrexian Altar
+1 Portal to Phyrexia
+1 Rakdos Signet
+1 Simulacrum Synthesizer
+1 Skullclamp
+1 Sol Ring
+1 Arcbound Condor
+1 Arcbound Ravager
+1 Arcbound Reclaimer
+1 Arcbound Stinger
+1 Arcbound Tracker
+1 Arcbound Whelp
+1 Arcbound Worker
+1 Arcum Dagsson
+1 Baleful Strix
+1 Blightsteel Colossus
+1 Carrion Feeder
+1 Danny Pink
+1 Enthusiastic Mechanaut
+1 Grim Haruspex
+1 Hope of Ghirapur
+1 Hydroelectric Specimen
+1 Imperial Recruiter
+1 Iron Apprentice
+1 Iron Myr
+1 Kuldotha Forgemaster
+1 Leaden Myr
+1 Metallic Mimic
+1 Myr Scrapling
+1 Ornithopter of Paradise
+1 Ruthless Deathfang
+1 Scorn-Blade Berserker
+1 Scrapyard Recombiner
+1 Silver Myr
+1 Solemn Simulacrum
+1 Spellskite
+1 Triskelion
+1 Urza, Lord High Artificer
+1 Yawgmoth, Thran Physician
+1 Blasphemous Act
+1 Damnation
+1 Diabolic Intent
+1 Fabricate
+1 Mark of Mutiny
+1 Chaos Warp
+1 Counterspell
+1 Cyclonic Rift
+1 Flare of Denial
+1 Mana Drain
+1 Vampiric Tutor
+1 Tezzeret, Cruel Captain
