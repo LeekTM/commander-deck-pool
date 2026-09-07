@@ -1,0 +1,94 @@
+// name: Ms. Bumbleflower (Bracket 3)
+// source: community
+// tags: good-stuff, group-hug, control
+
+Commander
+1 Ms. Bumbleflower
+
+Deck
+
+1 Adarkar Wastes
+1 Brushland
+1 Canopy Vista
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+4 Forest
+1 Glacial Fortress
+1 Hinterland Harbor
+1 Idyllic Beachfront
+6 Island
+7 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Seaside Citadel
+1 Spara's Headquarters
+1 Sunpetal Grove
+1 Temple of Enlightenment
+1 Yavimaya Coast
+1 An Offer You Can't Refuse
+1 Fog
+1 Frantic Search
+1 Generous Gift
+1 Inspiring Call
+1 Path to Exile
+1 Perch Protection
+1 Ripples of Potential
+1 Settle the Wreckage
+1 Slip Out the Back
+1 Snap
+1 Snapback
+1 Swan Song
+1 Swords to Plowshares
+1 Arcane Heist
+1 Bala Ged Recovery
+1 Contentious Plan
+1 Cultivate
+1 Expropriate
+1 Farewell
+1 Nature's Lore
+1 Promise of Loyalty
+1 Rampant Growth
+1 Three Visits
+1 Wear Down
+1 Arcane Signet
+1 Decanter of Endless Water
+1 Ozolith, the Shattered Spire
+1 Sol Ring
+1 Spellbook
+1 Swiftfoot Boots
+1 Authority of the Consuls
+1 Blind Obedience
+1 Branching Evolution
+1 Dissipation Field
+1 Ghostly Prison
+1 Gleaming Splendor
+1 Hardened Scales
+1 Kenrith's Transformation
+1 Level Up
+1 Propaganda
+1 Psychic Possession
+1 Rhystic Study
+1 Smothering Tithe
+1 Trouble in Pairs
+1 Wizard Class
+1 Baird, Steward of Argive
+1 Birds of Paradise
+1 Edric, Spymaster of Trest
+1 Esper Sentinel
+1 Fog Bank
+1 Kalonian Hydra
+1 King T'Challa
+1 Kodama of the West Tree
+1 Loran of the Third Path
+1 Managorger Hydra
+1 Mangara, the Diplomat
+1 Master of Ceremonies
+1 Noble Hierarch
+1 Psychosis Crawler
+1 Scrawling Crawler
+1 The Council of Four
+1 The Queen of Dale
+1 The Unagi of Kyoshi Island
+1 Urdnan, Dromoka Warrior
+1 Tamiyo, Field Researcher
