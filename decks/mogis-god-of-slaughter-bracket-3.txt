@@ -1,0 +1,99 @@
+// name: Mogis, God of Slaughter (Bracket 3)
+// source: community
+// tags: group-slug, salty, burn, enchantments
+
+Commander
+1 Mogis, God of Slaughter
+
+Deck
+
+1 Ankh of Mishra
+1 Arcane Signet
+1 Fellwar Stone
+1 Howling Mine
+1 Mind Stone
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Indulgence
+1 Bedevil
+1 Chaos Warp
+1 Rakdos Charm
+1 Vampiric Tutor
+1 Blackcleave Cliffs
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cabal Coffers
+1 Canyon Slough
+1 Castle Locthwain
+1 Command Tower
+1 Dragonskull Summit
+1 Foreboding Ruins
+1 Graven Cairns
+1 Haunted Ridge
+1 Luxury Suite
+1 Marsh Flats
+1 Mount Doom
+4 Mountain
+1 Prismatic Vista
+1 Smoldering Marsh
+1 Sokenzan, Crucible of Defiance
+1 Spinerock Knoll
+1 Strip Mine
+1 Sulfurous Springs
+7 Swamp
+1 Tainted Peak
+1 Takenuma, Abandoned Mire
+1 Temple of Malice
+1 Urborg, Tomb of Yawgmoth
+1 War Room
+1 Blasphemous Act
+1 Chain Reaction
+1 Damnation
+1 Exsanguinate
+1 Feed the Swarm
+1 Fiery Confluence
+1 Gamble
+1 Night's Whisper
+1 Read the Bones
+1 Sign in Blood
+1 Syphon Mind
+1 Torment of Hailfire
+1 Vandalblast
+1 Bloodchief Ascension
+1 Burning Earth
+1 Citadel of Pain
+1 Court of Ambition
+1 Descent into Avernus
+1 Exquisite Blood
+1 Forsaken Wastes
+1 Havoc Festival
+1 Hissing Miasma
+1 Manabarbs
+1 No Mercy
+1 Painful Quandary
+1 Polluted Bonds
+1 Pyrostatic Pillar
+1 Repercussion
+1 Roiling Vortex
+1 Sanguine Bond
+1 Spellshock
+1 Spiteful Visions
+1 Sulfuric Vortex
+1 Tainted Aether
+1 Underworld Dreams
+1 Wound Reflection
+1 Eidolon of the Great Revel
+1 Fate Unraveler
+1 Harsh Mentor
+1 Kaervek the Merciless
+1 Kederekt Parasite
+1 Rampaging Ferocidon
+1 Razorkin Needlehead
+1 Spear Spewer
+1 Stormfist Crusader
+1 The Lord of Pain
+1 Valgavoth, Harrower of Souls
+1 Vial Smasher the Fierce
+1 Zo-Zu the Punisher
