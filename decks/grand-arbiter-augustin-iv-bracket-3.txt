@@ -1,0 +1,95 @@
+// name: Grand Arbiter Augustin IV (Bracket 3)
+// source: community
+// tags: stax, pillow-fort, control, enchantments
+
+Commander
+1 Grand Arbiter Augustin IV
+
+Deck
+
+1 Angelic Destiny
+1 Aura of Silence
+1 Control Magic
+1 Court of Grace
+1 Elspeth Conquers Death
+1 Ghostly Prison
+1 Gift of Immortality
+1 Grasp of Fate
+1 Imprisoned in the Moon
+1 Kang Dynasty
+1 Kiora Bests the Sea God
+1 Land Tax
+1 Mirrormade
+1 Mystic Remora
+1 Nerd Rage
+1 Parallax Wave
+1 Proft's Eidetic Memory
+1 Propaganda
+1 Rhystic Study
+1 Righteous Aura
+1 Righteous Authority
+1 Shark Typhoon
+1 Sheltered by Ghosts
+1 Standstill
+1 Steel of the Godhead
+1 The Legend of Yangchen
+1 Treachery
+1 Trial of a Time Lord
+1 Wizard Class
+1 Arcane Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Swiftfoot Boots
+1 Azorius Chancery
+1 Castle Vantress
+1 Command Tower
+1 Deserted Beach
+1 Eiganjo Castle
+1 Eiganjo, Seat of the Empire
+1 Flooded Strand
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Homeward Path
+1 Irrigated Farmland
+8 Island
+1 Maze of Ith
+1 Meticulous Archive
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Nimbus Maze
+1 Otawara, Soaring City
+7 Plains
+1 Prairie Stream
+1 Windswept Heath
+1 Bard, King of Dale
+1 Dream Trawler
+1 Emeritus of Ideation
+1 Enduring Curiosity
+1 High Fae Trickster
+1 Lyse Hext
+1 Mother of Runes
+1 Overlord of the Floodpits
+1 Phyrexian Metamorph
+1 Spellskite
+1 Spirited Companion
+1 Stenn, Paranoid Partisan
+1 Windborn Muse
+1 Yorion, Sky Nomad
+1 Bilbo's Gambit
+1 Brainstorm
+1 Counterspell
+1 Erode
+1 Fact or Fiction
+1 Mystic Confluence
+1 Path to Exile
+1 Reprieve
+1 Sink into Stupor
+1 Sphinx's Revelation
+1 Swords to Plowshares
+1 Bribery
+1 Replenish
+1 Requisition Raid
+1 Supreme Verdict
+1 Wrath of God
