@@ -1,0 +1,81 @@
+// name: Imaryll, Elfhame Elite (Bracket 2)
+// source: community
+// tags: tribal, anthem, mana-dorks, +1/+1, tokens
+
+Commander
+1 Imaryll, Elfhame Elite
+
+Deck
+
+1 Allosaurus Shepherd
+1 Arbor Elf
+1 Beast Whisperer
+1 Boreal Druid
+1 Cantankerous Keepers
+1 Circle of Dreams Druid
+1 Dionus, Elvish Archdruid
+1 Dwynen's Elite
+1 Dwynen, Gilt-Leaf Daen
+1 Eladamri, Korvecdal
+1 Elvish Archdruid
+1 Elvish Champion
+1 Elvish Clancaller
+1 Elvish Mystic
+1 Elvish Visionary
+1 Elvish Warmaster
+1 Emeritus of Abundance
+1 Essence Warden
+1 Evolution Witness
+1 Ezuri, Renegade Leader
+1 Formidable Speaker
+1 Fyndhorn Elves
+1 Galadhrim Brigade
+1 Heritage Druid
+1 Immaculate Magistrate
+1 Imperious Perfect
+1 Jagged-Scar Archers
+1 Jaspera Sentinel
+1 Joraga Warcaller
+1 Leaf-Crowned Visionary
+1 Llanowar Elves
+1 Llanowar Tribe
+1 Lys Alana Huntmaster
+1 Marwyn, the Nurturer
+1 Priest of Titania
+1 Quirion Ranger
+1 Realmwalker
+1 Rishkar, Peema Renegade
+1 Seeker of Skybreak
+1 Sharpshooter Elf
+1 Taunting Elf
+1 Thornweald Archer
+1 Timberwatch Elf
+1 Tyvar, the Pummeler
+1 Virulent Emissary
+1 Wellwisher
+1 Wildborn Preserver
+1 Wolverine Riders
+1 Woodland Weavemaster
+1 Andúril, Narsil Reforged
+1 Banner of Kinship
+1 Galadhrim Bow
+1 Lightning Greaves
+1 Skullclamp
+1 The Great Henge
+1 Archdruid's Charm
+1 Cosmic Hunger
+1 Elven Ambush
+1 Master's Rebuke
+1 Windswift Slice
+1 Castle Garenbrig
+1 Elven Passage
+28 Forest
+1 Oran-Rief, the Vastwood
+1 Three Tree City
+1 War Room
+1 Wirewood Lodge
+1 Yavimaya, Cradle of Growth
+1 Elvish Promenade
+1 Fecundity
+1 Sylvan Anthem
+1 Tribute to the World Tree
