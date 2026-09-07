@@ -1,0 +1,80 @@
+// name: Ojer Axonil, Deepest Might (Bracket 3)
+// source: community
+// tags: aggro, burn
+
+Commander
+1 Ojer Axonil, Deepest Might
+
+Deck
+
+1 Amonkhet Raceway
+1 Avishkar Raceway
+1 Lindblum, Industrial Regency
+29 Mountain
+1 Rogue's Passage
+1 The Lonely Mountain
+1 War Room
+1 Anger of the Gods
+1 Blasphemous Act
+1 By Force
+1 Flame Fusillade
+1 Glimpse the Impossible
+1 Grapeshot
+1 Improvisation Capstone
+1 Jeska's Will
+1 Light Up the Stage
+1 Mob Rule
+1 Reforge the Soul
+1 Seize the Spoils
+1 Vandalblast
+1 Wheel of Fate
+1 Wrenn's Resolve
+1 Arcane Signet
+1 Commander's Plate
+1 Fellwar Stone
+1 Heraldic Banner
+1 Liquimetal Torque
+1 Ruby Medallion
+1 Strata Scythe
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of Light and Shadow
+1 The Fire Crystal
+1 Avalanche of Sector 7
+1 Coruscation Mage
+1 Defiler of Instinct
+1 Eidolon of the Great Revel
+1 Firebrand Archer
+1 Firespitter Whelp
+1 Hellkite Tyrant
+1 Hellrider
+1 Inti, Seneschal of the Sun
+1 Kessig Flamebreather
+1 Kratos, God of War
+1 Razorkin Needlehead
+1 Runaway Steam-Kin
+1 Scourge of the Throne
+1 Screaming Nemesis
+1 Sunspine Lynx
+1 Treasonous Ogre
+1 Viashino Heretic
+1 Big Score
+1 Bolt Bend
+1 Chaos Warp
+1 Rebel Salvo
+1 Seething Song
+1 Spikefield Hazard
+1 Unexpected Windfall
+1 Vivi's Persistence
+1 Burning Earth
+1 Claws of Valakut
+1 Granite Grip
+1 Outpost Siege
+1 Pyrohemia
+1 Rising of the Day
+1 Roiling Vortex
+1 Sulfuric Vortex
+1 Virtue of Courage
+1 Chandra, Dressed to Kill
+1 Chandra, Fire Artisan
+1 Chandra, Torch of Defiance
