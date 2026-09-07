@@ -1,0 +1,90 @@
+// name: Ruhan of the Fomori (Bracket 3)
+// source: community
+// tags: chaos, group-slug, pillow-fort
+
+Commander
+1 Ruhan of the Fomori
+
+Deck
+
+1 Alexios, Deimos of Kosmos
+1 Angel of Jubilation
+1 Baeloth Barrityl, Entertainer
+1 Bothersome Quasit
+1 Firkraag, Cunning Instigator
+1 Geode Rager
+1 Gisela, Blade of Goldnight
+1 Goblin Diplomats
+1 Khârn the Betrayer
+1 Lavinia, Azorius Renegade
+1 Nils, Discipline Enforcer
+1 Pippin, Guard of the Citadel
+1 Puppet Master, String Puller
+1 Vengeful Ancestor
+1 Angel's Grace
+1 Boros Charm
+1 Brainstorm
+1 Counterspell
+1 Deflecting Palm
+1 Disenchant
+1 Generous Gift
+1 Illusionist's Gambit
+1 Path to Exile
+1 Render Silent
+1 Settle the Wreckage
+1 Swords to Plowshares
+1 Take the Bait
+1 Teferi's Protection
+1 Trickbind
+1 Arcane Signet
+1 Crawlspace
+1 Cursed Totem
+1 Dolmen Gate
+1 Fellwar Stone
+1 Norn's Annex
+1 Shadowspear
+1 Sol Ring
+1 Talisman of Conviction
+1 Blasphemous Act
+1 Disrupt Decorum
+1 Farewell
+1 Insurrection
+1 Ponder
+1 Preordain
+1 Promise of Loyalty
+1 Spectacular Showdown
+1 Taunt from the Rampart
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+1 Floodfarm Verge
+1 Glacial Fortress
+1 Hallowed Fountain
+5 Island
+6 Mountain
+1 Path of Ancestry
+1 Perilous Landscape
+10 Plains
+1 Raugrin Triome
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sea of Clouds
+1 Slayers' Stronghold
+1 Spectator Seating
+1 Sulfur Falls
+1 Dissipation Field
+1 Duelist's Heritage
+1 Ghostly Prison
+1 Humility
+1 Island Sanctuary
+1 Leyline of Singularity
+1 Monologue Tax
+1 Propaganda
+1 Public Enemy
+1 Rest in Peace
+1 Righteous Cause
+1 Trouble in Pairs
+1 War's Toll
+1 Web of Inertia
