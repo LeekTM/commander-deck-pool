@@ -1,0 +1,97 @@
+// name: Shalai and Hallar (Bracket 3)
+// source: community
+// tags: +1/+1, combo
+
+Commander
+1 Shalai and Hallar
+
+Deck
+
+1 Abandoned Air Temple
+1 Bountiful Promenade
+1 Branchloft Pathway
+1 Brushland
+1 Command Tower
+1 Cragcrown Pathway
+1 Exotic Orchard
+8 Forest
+1 Gavony Township
+1 Hushwood Verge
+1 Jetmir's Garden
+1 Karn's Bastion
+1 Karplusan Forest
+1 Mountain
+1 Overgrown Farmland
+5 Plains
+1 Rockfall Vale
+1 Rootbound Crag
+1 Spire Garden
+1 Stomping Ground
+1 Sungrass Prairie
+1 Sunpetal Grove
+1 Temple Garden
+1 Thornspire Verge
+1 Wooded Foothills
+1 Ajani Goldmane
+1 Arwen, Weaver of Hope
+1 Avacyn's Pilgrim
+1 Basking Broodscale
+1 Biophagus
+1 Birds of Paradise
+1 Bloom Tender
+1 Casey Jones, Back Alley Brute
+1 Devoted Druid
+1 Dusk Legion Duelist
+1 Elvish Mystic
+1 Exemplar of Light
+1 Forgotten Ancient
+1 Formidable Speaker
+1 Fyndhorn Elves
+1 Gyre Sage
+1 Heliod, Sun-Crowned
+1 Herd Baloth
+1 Kalonian Hydra
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Mikaeus, the Lunarch
+1 Ouroboroid
+1 Reluctant Role Model
+1 Sanctuary Warden
+1 Scurry Oak
+1 Slippery Bogbonder
+1 The Red Terror
+1 Walking Ballista
+1 War Elemental
+1 Wildgrowth Archaic
+1 Zack Fair
+1 Beast Within
+1 Chord of Calling
+1 Eladamri's Call
+1 Flawless Maneuver
+1 Generous Gift
+1 Heroic Intervention
+1 Inspiring Call
+1 Path to Exile
+1 Return of the Wildspeaker
+1 Silkguard
+1 Swords to Plowshares
+1 Worldly Tutor
+1 Branching Evolution
+1 Cathars' Crusade
+1 Court of Garenbrig
+1 Guardian Project
+1 Resourceful Defense
+1 Rhythm of the Wild
+1 Terrasymbiosis
+1 Tribute to the World Tree
+1 Uncivil Unrest
+1 Damning Verdict
+1 Fangs of Kalonia
+1 Farseek
+1 Germination Practicum
+1 Nature's Lore
+1 Requisition Raid
+1 Rishkar's Expertise
+1 Sundering Eruption
+1 Three Visits
+1 United Front
