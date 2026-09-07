@@ -35,7 +35,8 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "scr
 
 from deck_parser import parse_decklist_text, aggregate_quantities
 from scryfall import (
-    lookup_cards, fetch_game_changers, is_basic_land, is_legal_commander_card,
+    lookup_cards, lookup_printings, fetch_game_changers, is_basic_land,
+    is_legal_commander_card,
     is_companion_card, colors_string, compute_bracket,
 )
 
@@ -95,6 +96,11 @@ def parse_deck_file(path: str) -> dict:
         "commanders": deck.commander_names(),
         "companion": deck.companion_name(),
         "quantities": aggregate_quantities(deck.deck_cards()),
+        # "Name (SET) NUM" pins one exact printing, and so one exact artwork.
+        "printings": {
+            c.name: (c.set_code, c.collector_number)
+            for c in deck.cards if c.set_code and c.collector_number
+        },
         "warnings": warnings,
         "reject": None,
     }
@@ -201,14 +207,22 @@ def enrich_deck(parsed: dict, by_name: dict, not_found: set[str]) -> tuple[dict 
         # wrote alongside it as "as". Secret Lair reskins are why: "Miku, Lost
         # but Singing" IS "Azusa, Lost but Seeking", and only the real name
         # resolves in a lookup -- but the pool should still show the Miku name.
-        if info is not None and info.name != card_name:
-            entry = {"n": info.name, "q": qty, "as": card_name}
+        pinned_id = ""
+        if info is not None and card_name in (parsed.get("printings") or {}):
+            pinned_id = info.scryfall_id
+
+        if info is not None and (info.name != card_name or pinned_id):
+            entry = {"n": info.name, "q": qty}
+            if info.name != card_name:
+                entry["as"] = card_name
             # A reskin is a specific printing with its own art, so pin the
             # printing: importing "Miku, the Renowned" should put the Miku
             # card on the table, not the default Feather art. Only a genuine
             # flavour name gets pinned -- a split card written by its front
             # face also lands here, and has no particular printing to prefer.
-            if (info.flavor_name or "").lower() == card_name.lower() and info.scryfall_id:
+            if pinned_id:
+                entry["id"] = pinned_id
+            elif (info.flavor_name or "").lower() == card_name.lower() and info.scryfall_id:
                 entry["id"] = info.scryfall_id
             cards_out.append(entry)
         else:
@@ -410,8 +424,17 @@ def main():
             f"Looking up {len(names)} distinct cards for {len(stale)} changed deck(s)...",
             file=sys.stderr,
         )
+        # Pinned printings resolve first and win: the pin identifies the card,
+        # so its written name never needs to match anything Scryfall knows.
+        specs = {}
+        for p in stale:
+            specs.update(p.get("printings") or {})
+        pinned = lookup_printings(specs, game_changers=game_changers)
+
+        names = [n for n in names if n.lower() not in pinned]
         by_name, not_found = lookup_cards(names, game_changers=game_changers)
-        not_found_lower = {n.lower() for n in not_found}
+        by_name.update(pinned)
+        not_found_lower = {n.lower() for n in not_found} - set(pinned)
     else:
         print("No deck files changed -- reusing every cached record.", file=sys.stderr)
 

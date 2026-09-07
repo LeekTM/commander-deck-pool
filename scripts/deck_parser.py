@@ -36,9 +36,11 @@ _SB_PREFIX_RE = re.compile(r"^(SB|Sideboard)\s*:\s*", re.IGNORECASE)
 # optional, so a pasted "1Rograkh, Son of Rohgahh" is not silently dropped.
 _CARD_LINE_RE = re.compile(r"^(\d+)\s*(?:[xX]\s+)?\s*(.+)$")
 _CMDR_MARKER_RE = re.compile(r"\*\s*(CMDR|CMD|COMMANDER)\s*\*", re.IGNORECASE)
-# Trailing set-code / collector-number cruft, e.g. "(LTC) 285", "[M11]", "(M11) 123 *F*"
+# Trailing set code / collector number, e.g. "(LTC) 285", "[M11]", "(M11) 123 *F*".
+# Captured rather than merely stripped: with both halves present it names one
+# exact printing, which is the only way to ask for a specific piece of art.
 _SET_CRUFT_RE = re.compile(
-    r"\s*[\(\[][A-Za-z0-9]{2,6}[\)\]](\s*[A-Za-z0-9\-★]+)?(\s*\*F\*)?\s*$"
+    r"\s*[\(\[]([A-Za-z0-9]{2,6})[\)\]](?:\s*([A-Za-z0-9\-★]+))?(?:\s*\*F\*)?\s*$"
 )
 
 
@@ -48,6 +50,8 @@ class ParsedCard:
     quantity: int
     section: str  # "commander" | "deck" | "sideboard" | "companion" | "maybeboard" | "tokens"
     is_commander_marked: bool = False
+    set_code: str | None = None
+    collector_number: str | None = None
 
 
 @dataclass
@@ -86,12 +90,24 @@ class ParsedDeck:
         return self.metadata.get("companion", "").strip() or None
 
 
-def _strip_set_cruft(text: str) -> str:
+def _split_printing(text: str) -> tuple[str, str | None, str | None]:
+    """Split "Rick, Steadfast Leader (SLD) 143" into name, set code, number.
+
+    Only the innermost trailing group names a printing; anything further out is
+    stripped as cruft. Both halves are needed -- a bare "(M11)" identifies a set
+    but not a card.
+    """
+    set_code = collector = None
     prev = None
     while prev != text:
         prev = text
-        text = _SET_CRUFT_RE.sub("", text).strip()
-    return text
+        m = _SET_CRUFT_RE.search(text)
+        if not m:
+            break
+        if set_code is None and m.group(2):
+            set_code, collector = m.group(1), m.group(2)
+        text = text[:m.start()].strip()
+    return text, set_code, collector
 
 
 def parse_decklist_text(text: str) -> ParsedDeck:
@@ -137,7 +153,7 @@ def parse_decklist_text(text: str) -> ParsedDeck:
 
         is_commander_marked = bool(_CMDR_MARKER_RE.search(rest))
         rest = _CMDR_MARKER_RE.sub("", rest).strip()
-        rest = _strip_set_cruft(rest)
+        rest, set_code, collector_number = _split_printing(rest)
         name = rest.strip()
         if not name:
             deck.warnings.append(f"Could not extract card name: {raw_line!r}")
@@ -147,6 +163,8 @@ def parse_decklist_text(text: str) -> ParsedDeck:
         deck.cards.append(ParsedCard(
             name=name,
             quantity=quantity,
+            set_code=set_code,
+            collector_number=collector_number,
             section=section,
             is_commander_marked=is_commander_marked,
         ))

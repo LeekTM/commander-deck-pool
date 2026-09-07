@@ -24,7 +24,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # allow running 
 
 from deck_parser import parse_decklist_text, aggregate_quantities
 from scryfall import (
-    lookup_cards, fetch_game_changers, is_basic_land, is_legal_commander_card,
+    lookup_cards, lookup_printings, fetch_game_changers, is_basic_land,
+    is_legal_commander_card,
     is_companion_card, colors_string, compute_bracket,
 )
 
@@ -71,10 +72,20 @@ def validate_parsed(deck, game_changers: set[str] | None = None) -> ValidationRe
     # The companion is optional and almost always absent; when there is none,
     # nothing about this lookup or the checks below changes.
     companion = deck.companion_name()
-    by_name, not_found = lookup_cards(
-        unique_names + commanders + ([companion] if companion else []),
+    # "Name (SET) NUM" pins one exact printing. The pin identifies the card, so
+    # it resolves first and its written name is only a label -- which is how a
+    # card Scryfall no longer carries under its printed name still validates.
+    pinned = lookup_printings(
+        {c.name: (c.set_code, c.collector_number)
+         for c in deck.cards if c.set_code and c.collector_number},
         game_changers=game_changers,
     )
+    wanted = unique_names + commanders + ([companion] if companion else [])
+    by_name, not_found = lookup_cards(
+        [n for n in wanted if n.lower() not in pinned],
+        game_changers=game_changers,
+    )
+    by_name.update(pinned)
 
     if not_found:
         result.errors.append(

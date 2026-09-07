@@ -98,6 +98,26 @@ function cardToInfo(card, gameChangers) {
   };
 }
 
+/**
+ * Resolves "(SET) NUM" pins to exact printings, keyed by lowercased name.
+ * A pin names one specific card, so the written name is only a label -- which
+ * is how a decklist can ask for a printing Scryfall no longer carries under the
+ * name printed on it.
+ */
+async function lookupPrintings(specs, gameChangers) {
+  const byName = new Map();
+  for (const [name, [setCode, collector]] of specs) {
+    const resp = await fetch(
+      `${SCRYFALL.API_BASE}/cards/${encodeURIComponent(setCode.toLowerCase())}/${encodeURIComponent(collector)}`,
+      { headers: { Accept: "application/json" } }
+    );
+    if (!resp.ok) continue; // unknown printing: fall back to the by-name lookup
+    byName.set(name.toLowerCase(), cardToInfo(await resp.json(), gameChangers));
+    await sleep(SCRYFALL.DELAY_MS);
+  }
+  return byName;
+}
+
 function isLegalCommanderCard(info) {
   const tl = info.typeLine.toLowerCase();
   if (tl.includes("legendary") && tl.includes("creature")) return true;

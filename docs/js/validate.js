@@ -47,10 +47,19 @@ async function validateDecklist(decklistText, gameChangers, bracketOverride) {
   // The companion is optional and almost always absent; when there is none,
   // nothing about this lookup or the checks below changes.
   const companion = companionName(cards);
+  // "Name (SET) NUM" pins one exact printing. The pin identifies the card, so
+  // it resolves first and its written name is only a label.
+  const specs = new Map(
+    cards.filter((c) => c.setCode && c.collector).map((c) => [c.name, [c.setCode, c.collector]])
+  );
+  const pinned = await lookupPrintings(specs, gameChangers);
+
+  const wanted = [...uniqueNames, ...commanders, ...(companion ? [companion] : [])];
   const { byName, notFound } = await lookupCards(
-    [...uniqueNames, ...commanders, ...(companion ? [companion] : [])],
+    wanted.filter((n) => !pinned.has(n.toLowerCase())),
     gameChangers
   );
+  for (const [k, v] of pinned) byName.set(k, v);
 
   if (notFound.length) {
     result.errors.push(`Card name(s) not recognised by Scryfall: ${[...new Set(notFound)].sort().join(", ")}`);

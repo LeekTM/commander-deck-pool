@@ -242,6 +242,34 @@ def lookup_cards(names: list[str], game_changers: set[str] | None = None) -> tup
     return by_name, not_found
 
 
+def lookup_printings(specs: dict[str, tuple[str, str]],
+                     game_changers: set[str] | None = None) -> dict[str, CardInfo]:
+    """Resolve "(SET) NUM" pins to exact printings, keyed by lowercased name.
+
+    A pin names one specific card, so the written name is only a label. That is
+    what lets a decklist ask for a printing Scryfall no longer carries under the
+    name printed on it -- the Walking Dead Secret Lair cards were renamed in
+    Scryfall's data, but the printings, and their original artwork, are still
+    there.
+    """
+    if not specs:
+        return {}
+    if game_changers is None:
+        game_changers = fetch_game_changers()
+
+    out: dict[str, CardInfo] = {}
+    for name, (set_code, collector) in specs.items():
+        url = (f"{API_BASE}/cards/{urllib.parse.quote(set_code.lower())}"
+               f"/{urllib.parse.quote(collector)}")
+        try:
+            card = _request_json(url)
+        except urllib.error.HTTPError:
+            continue  # unknown printing: fall through to the by-name lookup
+        out[name.lower()] = _card_to_info(card, game_changers)
+        time.sleep(REQUEST_DELAY_SECONDS)
+    return out
+
+
 def is_legal_commander_card(info: CardInfo) -> bool:
     """Legendary creature, a Background, or text granting commander status."""
     tl = info.type_line.lower()

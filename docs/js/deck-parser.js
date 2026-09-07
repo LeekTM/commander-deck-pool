@@ -23,8 +23,27 @@ const SB_PREFIX_RE = /^(SB|Sideboard)\s*:\s*/i;
 // optional, so a pasted "1Rograkh, Son of Rohgahh" is not silently dropped.
 const CARD_LINE_RE = /^(\d+)\s*(?:[xX]\s+)?\s*(.+)$/;
 const CMDR_MARKER_RE = /\*\s*(CMDR|CMD|COMMANDER)\s*\*/i;
-const SET_CRUFT_RE = /\s*[([][A-Za-z0-9]{2,6}[)\]](\s*[A-Za-z0-9\-★]+)?(\s*\*F\*)?\s*$/;
+// Captured rather than merely stripped: with both halves present, "(SLD) 143"
+// names one exact printing, which is the only way to ask for a specific art.
+const SET_CRUFT_RE = /\s*[([]([A-Za-z0-9]{2,6})[)\]](?:\s*([A-Za-z0-9\-★]+))?(?:\s*\*F\*)?\s*$/;
 const SECTION_LINE_RE = /^([A-Za-z][A-Za-z ]*?)\s*:?\s*(?:\(\d+\))?\s*$/;
+
+function splitPrinting(text) {
+  let setCode = null;
+  let collector = null;
+  let prev = null;
+  while (prev !== text) {
+    prev = text;
+    const m = text.match(SET_CRUFT_RE);
+    if (!m) break;
+    if (setCode === null && m[2]) {
+      setCode = m[1];
+      collector = m[2];
+    }
+    text = text.slice(0, m.index).trim();
+  }
+  return { name: text, setCode, collector };
+}
 
 function stripSetCruft(text) {
   let prev = null;
@@ -73,14 +92,18 @@ function parseDecklistText(text) {
     let rest = cardMatch[2].trim();
     const isCommanderMarked = CMDR_MARKER_RE.test(rest);
     rest = rest.replace(CMDR_MARKER_RE, "").trim();
-    rest = stripSetCruft(rest);
-    const name = rest.trim();
+    const { name: parsedName, setCode, collector } = splitPrinting(rest);
+    const name = parsedName.trim();
     if (!name) {
       parseWarnings.push(`Could not extract card name: ${rawLine}`);
       continue;
     }
 
-    cards.push({ name, quantity, section: sectionOverride || currentSection, isCommanderMarked });
+    cards.push({
+      name, quantity, setCode, collector,
+      section: sectionOverride || currentSection,
+      isCommanderMarked,
+    });
   }
 
   return { cards, parseWarnings };
