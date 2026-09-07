@@ -1,0 +1,103 @@
+// name: Omnath, Locus of Creation (Bracket 3)
+// source: community
+// tags: ramp, lands-matter, planeswalkers
+
+Commander
+1 Omnath, Locus of Creation
+
+Deck
+
+1 Ajani, Mentor of Heroes
+1 Chandra, Legacy of Fire
+1 Commodore Guff
+1 Dovin Baan
+1 Kiora, the Crashing Wave
+1 Nahiri, the Harbinger
+1 Narset Transcendent
+1 Oko, Thief of Crowns
+1 Ral Zarek
+1 Ral, Crackling Wit
+1 Sarkhan Vol
+1 Tamiyo, Compleated Sage
+1 Tamiyo, Field Researcher
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Time Raveler
+1 Teferi, Who Slows the Sunset
+1 Ugin, the Spirit Dragon
+1 Wrenn and Six
+1 Arachnogenesis
+1 Brainstorm
+1 Brainsurge
+1 Consult the Star Charts
+1 Crop Rotation
+1 Obscuring Haze
+1 Stroke of Midnight
+1 Arcane Signet
+1 Ichormoon Gauntlet
+1 Insight Engine
+1 Sol Ring
+1 The Chain Veil
+1 Arena Rector
+1 Aurora Awakener
+1 Birds of Paradise
+1 Bloom Tender
+1 Drannith Magistrate
+1 Evolution Sage
+1 Faeburrow Elder
+1 Flux Channeler
+1 Lae'zel, Vlaakith's Champion
+1 Lotus Cobra
+1 Onakke Oathkeeper
+1 Spark Double
+1 Spore Frog
+1 Sunderflock
+1 Tamiyo, Inquisitive Student
+1 Arid Mesa
+1 Bloodstained Mire
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Deserted Beach
+1 Elven Passage
+1 Evolving Wilds
+1 Fabled Passage
+1 Flooded Strand
+4 Forest
+1 Hallowed Fountain
+2 Island
+1 Ketria Triome
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+2 Plains
+1 Polluted Delta
+1 Prismatic Vista
+1 Raugrin Triome
+1 Reflecting Pool
+1 Sacred Foundry
+1 Scalding Tarn
+1 Scattered Groves
+1 Sea of Clouds
+1 Simic Growth Chamber
+1 Spara's Headquarters
+1 Steam Vents
+1 Stomping Ground
+1 Temple Garden
+1 Terramorphic Expanse
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Blasphemous Act
+1 Call the Gatewatch
+1 Farewell
+1 Nature's Lore
+1 Rampant Growth
+1 Terminus
+1 Three Visits
+1 Doubling Season
+1 Oath of Gideon
+1 Oath of Jace
+1 Oath of Teferi
+1 Urza Assembles the Titans
