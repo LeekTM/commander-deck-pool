@@ -1,0 +1,94 @@
+// name: Saskia the Unyielding (Bracket 3)
+// source: community
+// tags: aggro, infect, ramp
+
+Commander
+1 Saskia the Unyielding
+
+Deck
+
+1 Abzan Charm
+1 Anguished Unmaking
+1 Artifact Mutation
+1 Aura Mutation
+1 Crackling Doom
+1 Enlightened Tutor
+1 Heroic Intervention
+1 Return of the Wildspeaker
+1 Tainted Strike
+1 Terminate
+1 Worldly Tutor
+1 Alesha, Who Smiles at Death
+1 Archfiend of Depravity
+1 Avatar of Slaughter
+1 Beast Whisperer
+1 Birds of Paradise
+1 Blightsteel Colossus
+1 Champion of Lambholt
+1 Desecration Demon
+1 Iroas, God of Victory
+1 Managorger Hydra
+1 Mother of Runes
+1 Ogre Battledriver
+1 Phyrexian Hydra
+1 Putrefax
+1 Rampaging Baloths
+1 Reclamation Sage
+1 Ruric Thar, the Unbowed
+1 Sakura-Tribe Elder
+1 Selvala, Heart of the Wilds
+1 Siege Behemoth
+1 Terastodon
+1 Thunderfoot Baloth
+1 Tymna the Weaver
+1 Wood Elves
+1 Arcane Signet
+1 Grafted Exoskeleton
+1 Hammer of Purphoros
+1 Lightning Greaves
+1 Monster Manual
+1 Sensei's Divining Top
+1 Sol Ring
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Canopy Vista
+1 Cinder Glade
+1 Command Tower
+1 Deathcap Glade
+1 Exotic Orchard
+6 Forest
+1 Godless Shrine
+1 Isolated Chapel
+1 Jetmir's Garden
+6 Mountain
+1 Overgrown Tomb
+3 Plains
+1 Sacred Foundry
+1 Stomping Ground
+1 Sunpetal Grove
+3 Swamp
+1 Temple Garden
+1 Windswept Heath
+1 Wooded Foothills
+1 Cultivate
+1 Farseek
+1 Finale of Devastation
+1 Kodama's Reach
+1 Merciless Eviction
+1 Nature's Lore
+1 Rishkar's Expertise
+1 Shamanic Revelation
+1 Skyshroud Claim
+1 Three Visits
+1 Triumph of the Hordes
+1 Dictate of the Twin Gods
+1 Elemental Bond
+1 Fires of Yavimaya
+1 Glistening Oil
+1 Phyresis
+1 Phyrexian Arena
+1 Smothering Tithe
+1 Sneak Attack
+1 Sylvan Library
+1 Up the Beanstalk
