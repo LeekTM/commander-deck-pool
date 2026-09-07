@@ -1,0 +1,76 @@
+// name: Purphoros, God of the Forge (Bracket 3)
+// source: community
+// tags: burn, group-slug, tokens
+
+Commander
+1 Purphoros, God of the Forge
+
+Deck
+
+1 Agate Instigator
+1 Bloodmark Mentor
+1 Bonehoard Dracosaur
+1 Byway Barterer
+1 Calamity, Galloping Inferno
+1 Chandra's Incinerator
+1 Chandra's Spitfire
+1 Defiler of Instinct
+1 Emrakul's Hatcher
+1 Fanatic of Mogis
+1 Fiendish Duo
+1 Flamekin Harbinger
+1 Goblin Chainwhirler
+1 Goblin Matron
+1 Goblin Recruiter
+1 Goblin Warchief
+1 Grinning Ignus
+1 Imperial Recruiter
+1 Iron Myr
+1 Kiki-Jiki, Mirror Breaker
+1 Krenko, Mob Boss
+1 Mirage Phalanx
+1 Mogg War Marshal
+1 Moggcatcher
+1 Muxus, Goblin Grandee
+1 Neheb, the Eternal
+1 Norin the Wary
+1 Ojer Axonil, Deepest Might
+1 Ornithopter of Paradise
+1 Quinjet Technician
+1 Rionya, Fire Dancer
+1 Runaway Steam-Kin
+1 Seasoned Pyromancer
+1 Siege-Gang Commander
+1 Siege-Gang Lieutenant
+1 Skirk Prospector
+1 Solphim, Mayhem Dominus
+1 Spawn-Gang Commander
+1 Sunset Strikemaster
+1 Terror of the Peaks
+1 Torbran, Thane of Red Fell
+1 Treasonous Ogre
+1 Twinflame Tyrant
+1 Zookeeper Mechan
+1 Ancient Tomb
+1 Arena of Glory
+1 Kher Keep
+1 Nykthos, Shrine to Nyx
+33 Snow-Covered Mountain
+1 Sokenzan, Crucible of Defiance
+1 War Room
+1 Witch's Clinic
+1 Arcane Signet
+1 Hazoret's Monument
+1 Infantry Shield
+1 Ruby Medallion
+1 Skullclamp
+1 Sol Ring
+1 Throne of Eldraine
+1 Elemental Mastery
+1 Goblin Bombardment
+1 Indomitable Creativity
+1 Mogg Infestation
+1 Song of Totentanz
+1 Soul Immolation
+1 Tempt with Vengeance
+1 Sarkhan's Triumph
