@@ -1,0 +1,101 @@
+// name: Prosper, Tome-Bound (Bracket 3)
+// source: community
+// tags: exile, treasures, storm, burn, impulse
+
+Commander
+1 Prosper, Tome-Bound
+
+Deck
+
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Fellwar Stone
+1 Interdimensional Web Watch
+1 Jet Medallion
+1 Lightning Greaves
+1 Rakdos Signet
+1 Ruby Medallion
+1 Talisman of Indulgence
+1 The One Ring
+1 Birgi, God of Storytelling
+1 Boggart Trawler
+1 Bonehoard Dracosaur
+1 Dauthi Voidwalker
+1 Dragonhawk, Fate's Tempest
+1 Dream Devourer
+1 Evereth, Viceroy of Plunder
+1 Flaming Tyrannosaurus
+1 Generous Plunderer
+1 Goldlust Triad
+1 Goldspan Dragon
+1 Grim Hireling
+1 Juri, Master of the Revue
+1 Kardur, Doomscourge
+1 Keeper of Secrets
+1 Marionette Apprentice
+1 Marionette Master
+1 Mastermind Plum
+1 Mayhem Devil
+1 Nico Minoru, Runaway
+1 Parapet Thrasher
+1 Party Thrasher
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 PuPu UFO
+1 Ragavan, Nimble Pilferer
+1 Reckless Fireweaver
+1 Smaug the Magnificent
+1 Smaug, Wicked Worm
+1 Super Shredder
+1 Tectonic Giant
+1 Xorn
+1 Blackcleave Cliffs
+1 Blood Crypt
+1 Bloodstained Mire
+1 Branch of Vitu-Ghazi
+1 Command Beacon
+1 Command Tower
+1 Dark Fortress
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Fabled Passage
+1 Foreboding Ruins
+1 Graven Cairns
+1 Haunted Ridge
+1 Horizon of Progress
+1 Lindblum, Industrial Regency
+1 Midgar, City of Mako
+1 Mount Doom
+6 Mountain
+1 Myriad Landscape
+1 Plaza of Heroes
+1 Shadowblood Ridge
+1 Smoldering Marsh
+1 Sulfurous Springs
+3 Swamp
+1 Tainted Peak
+1 Talon Gates of Madara
+1 Treasure Vault
+1 Chaos Warp
+1 Darkness
+1 Delayed Blast Fireball
+1 Fell the Profane
+1 Flashback
+1 Malakir Rebirth
+1 Redirect Lightning
+1 Return the Favor
+1 Soul Shatter
+1 Terminate
+1 Wild Magic Surge
+1 Eye of Nidhogg
+1 Ghoulish Impetus
+1 Maximum Carnage
+1 Passionate Archaeologist
+1 Spiteful Banditry
+1 Hex Magic
+1 Improvisation Capstone
+1 Jeska's Will
+1 Reckless Impulse
+1 Seize the Spotlight
+1 Toxic Deluge
+1 Wrenn's Resolve
