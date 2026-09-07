@@ -1,0 +1,90 @@
+// name: Jetmir, Nexus of Revels (Bracket 3)
+// source: community
+// tags: tokens
+
+Commander
+1 Jetmir, Nexus of Revels
+
+Deck
+
+1 Adeline, Resplendent Cathar
+1 Arasta of the Endless Web
+1 Avacyn's Pilgrim
+1 Baylen, the Haymaker
+1 Birds of Paradise
+1 Boss's Chauffeur
+1 Brazen Upstart
+1 Champion of Lambholt
+1 Craterhoof Behemoth
+1 Elvish Mystic
+1 Enduring Vitality
+1 Gala Greeters
+1 Jinnie Fay, Jetmir's Second
+1 King Darien XLVIII
+1 Kitt Kanto, Mayhem Diva
+1 Llanowar Elves
+1 Maja, Bretagard Protector
+1 Mog, Moogle Warrior
+1 Ocelot Pride
+1 Ohran Frostfang
+1 Phabine, Boss's Confidant
+1 Purphoros, God of the Forge
+1 Queen Allenal of Ruadach
+1 Rakish Revelers
+1 Rumor Gatherer
+1 Seedborn Muse
+1 Tendershoot Dryad
+1 Titan of Industry
+1 Voice of Victory
+1 Wildfire Awakener
+1 Anointed Procession
+1 Aura Shards
+1 Beastmaster Ascension
+1 Cabaretti Ascendancy
+1 Impact Tremors
+1 Parallel Lives
+1 Rabble Rousing
+1 Warleader's Call
+1 Arcane Signet
+1 Halo Fountain
+1 Scepter of Celebration
+1 Skullclamp
+1 Sol Ring
+1 Artifact Mutation
+1 Aura Mutation
+1 Beast Within
+1 Chaos Warp
+1 Dawn's Truce
+1 Grand Crescendo
+1 March of the Multitudes
+1 Moogles' Valor
+1 Path to Exile
+1 Swords to Plowshares
+1 Battlefield Forge
+1 Botanical Plaza
+1 Brushland
+1 Cabaretti Courtyard
+1 Canopy Vista
+1 Cinder Glade
+1 Command Tower
+1 Evendo, Waking Haven
+1 Exotic Orchard
+10 Forest
+1 Gavony Township
+1 Jetmir's Garden
+1 Jungle Shrine
+2 Mountain
+9 Plains
+1 Racers' Ring
+1 Sacred Foundry
+1 Stomping Ground
+1 Temple Garden
+1 Camaraderie
+1 Cultivate
+1 Farseek
+1 Kodama's Reach
+1 Nature's Lore
+1 Shamanic Revelation
+1 Song of Totentanz
+1 Titanic Ultimatum
+1 Elspeth, Sun's Champion
