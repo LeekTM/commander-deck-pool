@@ -1,0 +1,101 @@
+// name: Go-Shintai of Life's Origin (Bracket 2)
+// source: community
+// tags: enchantments, tribal, pillow-fort
+
+Commander
+1 Go-Shintai of Life's Origin
+
+Deck
+
+1 Arcane Signet
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Sol Ring
+1 Thought Vessel
+1 Arid Mesa
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+4 Forest
+1 Godless Shrine
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Indatha Triome
+2 Island
+1 Jetmir's Garden
+1 Ketria Triome
+1 Misty Rainforest
+2 Mountain
+1 Overgrown Tomb
+1 Path of Ancestry
+2 Plains
+1 Raugrin Triome
+1 Reliquary Tower
+1 Sacred Foundry
+1 Savai Triome
+1 Spara's Headquarters
+1 Steam Vents
+1 Stomping Ground
+2 Swamp
+1 The World Tree
+1 Verdant Catacombs
+1 Windswept Heath
+1 Zagoth Triome
+1 Assassin's Trophy
+1 Counterspell
+1 Heroic Intervention
+1 Path to Exile
+1 Swords to Plowshares
+1 Crescent Island Temple
+1 Enchantress's Presence
+1 Ghostly Prison
+1 Greater Auramancy
+1 Hallowed Haunting
+1 Honden of Cleansing Fire
+1 Honden of Infinite Rage
+1 Honden of Life's Web
+1 Honden of Night's Reach
+1 Honden of Seeing Winds
+1 Kyoshi Island Plaza
+1 Northern Air Temple
+1 Omniscience
+1 Paradox Haze
+1 Privileged Position
+1 Propaganda
+1 Sanctum of All
+1 Sanctum of Calm Waters
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Shattered Heights
+1 Sanctum of Stone Fangs
+1 Sanctum of Tranquil Light
+1 Sigil of the Empty Throne
+1 Southern Air Temple
+1 Sphere of Safety
+1 Sterling Grove
+1 The Spirit Oasis
+1 Cultivate
+1 Emergent Ultimatum
+1 Farseek
+1 Resurgent Belief
+1 Scheming Symmetry
+1 Sevinne's Reclamation
+1 Destiny Spinner
+1 Eidolon of Blossoms
+1 Elvish Mystic
+1 Faeburrow Elder
+1 Go-Shintai of Ancient Wars
+1 Go-Shintai of Boundless Vigor
+1 Go-Shintai of Hidden Cruelty
+1 Go-Shintai of Lost Wisdom
+1 Go-Shintai of Shared Purpose
+1 Hei Bai, Forest Guardian
+1 Herald of the Pantheon
+1 Jukai Naturalist
+1 Mesa Enchantress
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Setessan Champion
+1 Sythis, Harvest's Hand
+1 Weaver of Harmony
+1 Zur the Enchanter
