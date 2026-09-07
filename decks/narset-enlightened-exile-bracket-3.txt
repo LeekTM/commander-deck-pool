@@ -1,0 +1,94 @@
+// name: Narset, Enlightened Exile (Bracket 3)
+// source: community
+// tags: prowess, spellslinger, tokens, tempo
+
+Commander
+1 Narset, Enlightened Exile
+
+Deck
+
+1 Adeline, Resplendent Cathar
+1 Archmage Emeritus
+1 Bria, Riptide Rogue
+1 Dragon's Rage Channeler
+1 Esper Sentinel
+1 Grand Abolisher
+1 Kykar, Wind's Fury
+1 Lyse Hext
+1 Monastery Mentor
+1 Monica Rambeau
+1 Storm-Kiln Artist
+1 Talrand, Sky Summoner
+1 Third Path Iconoclast
+1 Veyran, Voice of Duality
+1 Young Pyromancer
+1 Akroma's Will
+1 Big Score
+1 Boros Charm
+1 Dawn's Truce
+1 Deflecting Palm
+1 Demand Answers
+1 Flawless Maneuver
+1 Frantic Search
+1 Galadriel's Dismissal
+1 Generous Gift
+1 Mana Drain
+1 Path to Exile
+1 Savage Beating
+1 Sink into Stupor
+1 Stroke of Midnight
+1 Thrill of Possibility
+1 Wing It
+1 Arcane Signet
+1 Azorius Signet
+1 Cori-Steel Cutter
+1 Falcon's Wing Harness
+1 Izzet Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Chart a Course
+1 Crash Through
+1 Enter the Enigma
+1 Faithless Looting
+1 Flow State
+1 Flux
+1 Jeska's Will
+1 Pym Particles
+1 Sea Gate Restoration
+1 See the Truth
+1 Slip Through Space
+1 Strategic Planning
+1 Windfall
+1 World at War
+1 Command Tower
+1 Deserted Beach
+1 Exotic Orchard
+1 Glacial Fortress
+1 Hengegate Pathway
+6 Island
+5 Mountain
+1 Mystic Monastery
+1 Needleverge Pathway
+1 Path of Ancestry
+6 Plains
+1 Raugrin Triome
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sea of Clouds
+1 Spectator Seating
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Sundown Pass
+1 Thundering Falls
+1 Training Center
+1 Fervor
+1 Frostcliff Siege
+1 Jeskai Ascendancy
+1 Rhystic Study
+1 Rising of the Day
+1 Steel of the Godhead
+1 Whirlwind of Thought
+1 Ral, Crackling Wit
