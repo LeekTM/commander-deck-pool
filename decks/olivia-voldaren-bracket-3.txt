@@ -1,0 +1,83 @@
+// name: Olivia Voldaren (Bracket 3)
+// source: community
+// tags: tribal, salty, lifedrain, midrange
+
+Commander
+1 Olivia Voldaren
+
+Deck
+
+1 Akoum Refuge
+1 Bloodfell Caves
+1 Boiling Rock Prison
+1 Canyon Slough
+1 Cinder Barrens
+1 Command Tower
+1 Encroaching Wastes
+9 Mountain
+1 Rakdos Carnarium
+1 Rakdos Guildgate
+18 Swamp
+1 Terramorphic Expanse
+1 Anje, Maid of Dishonor
+1 Anowon, the Ruin Sage
+1 Blood Artist
+1 Bloodline Keeper
+1 Bloodthirsty Conqueror
+1 Cordial Vampire
+1 Crossway Troublemakers
+1 Crypt Ghast
+1 Drana, Liberator of Malakir
+1 Falkenrath Exterminator
+1 Malakir Cullblade
+1 Marauding Blight-Priest
+1 Necropolis Regent
+1 Nirkana Revenant
+1 Nullpriest of Oblivion
+1 Qarsi Revenant
+1 Rakish Heir
+1 Sangromancer
+1 Scheming Silvertongue
+1 Stensian Sanguinist
+1 Stromkirk Captain
+1 Vampire Nighthawk
+1 Vampire Socialite
+1 Vito, Thorn of the Dusk Rose
+1 Vraan, Executioner Thane
+1 Arguel's Blood Fast
+1 Berserkers' Onslaught
+1 Gratuitous Violence
+1 Sanguine Bond
+1 Stensia Masquerade
+1 Banner of Kinship
+1 Basilisk Collar
+1 Blade of the Bloodchief
+1 Bontu's Monument
+1 Hazoret's Monument
+1 Rakdos Keyrune
+1 Rakdos Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Weather Maker
+1 Bedevil
+1 Bladebrand
+1 Dark Ritual
+1 Locust Spray
+1 Rakdos Charm
+1 Terminate
+1 Vampiric Tutor
+1 Blasphemous Act
+1 Decode Transmissions
+1 Decorum Dissertation
+1 Demonic Tutor
+1 Dreadbore
+1 End of the Hunt
+1 Exsanguinate
+1 Improvisation Capstone
+1 Jeska's Will
+1 Read the Bones
+1 Seize the Spoils
+1 Sign in Blood
+1 Soul Immolation
+1 Sundering Eruption
+1 Sorin, Imperious Bloodlord
