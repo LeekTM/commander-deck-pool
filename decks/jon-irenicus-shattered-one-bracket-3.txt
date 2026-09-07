@@ -1,0 +1,95 @@
+// name: Jon Irenicus, Shattered One (Bracket 3)
+// source: community
+// tags: hatebearers, reanimater, chaos
+
+Commander
+1 Jon Irenicus, Shattered One
+
+Deck
+
+1 Accursed Marauder
+1 Apprentice Necromancer
+1 Baleful Strix
+1 Demonic Taskmaster
+1 Desecration Elemental
+1 Drinker of Sorrow
+1 Ebon Drake
+1 Ebonblade Reaper
+1 Flesh Reaver
+1 Gisa, Glorious Resurrector
+1 Greater Harvester
+1 Grid Monitor
+1 Hellcarver Demon
+1 Liege of the Pit
+1 Lord of the Pit
+1 Master of the Feast
+1 Mocking Doppelganger
+1 Morkrut Necropod
+1 Phyrexian Negator
+1 Phyrexian Obliterator
+1 Plague Reaver
+1 Plaguecrafter
+1 Rotting Regisaur
+1 Rust Elemental
+1 Ruthless Winnower
+1 Sly Instigator
+1 Sower of Discord
+1 Spark Double
+1 Steel Golem
+1 Sygg, River Cutthroat
+1 Tragedy Feaster
+1 Unstoppable Slasher
+1 Wretched Anurid
+1 Yukora, the Prisoner
+1 Aetherize
+1 Cyclonic Rift
+1 Deadly Rollick
+1 Mana Sculpt
+1 Reality Shift
+1 Reins of Power
+1 Ancient Tomb
+1 Bojuka Bog
+1 Cabal Coffers
+1 Clearwater Pathway
+1 Command Tower
+1 Drowned Catacomb
+1 Evolving Wilds
+1 Fabled Passage
+1 Homeward Path
+6 Island
+1 Morphic Pool
+1 Polluted Delta
+1 Prismatic Vista
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rogue's Passage
+1 Shipwreck Marsh
+1 Sunken Hollow
+9 Swamp
+1 Tainted Isle
+1 Undercity Sewers
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Arcane Signet
+1 Charcoal Diamond
+1 Commander's Sphere
+1 Dimir Signet
+1 Entropic Battlecruiser
+1 Fellwar Stone
+1 Sol Ring
+1 Talisman of Dominance
+1 The Darkness Crystal
+1 Black Market
+1 Coercive Impetus
+1 Dissipation Field
+1 Heartless Summoning
+1 Liliana's Contract
+1 No Mercy
+1 Phyrexian Arena
+1 Propaganda
+1 Teferi's Ageless Insight
+1 Feed the Swarm
+1 Footsteps of the Goryo
+1 Reanimate
+1 Torment of Hailfire
+1 Toxic Deluge
