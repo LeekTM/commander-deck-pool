@@ -1,0 +1,92 @@
+// name: Jarad, Golgari Lich Lord (Bracket 2)
+// source: community
+// tags: self-mill, graveyard, reanimater, landfall, lands-matter
+
+Commander
+1 Jarad, Golgari Lich Lord
+
+Deck
+
+1 Aftermath Analyst
+1 Ainok Wayfarer
+1 Azog, Moria's Ruin
+1 Bane of Progress
+1 Beast Whisperer
+1 Bramble Familiar
+1 Braulios of Pheres Band
+1 Bugenhagen, Wise Elder
+1 Cankerbloom
+1 Colossal Grave-Reaver
+1 Eternal Witness
+1 Fauna Shaman
+1 Fiend Artisan
+1 Golgari Grave-Troll
+1 Golgari Thug
+1 Hermit Druid
+1 Icetill Explorer
+1 Iridescent Vinelasher
+1 Lasyd Prowler
+1 Lotus Cobra
+1 Lumra, Bellow of the Woods
+1 Mightform Harmonizer
+1 Mole Man, Moloid Master
+1 Mossborn Hydra
+1 Nyx Weaver
+1 Ob Nixilis, the Fallen
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Satyr Wayfinder
+1 Shriekmaw
+1 Skull Prophet
+1 Spore Frog
+1 Springbloom Druid
+1 Stone-Seeder Hierophant
+1 Summon: Titan
+1 Sylvan Safekeeper
+1 Territory Culler
+1 The Gitrog Monster
+1 Tireless Provisioner
+1 Titania, Voice of Gaea
+1 Tom, Bert, and William
+1 Town Greeter
+1 Undead Butler
+1 Animate Dead
+1 Journey to Eternity
+1 Phyrexian Arena
+1 Phyrexian Reclamation
+1 Squandered Resources
+1 Argoth, Sanctum of Nature
+1 Command Tower
+1 Conduit Pylons
+1 Deathcap Glade
+1 Echoing Deeps
+1 Evolving Wilds
+1 Fabled Passage
+9 Forest
+1 Golgari Rot Farm
+1 Hidden Grotto
+1 Lotus Field
+1 Mortuary Mire
+1 Overgrown Tomb
+1 Rogue's Passage
+1 Shifting Woodland
+1 Susur Secundi, Void Altar
+9 Swamp
+1 Temple of the False God
+1 Twilight Mire
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Windswept Heath
+1 Blasphemous Edict
+1 Quag Feast
+1 Reanimate
+1 Terror Tide
+1 Will of the Abzan
+1 Will of the Sultai
+1 Cauldron of Essence
+1 Sol Ring
+1 Swiftfoot Boots
+1 Whispersilk Cloak
+1 Zuran Orb
+1 Malakir Rebirth
+1 Revitalizing Repast
