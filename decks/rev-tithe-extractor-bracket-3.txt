@@ -1,0 +1,81 @@
+// name: Rev, Tithe Extractor (Bracket 3)
+// source: community
+// tags: control, triggered, deathtouch, theft, treasures
+
+Commander
+1 Rev, Tithe Extractor
+
+Deck
+
+1 Academy Manufactor
+1 Braids, Arisen Nightmare
+1 Brainstealer Dragon
+1 Changeling Outcast
+1 Crypt Ghast
+1 Dauthi Voidwalker
+1 Drana, Liberator of Malakir
+1 Faerie Dreamthief
+1 Gingerbrute
+1 Gix, Yawgmoth Praetor
+1 Gonti, Lord of Luxury
+1 Gray Merchant of Asphodel
+1 Grim Hireling
+1 Hoard Robber
+1 Mari, the Killing Quill
+1 Marionette Apprentice
+1 Marionette Master
+1 Mirkwood Bats
+1 Nashi, Moon Sage's Scion
+1 Nether Traitor
+1 Opposition Agent
+1 Shadow Alley Denizen
+1 Thieving Varmint
+1 Tinybones, the Pickpocket
+1 Tormented Soul
+1 Vampire Cutthroat
+1 Vashta Nerada
+1 Zhentarim Bandit
+1 Black Market
+1 Black Market Connections
+1 Cunning Rhetoric
+1 Kaya's Ghostform
+1 Revel in Riches
+1 Blood Money
+1 Diabolic Intent
+1 Exsanguinate
+1 Feed the Swarm
+1 Inside Information
+1 Praetor's Grasp
+1 Reanimate
+1 Scheming Symmetry
+1 Toxic Deluge
+1 Blood Pact
+1 Deadly Dispute
+1 Defile
+1 Fake Your Own Death
+1 Flare of Malice
+1 Go for the Throat
+1 Imp's Mischief
+1 Malakir Rebirth
+1 Outrageous Robbery
+1 Snuff Out
+1 Bojuka Bog
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Exotic Orchard
+1 Shizo, Death's Storehouse
+28 Swamp
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+1 War Room
+1 Bolas's Citadel
+1 Bontu's Monument
+1 Brotherhood Regalia
+1 Chromatic Lantern
+1 Dream-Thief's Bandana
+1 Fellwar Stone
+1 Jet Medallion
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Darkness Crystal
+1 Thieves' Tools
