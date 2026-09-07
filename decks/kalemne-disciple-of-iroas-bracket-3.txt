@@ -1,0 +1,99 @@
+// name: Kalemne, Disciple of Iroas (Bracket 3)
+// source: community
+// tags: tribal, burn, aggro, ramp
+
+Commander
+1 Kalemne, Disciple of Iroas
+
+Deck
+
+1 Aerial Extortionist
+1 Aurelia, the Law Above
+1 Calamity Bearer
+1 Curious Colossus
+1 Desolation Giant
+1 Giant Harbinger
+1 Gisela, Blade of Goldnight
+1 Grasping Giant
+1 Hammerfist Giant
+1 Kalemne's Captain
+1 Magus of the Wheel
+1 Oreskos Explorer
+1 Protector of the Crown
+1 Realm-Cloaked Giant
+1 Solemn Simulacrum
+1 Solitude
+1 Stinkdrinker Daredevil
+1 Stoneforge Mystic
+1 Stonehewer Giant
+1 Stoneshock Giant
+1 Sun Titan
+1 Sunrise Sovereign
+1 Surtland Flinger
+1 Tectonic Giant
+1 Thundercloud Shaman
+1 Urabrask the Hidden
+1 Warchief Giant
+1 Ancient Amphitheater
+1 Ancient Den
+1 Arena of Glory
+1 Bonders' Enclave
+1 Boros Garrison
+1 Buried Ruin
+1 Clifftop Retreat
+1 Command Tower
+1 Eclipsed Realms
+1 Emeria, the Sky Ruin
+1 Evolving Wilds
+1 Exotic Orchard
+1 Furycalm Snarl
+1 Great Furnace
+4 Mountain
+1 Path of Ancestry
+7 Plains
+1 Rogue's Passage
+1 Sacred Foundry
+1 Scavenger Grounds
+1 Slayers' Stronghold
+1 Sunbillow Verge
+1 Sundown Pass
+1 Temple of Triumph
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Unclaimed Territory
+1 Angelic Renewal
+1 Folk Hero
+1 Gift of Immortality
+1 Goblin Bombardment
+1 Legion's Initiative
+1 Arcane Signet
+1 Boros Signet
+1 Commander's Sphere
+1 Hammer of Purphoros
+1 Herald's Horn
+1 Lightning Greaves
+1 Mask of Memory
+1 Mithril Coat
+1 Patchwork Banner
+1 Sol Ring
+1 Staff of Nin
+1 Sunforger
+1 Swiftfoot Boots
+1 The Fire Crystal
+1 Thran Dynamo
+1 Urza's Incubator
+1 Vanquisher's Banner
+1 Austere Command
+1 Cut a Deal
+1 Faithless Looting
+1 Farewell
+1 Open the Armory
+1 Big Score
+1 Boros Charm
+1 Enlightened Tutor
+1 Generous Gift
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Thrill of Possibility
+1 Unbreakable Formation
+1 Wear // Tear
