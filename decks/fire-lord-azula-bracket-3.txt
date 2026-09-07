@@ -1,0 +1,99 @@
+// name: Fire Lord Azula (Bracket 3)
+// source: community
+// tags: spellslinger, aggro, triggered
+
+Commander
+1 Fire Lord Azula
+
+Deck
+
+1 Arcane Signet
+1 Isochron Scepter
+1 Silver Shroud Costume
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Twinning Staff
+1 Winged Boots
+1 Wizard's Staff
+1 Archmage Emeritus
+1 Avatar Roku, Firebender
+1 Bria, Riptide Rogue
+1 Electro, Assaulting Battery
+1 Goblin Electromancer
+1 Gogo, Mysterious Mime
+1 Goliath Daydreamer
+1 Irma, Part-Time Mutant
+1 Kessig Flamebreather
+1 Longshot, Rebel Bowman
+1 Mocking Doppelganger
+1 Roaming Throne
+1 Sedgemoor Witch
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Taskmaster, Mercenary Mimic
+1 Torrential Gearhulk
+1 Veyran, Voice of Duality
+1 Vivi Ornitier
+1 Big Score
+1 Bulk Up
+1 Consider
+1 Dark Ritual
+1 Deflecting Swat
+1 Demand Answers
+1 Duelist's Flame
+1 Electrodominance
+1 Flashback
+1 Frantic Search
+1 Gimli's Fury
+1 Haste Magic
+1 Increasing Vengeance
+1 Invoke Calamity
+1 Narset's Reversal
+1 Opt
+1 Pyretic Ritual
+1 Redirect Lightning
+1 Run Amok
+1 Seething Song
+1 Shadow Rift
+1 The Last Agni Kai
+1 Traumatic Critique
+1 Twinferno
+1 Unexpected Windfall
+1 Vivi's Persistence
+1 Waterlogged Teachings
+1 Blood Crypt
+1 Command Tower
+1 Crumbling Necropolis
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Fiery Islet
+1 Fire Nation Palace
+1 Haunted Ridge
+1 Hidden Lair
+4 Island
+1 Lindblum, Industrial Regency
+1 Luxury Suite
+1 Maze of Ith
+5 Mountain
+1 Oscorp Industries
+1 Shipwreck Marsh
+1 Shivan Reef
+1 Shizo, Death's Storehouse
+1 Steam Vents
+1 Stormcarved Coast
+3 Swamp
+1 Training Center
+1 Turbulent Springs
+1 Watery Grave
+1 Xander's Lounge
+1 Expressive Iteration
+1 Painful Truths
+1 Past in Flames
+1 Preordain
+1 Solve the Equation
+1 Sozin's Comet
+1 Windfall
+1 Frostcliff Siege
+1 Underworld Breach
