@@ -1,0 +1,90 @@
+// name: Gyome, Master Chef (Bracket 3)
+// source: community
+// tags: +1/+1, food, sacrifice, tokens
+
+Commander
+1 Gyome, Master Chef
+
+Deck
+
+1 Academy Manufactor
+1 Ancient Adamantoise
+1 Arcbound Ravager
+1 Bonecache Overseer
+1 Braids, Arisen Nightmare
+1 Cauldron Familiar
+1 Chronomancer
+1 Dockside Chef
+1 Elanor Gardner
+1 Experimental Confectioner
+1 Feasting Hobbit
+1 Feasting Troll King
+1 Gilded Goose
+1 Greta, Sweettooth Scourge
+1 Gruff Triplets
+1 Haywire Mite
+1 Honored Dreyleader
+1 Marionette Apprentice
+1 Mazirek, Kraul Death Priest
+1 Michelangelo, Weirdness to 11
+1 Mirkwood Bats
+1 Nadier's Nightblade
+1 Peregrin Took
+1 Pippin, Warden of Isengard
+1 Protean Hulk
+1 Rapacious Guest
+1 Ravenous Squirrel
+1 Super Shredder
+1 Syr Ginger, the Meal Ender
+1 The Cabbage Merchant
+1 Tireless Provisioner
+1 Ygra, Eater of All
+1 Arcane Signet
+1 Heaped Harvest
+1 Idol of Oblivion
+1 Nuka-Cola Vending Machine
+1 Shadowspear
+1 Sol Ring
+1 Tarrian's Soulcleaver
+1 The Great Henge
+1 Black Market Connections
+1 Campsite Cuisine
+1 Doubling Season
+1 Hardened Scales
+1 Hollowmurk Siege
+1 Night of the Sweets' Revenge
+1 Ninja Pizza
+1 Parallel Lives
+1 Terrasymbiosis
+1 Boseiju, Who Endures
+1 Command Tower
+1 Darkmoss Bridge
+1 Deathcap Glade
+10 Forest
+1 Llanowar Reborn
+1 Midgar, City of Mako
+1 Overgrown Tomb
+1 Restless Cottage
+10 Swamp
+1 Tainted Wood
+1 The Shire
+1 Twilight Mire
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Wastewood Verge
+1 Woodland Cemetery
+1 Casualties of War
+1 Demonic Tutor
+1 Giant Opportunity
+1 Lich-Knights' Conquest
+1 Many Partings
+1 Scrounge for Eternity
+1 Collective Resistance
+1 Deadly Dispute
+1 Heroic Intervention
+1 Pawpatch Formation
+1 Revitalizing Repast
+1 Second Harvest
+1 Tamiyo's Safekeeping
+1 Garruk, Apex Predator
+1 Garruk, Cursed Huntsman
