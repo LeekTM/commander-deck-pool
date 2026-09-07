@@ -1,0 +1,95 @@
+// name: Hei Bai, Forest Guardian (Bracket 3)
+// source: community
+// tags: tribal, enchantments, blink, control
+
+Commander
+1 Hei Bai, Forest Guardian
+
+Deck
+
+1 Aang's Iceberg
+1 Airbender Ascension
+1 Aura Shards
+1 Beastmaster Ascension
+1 Crescent Island Temple
+1 Doubling Season
+1 Fervor
+1 Honden of Cleansing Fire
+1 Honden of Infinite Rage
+1 Honden of Life's Web
+1 Honden of Seeing Winds
+1 Kyoshi Island Plaza
+1 Moonlit Meditation
+1 Northern Air Temple
+1 Paradox Haze
+1 Sanctum of All
+1 Sanctum of Calm Waters
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Stone Fangs
+1 Sanctum of Tranquil Light
+1 Southern Air Temple
+1 Teleportation Circle
+1 The Spirit Oasis
+1 Witness Protection
+1 Aang's Journey
+1 Bala Ged Recovery
+1 Daydream
+1 Epic Downfall
+1 Shared Roots
+1 Spirit Water Revival
+1 Aetherize
+1 Airbending Lesson
+1 Angel's Grace
+1 Cloudshift
+1 Cut Propulsion
+1 Cycle of Renewal
+1 Deflecting Palm
+1 Ephemerate
+1 Fierce Guardianship
+1 Flicker of Fate
+1 Force of Negation
+1 Force of Will
+1 Heroic Intervention
+1 Obscuring Haze
+1 Swords to Plowshares
+1 Teferi's Time Twist
+1 Waterbender's Restoration
+1 Agna Qel'a
+1 Alpine Meadow
+1 Boiling Rock Prison
+1 Command Bridge
+1 Crystal Quarry
+1 Exotic Orchard
+5 Forest
+1 Glacial Floodplain
+4 Island
+1 Meditation Pools
+1 Misty Palms Oasis
+3 Mountain
+1 Omashu City
+5 Plains
+1 Reliquary Tower
+1 Serpent's Pass
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Snowfield Sinkhole
+1 Sunbaked Canyon
+1 Swamp
+1 Tarnation Vista
+1 Thriving Isle
+1 Thriving Moor
+1 Baboon Spirit
+1 Blizzard Strix
+1 Captain Sisay
+1 Exalted Sunborn
+1 Go-Shintai of Life's Origin
+1 Go-Shintai of Shared Purpose
+1 Sisay, Weatherlight Captain
+1 Starfield Vocalist
+1 Wildsear, Scouring Maw
+1 Yarok, the Desecrated
+1 Zur the Enchanter
+1 Bender's Waterskin
+1 Sol Ring
+1 Spellbook
+1 Thought Vessel
