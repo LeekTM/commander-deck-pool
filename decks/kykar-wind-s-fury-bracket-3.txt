@@ -1,0 +1,97 @@
+// name: Kykar, Wind's Fury (Bracket 3)
+// source: community
+// tags: burn, tokens, control, spellslinger
+
+Commander
+1 Kykar, Wind's Fury
+
+Deck
+
+1 Arcane Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Lightning Greaves
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Creativity
+1 Archmage Emeritus
+1 Coruscation Mage
+1 Guttersnipe
+1 Harmonic Prodigy
+1 Kykar, Zephyr Awakener
+1 Molten Gatekeeper
+1 Monastery Mentor
+1 Pinnacle Monk
+1 Purphoros, God of the Forge
+1 Talrand, Sky Summoner
+1 Third Path Iconoclast
+1 Valley Floodcaller
+1 Battlefield Forge
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Glacial Fortress
+9 Island
+3 Mountain
+1 Mystic Monastery
+1 Mystic Sanctuary
+1 Path of Ancestry
+1 Perilous Landscape
+2 Plains
+1 Prairie Stream
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Sundown Pass
+1 Terramorphic Expanse
+1 Tolaria West
+1 Urza's Saga
+1 Big Score
+1 Boros Charm
+1 Brain Freeze
+1 Brainstorm
+1 Chaos Warp
+1 Comet Storm
+1 Counterspell
+1 Dizzy Spell
+1 Dovin's Veto
+1 Erode
+1 Flashback
+1 Frantic Search
+1 Lightning Bolt
+1 Mental Misstep
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Opt
+1 Path to Exile
+1 Prismatic Strands
+1 Retraction Helix
+1 Sejiri Shelter
+1 Sink into Stupor
+1 Swan Song
+1 Swords to Plowshares
+1 Thraben Charm
+1 Traumatic Critique
+1 Blasphemous Act
+1 Cleansing Nova
+1 Expressive Iteration
+1 Faithless Looting
+1 Gitaxian Probe
+1 Idyllic Tutor
+1 Mizzix's Mastery
+1 Preordain
+1 Serum Visions
+1 Sevinne's Reclamation
+1 Temporal Manipulation
+1 Vandalblast
+1 Windfall
+1 Gleaming Splendor
+1 Impact Tremors
+1 Intangible Virtue
+1 Jeskai Ascendancy
+1 Mystic Remora
+1 Underworld Breach
+1 Warleader's Call
+1 Saheeli, Sublime Artificer
