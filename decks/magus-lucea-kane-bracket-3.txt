@@ -1,0 +1,93 @@
+// name: Magus Lucea Kane (Bracket 3)
+// source: community
+// tags: x, ramp, tribal, +1/+1
+
+Commander
+1 Magus Lucea Kane
+
+Deck
+
+1 Acolyte Hybrid
+1 Broodlord
+1 Clamavus
+1 Delighted Halfling
+1 Exocrine
+1 Goldvein Hydra
+1 Haruspex
+1 Hydroid Krasis
+1 Kalonian Hydra
+1 Kami of Whispered Hopes
+1 Kiora's Follower
+1 Malanthrope
+1 Mawloc
+1 Old One Eye
+1 Primordial Hydra
+1 Shivan Devastator
+1 Stonecoil Serpent
+1 Tervigon
+1 The Swarmlord
+1 Trygon Prime
+1 Tyranid Harridan
+1 Tyrant Guard
+1 Vorinclex, Monstrous Raider
+1 Winged Hive Tyrant
+1 Zoanthrope
+1 Aetherize
+1 Counterspell
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Heroic Intervention
+1 Kindred Summons
+1 Rapid Hybridization
+1 Repulsive Mutation
+1 Starstorm
+1 Tamiyo's Safekeeping
+1 Tyvar's Stand
+1 Ancient Tomb
+1 Breeding Pool
+1 Cinder Glade
+1 Command Tower
+1 Evolving Wilds
+10 Forest
+1 Frontier Bivouac
+1 Hinterland Harbor
+4 Island
+1 Karplusan Forest
+1 Ketria Triome
+1 Minamo, School at Water's Edge
+4 Mountain
+1 Opal Palace
+1 Rejuvenating Springs
+1 Rootbound Crag
+1 Temple of Abandon
+1 Temple of Epiphany
+1 Temple of Mystery
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Unclaimed Territory
+1 Arcane Signet
+1 Bone Sabres
+1 Icon of Ancestry
+1 Lightning Greaves
+1 Sol Ring
+1 Strionic Resonator
+1 Twinning Staff
+1 Branching Evolution
+1 Death's Presence
+1 Garruk's Uprising
+1 Hardened Scales
+1 Overgrowth
+1 Rhythm of the Wild
+1 Shadow in the Warp
+1 Temur Ascendancy
+1 Unbound Flourishing
+1 Crackle with Power
+1 Cultivate
+1 Explore
+1 Finale of Revelation
+1 Fireball
+1 Hull Breach
+1 Kodama's Reach
+1 Skyshroud Claim
+1 Tyranid Invasion
+1 Kiora, Behemoth Beckoner
