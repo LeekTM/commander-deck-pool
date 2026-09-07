@@ -1,0 +1,96 @@
+// name: Lathril, Blade of the Elves (Bracket 3)
+// source: community
+// tags: tokens, aggro, tribal, tap/untap, combo
+
+Commander
+1 Lathril, Blade of the Elves
+
+Deck
+
+1 Agadeem's Awakening
+1 Genesis Wave
+1 Haunting Voyage
+1 Kindred Dominance
+1 Pact of the Serpent
+1 Shamanic Revelation
+1 Alpha Authority
+1 Doubling Season
+1 Growing Rites of Itlimoc
+1 Guardian Project
+1 Quest for Renewal
+1 Sylvan Library
+1 Arwen, Weaver of Hope
+1 Beast Whisperer
+1 Circle of Dreams Druid
+1 Craterhoof Behemoth
+1 Deathrite Shaman
+1 Dionus, Elvish Archdruid
+1 Disciple of Freyalise
+1 Eladamri, Korvecdal
+1 Elves of Deep Shadow
+1 Elvish Archdruid
+1 Elvish Champion
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Elvish Warmaster
+1 Ezuri, Renegade Leader
+1 Fyndhorn Elves
+1 Galadhrim Brigade
+1 Heritage Druid
+1 High Perfect Morcant
+1 Immaculate Magistrate
+1 Imperious Perfect
+1 Leaf-Crowned Visionary
+1 Llanowar Elves
+1 Lys Alana Huntmaster
+1 Marwyn, the Nurturer
+1 Nullmage Shepherd
+1 Priest of Titania
+1 Quirion Ranger
+1 Saryth, the Viper's Fang
+1 Seedborn Muse
+1 Skemfar Shadowsage
+1 Temur Sabertooth
+1 Timberwatch Elf
+1 Toski, Bearer of Secrets
+1 Wolverine Riders
+1 Assassin's Trophy
+1 Beast Within
+1 Benefactor's Draught
+1 Collective Resistance
+1 Elven Ambush
+1 For the Ancestors
+1 Golgari Charm
+1 Heroic Intervention
+1 Vitalize
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 Command Tower
+1 Darkbore Pathway
+1 Deathcap Glade
+1 Evendo, Waking Haven
+12 Forest
+1 Gilt-Leaf Palace
+1 Llanowar Wastes
+1 Nurturing Peatland
+1 Nykthos, Shrine to Nyx
+1 Overgrown Tomb
+1 Reliquary Tower
+1 Secluded Courtyard
+1 Shizo, Death's Storehouse
+2 Swamp
+1 Tainted Wood
+1 Temple of Malady
+1 Three Tree City
+1 Undergrowth Stadium
+1 Wastewood Verge
+1 Wirewood Lodge
+1 Woodland Cemetery
+1 Yavimaya, Cradle of Growth
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thousand-Year Elixir
+1 Throne of the God-Pharaoh
+1 Tyvar Kell
+1 Tyvar, Jubilant Brawler
