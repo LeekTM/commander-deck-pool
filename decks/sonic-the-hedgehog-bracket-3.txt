@@ -1,0 +1,89 @@
+// name: Sonic the Hedgehog (Bracket 3)
+// source: community
+// tags: equipment, +1/+1, treasures, aggro, counterspells
+
+Commander
+1 Sonic the Hedgehog
+
+Deck
+
+1 Abandoned Air Temple
+1 Arena of Glory
+1 Command Tower
+1 Glacial Fortress
+1 Hallowed Fountain
+1 Ishgard, the Holy See
+7 Island
+1 Karn's Bastion
+10 Mountain
+1 Mystic Monastery
+5 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Rogue's Passage
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Thriving Heath
+1 Absolute Virtue
+1 Academy Manufactor
+1 Amy Rose
+1 Ant-Man, Elusive Avenger
+1 Cloud, Midgar Mercenary
+1 Errant and Giada
+1 Faerie Mastermind
+1 Goldspan Dragon
+1 Herald of Secret Streams
+1 Iron Man, Titan of Innovation
+1 Knuckles the Echidna
+1 Krang, the All-Powerful
+1 Smaug the Magnificent
+1 Spider-Man, Web-Spinner
+1 Tataru Taru
+1 Alchemist's Talent
+1 Cool but Rude
+1 Fateful Discovery
+1 Frostcliff Siege
+1 Gleaming Splendor
+1 Monologue Tax
+1 Reconnaissance
+1 Smothering Tithe
+1 Spiteful Banditry
+1 Super State
+1 Uncivil Unrest
+1 Windcrag Siege
+1 Arcane Denial
+1 Bilbo's Gambit
+1 Boros Charm
+1 Brainstorm
+1 Counterspell
+1 Dawn's Truce
+1 Dovin's Veto
+1 Fierce Guardianship
+1 Negate
+1 Silence
+1 Teferi's Protection
+1 Unexpected Windfall
+1 Austere Command
+1 Fabricate
+1 Full Throttle
+1 Mana Geyser
+1 Open the Armory
+1 Solve the Equation
+1 Buster Sword
+1 Caltrops
+1 Commander's Plate
+1 Diamond Pick-Axe
+1 Genji Glove
+1 Hammer of Nazahn
+1 Lightning Greaves
+1 Mjölnir, Hammer of Thor
+1 Pip-Boy 3000
+1 Silver Shroud Costume
+1 Sol Ring
+1 Sting, Bilbo's Sword
+1 Swiftfoot Boots
+1 Sword of Vengeance
+1 Sword of War and Peace
+1 Sword of the Animist
+1 The Fire Crystal
+1 The Reaver Cleaver
