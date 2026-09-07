@@ -1,0 +1,76 @@
+// name: Sheoldred, the Apocalypse (Bracket 3)
+// source: community
+// tags: card-draw, salty, lifedrain, control
+
+Commander
+1 Sheoldred, the Apocalypse
+
+Deck
+
+1 Arcane Signet
+1 Fellwar Stone
+1 Font of Mythos
+1 Howling Mine
+1 Lightning Greaves
+1 Mind Stone
+1 Sol Ring
+1 The Darkness Crystal
+1 The One Ring
+1 The Soul Stone
+1 Ashes to Ashes
+1 Damnable Pact
+1 Damnation
+1 Dark Deal
+1 Decorum Dissertation
+1 Duress
+1 Exsanguinate
+1 Feed the Swarm
+1 Infectious Inquiry
+1 Poison the Waters
+1 Sign in Blood
+1 Temporal Extortion
+1 Thoughtseize
+1 Toxic Deluge
+1 Ashnod's Intervention
+1 Baleful Mastery
+1 Dark Ritual
+1 Demon's Due
+1 Fake Your Own Death
+1 Imp's Mischief
+1 Maximum Overdrive
+1 Offer Immortality
+1 Overkill
+1 Sheoldred's Edict
+1 Sudden Spoiling
+1 Withering Torment
+1 Buried Ruin
+1 Cabal Coffers
+1 Command Beacon
+1 Reliquary Tower
+33 Swamp
+1 Call of the Ring
+1 No Mercy
+1 Phyrexian Arena
+1 Crypt Ghast
+1 Defiler of Flesh
+1 Fate Unraveler
+1 Grim Servant
+1 Jecht, Reluctant Guardian
+1 Junji, the Midnight Sky
+1 K'rrik, Son of Yawgmoth
+1 Maha, Its Feathers Night
+1 Massacre Girl
+1 Massacre Wurm
+1 Orcish Bowmasters
+1 Phyrexian Obliterator
+1 Plaguecrafter
+1 Rankle, Master of Pranks
+1 Scrawling Crawler
+1 Seizan, Perverter of Truth
+1 Starscream, Power Hungry
+1 Vampire Nighthawk
+1 Vilis, Broker of Blood
+1 Vito, Thorn of the Dusk Rose
+1 Witch of the Moors
+1 Liliana of the Dark Realms
+1 Ob Nixilis, the Hate-Twisted
