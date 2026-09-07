@@ -1,0 +1,73 @@
+// name: Solphim, Mayhem Dominus (Bracket 3)
+// source: community
+// tags: group-slug, burn, spellslinger
+
+Commander
+1 Solphim, Mayhem Dominus
+
+Deck
+
+1 Angrath's Marauders
+1 Auntie Blyte, Bad Influence
+1 Coruscation Mage
+1 Devoted Duelist
+1 Drakuseth, Maw of Flames
+1 Electro, Assaulting Battery
+1 Electrostatic Field
+1 Firebrand Archer
+1 Firespitter Whelp
+1 Hearthborn Battler
+1 Heartless Hidetsugu
+1 Hexing Squelcher
+1 Imodane, the Pyrohammer
+1 Ojer Axonil, Deepest Might
+1 Rodeo Pyromancers
+1 Sabotender
+1 Sunspine Lynx
+1 Tunneling Geopede
+1 Urabrask
+1 Zo-Zu the Punisher
+1 Arcane Bombardment
+1 Braid of Fire
+1 Burning Earth
+1 Citadel of Pain
+1 City on Fire
+1 Descent into Avernus
+1 Fiery Emancipation
+1 Fiery Inscription
+1 Glassworks // Shattered Yard
+1 Manabarbs
+1 Price of Glory
+1 Pyrohemia
+1 Spellshock
+1 Sulfuric Vortex
+1 Arcane Signet
+1 Extraplanar Lens
+1 Pumpkin Bombs
+1 The Fire Crystal
+1 Barbarian Ring
+36 Mountain
+1 Big Score
+1 Ghostfire Slice
+1 Lightning Bolt
+1 Price of Progress
+1 Sazacap's Brew
+1 Skullcrack
+1 Smash to Smithereens
+1 Thrill of Possibility
+1 Blasphemous Act
+1 Chain Reaction
+1 Crackle with Power
+1 Exquisite Firecraft
+1 Faithless Looting
+1 Fiery Confluence
+1 Flame Rift
+1 Gamble
+1 Grab the Prize
+1 Mana Geyser
+1 Overmaster
+1 Playful Shove
+1 Romantic Rendezvous
+1 Slagstorm
+1 Snort
+1 Tectonic Hazard
