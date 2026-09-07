@@ -1,0 +1,95 @@
+// name: Satya, Aetherflux Genius (Bracket 3)
+// source: community
+// tags: energy, control, clones, theft, triggered
+
+Commander
+1 Satya, Aetherflux Genius
+
+Deck
+
+1 Access Tunnel
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Cascade Bluffs
+1 Command Beacon
+1 Command Tower
+1 Demolition Field
+1 Frostboil Snarl
+1 Furycalm Snarl
+1 Hallowed Fountain
+9 Island
+2 Mountain
+1 Mystic Gate
+1 Mystic Monastery
+1 Perilous Landscape
+5 Plains
+1 Port Town
+1 Prairie Stream
+1 Rogue's Passage
+1 Rugged Prairie
+1 Shivan Reef
+1 Spire of Industry
+1 Sundown Pass
+1 Aether Chaser
+1 Agent of Treachery
+1 Aurora Shifter
+1 Azure Beastbinder
+1 Basandra, Battle Seraph
+1 Beza, the Bounding Spring
+1 Copycrook
+1 Daxos of Meletis
+1 Flamehold Grappler
+1 Keiga, the Tide Star
+1 Mockingbird
+1 Pinnacle Monk
+1 Professional Face-Breaker
+1 Quantum Riddler
+1 Reflector Mage
+1 Sakashima's Protege
+1 Shadow Kin
+1 Shield Broker
+1 Silent Hallcreeper
+1 Treasure Nabber
+1 Voracious Bibliophile
+1 Aetherize
+1 Akroma's Will
+1 Consider
+1 Fierce Guardianship
+1 High Tide
+1 Into the Flood Maw
+1 Jwari Disruption
+1 Mystical Tutor
+1 Swords to Plowshares
+1 Untimely Malfunction
+1 Aqueous Form
+1 Coastal Piracy
+1 Corrupted Conscience
+1 Dissipation Field
+1 In Bolas's Clutches
+1 Sheltered by Ghosts
+1 Arcane Signet
+1 Cursed Mirror
+1 Horn of the Mark
+1 Key to the City
+1 Manifold Key
+1 Midnight Clock
+1 Mimic Vat
+1 Mirror Box
+1 Panharmonicon
+1 Sol Ring
+1 Strionic Resonator
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Wayfarer's Bauble
+1 Whispersilk Cloak
+1 Austere Command
+1 Claim the Firstborn
+1 Confiscation Coup
+1 Fabricate
+1 Farewell
+1 Furnace Reins
+1 Helping Hand
+1 Inevitable Betrayal
+1 Ponder
+1 Renegade Tactics
