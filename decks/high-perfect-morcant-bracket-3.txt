@@ -1,0 +1,98 @@
+// name: High Perfect Morcant (Bracket 3)
+// source: community
+// tags: -1/-1, ramp, tokens, tribal, infect
+
+Commander
+1 High Perfect Morcant
+
+Deck
+
+1 Abundant Countryside
+1 Adventurer's Inn
+1 Bojuka Bog
+1 Command Tower
+1 Deathcap Glade
+1 Eclipsed Realms
+1 Elven Passage
+1 Evendo, Waking Haven
+1 Evolving Wilds
+6 Forest
+1 Golgari Rot Farm
+1 Hissing Quagmire
+1 Jungle Hollow
+1 Llanowar Wastes
+1 Meteor Crater
+1 Nesting Grounds
+1 Oran-Rief, the Vastwood
+1 Overgrown Tomb
+1 Path of Ancestry
+6 Swamp
+1 Twilight Mire
+1 Undergrowth Stadium
+1 Wirewood Lodge
+1 Woodland Cemetery
+1 Allosaurus Shepherd
+1 Beast Whisperer
+1 Champions of the Perfect
+1 Craterhoof Behemoth
+1 Dawnhand Eulogist
+1 Deathrite Shaman
+1 Dionus, Elvish Archdruid
+1 Dwynen, Gilt-Leaf Daen
+1 Eclipsed Elf
+1 Elvish Archdruid
+1 Elvish Champion
+1 Elvish Harbinger
+1 Evolution Sage
+1 Ezuri, Renegade Leader
+1 Galadhrim Brigade
+1 Glissa Sunslayer
+1 Glistener Elf
+1 Greenwheel Liberator
+1 Imperious Perfect
+1 Jarad, Golgari Lich Lord
+1 Joraga Warcaller
+1 Lathril, Blade of the Elves
+1 Leaf-Crowned Visionary
+1 Llanowar Elves
+1 Lys Alana Huntmaster
+1 Marwyn, the Nurturer
+1 Morcant's Loyalist
+1 Nath of the Gilt-Leaf
+1 Oracle of Mul Daya
+1 Priest of Titania
+1 Realmwalker
+1 Scarblade Scout
+1 Trystan, Callous Cultivator
+1 Tyvar the Bellicose
+1 Virulent Emissary
+1 Wolverine Riders
+1 Blight Rot
+1 Breathe Your Last
+1 Deadly Rollick
+1 Dina's Guidance
+1 Elven Ambush
+1 Heroic Intervention
+1 Silence the Believers
+1 Bloodline Bidding
+1 Call Damage Control
+1 Finale of Devastation
+1 Germination Practicum
+1 Green Sun's Zenith
+1 Kindred Dominance
+1 Natural Order
+1 Season of Gathering
+1 Trystan's Command
+1 Cauldron of Essence
+1 Chronicle of Victory
+1 Contagion Engine
+1 Elven Bow
+1 Grafted Exoskeleton
+1 Sol Ring
+1 The Great Henge
+1 The Ten Rings
+1 Doubling Season
+1 Elven Chorus
+1 Flourishing Defenses
+1 Harald Unites the Elves
+1 Tyvar Kell
