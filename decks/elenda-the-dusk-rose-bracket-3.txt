@@ -1,0 +1,91 @@
+// name: Elenda, the Dusk Rose (Bracket 3)
+// source: community
+// tags: lifegain, +1/+1, aristocrats, reanimater, self-damage
+
+Commander
+1 Elenda, the Dusk Rose
+
+Deck
+
+1 Akroma's Will
+1 Anguished Unmaking
+1 Inkshield
+1 Mortify
+1 Reprieve
+1 Sheoldred's Edict
+1 Arcane Signet
+1 Ashnod's Altar
+1 Blade of the Bloodchief
+1 Bolas's Citadel
+1 Dolmen Gate
+1 Glass-Cast Heart
+1 Orzhov Signet
+1 Phyrexian Altar
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Tarrian's Soulcleaver
+1 The Ozolith
+1 Urza's Incubator
+1 Astarion, the Decadent
+1 Blood Artist
+1 Bloodletter of Aclazotz
+1 Bloodline Keeper
+1 Bloodthirsty Conqueror
+1 Butcher of Malakir
+1 Captivating Vampire
+1 Charismatic Conqueror
+1 Clavileño, First of the Blessed
+1 Cordial Vampire
+1 Cruel Celebrant
+1 Edgar, Charmed Groom
+1 Elenda's Hierophant
+1 Elenda, Saint of Dusk
+1 Henrika Domnathi
+1 Mavren Fein, Dusk Apostle
+1 Mephidross Vampire
+1 Mondrak, Glory Dominus
+1 Ophiomancer
+1 Patron of the Vein
+1 Preacher of the Schism
+1 Roaming Throne
+1 Sorin of House Markov
+1 Teysa Karlov
+1 Vampire Nocturnus
+1 Vein Ripper
+1 Vito, Thorn of the Dusk Rose
+1 Welcoming Vampire
+1 Bastion of Remembrance
+1 Bitterblossom
+1 Black Market Connections
+1 Exquisite Blood
+1 Gift of Immortality
+1 No Mercy
+1 Sanguine Bond
+1 Blood Tribute
+1 Damning Verdict
+1 Kindred Dominance
+1 Toxic Deluge
+1 Bojuka Bog
+1 Cavern of Souls
+1 Command Tower
+1 Fountainport
+1 Godless Shrine
+1 High Market
+1 Isolated Chapel
+1 Orzhov Basilica
+1 Path of Ancestry
+1 Phyrexian Tower
+8 Plains
+1 Shattered Sanctum
+1 Shineshadow Snarl
+1 Shizo, Death's Storehouse
+11 Swamp
+1 Tainted Field
+1 Temple of Silence
+1 Unclaimed Territory
+1 Vault of Champions
+1 Vault of the Archangel
+1 Liliana, Dreadhorde General
+1 Sorin, Imperious Bloodlord
+1 Sorin, Lord of Innistrad
