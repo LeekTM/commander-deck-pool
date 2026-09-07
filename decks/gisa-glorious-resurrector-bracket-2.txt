@@ -1,0 +1,78 @@
+// name: Gisa, Glorious Resurrector (Bracket 2)
+// source: community
+// tags: exile, graveyard, reanimater, theft, salty
+
+Commander
+1 Gisa, Glorious Resurrector
+
+Deck
+
+1 Arcane Lighthouse
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Detection Tower
+1 Nykthos, Shrine to Nyx
+1 Reliquary Tower
+31 Swamp
+1 Urborg, Tomb of Yawgmoth
+1 Archfiend of Depravity
+1 Braids, Arisen Nightmare
+1 Crypt Ghast
+1 Doomwake Giant
+1 Gisa, the Hellraiser
+1 Kaervek, the Punisher
+1 Magus of the Will
+1 Massacre Wurm
+1 Morbid Opportunist
+1 Warehouse Tabby
+1 Bitter Triumph
+1 Dark Ritual
+1 Defile
+1 Dismember
+1 Doom Blade
+1 Go for the Throat
+1 Heartless Act
+1 Hero's Downfall
+1 Infernal Grasp
+1 Liliana's Triumph
+1 Malicious Affliction
+1 Murder
+1 Power Word Kill
+1 Sheoldred's Edict
+1 Soul Shatter
+1 Terror
+1 Tragic Slip
+1 Victim of Night
+1 Vona's Hunger
+1 Withering Torment
+1 Black Market
+1 Black Market Connections
+1 Cruel Reality
+1 Curse of Death's Hold
+1 Dark Prophecy
+1 Dark Tutelage
+1 Kaya's Ghostform
+1 No Mercy
+1 Nowhere to Run
+1 Phyrexian Arena
+1 Screams from Within
+1 Torment of Scarabs
+1 Virulent Plague
+1 Champion's Helm
+1 Chimil, the Inner Sun
+1 Glaring Spotlight
+1 Jet Medallion
+1 Lightning Greaves
+1 Shadowspear
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Fire Nation Drill
+1 Whispersilk Cloak
+1 Cruel Tutor
+1 Feed the Swarm
+1 Fell
+1 Grim Tutor
+1 Mire in Misery
+1 Torment of Hailfire
+1 Yawgmoth's Will
+1 Professor Onyx
