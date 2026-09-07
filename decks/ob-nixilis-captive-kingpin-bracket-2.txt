@@ -1,0 +1,108 @@
+// name: Ob Nixilis, Captive Kingpin (Bracket 2)
+// source: community
+// tags: group-slug, salty, spellslinger, midrange
+
+Commander
+1 Ob Nixilis, Captive Kingpin
+
+Deck
+
+1 Arcane Signet
+1 Black Mage's Rod
+1 Chromatic Lantern
+1 Cryptolith Fragment
+1 Fellwar Stone
+1 Hard-Won Jitte
+1 Hawkeye's Bow
+1 Mithril Coat
+1 Rakdos Signet
+1 Sol Ring
+1 Stolen Stark Tech
+1 Swiftfoot Boots
+1 Talisman of Indulgence
+1 Unstable Amulet
+1 Armor of Shadows
+1 Bolt Bend
+1 Deadly Rollick
+1 Deflecting Swat
+1 Flick a Coin
+1 Go for the Throat
+1 Gut Shot
+1 Imp's Mischief
+1 Infernal Grasp
+1 Lava Dart
+1 Malicious Affliction
+1 Needle Drop
+1 Redirect Lightning
+1 Return the Favor
+1 Saw in Half
+1 Shoot the Sheriff
+1 Spikefield Hazard
+1 Terminate
+1 Untimely Malfunction
+1 Vivi's Persistence
+1 Blackcleave Cliffs
+1 Blazemire Verge
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Canyon Slough
+1 City of Brass
+1 Command Tower
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Graven Cairns
+1 Haunted Ridge
+1 Jagged Barrens
+1 Leechridden Swamp
+1 Lindblum, Industrial Regency
+1 Luxury Suite
+1 Mana Confluence
+1 Minas Morgul, Dark Fortress
+1 Mount Doom
+1 Piranha Marsh
+1 Rakdos Carnarium
+1 Raucous Theater
+1 Reflecting Pool
+1 Rogue's Passage
+1 Shadowblood Ridge
+1 Shinka, the Bloodsoaked Keep
+1 Shivan Gorge
+1 Shizo, Death's Storehouse
+1 Starting Town
+1 Sulfurous Springs
+1 Sunscorched Desert
+1 Tainted Peak
+1 Temple of Malice
+1 The Black Gate
+1 Witch's Clinic
+1 Blasphemous Act
+1 Chandra's Ignition
+1 End the Festivities
+1 Extinction Event
+1 Flame Jab
+1 Grapeshot
+1 Night's Whisper
+1 Sign in Blood
+1 Tectonic Hazard
+1 Vicious Rumors
+1 Blood Artist
+1 Coruscation Mage
+1 Creeping Bloodsucker
+1 Electrostatic Field
+1 Erebor Flamesmith
+1 Firebrand Archer
+1 Gandalf, Goblins' Bane
+1 Iridescent Vinelasher
+1 Kederekt Parasite
+1 Kessig Flamebreather
+1 Lizard Blades
+1 Razorkin Needlehead
+1 Scrawling Crawler
+1 Stormfist Crusader
+1 Thermo-Alchemist
+1 Thunderdrum Soloist
+1 Chandra, Dressed to Kill
+1 Roiling Vortex
+1 Shadow of the Goblin
