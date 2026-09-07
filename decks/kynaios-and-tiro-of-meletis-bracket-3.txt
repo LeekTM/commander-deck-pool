@@ -1,0 +1,92 @@
+// name: Kynaios and Tiro of Meletis (Bracket 3)
+// source: community
+// tags: group-hug, control, politics
+
+Commander
+1 Kynaios and Tiro of Meletis
+
+Deck
+
+1 Academy Manufactor
+1 Atsushi, the Blazing Sky
+1 Birds of Paradise
+1 Dryad of the Ilysian Grove
+1 Edric, Spymaster of Trest
+1 Heartwood Storyteller
+1 Humble Defector
+1 Kami of the Crescent Moon
+1 Kwain, Itinerant Meddler
+1 Mitotic Slime
+1 Ms. Bumbleflower
+1 Psychosis Crawler
+1 Selvala, Explorer Returned
+1 Tatyova, Benthic Druid
+1 The Council of Four
+1 The Second Doctor
+1 Triskaidekaphile
+1 Veteran Explorer
+1 Windborn Muse
+1 Xyris, the Writhing Storm
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Beast Within
+1 Big Score
+1 Chaos Warp
+1 Crop Rotation
+1 Dawn's Truce
+1 Generous Gift
+1 Negate
+1 Path to Exile
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Approach of the Second Sun
+1 Collective Voyage
+1 Cultivate
+1 Farseek
+1 Insurrection
+1 Kodama's Reach
+1 Minds Aglow
+1 Nature's Lore
+1 Tempt with Discovery
+1 Arcane Signet
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Folio of Fancies
+1 Font of Mythos
+1 Howling Mine
+1 Sol Ring
+1 Sword of Forge and Frontier
+1 Thought Vessel
+1 Wedding Ring
+1 Azorius Chancery
+1 Command Tower
+1 Exotic Orchard
+1 Forbidden Orchard
+5 Forest
+1 Fountainport
+1 Frontier Bivouac
+1 Gruul Turf
+1 Homeward Path
+5 Island
+1 Jungle Shrine
+5 Mountain
+1 Mystic Monastery
+5 Plains
+1 Reliquary Tower
+1 Seaside Citadel
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+1 Stardew Valley
+1 Treasure Vault
+1 Yavimaya, Cradle of Growth
+1 Dictate of Kruphix
+1 Forced Fruition
+1 Ghostly Prison
+1 Gleaming Splendor
+1 Heartbeat of Spring
+1 Mana Flare
+1 Propaganda
+1 Rites of Flourishing
+1 Smothering Tithe
+1 Sphere of Safety
+1 Well of Ideas
