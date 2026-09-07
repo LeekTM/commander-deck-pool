@@ -1,0 +1,83 @@
+// name: Eluge, the Shoreless Sea (Bracket 3)
+// source: community
+// tags: control, spellslinger
+
+Commander
+1 Eluge, the Shoreless Sea
+
+Deck
+
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Counterspell
+1 Cryptic Command
+1 Cyclonic Rift
+1 Disallow
+1 Essence Flux
+1 Frantic Search
+1 Ghostly Flicker
+1 High Tide
+1 Illusionist's Gambit
+1 Last Word
+1 Mission Briefing
+1 Negate
+1 Nexus of Fate
+1 Planar Incision
+1 Rapid Hybridization
+1 Reality Shift
+1 Rewind
+1 Sink into Stupor
+1 Snap
+1 Sublime Epiphany
+1 Teferi's Time Twist
+1 Time Stop
+1 You Come to a River
+1 Aquitect's Will
+1 Blatant Thievery
+1 Bribery
+1 Expropriate
+1 Finale of Revelation
+1 Lórien Revealed
+1 Ponder
+1 Retraced Image
+1 Sea Gate Restoration
+1 Season of Weaving
+1 Time Warp
+1 Wisdom of Ages
+1 Arcane Signet
+1 Bender's Waterskin
+1 Brotherhood Regalia
+1 Mind Stone
+1 Sapphire Medallion
+1 Sol Ring
+1 Thought Vessel
+1 Waterbending Scroll
+1 Winged Boots
+1 Archmage Emeritus
+1 Displacer Kitten
+1 High Fae Trickster
+1 Hydroelectric Specimen
+1 Snapcaster Mage
+1 Thassa, Deep-Dwelling
+1 Thassa, God of the Sea
+1 The Flood of Mars
+1 Valeria Richards, Precocious
+1 Valley Floodcaller
+1 Castle Vantress
+1 Command Beacon
+1 Emergence Zone
+1 Halimar Depths
+26 Island
+1 Maze of Ith
+1 Mystic Sanctuary
+1 Nesting Grounds
+1 Nykthos, Shrine to Nyx
+1 Reliquary Tower
+1 Sunken Palace
+1 War Room
+1 Leyline of Anticipation
+1 Mystic Remora
+1 Propaganda
+1 Rhystic Study
