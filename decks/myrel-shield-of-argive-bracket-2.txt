@@ -1,0 +1,84 @@
+// name: Myrel, Shield of Argive (Bracket 2)
+// source: community
+// tags: +1/+1, aggro, tokens, tribal
+
+Commander
+1 Myrel, Shield of Argive
+
+Deck
+
+1 Abzan Falconer
+1 Adeline, Resplendent Cathar
+1 Archetype of Courage
+1 Bastion Protector
+1 Bounty Agent
+1 Brimaz, King of Oreskos
+1 Captain of the Watch
+1 Darien, King of Kjeldor
+1 Daru Warchief
+1 Dauntless Bodyguard
+1 Elesh Norn, Grand Cenobite
+1 Esper Sentinel
+1 Field Marshal
+1 Firemane Commando
+1 Guardian of Faith
+1 Haliya, Guided by Light
+1 Intrepid Hero
+1 Knight-Captain of Eos
+1 Loyal Sentry
+1 Mentor of the Meek
+1 Moonshaker Cavalry
+1 Ojer Taq, Deepest Foundation
+1 Rescue Retriever
+1 Selfless Squire
+1 Serra Redeemer
+1 Siege Veteran
+1 Thalia, Heretic Cathar
+1 The Queen of Dale
+1 Valiant Veteran
+1 Akroma's Will
+1 Call the Coppercoats
+1 Eerie Interlude
+1 Kabira Takedown
+1 Path to Exile
+1 Rebuff the Wicked
+1 Sejiri Shelter
+1 Swords to Plowshares
+1 Arcane Signet
+1 Banner of Kinship
+1 Commander's Plate
+1 Darksteel Plate
+1 Extraplanar Lens
+1 Idol of Oblivion
+1 Marble Diamond
+1 Mithril Coat
+1 Patchwork Banner
+1 Pearl Medallion
+1 Skullclamp
+1 Sol Ring
+1 Sword of the Animist
+1 Trailblazer's Boots
+1 Vanquisher's Banner
+1 Wand of the Worldsoul
+1 Archangel Elspeth
+1 Basri Ket
+1 Elspeth, Sun's Champion
+1 Austere Command
+1 Requisition Raid
+1 Blighted Steppe
+1 Eiganjo, Seat of the Empire
+1 Emeria, the Sky Ruin
+1 Forbidding Watchtower
+1 Maze of Ith
+1 Minas Tirith
+1 Rogue's Passage
+25 Snow-Covered Plains
+1 Temple of the False God
+1 Three Tree City
+1 Caretaker's Talent
+1 Chivalric Alliance
+1 Flowering of the White Tree
+1 Gift of Immortality
+1 Intangible Virtue
+1 Renewed Solidarity
+1 True Conviction
