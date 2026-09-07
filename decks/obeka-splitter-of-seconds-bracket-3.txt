@@ -1,0 +1,106 @@
+// name: Obeka, Splitter of Seconds (Bracket 3)
+// source: community
+// tags: burn, monarch, voltron, artifacts, combo
+
+Commander
+1 Obeka, Splitter of Seconds
+
+Deck
+
+1 Access Tunnel
+1 Arena of Glory
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cavern of Souls
+1 Command Beacon
+1 Command Tower
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Gloomlake Verge
+1 Haunted Ridge
+1 Horizon of Progress
+2 Island
+1 Maze of Ith
+1 Minas Morgul, Dark Fortress
+1 Mistrise Village
+2 Mountain
+1 Polluted Delta
+1 Riverpyre Verge
+1 Rogue's Passage
+1 Scalding Tarn
+1 Shipwreck Marsh
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Swamp
+1 Talon Gates of Madara
+1 The Black Gate
+1 Watery Grave
+1 Aether Tunnel
+1 As Foretold
+1 Court of Ambition
+1 Court of Cunning
+1 Court of Embereth
+1 Court of Ire
+1 Court of Locthwain
+1 Court of Vantress
+1 Estrid's Invocation
+1 Frostcliff Siege
+1 Patient Rebuilding
+1 Propaganda
+1 Sword Coast Sailor
+1 Tavern Brawler
+1 Thopter Spy Network
+1 An Offer You Can't Refuse
+1 Cyclonic Rift
+1 Delay
+1 Fury Charm
+1 Invert Polarity
+1 Mana Drain
+1 Sink into Stupor
+1 Sudden Spoiling
+1 Suspended Sentence
+1 Untimely Malfunction
+1 Waterlogged Teachings
+1 Withering Torment
+1 Ancestral Vision
+1 Inevitable Betrayal
+1 Inspiring Refrain
+1 Jeska's Will
+1 Profane Tutor
+1 Rousing Refrain
+1 Sundering Eruption
+1 Toxic Deluge
+1 Arcane Signet
+1 Champion's Helm
+1 Conqueror's Flail
+1 Cori-Steel Cutter
+1 Dragonfire Blade
+1 Lavaspur Boots
+1 Leyline Axe
+1 Lotus Bloom
+1 Lotus Blossom
+1 Midnight Clock
+1 Mox Tantalite
+1 Replicating Ring
+1 Robe of the Archmagi
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Tamiyo's Journal
+1 Two-Handed Axe
+1 Winged Boots
+1 Wizard's Staff
+1 Bonehoard Dracosaur
+1 Creeping Bloodsucker
+1 Kardur, Doomscourge
+1 Nightscape Familiar
+1 Plargg and Nassari
+1 Scrawling Crawler
+1 Sinister Concierge
+1 Thassa, God of the Sea
+1 Twilight Prophet
