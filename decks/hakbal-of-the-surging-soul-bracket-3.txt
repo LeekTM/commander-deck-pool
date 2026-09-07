@@ -1,0 +1,90 @@
+// name: Hakbal of the Surging Soul (Bracket 3)
+// source: community
+// tags: +1/+1, tribal, ramp
+
+Commander
+1 Hakbal of the Surging Soul
+
+Deck
+
+1 Alchemist's Refuge
+1 Ancient Tomb
+1 Barkchannel Pathway
+1 Breeding Pool
+1 Cavern of Souls
+1 Command Tower
+1 Dreamroot Cascade
+1 Eclipsed Realms
+1 Flooded Grove
+5 Forest
+1 Hinterland Harbor
+15 Island
+1 Minamo, School at Water's Edge
+1 Misty Rainforest
+1 Novijen, Heart of Progress
+1 Overflowing Basin
+1 Path of Ancestry
+1 Yavimaya Coast
+1 Arcane Signet
+1 Lightning Greaves
+1 Sensei's Divining Top
+1 Simic Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Curiosity
+1 Beast Within
+1 Counterspell
+1 Krosan Grip
+1 Pongify
+1 Rapid Hybridization
+1 Bridgeworks Battle
+1 Farseek
+1 Nature's Lore
+1 Rampant Growth
+1 Shared Roots
+1 Three Visits
+1 Burgeoning
+1 Deeproot Pilgrimage
+1 Deeproot Waters
+1 Growing Rites of Itlimoc
+1 Hardened Scales
+1 Innkeeper's Talent
+1 Kindred Discovery
+1 Merrow Commerce
+1 Mirri's Guile
+1 Path of Discovery
+1 Sylvan Library
+1 Cold-Eyed Selkie
+1 Deepfathom Echo
+1 Deeproot Elite
+1 Deeproot Historian
+1 Emperor Mihail II
+1 Forerunner of the Heralds
+1 Harbinger of the Seas
+1 Harmonized Trio
+1 Kopala, Warden of Waves
+1 Kumena, Tyrant of Orazca
+1 Lord of Atlantis
+1 Lullmage Mentor
+1 Master of the Pearl Trident
+1 Merfolk Looter
+1 Merfolk Mistbinder
+1 Merfolk Sovereign
+1 Merrow Reejerey
+1 Metallic Mimic
+1 Murkfiend Liege
+1 Nicanzil, Current Conductor
+1 Rootwater Hunter
+1 Sea Scryer
+1 Seafloor Oracle
+1 Sentinel of the Nameless City
+1 Silvergill Adept
+1 Singer of Swift Rivers
+1 Stonybrook Banneret
+1 Svyelun of Sea and Sky
+1 Tatyova, Benthic Druid
+1 Thieving Skydiver
+1 Topography Tracker
+1 True-Name Nemesis
+1 Wildgrowth Walker
+1 Zegana, Utopian Speaker
