@@ -1,0 +1,86 @@
+// name: Orvar, the All-Form (Bracket 3)
+// source: community
+// tags: blink, control, spellslinger, clones
+
+Commander
+1 Orvar, the All-Form
+
+Deck
+
+1 Academy Ruins
+1 Boseiju, Who Shelters All
+1 Command Beacon
+1 Field of Ruin
+1 Halimar Depths
+23 Island
+1 Lonely Sandbar
+1 Mystic Sanctuary
+1 Nykthos, Shrine to Nyx
+1 Otawara, Soaring City
+1 Reliquary Tower
+1 Tolaria West
+1 War Room
+1 Aetherize
+1 Arcane Denial
+1 Cerulean Wisps
+1 Counterspell
+1 Cyclonic Rift
+1 Defy Gravity
+1 Fierce Guardianship
+1 Mana Drain
+1 Mana Sculpt
+1 Memory Lapse
+1 Mystical Tutor
+1 Narset's Reversal
+1 Negate
+1 Pact of Negation
+1 Pongify
+1 Rapid Hybridization
+1 Reality Shift
+1 Resculpt
+1 Retraction Helix
+1 Slip Out the Back
+1 Spell Pierce
+1 Swan Song
+1 Thermal Flux
+1 Twiddle
+1 Whim of Volrath
+1 Aquitect's Will
+1 Baral's Expertise
+1 Echocasting Symposium
+1 Flow State
+1 Irenicus's Vile Duplication
+1 Merchant Scroll
+1 Preordain
+1 Slip Through Space
+1 Solve the Equation
+1 Time Warp
+1 Arcane Signet
+1 Bident of Thassa
+1 Mirror Box
+1 Sapphire Medallion
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Wizard's Staff
+1 Archaeomancer
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Deekah, Fractal Theorist
+1 Docent of Perfection
+1 Eluge, the Shoreless Sea
+1 Emeritus of Ideation
+1 Fear of Impostors
+1 Hullbreaker Horror
+1 Irma, Part-Time Mutant
+1 Mulldrifter
+1 Murmuring Mystic
+1 Sakashima of a Thousand Faces
+1 Solemn Simulacrum
+1 Spark Double
+1 Spellseeker
+1 Talrand, Sky Summoner
+1 Venser, Shaper Savant
+1 As Foretold
+1 Imprisoned in the Moon
+1 Vesuvan Duplimancy
