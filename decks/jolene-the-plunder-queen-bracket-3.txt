@@ -1,0 +1,92 @@
+// name: Jolene, the Plunder Queen (Bracket 3)
+// source: community
+// tags: treasures, ramp
+
+Commander
+1 Jolene, the Plunder Queen
+
+Deck
+
+1 Academy Manufactor
+1 Ancient Copper Dragon
+1 Biotech Specialist
+1 Black Market Tycoon
+1 Captain Lannery Storm
+1 Crime Novelist
+1 Gala Greeters
+1 Generous Plunderer
+1 Goblin Anarchomancer
+1 Goldlust Triad
+1 Goldspan Dragon
+1 Hellkite Tyrant
+1 Impulsive Pilferer
+1 Ingenious Artillerist
+1 Jaheira, Friend of the Forest
+1 Jewel-Eyed Cobra
+1 Jolene, Plundering Pugilist
+1 Magda, Brazen Outlaw
+1 Old Gnawbone
+1 Pain Distributor
+1 Professional Face-Breaker
+1 Prosperous Bandit
+1 Reckless Fireweaver
+1 Roxanne, Starfall Savant
+1 Smaug the Magnificent
+1 Storm-Kiln Artist
+1 Swashbuckler Extraordinaire
+1 Tireless Provisioner
+1 Xorn
+1 Alchemist's Talent
+1 Cindervines
+1 Rain of Riches
+1 Shiny Impetus
+1 Sticky Fingers
+1 Viridian Revel
+1 Arcane Signet
+1 Beamtown Beatstick
+1 Bootleggers' Stash
+1 Diamond Pick-Axe
+1 Idol of Oblivion
+1 Lightning Greaves
+1 Noble's Purse
+1 Rocketeer Boostbuggy
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Impulse
+1 The Reaver Cleaver
+1 Treasure Map
+1 Big Score
+1 Chaos Warp
+1 Demand Answers
+1 Flick a Coin
+1 Heroic Intervention
+1 Second Harvest
+1 Unexpected Windfall
+1 Brass's Bounty
+1 Crack Open
+1 Cultivate
+1 Decimate
+1 Jeska's Will
+1 Nature's Lore
+1 Rampant Growth
+1 Seize the Spoils
+1 Seize the Spotlight
+1 Smoke Spirits' Aid
+1 Cinder Glade
+1 Command Tower
+1 Cragcrown Pathway
+1 Dragon-Cursed Halls
+1 Evolving Wilds
+9 Forest
+1 Gruul Turf
+1 Mines of Moria
+9 Mountain
+1 Myriad Landscape
+1 Rockfall Vale
+1 Rootbound Crag
+1 Skarrg, the Rage Pits
+1 Spire Garden
+1 Stomping Ground
+1 Thornspire Verge
+1 Treasure Vault
+1 Volatile Fault
