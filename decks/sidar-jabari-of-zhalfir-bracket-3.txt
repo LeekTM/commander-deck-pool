@@ -1,0 +1,96 @@
+// name: Sidar Jabari of Zhalfir (Bracket 3)
+// source: community
+// tags: control, discard, midrange, reanimater
+
+Commander
+1 Sidar Jabari of Zhalfir
+
+Deck
+
+1 Acclaimed Contender
+1 Adeline, Resplendent Cathar
+1 Ayara's Oathsworn
+1 Benalish Marshal
+1 Corpse Knight
+1 Dauntless Bodyguard
+1 Esper Sentinel
+1 Exsanguinator Cavalry
+1 Guardian of Faith
+1 Haakon, Stromgald Scourge
+1 Haytham Kenway
+1 Herald of Hoofbeats
+1 Kinsbaile Cavalier
+1 Knight Exemplar
+1 Knight of the Holy Nimbus
+1 Knight of the White Orchid
+1 Locthwain Lancer
+1 Marshal of Zhalfir
+1 Midnight Reaper
+1 Moonshaker Cavalry
+1 Murderous Rider
+1 Order of Midnight
+1 Silverwing Squadron
+1 Skyhunter Strike Force
+1 Summon: Knights of Round
+1 Summon: Primal Odin
+1 Syr Konrad, the Grim
+1 Valiant Knight
+1 Vodalian Wave-Knight
+1 Westfold Rider
+1 Wintermoor Commander
+1 Worthy Knight
+1 Adarkar Wastes
+1 Arcane Sanctum
+1 Barad-dûr
+1 Bojuka Bog
+1 Castle Locthwain
+1 Cavern of Souls
+1 Caves of Koilos
+1 Command Tower
+1 Eiganjo, Seat of the Empire
+1 Fabled Passage
+4 Island
+1 Minas Tirith
+1 Otawara, Soaring City
+1 Path of Ancestry
+6 Plains
+1 Raffine's Tower
+1 Reflecting Pool
+1 Rivendell
+1 Secluded Courtyard
+5 Swamp
+1 Takenuma, Abandoned Mire
+1 Three Tree City
+1 Underground River
+1 Vault of the Archangel
+1 And They Shall Know No Fear
+1 Anguished Unmaking
+1 Clever Concealment
+1 Dawn's Truce
+1 Entomb
+1 Path to Exile
+1 Plumb the Forbidden
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Unbreakable Formation
+1 Arcane Signet
+1 Coat of Arms
+1 Dolmen Gate
+1 Herald's Horn
+1 Mox Amber
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Vanquisher's Banner
+1 Buried Alive
+1 Final Parting
+1 Kindred Dominance
+1 Pact of the Serpent
+1 Patriarch's Bidding
+1 Raise the Palisade
+1 Cathars' Crusade
+1 Chivalric Alliance
+1 Cover of Darkness
+1 Kindred Discovery
+1 Knights' Charge
