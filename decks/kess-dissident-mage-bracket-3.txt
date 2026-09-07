@@ -1,0 +1,102 @@
+// name: Kess, Dissident Mage (Bracket 3)
+// source: community
+// tags: self-mill, reanimater, spellslinger
+
+Commander
+1 Kess, Dissident Mage
+
+Deck
+
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Counterspell
+1 Frantic Search
+1 Visions of Beyond
+1 Animate Dead
+1 Arcane Signet
+1 Brass's Tunnel-Grinder
+1 Mesmeric Orb
+1 Monument to Endurance
+1 Perpetual Timepiece
+1 Archfiend of Ifnir
+1 Aven Heartstabber
+1 Barrowgoyf
+1 Big Game Hunter
+1 Bone Miser
+1 Deranged Assistant
+1 Emeritus of Ideation
+1 Emet-Selch of the Third Seat
+1 Emry, Lurker of the Loch
+1 Exhibition Tidecaller
+1 Faerie Mastermind
+1 Grave Researcher
+1 Jace's Archivist
+1 Kefka, Court Mage
+1 Laboratory Maniac
+1 Lazav, the Multifarious
+1 Ledger Shredder
+1 Millikin
+1 Nezahal, Primal Tide
+1 Niv-Mizzet, Parun
+1 Overlord of the Balemurk
+1 Psychic Frog
+1 Rielle, the Everwise
+1 Shadowgrange Archfiend
+1 Sheoldred, Whispering One
+1 Stitcher's Supplier
+1 Thassa's Oracle
+1 Wizards of Thay
+1 Ash Barrens
+1 Barren Moor
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Canyon Slough
+1 Cascade Bluffs
+1 Command Tower
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Fetid Pools
+1 Forgotten Cave
+1 Graven Cairns
+5 Island
+1 Lonely Sandbar
+1 Mountain
+1 Mystic Sanctuary
+1 Polluted Delta
+1 Raucous Theater
+1 Scalding Tarn
+1 Shipwreck Marsh
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Sunken Palace
+3 Swamp
+1 Takenuma, Abandoned Mire
+1 Thundering Falls
+1 Undercity Sewers
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Xander's Lounge
+1 Ashiok, Dream Render
+1 Jace, Wielder of Mysteries
+1 Teferi, Master of Time
+1 Blasphemous Edict
+1 Burning Inquiry
+1 Careful Study
+1 Control of the Court
+1 Deluge of Doom
+1 Exhume
+1 Faithless Looting
+1 Goblin Lore
+1 Incarnation Technique
+1 Living Death
+1 Stitch Together
+1 Terror Tide
+1 Victimize
+1 Wheel of Misfortune
+1 Whispering Madness
+1 Will of the Jeskai
+1 Windfall
+1 Winternight Stories
+1 Yawgmoth's Vile Offering
