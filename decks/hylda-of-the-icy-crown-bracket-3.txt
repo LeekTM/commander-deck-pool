@@ -1,0 +1,91 @@
+// name: Hylda of the Icy Crown (Bracket 3)
+// source: community
+// tags: tap/untap, +1/+1, control, tokens
+
+Commander
+1 Hylda of the Icy Crown
+
+Deck
+
+1 Adarkar Wastes
+1 Azorius Chancery
+1 Boseiju, Who Shelters All
+1 Command Tower
+1 Coral Atoll
+1 Deserted Beach
+1 Exotic Orchard
+1 Flooded Strand
+1 Ghost Quarter
+1 Glacial Fortress
+1 Hallowed Fountain
+12 Island
+1 Karoo
+1 Mystic Gate
+7 Plains
+1 Prairie Stream
+1 Reliquary Tower
+1 Skycloud Expanse
+1 Temple of Enlightenment
+1 Amazing Acrobatics
+1 Blustersquall
+1 Choking Tethers
+1 Cryptic Command
+1 Deluge
+1 Downpour
+1 Ensnare
+1 Feeling of Dread
+1 Gigadrowse
+1 Icy Blast
+1 Mana Drain
+1 Mystical Tutor
+1 Opt
+1 Plunge into Winter
+1 Ripples of Potential
+1 Silundi Vision
+1 Sink into Stupor
+1 Spectral Denial
+1 Stubborn Denial
+1 Succumb to the Cold
+1 Swan Song
+1 Arcane Signet
+1 Archaeomancer's Map
+1 Ashnod's Altar
+1 Bender's Waterskin
+1 Glamdring, Foe-hammer
+1 Hylda's Crown of Winter
+1 Sol Ring
+1 The Eternity Elevator
+1 Archmage of Runes
+1 Belladonna Took
+1 Court Street Denizen
+1 Elvish Mariner
+1 Exalted Sunborn
+1 Gadwick, the Wizened
+1 Icewrought Sentry
+1 Junk Winder
+1 Matoya, Archon Elder
+1 Mondrak, Glory Dominus
+1 Niblis of Frost
+1 Ojer Pakpatiq, Deepest Epoch
+1 Quake, Agent of S.H.I.E.L.D.
+1 Witch Enchanter
+1 Bitter Chill
+1 Caretaker's Talent
+1 Citadel Siege
+1 Flood
+1 Intruder Alarm
+1 Land Tax
+1 Mystic Remora
+1 Opposition
+1 Smothering Tithe
+1 Solitary Sanctuary
+1 Tenuous Truce
+1 Verity Circle
+1 Blinding Light
+1 Cone of Cold
+1 Energy Tap
+1 Ponder
+1 Split Up
+1 Stock Up
+1 Theft of Dreams
+1 Elspeth, Storm Slayer
