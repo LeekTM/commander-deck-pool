@@ -1,0 +1,96 @@
+// name: Felothar the Steadfast (Bracket 3)
+// source: community
+// tags: pillow-fort, defenders, toughness-matters
+
+Commander
+1 Felothar the Steadfast
+
+Deck
+
+1 Arbor Adherent
+1 Arboreal Grazer
+1 Bedrock Tortoise
+1 Betor, Kin to All
+1 Crashing Drawbridge
+1 Crystal Barricade
+1 Doran, Besieged by Time
+1 Dragonlord Dromoka
+1 Earthshaker Giant
+1 Fecund Greenshell
+1 Great Forest Druid
+1 Hornet Nest
+1 Luminous Broodmoth
+1 MacCready, Lamplight Mayor
+1 Mangara, the Diplomat
+1 Overgrown Battlement
+1 Perimeter Captain
+1 Rampart Architect
+1 Seedborn Muse
+1 Sidar Kondo of Jamuraa
+1 Stalwart Shield-Bearers
+1 Sylvan Caryatid
+1 Towering Titan
+1 Tree of Perdition
+1 Tree of Redemption
+1 Walking Bulwark
+1 Wall of Blossoms
+1 Wall of Omens
+1 Wall of Roots
+1 Wall of Shards
+1 Weathered Sentinels
+1 Welcoming Vampire
+1 Zetalpa, Primal Dawn
+1 Arcane Signet
+1 Colfenor's Urn
+1 Ensnaring Bridge
+1 Lantern of the Lost
+1 Meekstone
+1 Rammas Echor, Ancient Shield
+1 Sol Ring
+1 Assault Formation
+1 Behind the Scenes
+1 Brave the Sands
+1 Ghostly Prison
+1 Grasp of Fate
+1 Jaws of Defeat
+1 Land Tax
+1 Primal Rage
+1 Reconnaissance
+1 Smile at Death
+1 Bojuka Bog
+1 Brushland
+1 Canopy Vista
+1 Caves of Koilos
+1 Command Tower
+1 Deceptive Landscape
+1 Evolving Wilds
+1 Exotic Orchard
+5 Forest
+1 Isolated Chapel
+1 Overgrown Farmland
+1 Path of Ancestry
+8 Plains
+1 Sandsteppe Citadel
+1 Secluded Steppe
+1 Sunpetal Grove
+2 Swamp
+1 Temple Garden
+1 Temple of Malady
+1 Temple of Plenty
+1 Temple of Silence
+1 Terramorphic Expanse
+1 Tranquil Thicket
+1 Windbrisk Heights
+1 Woodland Cemetery
+1 Cultivate
+1 Dusk // Dawn
+1 Expel the Interlopers
+1 Rampant Growth
+1 Reunion of the House
+1 Slaughter the Strong
+1 Dawn's Truce
+1 Despark
+1 Erode
+1 Heroic Intervention
+1 Swords to Plowshares
+1 Tower Defense
