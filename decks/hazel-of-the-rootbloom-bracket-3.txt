@@ -1,0 +1,101 @@
+// name: Hazel of the Rootbloom (Bracket 3)
+// source: community
+// tags: lifedrain, tokens, tribal, control
+
+Commander
+1 Hazel of the Rootbloom
+
+Deck
+
+1 Arcane Signet
+1 Banner of Kinship
+1 Chitterspitter
+1 Idol of Oblivion
+1 Lightning Greaves
+1 Skullclamp
+1 Sol Ring
+1 Sword of the Squeak
+1 Throne of the God-Pharaoh
+1 Bastion of Remembrance
+1 Cloakwood Hermit
+1 Growing Rites of Itlimoc
+1 Lignify
+1 Parallel Lives
+1 Quest for Renewal
+1 Springleaf Parade
+1 Squirrel Sanctuary
+1 Sylvan Anthem
+1 Beast Within
+1 Body Count
+1 Chord of Calling
+1 Collective Resistance
+1 Crash the Party
+1 Crop Rotation
+1 Deadly Dispute
+1 Fog
+1 Rabid Attack
+1 Revitalizing Repast
+1 Second Harvest
+1 Verdant Command
+1 Beledros Witherbloom
+1 Chatterfang, Squirrel General
+1 Circle of Dreams Druid
+1 Deep Forest Hermit
+1 Drey Keeper
+1 Enduring Vitality
+1 Honored Dreyleader
+1 Mirkwood Bats
+1 Morbid Opportunist
+1 Nested Shambler
+1 Prosperous Innkeeper
+1 Ravenous Squirrel
+1 Scurry Oak
+1 Selfless Safewright
+1 Skullport Merchant
+1 The Unbeatable Squirrel Girl
+1 Thornvault Forager
+1 Tireless Provisioner
+1 Toski, Bearer of Secrets
+1 Valley Rotcaller
+1 Wight of the Reliquary
+1 Zulaport Cutthroat
+1 Blooming Marsh
+1 Bojuka Bog
+1 Cabal Coffers
+1 Command Tower
+1 Dark Depths
+1 Deserted Temple
+1 Exotic Orchard
+1 Field of the Dead
+7 Forest
+1 Golgari Rot Farm
+1 Haunted Mire
+1 Mudflat Village
+1 Mutavault
+1 Oakhollow Village
+1 Path of Ancestry
+1 Spymaster's Vault
+1 Sunken Citadel
+2 Swamp
+1 Swarmyard
+1 Tainted Wood
+1 Thespian's Stage
+1 Three Tree City
+1 Twilight Mire
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Vesuva
+1 Viridescent Bog
+1 Woodland Cemetery
+1 Chatter of the Squirrel
+1 Chatterstorm
+1 Exsanguinate
+1 Final Vengeance
+1 For the Common Good
+1 Immoral Bargain
+1 Pact of the Serpent
+1 Preposterous Proportions
+1 Rootcast Apprenticeship
+1 Shamanic Revelation
+1 Swarmyard Massacre
+1 Tempt with Discovery
