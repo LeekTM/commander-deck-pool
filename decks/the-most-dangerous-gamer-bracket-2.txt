@@ -1,0 +1,98 @@
+// name: The Most Dangerous Gamer (Bracket 2)
+// source: community
+// tags: artifacts, un-set, aggro, voltron, +1/+1
+
+Commander
+1 The Most Dangerous Gamer
+
+Deck
+
+1 "Lifetime" Pass Holder
+1 Alpha Deathclaw
+1 Boggart Trawler
+1 Corpsejack Menace
+1 Deadbeat Attendant
+1 Discourtesy Clerk
+1 Duskshell Crawler
+1 Eternal Witness
+1 Glissa Sunslayer
+1 Haywire Mite
+1 Massacre Girl
+1 Petting Zookeeper
+1 Reclamation Sage
+1 Reyhan, Last of the Abzan
+1 Sakura-Tribe Elder
+1 Sarinth Steelseeker
+1 Scavenging Ooze
+1 Slippery Bogbonder
+1 Vorinclex, Monstrous Raider
+1 Xenosquirrels
+1 Adaptive Omnitool
+1 Arcane Signet
+1 Belt of Giant Strength
+1 Bone Sabres
+1 Chariot of Victory
+1 Fireshrieker
+1 Hammer of Nazahn
+1 Hot Soup
+1 Mithril Coat
+1 Nettlecyst
+1 Power Fist
+1 Ring of Xathrid
+1 Scythe of the Wretched
+1 Shadowspear
+1 Sol Ring
+1 Sting, the Glinting Dagger
+1 Strength-Testing Hammer
+1 Swiftfoot Boots
+1 Talisman of Resilience
+1 The Ozolith
+1 Trailblazer's Boots
+1 Vexing Puzzlebox
+1 Atomize
+1 Beast Within
+1 Golgari Charm
+1 Hagra Mauling
+1 Hunter's Insight
+1 Momentous Fall
+1 Pair o' Dice Lost
+1 Revitalizing Repast
+1 Saw in Half
+1 Windswift Slice
+1 Barren Moor
+1 Castle Locthwain
+1 Command Tower
+1 Darkmoss Bridge
+1 Deathcap Glade
+1 Fabled Passage
+1 Field of Ruin
+6 Forest
+1 Golgari Rot Farm
+1 Inventors' Fair
+1 Overgrown Tomb
+1 Rogue's Passage
+1 Secluded Starforge
+6 Swamp
+1 Tranquil Thicket
+1 Tree of Tales
+1 Twilight Mire
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Urza's Saga
+1 Vault of Whispers
+1 Verdant Catacombs
+1 War Room
+1 Woodland Cemetery
+1 Black Hole
+1 Coming Attraction
+1 Contest of Claws
+1 Hunter's Prowess
+1 Nature's Lore
+1 Rishkar's Expertise
+1 Soul's Majesty
+1 Step Right Up
+1 Three Visits
+1 Toxic Deluge
+1 Journey to Eternity
+1 Night Shift of the Living Dead
+1 Terrasymbiosis
