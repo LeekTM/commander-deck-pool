@@ -1,0 +1,99 @@
+// name: Silvar, Devourer of the Free + Trynn, Champion of Freedom (Bracket 3)
+// source: community
+// tags: voltron, +1/+1, tribal, sacrifice, tempo
+
+Commander
+1 Silvar, Devourer of the Free
+1 Trynn, Champion of Freedom
+
+Deck
+
+
+1 Acrobatic Leap
+1 Call the Coppercoats
+1 Deadly Dispute
+1 Disenchant
+1 Enlightened Tutor
+1 Erode
+1 Offer Immortality
+1 Path to Exile
+1 Plumb the Forbidden
+1 Raking Claws
+1 Swords to Plowshares
+1 Temur Battle Rage
+1 Terminate
+1 Unleash Fury
+1 Village Rites
+1 Adeline, Resplendent Cathar
+1 Blood Artist
+1 Butcher of Malakir
+1 Cruel Celebrant
+1 Denethor, Ruling Steward
+1 Elas il-Kor, Sadistic Pilgrim
+1 Falkenrath Aristocrat
+1 Hanweir Garrison
+1 Hanweir Militia Captain
+1 Hero of Precinct One
+1 Keeper of the Accord
+1 Mondrak, Glory Dominus
+1 Pitiless Plunderer
+1 Priest of Forgotten Gods
+1 Professional Face-Breaker
+1 Syr Konrad, the Grim
+1 Thraben Doomsayer
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Ashnod's Altar
+1 Fellwar Stone
+1 Loxodon Warhammer
+1 Maskwood Nexus
+1 Phyrexian Altar
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Conviction
+1 Talisman of Hierarchy
+1 Talisman of Indulgence
+1 Arid Mesa
+1 Battlefield Forge
+1 Blackcleave Cliffs
+1 Blood Crypt
+1 Bloodstained Mire
+1 Brightclimb Pathway
+1 Caves of Koilos
+1 Clifftop Retreat
+1 Command Tower
+1 Concealed Courtyard
+1 Eiganjo, Seat of the Empire
+1 Exotic Orchard
+1 Fabled Passage
+1 Godless Shrine
+1 Inspiring Vantage
+1 Isolated Chapel
+1 Marsh Flats
+3 Mountain
+6 Plains
+1 Rogue's Passage
+1 Sacred Foundry
+1 Savai Triome
+1 Silent Clearing
+1 Smoldering Marsh
+1 Sulfurous Springs
+1 Sunbaked Canyon
+4 Swamp
+1 Tainted Field
+1 Takenuma, Abandoned Mire
+1 Bastion of Remembrance
+1 Black Market Connections
+1 Cathar's Call
+1 Fervor
+1 Impact Tremors
+1 Land Tax
+1 Outlaws' Merriment
+1 Phyrexian Arena
+1 Smothering Tithe
+1 Diabolic Intent
+1 Feed the Swarm
+1 Idyllic Tutor
+1 Rout
+1 Steelshaper's Gift
