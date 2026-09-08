@@ -1,0 +1,81 @@
+// name: Tannuk, Steadfast Second (Bracket 2)
+// source: community
+// tags: aggro, stompy, blink, exile, burn
+
+Commander
+1 Tannuk, Steadfast Second
+
+Deck
+
+1 Alena, Kessig Trapper
+1 Ancient Copper Dragon
+1 Anticausal Vestige
+1 Balefire Dragon
+1 Cavern-Hoard Dragon
+1 Cityscape Leveler
+1 Dragon Trainer
+1 Etali, Primal Storm
+1 Flaming Tyrannosaurus
+1 Goldlust Triad
+1 Ilharg, the Raze-Boar
+1 Keeper of Secrets
+1 Knollspine Dragon
+1 Maelstrom Colossus
+1 Myojin of Roaring Blades
+1 Myr Battlesphere
+1 Nalfeshnee
+1 Ogre Chitterlord
+1 Orthion, Hero of Lavabrink
+1 Overlord of the Boilerbilges
+1 Sandstone Oracle
+1 Scampering Surveyor
+1 Solemn Simulacrum
+1 Spawn of Thraxes
+1 Stormscale Scion
+1 Sunset Strikemaster
+1 Terror of the Peaks
+1 Trumpeting Carnosaur
+1 Twinflame Tyrant
+1 Wild-Magic Sorcerer
+1 Blasphemous Act
+1 Call Forth the Tempest
+1 Devastating Onslaught
+1 Bonders' Enclave
+1 Demolition Field
+1 Endless Sands
+28 Mountain
+1 Myriad Landscape
+1 Spinerock Knoll
+1 Valakut, the Molten Pinnacle
+1 War Room
+1 Breaching Dragonstorm
+1 Charred Foyer // Warped Space
+1 Echoing Assault
+1 Flameshadow Conjuring
+1 Sarkhan's Unsealing
+1 Spider-Verse
+1 Warstorm Surge
+1 Chaos Warp
+1 Return the Favor
+1 Tibalt's Trickery
+1 Untimely Malfunction
+1 Wild Magic Surge
+1 Zoyowa's Justice
+1 Conjurer's Closet
+1 Coveted Jewel
+1 Cursed Mirror
+1 Endless Atlas
+1 Erratic Portal
+1 Ingenuity Engine
+1 Interdimensional Web Watch
+1 Minion Reflector
+1 Panharmonicon
+1 Ruby Medallion
+1 Sceptre of Eternal Glory
+1 Sol Ring
+1 Spine of Ish Sah
+1 Sword of Hearth and Home
+1 Territory Forge
+1 The Fire Crystal
+1 The Mightstone and Weakstone
+1 Throne of Eldraine
