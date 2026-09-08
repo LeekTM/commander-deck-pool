@@ -1,0 +1,85 @@
+// name: Storm, Force of Nature (Bracket 3)
+// source: community
+// tags: storm, spellslinger, burn, card-draw, tempo
+
+Commander
+1 Storm, Force of Nature
+
+Deck
+
+1 Aggravated Assault
+1 Bear Umbra
+1 Fiery Inscription
+1 Mystic Remora
+1 Nature's Will
+1 Propaganda
+1 Thousand-Year Storm
+1 Arcane Denial
+1 Beast Within
+1 Brainstorm
+1 Chaos Warp
+1 Consider
+1 Counterspell
+1 Expansion // Explosion
+1 Fierce Guardianship
+1 Flame of Anor
+1 Frantic Search
+1 Manamorphose
+1 Mystical Tutor
+1 Negate
+1 Opt
+1 Pongify
+1 Psychotic Fury
+1 Rapid Hybridization
+1 Road // Ruin
+1 Seething Song
+1 Spell Pierce
+1 Arcane Signet
+1 Fellwar Stone
+1 Glamdring, Foe-hammer
+1 Mithril Coat
+1 Sol Ring
+1 Whispersilk Cloak
+1 Archmage Emeritus
+1 Archmage of Runes
+1 Baral and Kari Zev
+1 Birgi, God of Storytelling
+1 Delighted Halfling
+1 Electro, Assaulting Battery
+1 Gale, Waterdeep Prodigy
+1 Gandalf, Friend of the Shire
+1 Goblin Electromancer
+1 Guttersnipe
+1 Lier, Disciple of the Drowned
+1 Mizzix of the Izmagnus
+1 Storm-Kiln Artist
+1 Veyran, Voice of Duality
+1 Boltwave
+1 Call Forth the Tempest
+1 Chandra's Ignition
+1 Crackle with Power
+1 Cultivate
+1 Far Wanderings
+1 Farseek
+1 Gandalf's Sanction
+1 Grapeshot
+1 Jeska's Will
+1 Kodama's Reach
+1 Mana Geyser
+1 Ponder
+1 Rampant Growth
+1 Slip Through Space
+1 Three Visits
+1 Command Tower
+1 Exotic Orchard
+8 Forest
+1 Frostboil Snarl
+1 Game Trail
+1 Hinterland Harbor
+8 Island
+10 Mountain
+1 Reliquary Tower
+1 Sodden Verdure
+1 Sulfur Falls
+1 Turbulent Wilderness
+1 Vineglimmer Snarl
