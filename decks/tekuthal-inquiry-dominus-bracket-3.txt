@@ -1,0 +1,85 @@
+// name: Tekuthal, Inquiry Dominus (Bracket 3)
+// source: community
+// tags: control, counterspells, proliferate, eldrazi, ramp, artifacts
+
+Commander
+1 Tekuthal, Inquiry Dominus
+
+Deck
+
+1 Academy Ruins
+24 Island
+1 Karn's Bastion
+1 Mage-Ring Network
+1 Mystic Sanctuary
+1 Nesting Grounds
+1 Nykthos, Shrine to Nyx
+1 Otawara, Soaring City
+1 Reliquary Tower
+1 Saprazzan Skerry
+1 Seat of the Synod
+1 Urza's Saga
+1 Aetheric Amplifier
+1 Astral Cornucopia
+1 Everflowing Chalice
+1 Ichormoon Gauntlet
+1 Insight Engine
+1 Lightning Greaves
+1 Lost Jitte
+1 Manifold Key
+1 Portal to Phyrexia
+1 Replicating Ring
+1 Sapphire Medallion
+1 Sol Ring
+1 Staff of Compleation
+1 The Aetherspark
+1 The Key to the Vault
+1 Aminatou's Augury
+1 Contentious Plan
+1 Expansion Algorithm
+1 Fabricate
+1 Ponder
+1 Preordain
+1 Savor the Moment
+1 Show and Tell
+1 Stock Up
+1 Tezzeret's Gambit
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Counterspell
+1 Cyclonic Rift
+1 Delay
+1 Experimental Augury
+1 Force of Negation
+1 Force of Will
+1 High Tide
+1 Mana Drain
+1 Mystical Tutor
+1 Pongify
+1 Reality Shift
+1 Ripples of Potential
+1 Serum Snare
+1 Snap
+1 Suspend
+1 As Foretold
+1 Inexorable Tide
+1 Mystic Remora
+1 Ominous Seas
+1 Omniscience
+1 Shark Typhoon
+1 Coretapper
+1 Deepglow Skate
+1 Dreamtide Whale
+1 Flux Channeler
+1 Jin-Gitaxias, Progress Tyrant
+1 Kozilek, Butcher of Truth
+1 Myojin of Cryptic Dreams
+1 Ulamog, the Defiler
+1 Ulamog, the Infinite Gyre
+1 Jace, Architect of Thought
+1 Mordenkainen
+1 Teferi, Master of Time
+1 Tezzeret, Artifice Master
+1 Ugin, Eye of the Storms
+1 Ugin, the Spirit Dragon
