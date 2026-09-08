@@ -1,0 +1,96 @@
+// name: Toph, the First Metalbender (Bracket 3)
+// source: community
+// tags: +1/+1, lands-matter, benders, aggro, artifacts
+
+Commander
+1 Toph, the First Metalbender
+
+Deck
+
+1 Abandoned Air Temple
+1 Arena of Glory
+1 Ba Sing Se
+1 Battlefield Forge
+1 Brushland
+1 Clifftop Retreat
+1 Command Tower
+1 Evendo, Waking Haven
+1 Evolving Wilds
+1 Fabled Passage
+1 Fire Nation Palace
+6 Forest
+1 Jungle Shrine
+4 Mountain
+5 Plains
+1 Rootbound Crag
+1 Rumble Arena
+1 Scavenger Grounds
+1 Secret Tunnel
+1 Stomping Ground
+1 Sunpetal Grove
+1 Yavimaya, Cradle of Growth
+1 Annie Joins Up
+1 Beorn's Hospitality
+1 Bitter Work
+1 Earthbender Ascension
+1 Exploration
+1 Resourceful Defense
+1 Tale of Katara and Toph
+1 Terrasymbiosis
+1 The Legend of Kyoshi
+1 Arcane Signet
+1 Blackblade Reforged
+1 Brotherhood Regalia
+1 Crucible of Worlds
+1 Herd Heirloom
+1 Power Fist
+1 Sol Ring
+1 Staff of Titania
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 The Earth Crystal
+1 The Mind Stone
+1 Trailblazer's Boots
+1 Zuran Orb
+1 Avatar's Wrath
+1 Bala Ged Recovery
+1 Explore
+1 Kodama's Reach
+1 Planar Engineering
+1 Shared Roots
+1 True Ancestry
+1 Badgermole Cub
+1 Birds of Paradise
+1 Black Panther, Wakandan King
+1 Bristly Bill, Spine Sower
+1 Bumi, Unleashed
+1 Dryad of the Ilysian Grove
+1 Earth Kingdom General
+1 Earthbending Student
+1 Evolution Sage
+1 Great Divide Guide
+1 Lotus Cobra
+1 Mossborn Hydra
+1 Roaming Throne
+1 Scute Swarm
+1 Shalai and Hallar
+1 Sylvan Safekeeper
+1 Tannuk, Memorial Ensign
+1 Toph, Earthbending Master
+1 Toph, Greatest Earthbender
+1 Toph, Hardheaded Teacher
+1 Toph, the Blind Bandit
+1 Traveling Chocobo
+1 Bilbo's Gambit
+1 Crop Rotation
+1 Cycle of Renewal
+1 Dawn's Truce
+1 Earthshape
+1 Galadriel's Dismissal
+1 Heroic Intervention
+1 Origin of Metalbending
+1 Path to Exile
+1 Pyroblast
+1 Redirect Lightning
+1 Royal Treatment
+1 Swords to Plowshares
