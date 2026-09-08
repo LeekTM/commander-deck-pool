@@ -1,0 +1,99 @@
+// name: The Wise Mothman (Bracket 2)
+// source: community
+// tags: +1/+1, clones, mill, control, group-slug
+
+Commander
+1 The Wise Mothman
+
+Deck
+
+1 Academy Ruins
+1 Bojuka Bog
+1 Command Beacon
+1 Command Tower
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Exotic Orchard
+4 Forest
+1 Hinterland Harbor
+4 Island
+1 Mariposa Military Base
+1 Opulent Palace
+1 Overflowing Basin
+1 Overgrown Tomb
+1 Reflecting Pool
+1 Rejuvenating Springs
+1 Restless Reef
+1 Rivendell
+1 Sunken Hollow
+4 Swamp
+1 Temple of Malady
+1 Temple of Mystery
+1 Vineglimmer Snarl
+1 Watery Grave
+1 Woodland Cemetery
+1 Agent Frank Horrigan
+1 Auton Soldier
+1 Basking Broodscale
+1 Bloatfly Swarm
+1 Bramble Familiar
+1 Bruvac the Grandiloquent
+1 Consuming Aberration
+1 Danny Pink
+1 Eternal Witness
+1 Glen Elendra Archmage
+1 Glowing One
+1 Herald of Secret Streams
+1 Hullbreaker Horror
+1 Infesting Radroach
+1 Kheru Goldkeeper
+1 Mirelurk Queen
+1 Muldrotha, the Gravetide
+1 Nightkin Ambusher
+1 Ramunap Excavator
+1 Ruin Crab
+1 Sakashima of a Thousand Faces
+1 Screeching Scorchbeast
+1 Spark Double
+1 Spellskite
+1 Super Shredder
+1 Syr Konrad, the Grim
+1 The Master of Lake-town
+1 The Master, Transcendent
+1 Zellix, Sanity Flayer
+1 Altar of the Brood
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Crucible of Worlds
+1 Hedge Shredder
+1 Mesmeric Orb
+1 Mindcrank
+1 Palantír of Orthanc
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Water Crystal
+1 Vexing Bauble
+1 Arcane Denial
+1 Counterspell
+1 Dark Ritual
+1 Didn't Say Please
+1 Heroic Intervention
+1 Mutational Advantage
+1 Psychic Strike
+1 Ripples of Potential
+1 Saw in Half
+1 Bloodchief Ascension
+1 Branching Evolution
+1 Court of Cunning
+1 Fraying Sanity
+1 Guardian Project
+1 Hardened Scales
+1 Psychic Corrosion
+1 Struggle for Project Purity
+1 Virtue of Persistence
+1 Breach the Multiverse
+1 Cultivate
+1 Kodama's Reach
+1 Maddening Cacophony
+1 Singularity Rupture
+1 Squirming Emergence
