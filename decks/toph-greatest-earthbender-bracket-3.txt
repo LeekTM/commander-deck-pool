@@ -1,0 +1,95 @@
+// name: Toph, Greatest Earthbender (Bracket 3)
+// source: community
+// tags: aggro, lands-matter, +1/+1, midrange
+
+Commander
+1 Toph, Greatest Earthbender
+
+Deck
+
+1 Abrade
+1 Chaos Warp
+1 Crop Rotation
+1 Elemental Teachings
+1 Fight for the Throne
+1 Flare of Duplication
+1 Hunter's Insight
+1 Noxious Revival
+1 Origin of Metalbending
+1 Return of the Wildspeaker
+1 Untimely Malfunction
+1 Agitator Ant
+1 Alexios, Deimos of Kosmos
+1 Badgermole Cub
+1 Bane of Progress
+1 Birds of Paradise
+1 Bloodthirster
+1 Bumi, Unleashed
+1 Disciple of Freyalise
+1 Embodiment of Fury
+1 Embodiment of Insight
+1 Fanatic of Rhonas
+1 Fear of Missing Out
+1 Forgotten Ancient
+1 Formidable Speaker
+1 Haywire Mite
+1 Hexing Squelcher
+1 Icetill Explorer
+1 Mutable Explorer
+1 Sakura-Tribe Elder
+1 Shigeki, Jukai Visionary
+1 Springheart Nantuko
+1 Toph, Hardheaded Teacher
+1 Toph, the Blind Bandit
+1 Woodland Bellower
+1 Analyze the Pollen
+1 Blasphemous Act
+1 Cosmium Confluence
+1 Cracked Earth Technique
+1 Decimate
+1 Earth Rumble
+1 Earthbending Lesson
+1 Eldritch Evolution
+1 Full Throttle
+1 Jeska's Will
+1 Nylea's Intervention
+1 Rishkar's Expertise
+1 Seize the Spotlight
+1 Shared Roots
+1 Snort
+1 Spry and Mighty
+1 Sundering Eruption
+1 Tempt with Discovery
+1 Traverse the Ulvenwald
+1 Ba Sing Se
+1 Boseiju, Who Endures
+1 Cinder Glade
+1 Command Tower
+1 Commercial District
+1 Copperline Gorge
+1 Dark Depths
+1 Dryad Arbor
+1 Exotic Orchard
+1 Fabled Passage
+8 Forest
+1 Game Trail
+7 Mountain
+1 Myriad Landscape
+1 Pit of Offerings
+1 Raging Ravine
+1 Restless Ridgeline
+1 Secret Tunnel
+1 Shifting Woodland
+1 Thespian's Stage
+1 Thornspire Verge
+1 Volatile Fault
+1 Brass's Tunnel-Grinder
+1 Power Fist
+1 Sol Ring
+1 The Great Henge
+1 World Map
+1 Earthbender Ascension
+1 Greater Good
+1 Innkeeper's Talent
+1 Solid Ground
+1 The Legend of Kyoshi
