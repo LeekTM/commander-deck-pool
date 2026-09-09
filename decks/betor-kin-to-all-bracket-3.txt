@@ -1,0 +1,99 @@
+// name: Betor, Kin to All (Bracket 3)
+// source: community
+// tags: defenders, ramp, toughness-matters, control
+
+Commander
+1 Betor, Kin to All
+
+Deck
+
+1 Abzan Beastmaster
+1 Ancient Adamantoise
+1 Ancient Lumberknot
+1 Apex Devastator
+1 Arbor Adherent
+1 Baldin, Century Herdmaster
+1 Bedrock Tortoise
+1 Colfenor, the Last Yew
+1 Craterhoof Behemoth
+1 Disciple of Freyalise
+1 Doran, Besieged by Time
+1 Fanatic of Rhonas
+1 Fecund Greenshell
+1 Felothar the Steadfast
+1 Glissa Sunslayer
+1 Grave Researcher
+1 Great Forest Druid
+1 The Walls of Ba Sing Se
+1 Indomitable Ancients
+1 Jumbo Cactuar
+1 Ohran Frostfang
+1 Overgrown Battlement
+1 Rampart Architect
+1 Sylvan Caryatid
+1 Toski, Bearer of Secrets
+1 Tree of Perdition
+1 Tree of Redemption
+1 Unhallowed Phalanx
+1 Wall of Blossoms
+1 Wall of Omens
+1 Wall of Reverence
+1 Weathered Sentinels
+1 Akroma's Will
+1 Anguished Unmaking
+1 Assassin's Trophy
+1 Beast Within
+1 Collective Resistance
+1 Crop Rotation
+1 Generous Gift
+1 Path to Exile
+1 Swords to Plowshares
+1 Tamiyo's Safekeeping
+1 Unbreakable Formation
+1 Arcane Signet
+1 Sol Ring
+1 Assault Formation
+1 Cryptolith Rite
+1 Garruk's Uprising
+1 Guardian Project
+1 Sylvan Library
+1 Unnatural Growth
+1 Bojuka Bog
+1 Caves of Koilos
+1 Command Tower
+1 Deathcap Glade
+1 Deceptive Landscape
+1 Evolving Wilds
+1 Exotic Orchard
+6 Forest
+1 Gathering Place
+1 Gavony Township
+1 Golgari Rot Farm
+1 Isolated Chapel
+1 Krosan Verge
+1 Overgrown Farmland
+1 Overgrown Tomb
+1 Path of Ancestry
+3 Plains
+1 Reliquary Tower
+1 Rogue's Passage
+1 Sandsteppe Citadel
+1 Shattered Sanctum
+3 Swamp
+1 Temple Garden
+1 Terramorphic Expanse
+1 Undergrowth Stadium
+1 Vault of Champions
+1 Woodland Cemetery
+1 Yavimaya, Cradle of Growth
+1 Cultivate
+1 Damn
+1 Farewell
+1 Farseek
+1 Fell the Mighty
+1 Kodama's Reach
+1 Nature's Lore
+1 Rampant Growth
+1 Three Visits
+1 Triumph of the Hordes
+1 Huatli, the Sun's Heart
