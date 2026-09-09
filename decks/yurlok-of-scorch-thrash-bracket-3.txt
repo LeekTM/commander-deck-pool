@@ -1,0 +1,105 @@
+// name: Yurlok of Scorch Thrash (Bracket 3)
+// source: community
+// tags: combo, midrange, group-hug, group-slug, ramp, big-mana
+
+Commander
+1 Yurlok of Scorch Thrash
+
+Deck
+
+1 Arcane Signet
+1 Crucible of Worlds
+1 Sol Ring
+1 Staff of Domination
+1 Swiftfoot Boots
+1 Sword of the Paruns
+1 Talisman of Impulse
+1 Talisman of Indulgence
+1 Talisman of Resilience
+1 Umbral Mantle
+1 Assassin's Trophy
+1 Beast Within
+1 Chaos Warp
+1 Dark Ritual
+1 Deadly Rollick
+1 Harrow
+1 Heroic Intervention
+1 Krosan Grip
+1 Nature's Claim
+1 Rakdos Charm
+1 Tibalt's Trickery
+1 Worldly Tutor
+1 Birds of Paradise
+1 Bloodletter of Aclazotz
+1 Bloodthirsty Conqueror
+1 Bloom Tender
+1 Delighted Halfling
+1 Eternal Witness
+1 Hexing Squelcher
+1 Icetill Explorer
+1 Ignoble Hierarch
+1 Magus of the Vineyard
+1 Marvin, Murderous Mimic
+1 Orcish Lumberjack
+1 Seedborn Muse
+1 Shizuko, Caller of Autumn
+1 Timeless Witness
+1 Valgavoth, Harrower of Souls
+1 Vexing Shusher
+1 Walking Ballista
+1 Zhur-Taa Ancient
+1 Blasphemous Act
+1 Damnation
+1 Demonic Tutor
+1 Exsanguinate
+1 Faithless Looting
+1 Farseek
+1 Jaya's Immolating Inferno
+1 Nature's Lore
+1 Tempt with Discovery
+1 Three Visits
+1 Torment of Hailfire
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Commercial District
+1 Deathcap Glade
+1 Dragonskull Summit
+1 Exotic Orchard
+4 Forest
+1 Haunted Ridge
+1 Karplusan Forest
+1 Llanowar Wastes
+1 Mana Confluence
+1 Mountain
+1 Nykthos, Shrine to Nyx
+1 Overgrown Tomb
+1 Prismatic Vista
+1 Raucous Theater
+1 Rockfall Vale
+1 Rootbound Crag
+1 Stomping Ground
+1 Strip Mine
+1 Sulfurous Springs
+1 Swamp
+1 Thornspire Verge
+1 Underground Mortuary
+1 Verdant Catacombs
+1 Wastewood Verge
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Ziatora's Proving Ground
+1 Dictate of Karametra
+1 Eladamri's Vineyard
+1 Exquisite Blood
+1 Heartbeat of Spring
+1 Helix Pinnacle
+1 Leyline of Abundance
+1 Mana Flare
+1 Manabarbs
+1 Overabundance
+1 Sylvan Library
+1 Lord Windgrace
+1 Wrenn and Realmbreaker
