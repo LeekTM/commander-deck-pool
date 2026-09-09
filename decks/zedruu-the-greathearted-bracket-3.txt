@@ -1,0 +1,97 @@
+// name: Zedruu the Greathearted (Bracket 3)
+// source: community
+// tags: card-draw, donate, lifegain, politics
+
+Commander
+1 Zedruu the Greathearted
+
+Deck
+
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Cascade Bluffs
+1 Command Tower
+1 Exotic Orchard
+1 Forbidden Orchard
+1 Geier Reach Sanitarium
+1 Glacial Fortress
+1 Glittering Massif
+1 Irrigated Farmland
+7 Island
+1 Mikokoro, Center of the Sea
+3 Mountain
+1 Mystic Monastery
+4 Plains
+1 Rainbow Vale
+1 Reliquary Tower
+1 Rugged Prairie
+1 Sea of Clouds
+1 Shivan Reef
+1 Skycloud Expanse
+1 Sulfur Falls
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
+1 Akroan Horse
+1 Bazaar Trader
+1 Body of Knowledge
+1 Flumph
+1 Humble Defector
+1 Ian Malcolm, Chaotician
+1 Iroh, Tea Master
+1 Kami of the Crescent Moon
+1 Khârn the Betrayer
+1 Kwain, Itinerant Meddler
+1 Laboratory Maniac
+1 Lucy MacLean, Positively Armed
+1 Master of Ceremonies
+1 Obstinate Familiar
+1 Pramikon, Sky Rampart
+1 Shabraz, the Skyshark
+1 Sokrates, Athenian Teacher
+1 Stiltzkin, Moogle Merchant
+1 Tataru Taru
+1 The Locust God
+1 The Second Doctor
+1 Yes Man, Personal Securitron
+1 Anvil of Bogardan
+1 Arcane Signet
+1 Bubble Matrix
+1 Bucknard's Everfull Purse
+1 Decanter of Endless Water
+1 Folio of Fancies
+1 Hithlain Rope
+1 Horn of Greed
+1 Howling Mine
+1 Pendant of Prosperity
+1 Sol Ring
+1 Teferi's Puzzle Box
+1 Temple Bell
+1 Wedding Ring
+1 Boomerang Basics
+1 Cultural Exchange
+1 Donate
+1 Fractured Identity
+1 Harmless Offering
+1 Minds Aglow
+1 Prosperity
+1 Role Reversal
+1 Show and Tell
+1 Tempt with Bunnies
+1 Brand
+1 Chaos Warp
+1 Generous Gift
+1 Into the Flood Maw
+1 Leave // Chance
+1 Patrician's Scorn
+1 Perch Protection
+1 Dictate of Kruphix
+1 Forced Fruition
+1 Gleaming Splendor
+1 Mindmoil
+1 Nine Lives
+1 Rhystic Study
+1 Smuggler's Share
+1 Statecraft
+1 Well of Ideas
+1 Jace, Wielder of Mysteries
