@@ -1,0 +1,94 @@
+// name: Captain N'ghathrod (Bracket 3)
+// source: community
+// tags: mill, reanimater, tempo, theft, tribal
+
+Commander
+1 Captain N'ghathrod
+
+Deck
+
+1 Aboleth Spawn
+1 Ancient Cellarspawn
+1 Arvinox, the Mind Flail
+1 Brainstealer Dragon
+1 Consuming Aberration
+1 Duskmantle Guildmage
+1 Gollum the Abandoned
+1 Grazilaxx, Illithid Scholar
+1 Guiltfeeder
+1 Hullbreaker Horror
+1 Hunted Horror
+1 Nemesis of Reason
+1 Nighthowler
+1 Overcharged Amalgam
+1 Ravenous Chupacabra
+1 Ruin Crab
+1 Sewer Nemesis
+1 Silent Hallcreeper
+1 Sludge Monster
+1 Spellskite
+1 Syr Konrad, the Grim
+1 The Master of Lake-town
+1 Thing in the Ice
+1 Uchuulon
+1 Wharf Infiltrator
+1 Zellix, Sanity Flayer
+1 Altar of the Brood
+1 Arcane Signet
+1 Crawlspace
+1 Dimir Cluestone
+1 Dimir Signet
+1 Mindcrank
+1 Patchwork Banner
+1 Riverchurn Monument
+1 Sol Ring
+1 Talisman of Dominance
+1 The Water Crystal
+1 Urza's Incubator
+1 An Offer You Can't Refuse
+1 Dark Ritual
+1 Darkness
+1 Drown in the Loch
+1 Force of Will
+1 Infernal Grasp
+1 Pact of Negation
+1 Simulacrum
+1 Swan Song
+1 Unseal the Necropolis
+1 Withering Torment
+1 Bloodchief Ascension
+1 Oversold Cemetery
+1 Phyrexian Arena
+1 Propaganda
+1 Struggle for Project Purity
+1 Virtue of Persistence
+1 Cabal Coffers
+1 Cavern of Souls
+1 Choked Estuary
+1 Command Tower
+1 Drowned Catacomb
+1 Hidden Lair
+1 Hostile Hostel
+7 Island
+1 Jidoor, Aristocratic Capital
+1 Mortuary Mire
+1 Myriad Landscape
+1 Mystic Sanctuary
+1 Nephalia Drownyard
+1 Path of Ancestry
+1 Restless Reef
+1 Rogue's Passage
+1 Secret Tunnel
+1 Shipwreck Marsh
+1 Sunken Hollow
+1 Sunken Ruins
+9 Swamp
+1 Unclaimed Territory
+1 Urborg, Tomb of Yawgmoth
+1 Dream Harvest
+1 Fractured Sanity
+1 Irenicus's Vile Duplication
+1 Maddening Cacophony
+1 Raise the Palisade
+1 Rise of the Dark Realms
+1 Scheming Symmetry
