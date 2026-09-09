@@ -1,0 +1,106 @@
+// name: Abaddon the Despoiler (Bracket 3)
+// source: community
+// tags: salty, cascade, midrange, group-slug
+
+Commander
+1 Abaddon the Despoiler
+
+Deck
+
+1 Ancestral Vision
+1 Blasphemous Act
+1 Call Forth the Tempest
+1 Cut // Ribbons
+1 Feed the Swarm
+1 Grab the Prize
+1 Jeska's Will
+1 Profane Tutor
+1 See the Truth
+1 Toxic Deluge
+1 Will of the Abzan
+1 Arcane Signet
+1 Cryptolith Fragment
+1 Lightning Greaves
+1 Relic of Sauron
+1 Sol Ring
+1 Sol Talisman
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Black Market Connections
+1 Court of Ambition
+1 Descent into Avernus
+1 Kaya's Ghostform
+1 Maximum Carnage
+1 Mystic Remora
+1 Phyrexian Arena
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cascade Bluffs
+1 Command Tower
+1 Dimir Aqueduct
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Field of the Dead
+1 Gloomlake Verge
+1 Graven Cairns
+1 Haunted Ridge
+1 Island
+1 Izzet Boilerworks
+1 Mountain
+1 Polluted Delta
+1 Rakdos Carnarium
+1 Raucous Theater
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Shipwreck Marsh
+1 Shivan Reef
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfurous Springs
+1 Sunken Ruins
+3 Swamp
+1 Thundering Falls
+1 Undercity Sewers
+1 Underground River
+1 Watery Grave
+1 Xander's Lounge
+1 Bloodletter of Aclazotz
+1 Creeping Bloodsucker
+1 Cryptborn Horror
+1 Duskmantle Seer
+1 Generous Plunderer
+1 Gray Merchant of Asphodel
+1 Hideous Taskmaster
+1 Kardur, Doomscourge
+1 Keen Duelist
+1 Keeper of Secrets
+1 Loyal Subordinate
+1 Nalfeshnee
+1 Neheb, the Eternal
+1 Nightscape Familiar
+1 Noise Marine
+1 Plague Drone
+1 Prosper, Tome-Bound
+1 Rakdos, Lord of Riots
+1 Scrawling Crawler
+1 Sheoldred
+1 Sheoldred, the Apocalypse
+1 Sower of Discord
+1 Spawn of Mayhem
+1 Stormfist Crusader
+1 Twilight Prophet
+1 Brainstorm
+1 Chaos Warp
+1 Confounding Riddle
+1 Deadly Rollick
+1 Delayed Blast Fireball
+1 Dig Through Time
+1 Fell the Profane
+1 Mystic Confluence
+1 Rakdos Charm
+1 Sheoldred's Edict
+1 Soul Shatter
