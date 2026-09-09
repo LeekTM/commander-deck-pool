@@ -1,0 +1,94 @@
+// name: Aloy, Savior of Meridian (Bracket 3)
+// source: community
+// tags: artifacts, stompy, ramp
+
+Commander
+1 Aloy, Savior of Meridian
+
+Deck
+
+1 Academy Ruins
+1 Archway of Innovation
+1 Command Tower
+1 Darksteel Citadel
+1 Dreamroot Cascade
+1 Evolving Wilds
+1 Fabled Passage
+1 Flooded Grove
+8 Forest
+1 Hidden Cataract
+1 Hidden Nursery
+1 Hinterland Harbor
+1 Inventors' Fair
+8 Island
+1 Rejuvenating Springs
+1 Rogue's Passage
+1 Seat of the Synod
+1 Simic Growth Chamber
+1 Tree of Tales
+1 Vineglimmer Snarl
+1 Willowrush Verge
+1 Yavimaya Coast
+1 Adaptive Omnitool
+1 Arcane Signet
+1 Chimil, the Inner Sun
+1 Cloud Key
+1 Cosmic Cube
+1 Forsaken Monument
+1 Herd Heirloom
+1 Simulacrum Synthesizer
+1 Sol Ring
+1 Tarrian's Soulcleaver
+1 The Great Henge
+1 Thought Vessel
+1 Unwinding Clock
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Fog
+1 Growth Spiral
+1 Heroic Intervention
+1 Negate
+1 Artificer Class
+1 Elemental Bond
+1 Garruk's Uprising
+1 Monstrous Vortex
+1 Blightsteel Colossus
+1 Canoptek Spyder
+1 Cityscape Leveler
+1 Cryptothrall
+1 Darksteel Juggernaut
+1 Diamond Weapon
+1 Etherium Sculptor
+1 Foundry Inspector
+1 Geode Golem
+1 Haywire Mite
+1 Kappa Cannoneer
+1 Meteor Golem
+1 Mycosynth Golem
+1 Omega, Heartless Evolution
+1 Panther Robot
+1 Platinum Emperion
+1 Scavenged Brawler
+1 Scrap Trawler
+1 Shambling Suit
+1 Solemn Simulacrum
+1 Spellskite
+1 Steel Hellkite
+1 Steel Overseer
+1 The Reality Chip
+1 Thought Monitor
+1 Traxos, Scourge of Kroog
+1 Verdurous Gearhulk
+1 Wurmcoil Engine
+1 Contest of Claws
+1 Cultivate
+1 Fabricate
+1 Farseek
+1 Kodama's Reach
+1 Nature's Lore
+1 One with the Machine
+1 Overwhelming Stampede
+1 Rampant Growth
+1 Thoughtcast
