@@ -1,0 +1,97 @@
+// name: Post the Enchanter (Bracket 3)
+// source: community
+// tags: combo, enchantments, auras, stax, voltron
+
+Commander
+1 Post the Enchanter
+
+Deck
+
+1 All That Glitters
+1 Aura of Silence
+1 Authority of the Consuls
+1 Copy Enchantment
+1 Curator's Ward
+1 Darksteel Mutation
+1 Daybreak Coronet
+1 Decree of Silence
+1 Energy Field
+1 Estrid's Invocation
+1 Ghostly Prison
+1 Gleaming Splendor
+1 Grasp of Fate
+1 Greater Auramancy
+1 Imprisoned in the Moon
+1 Necrodominance
+1 Phyrexian Arena
+1 Phyrexian Unlife
+1 Propaganda
+1 Rest in Peace
+1 Rhystic Study
+1 Rule of Law
+1 Seal from Existence
+1 Shielded by Faith
+1 Solemnity
+1 Spirit Mantle
+1 Steel of the Godhead
+1 Trespasser's Curse
+1 Vanishing
+1 An Offer You Can't Refuse
+1 Counterspell
+1 Dovin's Veto
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Arcane Sanctum
+1 Bleachbone Verge
+1 Caves of Koilos
+1 Command Tower
+1 Deserted Beach
+1 Exotic Orchard
+1 Fabled Passage
+1 Fetid Pools
+1 Flooded Strand
+1 Floodfarm Verge
+1 Godless Shrine
+1 Hallowed Fountain
+4 Island
+6 Plains
+1 Polluted Delta
+1 Prairie Stream
+1 Reliquary Tower
+1 Rogue's Passage
+1 Shadowy Backstreet
+1 Shipwreck Marsh
+1 Sunken Hollow
+4 Swamp
+1 Valgavoth's Lair
+1 Watery Grave
+1 Arcane Signet
+1 Azorius Signet
+1 Dimir Signet
+1 Fellwar Stone
+1 Lightning Greaves
+1 Orzhov Signet
+1 Scroll Rack
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Thought Vessel
+1 Archon of Sun's Grace
+1 Aven Mindcensor
+1 Esper Sentinel
+1 Grand Abolisher
+1 Hydroelectric Specimen
+1 Notion Thief
+1 Orcish Bowmasters
+1 The Master of Keys
+1 Voice of Victory
+1 Elspeth Resplendent
+1 Teferi, Master of Time
+1 Grim Tutor
+1 Idyllic Tutor
+1 Singularity Rupture
+1 Stock Up
+1 Toxic Deluge
+1 Winds of Rath
