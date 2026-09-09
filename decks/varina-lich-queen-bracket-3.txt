@@ -1,0 +1,108 @@
+// name: Varina, Lich Queen (Bracket 3)
+// source: community
+// tags: midrange, reanimater, combo, graveyard, tokens, tribal
+
+Commander
+1 Varina, Lich Queen
+
+Deck
+
+1 Accursed Marauder
+1 Archfiend of Ifnir
+1 Bone Miser
+1 Carrion Feeder
+1 Corpse Knight
+1 Cryptbreaker
+1 Death Baron
+1 Diregraf Captain
+1 Diregraf Colossus
+1 Grave Researcher
+1 Gravecrawler
+1 Grim Servant
+1 Grimgrin, Corpse-Born
+1 Hashaton, Scarab's Fist
+1 Headless Rider
+1 Hordewing Skaab
+1 Lord of the Undead
+1 Noxious Ghoul
+1 Plague Belcher
+1 Ratadrabik of Urborg
+1 Sidisi, Undead Vizier
+1 Silversmote Ghoul
+1 Tainted Adversary
+1 Temmet, Naktamun's Will
+1 The Scarab God
+1 Undead Augur
+1 Undead Warchief
+1 Vengeful Dead
+1 Warren Soultrader
+1 Wayward Servant
+1 Wilhelt, the Rotcleaver
+1 Witch Enchanter
+1 Zombie Master
+1 Zul Ashur, Lich Lord
+1 Agadeem's Awakening
+1 Damn
+1 Living Death
+1 An Offer You Can't Refuse
+1 Anguished Unmaking
+1 Counterspell
+1 Fell the Profane
+1 Flip the Switch
+1 Parting Gust
+1 Swords to Plowshares
+1 Thraben Charm
+1 Void Rend
+1 Waterlogged Teachings
+1 Withering Torment
+1 Arcane Sanctum
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Caves of Koilos
+1 Command Tower
+1 Deserted Beach
+1 Drowned Catacomb
+1 Field of the Dead
+1 Flooded Strand
+1 Gloomlake Verge
+1 Godless Shrine
+1 Hallowed Fountain
+1 Island
+1 Marsh Flats
+1 Meticulous Archive
+1 Morphic Pool
+1 Phyrexian Tower
+1 Plains
+1 Plaza of Heroes
+1 Polluted Delta
+1 Raffine's Tower
+1 Shadowy Backstreet
+1 Shipwreck Marsh
+1 Silent Clearing
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Swamp
+1 Takenuma, Abandoned Mire
+1 Undercity Sewers
+1 Underground River
+1 Unholy Grotto
+1 Urborg, Tomb of Yawgmoth
+1 Vault of Champions
+1 Watery Grave
+1 Arcane Signet
+1 Azorius Signet
+1 Crowded Crypt
+1 Cryptcaller Chariot
+1 Dimir Signet
+1 Grim Reaper's Scythe
+1 Monument to Endurance
+1 Orzhov Signet
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Necroduality
+1 On Wings of Gold
+1 The Meathook Massacre
+1 Tombstone Stairwell
