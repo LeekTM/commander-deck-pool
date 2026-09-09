@@ -1,0 +1,91 @@
+// name: Aclazotz, Deepest Betrayal (Bracket 3)
+// source: community
+// tags: burn, discard, control, salty
+
+Commander
+1 Aclazotz, Deepest Betrayal
+
+Deck
+
+1 Anvil of Bogardan
+1 Bounty Board
+1 Crown of Gondor
+1 Expedition Map
+1 Heart-Shaped Herb
+1 Jet Medallion
+1 Noetic Scales
+1 Skullclamp
+1 Sol Ring
+1 Sword of Feast and Famine
+1 Archon of Cruelty
+1 Ayara, First of Locthwain
+1 Blightbeetle
+1 Crypt Ghast
+1 Cunning Lethemancer
+1 Gray Merchant of Asphodel
+1 Junji, the Midnight Sky
+1 Mindslicer
+1 Plaguecrafter
+1 Pontiff of Blight
+1 Rankle, Master of Pranks
+1 Rottenmouth Viper
+1 Rotting Rats
+1 Sadistic Hypnotist
+1 Scythe Specter
+1 Sheoldred
+1 Sheoldred, the Apocalypse
+1 Stronghold Rats
+1 Tergrid, God of Fright
+1 The Haunt of Hightower
+1 Tinybones, Trinket Thief
+1 Tourach, Dread Cantor
+1 Astarion's Thirst
+1 Cabal Ritual
+1 Culling the Weak
+1 Dark Ritual
+1 Darkness
+1 Deadly Rollick
+1 Vampiric Tutor
+1 Withering Torment
+1 Bloodchief Ascension
+1 Bottomless Pit
+1 Court of Ambition
+1 Grave Venerations
+1 Liliana's Caress
+1 Necrogen Mists
+1 No Mercy
+1 Oppression
+1 Painful Quandary
+1 Raiders' Wake
+1 Waste Not
+1 Words of Waste
+1 Bojuka Bog
+1 Bonders' Enclave
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Deserted Temple
+1 Geier Reach Sanitarium
+1 Hall of the Bandit Lord
+1 Mikokoro, Center of the Sea
+1 Nykthos, Shrine to Nyx
+1 Reliquary Tower
+1 Shizo, Death's Storehouse
+1 Spymaster's Vault
+18 Swamp
+1 Takenuma, Abandoned Mire
+1 The Black Gate
+1 Tyrite Sanctum
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Saga
+1 War Room
+1 Bubbling Muck
+1 Delirium Skeins
+1 Demonic Tutor
+1 Feed the Swarm
+1 Make an Example
+1 Reanimate
+1 Rise of the Dark Realms
+1 Syphon Mind
+1 Torment of Hailfire
+1 Toxic Deluge
+1 Liliana of the Veil
