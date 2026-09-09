@@ -1,0 +1,90 @@
+// name: Urza, Lord High Artificer (Bracket 3)
+// source: community
+// tags: big-mana, artifacts, control, blink
+
+Commander
+1 Urza, Lord High Artificer
+
+Deck
+
+1 Academy Manufactor
+1 Auton Soldier
+1 Cybermen Squadron
+1 Deadeye Navigator
+1 Displacer Kitten
+1 Etherium Sculptor
+1 Foundry Inspector
+1 Glasspool Mimic
+1 Millikin
+1 Mockingbird
+1 Monstrosity of the Lake
+1 Padeem, Consul of Innovation
+1 Platinum Angel
+1 Sai, Master Thopterist
+1 Spark Double
+1 The Mechanist, Aerial Artisan
+1 The Reality Chip
+1 Thought Monitor
+1 Threefold Thunderhulk
+1 Walking Ballista
+1 Academy Ruins
+1 Blast Zone
+1 Buried Ruin
+1 Castle Vantress
+1 Command Beacon
+1 Darksteel Citadel
+1 Inventors' Fair
+19 Island
+1 Nykthos, Shrine to Nyx
+1 Reliquary Tower
+1 Seat of the Synod
+1 The Mycosynth Gardens
+1 Treasure Vault
+1 Urza's Saga
+1 War Room
+1 Wasteland
+1 Aetherflux Reservoir
+1 Basalt Monolith
+1 Basilisk Collar
+1 Braided Net
+1 Chariot of Victory
+1 Everflowing Chalice
+1 Gilded Pinions
+1 Haunted Cloak
+1 Helm of the Host
+1 Helvault
+1 Hylda's Crown of Winter
+1 Infiltration Lens
+1 Lightning Greaves
+1 Loxodon Warhammer
+1 Lunatic Pandora
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Noble's Purse
+1 Nuka-Cola Vending Machine
+1 Retrofitter Foundry
+1 Sensei's Divining Top
+1 Shadowspear
+1 Simulacrum Synthesizer
+1 Sol Ring
+1 Team Pennant
+1 The Aetherspark
+1 The Endstone
+1 Tormod's Crypt
+1 Treasure Map
+1 Unwinding Clock
+1 Uthros Research Craft
+1 Winged Boots
+1 Zuran Orb
+1 Cyclonic Rift
+1 Dramatic Reversal
+1 Essence Flux
+1 Fierce Guardianship
+1 Ghostly Flicker
+1 Mana Drain
+1 Sink into Stupor
+1 Irenicus's Vile Duplication
+1 Lórien Revealed
+1 Reconstruction
+1 Time Stretch
+1 One with the Multiverse
