@@ -1,0 +1,93 @@
+// name: Bumi, Unleashed (Bracket 2)
+// source: community
+// tags: extra-combats, aggro, benders, +1/+1, lands-matter
+
+Commander
+1 Bumi, Unleashed
+
+Deck
+
+1 Anzrag, the Quake-Mole
+1 Ashaya, Soul of the Wild
+1 Avatar of the Resolute
+1 Badgermole Cub
+1 Birds of Paradise
+1 Bristly Bill, Spine Sower
+1 Canopy Gargantuan
+1 Disciple of Freyalise
+1 Earthbending Student
+1 Embodiment of Fury
+1 Fanatic of Rhonas
+1 Forgotten Ancient
+1 Halana and Alena, Partners
+1 Kodama of the West Tree
+1 Llanowar Elves
+1 Moraug, Fury of Akoum
+1 Mossborn Hydra
+1 Poison Dart Frog
+1 Primeval Herald
+1 Quirion Beastcaller
+1 Railway Brawler
+1 Raucous Audience
+1 Sprouting Goblin
+1 Studious First-Year
+1 Tannuk, Memorial Ensign
+1 Toph, Earthbending Master
+1 Toph, Greatest Earthbender
+1 Toph, Hardheaded Teacher
+1 Toph, the Blind Bandit
+1 Arcane Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 The Earth Crystal
+1 The Great Henge
+1 Awakening of Vitu-Ghazi
+1 Cycle of Renewal
+1 Fog
+1 Gift of the Viper
+1 Origin of Metalbending
+1 Pillar Launch
+1 Redirect Lightning
+1 Return of the Wildspeaker
+1 Bitter Work
+1 Branching Evolution
+1 Earthbender Ascension
+1 Garruk's Uprising
+1 Innkeeper's Talent
+1 Level Up
+1 Rhythm of the Wild
+1 Seismic Tutelage
+1 Sphere Grid
+1 Terrasymbiosis
+1 The Legend of Kyoshi
+1 World War Hulk
+1 Blinkmoth Nexus
+1 Boseiju, Who Endures
+1 Bristling Backwoods
+1 Cabaretti Courtyard
+1 Cinder Glade
+1 Darksteel Citadel
+1 Dryad Arbor
+1 Evolving Wilds
+13 Forest
+1 Inkmoth Nexus
+1 Llanowar Reborn
+4 Mountain
+1 Omashu City
+1 Restless Ridgeline
+1 Rogue's Passage
+1 Secret Tunnel
+1 Sheltered Thicket
+1 Slagwoods Bridge
+1 Terramorphic Expanse
+1 Training Compound
+1 Urza's Saga
+1 Bridgeworks Battle
+1 Earth Rumble
+1 Earthbending Lesson
+1 Hull Breach
+1 Restorative Technique
+1 Rockalanche
+1 Nissa, Who Shakes the World
+1 Vivien Reid
