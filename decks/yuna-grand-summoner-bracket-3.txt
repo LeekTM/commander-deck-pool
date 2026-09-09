@@ -1,0 +1,101 @@
+// name: Yuna, Grand Summoner (Bracket 3)
+// source: community
+// tags: +1/+1
+
+Commander
+1 Yuna, Grand Summoner
+
+Deck
+
+1 Aluren
+1 Branching Evolution
+1 Cathars' Crusade
+1 Hardened Scales
+1 Inexorable Tide
+1 Innkeeper's Talent
+1 Loading Zone
+1 Mystic Remora
+1 Terrasymbiosis
+1 Arcane Signet
+1 Birthing Pod
+1 Dragon Throne of Tarkir
+1 Sol Ring
+1 The Earth Crystal
+1 The Great Henge
+1 The Ozolith
+1 Arwen, Weaver of Hope
+1 Birds of Paradise
+1 Bristly Bill, Spine Sower
+1 Champion of Lambholt
+1 Cosmogrand Zenith
+1 Crashing Drawbridge
+1 Danny Pink
+1 Evolution Witness
+1 Faerie Mastermind
+1 Forgotten Ancient
+1 Galadriel, Light of Valinor
+1 Hangarback Walker
+1 Kami of Whispered Hopes
+1 Kutzil, Malamet Exemplar
+1 Llanowar Elves
+1 Loran of the Third Path
+1 Lulu, Stern Guardian
+1 Luminous Broodmoth
+1 Maester Seymour
+1 Managorger Hydra
+1 Marketback Walker
+1 Noble Hierarch
+1 O'aka, Traveling Merchant
+1 Ouroboroid
+1 Pollywog Prodigy
+1 Quantum Riddler
+1 Scholar of New Horizons
+1 Selvala, Heart of the Wilds
+1 Shalai, Voice of Plenty
+1 Spellskite
+1 Tidus, Yuna's Guardian
+1 Viral Drake
+1 Warden of the Grove
+1 Bala Ged Recovery
+1 Collective Effort
+1 Damning Verdict
+1 Farewell
+1 Farseek
+1 Germination Practicum
+1 Nature's Lore
+1 Winds of Abandon
+1 Bountiful Promenade
+1 Breeding Pool
+1 Command Tower
+1 Dreamroot Cascade
+1 Flooded Strand
+4 Forest
+1 Gavony Township
+1 Glacial Fortress
+1 Hedge Maze
+1 Hinterland Harbor
+3 Island
+1 Lush Portico
+1 Meticulous Archive
+1 Minamo, School at Water's Edge
+1 Nesting Grounds
+1 Overflowing Basin
+3 Plains
+1 Prairie Stream
+1 Rejuvenating Springs
+1 Seaside Citadel
+1 Skycloud Expanse
+1 Spara's Headquarters
+1 Strip Mine
+1 Sunpetal Grove
+1 Urban Retreat
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+1 Eladamri's Call
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Heroic Intervention
+1 Inspiring Call
+1 Muddle the Mixture
+1 Mutational Advantage
+1 Sink into Stupor
