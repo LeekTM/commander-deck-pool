@@ -1,0 +1,86 @@
+// name: Arahbo, Roar of the World (Bracket 3)
+// source: community
+// tags: +1/+1, tokens, tribal
+
+Commander
+1 Arahbo, Roar of the World
+
+Deck
+
+1 Adorned Pouncer
+1 Arahbo, the First Fang
+1 Bast, Panther Goddess
+1 Birds of Paradise
+1 Brimaz, King of Oreskos
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Feline Sovereign
+1 Jareth, Leonine Titan
+1 Kaheera, the Orphanguard
+1 Keeper of Fables
+1 King of the Pride
+1 Kutzil, Malamet Exemplar
+1 Leonin Warleader
+1 Mirri, Weatherlight Duelist
+1 Ocelot Pride
+1 Ohran Frostfang
+1 Phantom Nishoba
+1 Pride Sovereign
+1 Prowling Serpopard
+1 Qasali Slingers
+1 Regal Caracal
+1 Sovereign Okinec Ahau
+1 Ajani, Caller of the Pride
+1 Ajani, Strength of the Pride
+1 Ajani, the Greathearted
+1 Akroma's Will
+1 Archdruid's Charm
+1 Beast Within
+1 Dawn's Truce
+1 Generous Gift
+1 Heroic Intervention
+1 Path to Exile
+1 Return of the Wildspeaker
+1 Swords to Plowshares
+1 Ancient Tomb
+1 Animal Sanctuary
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Canopy Vista
+1 Command Tower
+1 Exotic Orchard
+12 Forest
+1 Hushwood Verge
+1 Mosswort Bridge
+12 Plains
+1 Secluded Courtyard
+1 Sunpetal Grove
+1 Three Tree City
+1 Windbrisk Heights
+1 Arcane Signet
+1 Chronicle of Victory
+1 Eldrazi Monument
+1 Emerald Medallion
+1 Herald's Horn
+1 Oketra's Monument
+1 Orcrist, Goblin-cleaver
+1 Pearl Medallion
+1 Sol Ring
+1 Urza's Incubator
+1 Beastmaster Ascension
+1 Burgeoning
+1 Cathars' Crusade
+1 Court of Garenbrig
+1 Defense of the Heart
+1 Doubling Season
+1 Elemental Bond
+1 Garruk's Uprising
+1 Growing Rites of Itlimoc
+1 Land Tax
+1 Enduring Ideal
+1 Farseek
+1 Finale of Devastation
+1 Harmonize
+1 Kodama's Reach
+1 Rampant Growth
+1 Triumph of the Hordes
