@@ -1,0 +1,102 @@
+// name: Anikthea, Hand of Erebos (Bracket 3)
+// source: community
+// tags: enchantments, reanimater, midrange
+
+Commander
+1 Anikthea, Hand of Erebos
+
+Deck
+
+1 Abundance
+1 Authority of the Consuls
+1 Battle for Bretagard
+1 Binding the Old Gods
+1 Boon of the Spirit Realm
+1 Cacophony Unleashed
+1 City of Death
+1 Doubling Season
+1 Elemental Bond
+1 Enchantress's Presence
+1 Familiar Ground
+1 Font of Fertility
+1 Gleaming Splendor
+1 Grasp of Fate
+1 Khalni Heart Expedition
+1 Legion Loyalty
+1 Parallel Lives
+1 Phyrexian Arena
+1 Ripples of Undeath
+1 Smothering Tithe
+1 Song of the Worldsoul
+1 Sphere of Safety
+1 Starfield of Nyx
+1 Sterling Grove
+1 Teleportation Circle
+1 The Eldest Reborn
+1 Touch the Spirit Realm
+1 Unnatural Growth
+1 Adagia, Windswept Bastion
+1 Bountiful Promenade
+1 Brushland
+1 Caves of Koilos
+1 Command Tower
+1 Deathcap Glade
+1 Exotic Orchard
+1 Fetid Heath
+5 Forest
+1 Godless Shrine
+1 Hall of Heliod's Generosity
+1 Indatha Triome
+1 Llanowar Wastes
+1 Lush Portico
+1 Marsh Flats
+1 Overgrown Farmland
+1 Overgrown Tomb
+3 Plains
+1 Shadowy Backstreet
+1 Shattered Sanctum
+1 Swamp
+1 Takenuma, Abandoned Mire
+1 Temple Garden
+1 Twilight Mire
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Vault of Champions
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Bastion
+1 Agent of Erebos
+1 Calix, Guided by Fate
+1 Destiny Spinner
+1 Doomwake Giant
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Enduring Vitality
+1 Grim Guardian
+1 Herald of the Pantheon
+1 Jukai Naturalist
+1 Moonshaker Cavalry
+1 Nyxbloom Ancient
+1 Ondu Spiritdancer
+1 Overlord of the Balemurk
+1 Overlord of the Hauntwoods
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Setessan Champion
+1 Shigeki, Jukai Visionary
+1 Summon: Bahamut
+1 Summon: Primal Odin
+1 Sythis, Harvest's Hand
+1 Weaver of Harmony
+1 Arcane Signet
+1 Sol Ring
+1 Assassin's Trophy
+1 Deadly Rollick
+1 Enlightened Tutor
+1 Path to Exile
+1 Rootborn Defenses
+1 Sundering Growth
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Eerie Ultimatum
+1 Extinguish All Hope
