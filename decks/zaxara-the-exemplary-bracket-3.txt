@@ -1,0 +1,96 @@
+// name: Zaxara, the Exemplary (Bracket 3)
+// source: community
+// tags: +1/+1, tribal, x
+
+Commander
+1 Zaxara, the Exemplary
+
+Deck
+
+1 Animist's Awakening
+1 Awaken the Woods
+1 Curse of the Swine
+1 Doppelgang
+1 Exsanguinate
+1 Finale of Devastation
+1 Finale of Revelation
+1 Mind into Matter
+1 Nature's Rhythm
+1 Pest Infestation
+1 Torment of Hailfire
+1 Villainous Wealth
+1 Arcane Signet
+1 Astral Cornucopia
+1 Elementalist's Palette
+1 Ozolith, the Shattered Spire
+1 Sol Ring
+1 The Earth Crystal
+1 The Great Henge
+1 The Ozolith
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Command Tower
+5 Forest
+1 Hinterland Harbor
+5 Island
+1 Karn's Bastion
+1 Mistrise Village
+1 Misty Rainforest
+1 Morphic Pool
+1 Myriad Landscape
+1 Otawara, Soaring City
+1 Overgrown Tomb
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rogue's Passage
+5 Swamp
+1 Temple of the False God
+1 Three Tree City
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Watery Grave
+1 Woodland Cemetery
+1 Zagoth Triome
+1 Broodguard Elite
+1 Corpsejack Menace
+1 Gargos, Vicious Watcher
+1 Goldvein Hydra
+1 Grakmaw, Skyclave Ravager
+1 Herald of Secret Streams
+1 Hooded Hydra
+1 Hungering Hydra
+1 Hydroid Krasis
+1 Kinetic Ooze
+1 Kodama of the West Tree
+1 Nexos
+1 Nyxbloom Ancient
+1 Ochre Jelly
+1 Owlin Spiralmancer
+1 Primo, the Unbounded
+1 Primordial Hydra
+1 Rampaging Yao Guai
+1 Seedborn Muse
+1 Selvala, Heart of the Wilds
+1 Stensian Sanguinist
+1 Striding Shotcaller
+1 The Goose Mother
+1 Tyrant Guard
+1 Walking Ballista
+1 Wan Shi Tong, Librarian
+1 Zimone, Infinite Analyst
+1 Zimone, Paradox Sculptor
+1 Deadly Rollick
+1 Erebos's Intervention
+1 Fierce Guardianship
+1 Heroic Intervention
+1 Mystical Tutor
+1 Pull from Tomorrow
+1 Repulsive Mutation
+1 Silkguard
+1 Stroke of Genius
+1 Syncopate
+1 Garruk's Uprising
+1 Hardened Scales
+1 Innkeeper's Talent
+1 Terrasymbiosis
+1 Unbound Flourishing
