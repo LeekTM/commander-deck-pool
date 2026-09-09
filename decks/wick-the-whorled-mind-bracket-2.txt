@@ -1,0 +1,101 @@
+// name: Wick, the Whorled Mind (Bracket 2)
+// source: community
+// tags: +1/+1, tribal, tokens, control, burn
+
+Commander
+1 Wick, the Whorled Mind
+
+Deck
+
+1 Arcane Denial
+1 Archenemy's Charm
+1 Bulk Up
+1 Chaos Warp
+1 Rat Out
+1 Untimely Malfunction
+1 Village Rites
+1 Withering Torment
+1 Arcane Signet
+1 Chainsaw
+1 Dimir Signet
+1 Fellwar Stone
+1 Herald's Horn
+1 Jet Medallion
+1 Maskwood Nexus
+1 Panharmonicon
+1 Patchwork Banner
+1 Rakdos Signet
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Ozolith
+1 Thought Vessel
+1 Ashcoat of the Shadow Swarm
+1 Ayara, First of Locthwain
+1 Azure Beastbinder
+1 Bloodline Pretender
+1 Chittering Witch
+1 Crypt Rats
+1 Graveshifter
+1 Karumonix, the Rat King
+1 Lord Skitter's Butcher
+1 Lord Skitter, Sewer King
+1 Mad Ratter
+1 Marrow-Gnawer
+1 Ogre Slumlord
+1 Pack Rat
+1 Piper of the Swarm
+1 Purphoros, God of the Forge
+1 Rat King, Verminister
+1 Redcap Gutter-Dweller
+1 Shoreline Looter
+1 Species Specialist
+1 Tangled Colony
+1 Taurean Mauler
+1 Totentanz, Swarm Piper
+1 Valley Rotcaller
+1 Voracious Vermin
+1 Vren, the Relentless
+1 Yawgmoth, Thran Physician
+1 Bad River
+1 Big Apple, 3 a.m.
+1 Cavern of Souls
+1 Command Tower
+1 Crumbling Necropolis
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fabled Passage
+1 Haunted Ridge
+1 Island
+1 Luxury Suite
+1 Maestros Theater
+1 Morphic Pool
+1 Mountain
+1 Mudflat Village
+1 Path of Ancestry
+1 Phyrexian Tower
+1 Raucous Theater
+1 Shipwreck Marsh
+1 Steam Vents
+8 Swamp
+1 Swarmyard
+1 Three Tree City
+1 Undercity Sewers
+1 Watery Grave
+1 Witch's Clinic
+1 Xander's Lounge
+1 Black Market
+1 Black Market Connections
+1 Chthonian Nightmare
+1 Collective Inferno
+1 Dictate of Erebos
+1 Impact Tremors
+1 Kindred Discovery
+1 Wizard Class
+1 Flow State
+1 Kindred Dominance
+1 Raise the Palisade
+1 Song of Totentanz
+1 Splash Portal
+1 Swarmyard Massacre
