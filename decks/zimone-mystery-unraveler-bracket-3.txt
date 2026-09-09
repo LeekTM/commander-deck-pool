@@ -1,0 +1,94 @@
+// name: Zimone, Mystery Unraveler (Bracket 3)
+// source: community
+// tags: good-stuff, toolbox, combo, ramp
+
+Commander
+1 Zimone, Mystery Unraveler
+
+Deck
+
+1 Abhorrent Oculus
+1 Aesi, Tyrant of Gyre Strait
+1 Ancient Adamantoise
+1 Ancient Greenwarden
+1 Ashaya, Soul of the Wild
+1 Blightsteel Colossus
+1 Curator Beastie
+1 Experiment Twelve
+1 Hauntwoods Shrieker
+1 Hullbreaker Horror
+1 Hydroelectric Specimen
+1 Icetill Explorer
+1 Kadena's Silencer
+1 Kheru Spellsnatcher
+1 Kodama of the East Tree
+1 Koma, Cosmos Serpent
+1 Mossborn Hydra
+1 Overlord of the Hauntwoods
+1 Paranormal Analyst
+1 Sakashima the Impostor
+1 Sakura-Tribe Elder
+1 Scute Swarm
+1 Six
+1 Starfield Vocalist
+1 Surrak and Goreclaw
+1 Ticking Gnomes
+1 Tireless Provisioner
+1 Traveling Chocobo
+1 Vesuvan Shapeshifter
+1 Vigor
+1 Willbender
+1 Wonder
+1 Yedora, Grave Gardener
+1 Arid Archway
+1 Blighted Woodland
+1 Boseiju, Who Endures
+1 Breeding Pool
+1 Command Tower
+1 Dark Depths
+1 Dreamroot Cascade
+1 Drownyard Temple
+1 Evolving Wilds
+1 Fabled Passage
+1 Flooded Strand
+9 Forest
+1 Hinterland Harbor
+7 Island
+1 Misty Rainforest
+1 Myriad Landscape
+1 Mystic Sanctuary
+1 Reliquary Tower
+1 Shifting Woodland
+1 Simic Growth Chamber
+1 Terramorphic Expanse
+1 Undiscovered Paradise
+1 Vesuva
+1 Vibrant Cityscape
+1 Brainstorm
+1 Counterspell
+1 Ghostly Flicker
+1 Harrow
+1 Heroic Intervention
+1 Mirrorform
+1 Reincarnation
+1 Sink into Stupor
+1 Worldly Tutor
+1 Burgeoning
+1 Defense of the Heart
+1 Greater Good
+1 Mana Reflection
+1 Omniscience
+1 They Came from the Pipes
+1 Virtue of Knowledge
+1 Conduit of Worlds
+1 Lightning Greaves
+1 Scroll Rack
+1 Scroll of Fate
+1 Sol Ring
+1 Cultivate
+1 Doppelgang
+1 Ezuri's Predation
+1 Overwhelming Stampede
+1 Rampant Growth
+1 Skyshroud Claim
+1 Triumph of the Hordes
