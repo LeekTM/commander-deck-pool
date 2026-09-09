@@ -1,0 +1,92 @@
+// name: Amzu, Swarm's Hunger (Bracket 3)
+// source: community
+// tags: +1/+1, tribal, tokens, midrange, reanimater
+
+Commander
+1 Amzu, Swarm's Hunger
+
+Deck
+
+1 Aftermath Analyst
+1 Blightbeetle
+1 Caustic Caterpillar
+1 Deadbridge Goliath
+1 Durable Coilbug
+1 Duskshell Crawler
+1 Endless Cockroaches
+1 Giant Adephage
+1 Gleancrawler
+1 Grave Sifter
+1 Hornet Queen
+1 Iridescent Hornbeetle
+1 Mazirek, Kraul Death Priest
+1 Metallic Mimic
+1 Rust Scarab
+1 Sakura-Tribe Elder
+1 Scute Mob
+1 Scute Swarm
+1 Skylasher
+1 Zask, Skittering Swarmlord
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Ashnod's Altar
+1 Conduit of Worlds
+1 Ghost Lantern
+1 Lightning Greaves
+1 Phyrexian Altar
+1 Shadowspear
+1 Skullclamp
+1 Sol Ring
+1 Sword of the Animist
+1 Whispersilk Cloak
+1 Aspect of Mongoose
+1 Branching Evolution
+1 Burgeoning
+1 Crawling Infestation
+1 Doubling Season
+1 Insidious Roots
+1 Moldervine Reclamation
+1 Parallel Lives
+1 Ripples of Undeath
+1 Tortured Existence
+1 Assassin's Trophy
+1 Beast Within
+1 Entomb
+1 Evolution Charm
+1 Grapple with the Past
+1 Harrow
+1 Heroic Intervention
+1 Krosan Grip
+1 Putrefy
+1 Return of the Wildspeaker
+1 Urgent Necropsy
+1 Bala Ged Recovery
+1 Beacon of Creation
+1 Cultivate
+1 Demonic Tutor
+1 Kindred Dominance
+1 Nature's Lore
+1 Rise of the Witch-king
+1 Toxic Deluge
+1 Victimize
+1 Bojuka Bog
+1 Buried Ruin
+1 Command Beacon
+1 Command Tower
+1 Darkmoss Bridge
+1 Deathcap Glade
+14 Forest
+1 Golgari Rot Farm
+1 Necroblossom Snarl
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Reliquary Tower
+4 Swamp
+1 Swarmyard
+1 Temple of Malady
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Woodland Cemetery
+1 Grist, the Hunger Tide
