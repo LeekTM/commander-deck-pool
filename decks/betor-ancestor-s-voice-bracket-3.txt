@@ -1,0 +1,98 @@
+// name: Betor, Ancestor's Voice (Bracket 3)
+// source: community
+// tags: +1/+1, self-damage, lifegain, good-stuff
+
+Commander
+1 Betor, Ancestor's Voice
+
+Deck
+
+1 Abzan Battle Priest
+1 Accomplished Alchemist
+1 Aftermath Analyst
+1 Arbor Adherent
+1 Arwen, Weaver of Hope
+1 Birds of Paradise
+1 Bloom Tender
+1 Canopy Gargantuan
+1 Celestine, the Living Saint
+1 Delighted Halfling
+1 Doom Whisperer
+1 Esper Sentinel
+1 Essence Warden
+1 Eternal Witness
+1 Exemplar of Light
+1 Honest Rutstein
+1 Hornet Queen
+1 Kami of Whispered Hopes
+1 Lathiel, the Bounteous Dawn
+1 Nykthos Paragon
+1 Odric, Lunarch Marshal
+1 Ouroboroid
+1 Rhox Faithmender
+1 Selfless Spirit
+1 Serra Ascendant
+1 Shadrix Silverquill
+1 Shalai, Voice of Plenty
+1 Soul's Attendant
+1 Trostani, Selesnya's Voice
+1 Agadeem's Awakening
+1 Damn
+1 Eerie Ultimatum
+1 Farewell
+1 Feed the Swarm
+1 Fumigate
+1 Germination Practicum
+1 Reanimate
+1 Regrowth
+1 Rishkar's Expertise
+1 Storm Herd
+1 Three Visits
+1 Toxic Deluge
+1 Anguished Unmaking
+1 Dark Ritual
+1 Despark
+1 Flawless Maneuver
+1 Fog
+1 Hatred
+1 Heroic Intervention
+1 Swords to Plowshares
+1 Arcane Signet
+1 Bender's Waterskin
+1 Bolas's Citadel
+1 Sol Ring
+1 The Ozolith
+1 Whip of Erebos
+1 Black Market Connections
+1 Court of Garenbrig
+1 Font of Agonies
+1 Land Tax
+1 Necropotence
+1 Ripples of Undeath
+1 Sanguine Bond
+1 Soul Snare
+1 Terrasymbiosis
+1 Test of Endurance
+1 Boseiju, Who Endures
+1 City of Brass
+1 Command Tower
+1 Flooded Strand
+5 Forest
+1 Godless Shrine
+1 Golgari Rot Farm
+1 Indatha Triome
+1 Karn's Bastion
+1 Mana Confluence
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Path of Ancestry
+4 Plains
+1 Prismatic Vista
+1 Reflecting Pool
+1 Sandsteppe Citadel
+1 Selesnya Sanctuary
+4 Swamp
+1 Takenuma, Abandoned Mire
+1 Temple Garden
+1 Verdant Catacombs
+1 Windswept Heath
