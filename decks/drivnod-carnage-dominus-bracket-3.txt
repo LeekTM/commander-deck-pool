@@ -1,0 +1,85 @@
+// name: Drivnod, Carnage Dominus (Bracket 3)
+// source: community
+// tags: graveyard, aristocrats, combo
+
+Commander
+1 Drivnod, Carnage Dominus
+
+Deck
+
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Ashnod's Altar
+1 Blade of Selves
+1 Bolas's Citadel
+1 Charcoal Diamond
+1 Coldsteel Heart
+1 Jet Medallion
+1 Phyrexian Altar
+1 Sol Ring
+1 Vat of Rebirth
+1 Wayfarer's Bauble
+1 Animate Dead
+1 Bastion of Remembrance
+1 Exquisite Blood
+1 Necropotence
+1 Nowhere to Run
+1 Sanguine Bond
+1 Tombstone Stairwell
+1 Blasphemous Edict
+1 Damnation
+1 Incarnation Technique
+1 Mutilate
+1 Reanimate
+1 Rush of Dread
+1 Torment of Hailfire
+1 Toxic Deluge
+1 Blood Artist
+1 Bloodletter of Aclazotz
+1 Bloodthirsty Conqueror
+1 Carrion Feeder
+1 Cavalier of Night
+1 Crypt Ghast
+1 Emeritus of Woe
+1 Enduring Tenacity
+1 Falkenrath Noble
+1 Gray Merchant of Asphodel
+1 Grim Haruspex
+1 Kokusho, the Evening Star
+1 Marionette Apprentice
+1 Massacre Wurm
+1 Murderous Rider
+1 Pawn of Ulamog
+1 Plaguecrafter
+1 Qarsi Revenant
+1 Reassembling Skeleton
+1 Sephiroth, Fabled SOLDIER
+1 Solemn Simulacrum
+1 Vampire Nighthawk
+1 Vein Ripper
+1 Viscera Seer
+1 Vito, Thorn of the Dusk Rose
+1 Yawgmoth, Thran Physician
+1 Zulaport Cutthroat
+1 Bojuka Bog
+1 Cabal Coffers
+1 Castle Locthwain
+1 Crypt of Agadeem
+1 Mortuary Mire
+1 Nykthos, Shrine to Nyx
+1 Phyrexian Tower
+1 Susur Secundi, Void Altar
+24 Swamp
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+1 Witch's Cottage
+1 Corrupted Conviction
+1 Dark Ritual
+1 Deadly Dispute
+1 Eat to Extinction
+1 Malakir Rebirth
+1 Reckoner's Bargain
+1 Vampiric Tutor
+1 Village Rites
+1 Withering Torment
+1 Lolth, Spider Queen
