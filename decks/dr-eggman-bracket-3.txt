@@ -1,0 +1,103 @@
+// name: Dr. Eggman (Bracket 3)
+// source: community
+// tags: artifacts, vehicles, flying, tokens
+
+Commander
+1 Dr. Eggman
+
+Deck
+
+1 Adaptive Omnitool
+1 Arc Reactor
+1 Arcane Signet
+1 Brotherhood Vertibird
+1 Cranial Plating
+1 Cranial Ram
+1 Crystal Skull, Isu Spyglass
+1 Demonic Junker
+1 Dimir Signet
+1 Izzet Signet
+1 Mox Opal
+1 Nettlecyst
+1 RMS Titanic
+1 Simulacrum Synthesizer
+1 Sol Ring
+1 Strionic Resonator
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 The Indomitable
+1 The One Ring
+1 The Reaver Cleaver
+1 Uthros Research Craft
+1 Vibranium Mining Mech
+1 Arcane Denial
+1 Counterspell
+1 Fell the Profane
+1 Force of Will
+1 Muddle the Mixture
+1 Negate
+1 Pongify
+1 Sink into Stupor
+1 Vampiric Tutor
+1 Whir of Invention
+1 Archway of Innovation
+1 Blood Crypt
+1 Buried Ruin
+1 Clearwater Pathway
+1 Command Tower
+1 Crumbling Necropolis
+1 Darksteel Citadel
+1 Darkwater Catacombs
+1 Drossforge Bridge
+1 Ferrous Lake
+1 Great Furnace
+5 Island
+1 Mistvault Bridge
+2 Mountain
+1 Riverglide Pathway
+1 Seat of the Synod
+1 Shadowblood Ridge
+1 Shivan Reef
+1 Silverbluff Bridge
+1 Spire of Industry
+1 Steam Vents
+1 Sulfurous Springs
+1 Swamp
+1 Treasure Vault
+1 Underground River
+1 Urza's Saga
+1 Vault of Whispers
+1 Watery Grave
+1 Blasphemous Act
+1 Delete
+1 Fabricate
+1 Shatterskull Smashing
+1 Thoughtcast
+1 Chameleon, Master of Disguise
+1 Chief Engineer
+1 Cityscape Leveler
+1 Cyberdrive Awakener
+1 Depthshaker Titan
+1 Emry, Lurker of the Loch
+1 Enthusiastic Mechanaut
+1 Forensic Gadgeteer
+1 Foundry Inspector
+1 Golbez, Crystal Collector
+1 Kappa Cannoneer
+1 Krang, Utrom Warlord
+1 Master Transmuter
+1 Metalwork Colossus
+1 Myr Battlesphere
+1 Noxious Gearhulk
+1 Padeem, Consul of Innovation
+1 Phyrexian Metamorph
+1 Pinnacle Emissary
+1 Ravenous Robots
+1 Rose, Cutthroat Raider
+1 Sai, Master Thopterist
+1 Shuri, Wakandan Inventor
+1 Thought Monitor
+1 Ultron, Artificial Malevolence
+1 Mechanized Production
+1 Weapons Manufacturing
+1 Tezzeret, Master of the Bridge
