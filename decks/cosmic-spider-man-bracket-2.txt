@@ -1,0 +1,108 @@
+// name: Cosmic Spider-Man (Bracket 2)
+// source: community
+// tags: tribal
+
+Commander
+1 Cosmic Spider-Man
+
+Deck
+
+1 Agent Phil Coulson
+1 Arasta of the Endless Web
+1 Aunt May
+1 Blech, Loafing Pest
+1 Captain America, Super-Soldier
+1 Captain America, Team Leader
+1 Director Nick Fury
+1 Guy in the Chair
+1 Gwen Stacy
+1 Jarvis, Earth's Mightiest Butler
+1 Mary Jane Watson
+1 Metallic Mimic
+1 Miles Morales
+1 Peter Parker
+1 Radioactive Spider
+1 Roaming Throne
+1 Scarlet Spider, Ben Reilly
+1 Sensational Spider-Man
+1 Shelob, Child of Ungoliant
+1 Silk, Web Weaver
+1 Spectacular Spider-Man
+1 Spider Manifestation
+1 Spider-Ham, Peter Porker
+1 Spider-Man 2099
+1 Spider-Man, Miles Morales
+1 Spider-Man, Peter Parker
+1 Spider-Man, Web-Spinner
+1 Spider-Punk
+1 Spider-Woman, Stunning Savior
+1 Superior Spider-Man
+1 Symbiote Spider-Man
+1 Thantis, the Warweaver
+1 Twitching Doll
+1 Arachnogenesis
+1 Beast Within
+1 Comeuppance
+1 Go for the Throat
+1 Harmonized Crescendo
+1 Heroic Intervention
+1 Savage Beating
+1 Spider-Sense
+1 Arid Mesa
+1 Avengers Tower
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 Cavern of Souls
+1 Command Tower
+1 Daily Bugle Building
+1 Exotic Orchard
+1 Flooded Strand
+1 Forest
+1 Godless Shrine
+1 Hallowed Fountain
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+1 Mountain
+1 Multiversal Passage
+1 Oscorp Industries
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Plains
+1 Polluted Delta
+1 Reflecting Pool
+1 Sacred Foundry
+1 Scalding Tarn
+1 Secluded Courtyard
+1 Steam Vents
+1 Stomping Ground
+1 Swamp
+1 Swarmyard
+1 Temple Garden
+1 Unclaimed Territory
+1 Urban Retreat
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Avengers Assemble!
+1 Black Market Connections
+1 Collective Inferno
+1 Impostor Syndrome
+1 Leyline Binding
+1 Origin of the Avengers
+1 The Clone Saga
+1 World War Hulk
+1 Banner of Kinship
+1 Herald's Horn
+1 Lightning Greaves
+1 Orcrist, Goblin-cleaver
+1 The Soul Stone
+1 Blasphemous Act
+1 Kindred Dominance
+1 Ponder
+1 Reanimate
+1 Relentless Assault
+1 Scheming Symmetry
+1 Three Visits
