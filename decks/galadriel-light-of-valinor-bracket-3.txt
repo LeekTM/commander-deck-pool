@@ -1,0 +1,99 @@
+// name: Galadriel, Light of Valinor (Bracket 3)
+// source: community
+// tags: tribal, +1/+1, lands-matter, card-draw
+
+Commander
+1 Galadriel, Light of Valinor
+
+Deck
+
+1 Allosaurus Shepherd
+1 Arwen Undómiel
+1 Arwen, Weaver of Hope
+1 Badgermole Cub
+1 Bard, King of Dale
+1 Birds of Paradise
+1 Bloom Tender
+1 Bramblewood Paragon
+1 Bristly Bill, Spine Sower
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Elrond, Lord of Rivendell
+1 Elrond, Master of Healing
+1 Elvish Archdruid
+1 Elvish Harbinger
+1 Elvish Mariner
+1 Galadhrim Brigade
+1 Galadriel of Lothlórien
+1 Illustrious Wanderglyph
+1 Imperious Perfect
+1 Kenessos, Priest of Thassa
+1 Koma, Cosmos Serpent
+1 Marwyn, the Nurturer
+1 Matoya, Archon Elder
+1 Mossborn Hydra
+1 Noble Hierarch
+1 Priest of Titania
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Scute Swarm
+1 Starfield Vocalist
+1 Tatyova, Benthic Druid
+1 Tendershoot Dryad
+1 Thassa, God of the Sea
+1 The Queen of Dale
+1 Thranduil, Sindarin Liege
+1 Thrasios, Triton Hero
+1 Tifa Lockhart
+1 Toph, Earthbending Master
+1 Wolverine Riders
+1 Arcane Signet
+1 Palantír of Orthanc
+1 Planetarium of Wan Shi Tong
+1 Sol Ring
+1 The Great Henge
+1 Barkchannel Pathway
+1 Botanical Sanctum
+1 Branchloft Pathway
+1 Breeding Pool
+1 Command Tower
+1 Dreamroot Cascade
+1 Elven Passage
+1 Evolving Wilds
+1 Exotic Orchard
+5 Forest
+1 Hinterland Harbor
+1 Hobbit Hole
+4 Island
+1 Minas Tirith
+1 Overgrown Farmland
+1 Path of Ancestry
+3 Plains
+1 Quandrix Campus
+1 Rain-Slicked Copse
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Rivendell
+1 Seaside Citadel
+1 Simic Growth Chamber
+1 Sodden Verdure
+1 Temple Garden
+1 The Grey Havens
+1 Willowrush Verge
+1 Counterspell
+1 Galadhrim Ambush
+1 Galadriel's Dismissal
+1 Generous Gift
+1 Heroic Intervention
+1 Path to Exile
+1 Swords to Plowshares
+1 Cultivate
+1 Distant Melody
+1 Raise the Palisade
+1 Requisition Raid
+1 Defense of the Heart
+1 Felidar Retreat
+1 Retreat to Coralhelm
+1 Rhystic Study
+1 Season of Growth
+1 Nissa, Steward of Elements
