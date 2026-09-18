@@ -1,0 +1,101 @@
+// name: Chulane, Teller of Tales (Bracket 3)
+// source: community
+// tags: toolbox, ramp
+
+Commander
+1 Chulane, Teller of Tales
+
+Deck
+
+1 Academy Manufactor
+1 Agent of Treachery
+1 Angel of Finality
+1 Bonny Pall, Clearcutter
+1 Circle of Dreams Druid
+1 Cityscape Leveler
+1 Craterhoof Behemoth
+1 Cultivator Colossus
+1 Dawnglade Regent
+1 Delighted Halfling
+1 Elesh Norn, Grand Cenobite
+1 Elesh Norn, Mother of Machines
+1 Emeritus of Abundance
+1 Enduring Vitality
+1 Esper Sentinel
+1 Faeburrow Elder
+1 Fauna Shaman
+1 Gala Greeters
+1 Gilded Goose
+1 Helga, Skittish Seer
+1 Hydroid Krasis
+1 Inga and Esika
+1 Knight of Autumn
+1 Koma, Cosmos Serpent
+1 Lonis, Cryptozoologist
+1 Moonshaker Cavalry
+1 Noble Hierarch
+1 Nyxbloom Ancient
+1 Selvala, Eager Trailblazer
+1 Serra's Emissary
+1 Shalai, Voice of Plenty
+1 Soul of Emancipation
+1 Tamiyo, Inquisitive Student
+1 Thassa, Deep-Dwelling
+1 The Goose Mother
+1 Tireless Provisioner
+1 Titan of Industry
+1 Undermountain Adventurer
+1 Uro, Titan of Nature's Wrath
+1 Vorinclex
+1 Yasharn, Implacable Earth
+1 Arcane Signet
+1 Swiftfoot Boots
+1 Sword of Hearth and Home
+1 The Great Henge
+1 Azorius Chancery
+1 Brokers Hideout
+1 Command Tower
+1 Demolition Field
+1 Deserted Beach
+1 Dreamroot Cascade
+1 Emeria, the Sky Ruin
+1 Fabled Passage
+3 Forest
+1 Hallowed Fountain
+4 Island
+1 Misty Rainforest
+1 Nykthos, Shrine to Nyx
+1 Overgrown Farmland
+3 Plains
+1 Prairie Stream
+1 Seaside Citadel
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+1 Spara's Headquarters
+1 Temple Garden
+1 Temple of Enlightenment
+1 Temple of Mystery
+1 Temple of Plenty
+1 Thriving Grove
+1 Thriving Heath
+1 Thriving Isle
+1 Tranquil Landscape
+1 Windswept Heath
+1 Bant Charm
+1 Counterspell
+1 Cyclonic Rift
+1 Dovin's Veto
+1 Mana Drain
+1 Plasm Capture
+1 Settle the Wreckage
+1 Sublime Epiphany
+1 Unbreakable Formation
+1 Court of Bounty
+1 Elven Chorus
+1 Growing Rites of Itlimoc
+1 Omniscience
+1 Farewell
+1 Finale of Devastation
+1 Time Wipe
+1 Invasion of Shandalar
+1 Tamiyo, Field Researcher
