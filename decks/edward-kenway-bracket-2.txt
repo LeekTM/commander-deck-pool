@@ -1,0 +1,106 @@
+// name: Edward Kenway (Bracket 2)
+// source: community
+// tags: vehicles, historic, artifacts, tokens, theft
+
+Commander
+1 Edward Kenway
+
+Deck
+
+1 Adéwalé, Breaker of Chains
+1 Basim Ibn Ishaq
+1 Breeches, Eager Pillager
+1 Breeches, the Blastmaker
+1 Captain Howler, Sea Scourge
+1 Captain Lannery Storm
+1 Captain Storm, Cosmium Raider
+1 Cosima, God of the Voyage
+1 Cyberdrive Awakener
+1 Don Andres, the Renegade
+1 Fathom Fleet Captain
+1 Fearless Swashbuckler
+1 Glint-Horn Buccaneer
+1 Hostage Taker
+1 Kitesail Larcenist
+1 Magda, Brazen Outlaw
+1 Malcolm, Alluring Scoundrel
+1 Malcolm, Keen-Eyed Navigator
+1 Marionette Master
+1 Mary Read and Anne Bonny
+1 Merchant Raiders
+1 Mirkwood Bats
+1 Ragavan, Nimble Pilferer
+1 Ramirez DePietro, Pillager
+1 Roaming Throne
+1 Shimmer Dragon
+1 Siren Stormtamer
+1 Smaug the Magnificent
+1 Xorn
+1 Agadeem's Awakening
+1 Back in Town
+1 Blasphemous Act
+1 Bloodsoaked Insight
+1 Feed the Swarm
+1 Raise the Palisade
+1 Windfall
+1 Alchemist's Talent
+1 Black Market Connections
+1 Mechanized Production
+1 Moonlit Meditation
+1 Revel in Riches
+1 The Meathook Massacre
+1 Arcane Denial
+1 Lethal Scheme
+1 Memory Lapse
+1 Stubborn Denial
+1 Arcane Signet
+1 Brotherhood Regalia
+1 Deluxe Dragster
+1 Demonic Junker
+1 Dimir Signet
+1 Fellwar Stone
+1 Imposter Mech
+1 Izzet Signet
+1 Jackdaw
+1 Nautiloid Ship
+1 Phoenix Fleet Airship
+1 RMS Titanic
+1 Rakdos Signet
+1 Smuggler's Copter
+1 Sol Ring
+1 The Belligerent
+1 The Indomitable
+1 Uthros Research Craft
+1 Weatherlight
+1 Archway of Innovation
+1 Blood Crypt
+1 Bojuka Bog
+1 Cascade Bluffs
+1 Command Tower
+1 Darkwater Catacombs
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Fomori Vault
+1 Haunted Ridge
+2 Island
+1 Luxury Suite
+1 Morphic Pool
+1 Mount Doom
+1 Mountain
+1 Oscorp Industries
+1 Plaza of Heroes
+1 Scorched Geyser
+1 Secluded Starforge
+1 Shadowblood Ridge
+1 Shipwreck Marsh
+1 Spire of Industry
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+2 Swamp
+1 Treasure Vault
+1 Uthros, Titanic Godcore
+1 Watery Grave
+1 Xander's Lounge
+1 Tezzeret, Master of the Bridge
