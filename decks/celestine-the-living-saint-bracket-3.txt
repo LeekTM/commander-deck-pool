@@ -1,0 +1,76 @@
+// name: Celestine, the Living Saint (Bracket 3)
+// source: community
+// tags: +1/+1, lifegain, midrange, reanimater
+
+Commander
+1 Celestine, the Living Saint
+
+Deck
+
+1 Ajani's Pridemate
+1 Ao, the Dawn Sky
+1 Archangel of Thune
+1 Auriok Champion
+1 Bulwark Ox
+1 Cosmogrand Zenith
+1 Crested Sunmare
+1 Elenda's Hierophant
+1 Elesh Norn, Grand Cenobite
+1 Enduring Innocence
+1 Esper Sentinel
+1 Exemplar of Light
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Kinscaer Sentry
+1 Leonin Warleader
+1 Mother of Runes
+1 Nykthos Paragon
+1 Ocelot Pride
+1 Overlord of the Mistmoors
+1 Recruiter of the Guard
+1 Rhox Faithmender
+1 Sage of the Skies
+1 Salvation Colossus
+1 Soul Warden
+1 Soul's Attendant
+1 Sun Titan
+1 Suture Priest
+1 Vexilus Praetor
+1 Voice of the Blessed
+1 Wurmcoil Engine
+1 Akroma's Will
+1 Clever Concealment
+1 Dawn's Truce
+1 Disenchant
+1 Enlightened Tutor
+1 Flare of Fortitude
+1 Path to Exile
+1 Rebuff the Wicked
+1 Riot Control
+1 Stroke of Midnight
+1 Surge of Salvation
+1 Swords to Plowshares
+1 Authority of the Consuls
+1 Cleric Class
+1 Peace of Mind
+1 Smothering Tithe
+1 Trouble in Pairs
+1 True Conviction
+1 Valkyrie's Call
+1 Beyond the Quiet
+1 Idyllic Tutor
+1 Practiced Offense
+1 Requisition Raid
+1 Vanquish the Horde
+1 Collector's Vault
+1 Nyx Lotus
+1 Pearl Medallion
+1 Shadowspear
+1 Sol Ring
+1 Swiftfoot Boots
+1 The One Ring
+1 The Underworld Cookbook
+1 Emeria, the Sky Ruin
+1 High Market
+1 Nykthos, Shrine to Nyx
+33 Plains
