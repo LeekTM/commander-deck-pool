@@ -1,0 +1,98 @@
+// name: Edea, Possessed Sorceress (Bracket 3)
+// source: community
+// tags: theft, midrange, card-draw, aristocrats, control
+
+Commander
+1 Edea, Possessed Sorceress
+
+Deck
+
+1 An Offer You Can't Refuse
+1 Corrupted Conviction
+1 Counterspell
+1 Dark Ritual
+1 Deflecting Swat
+1 Flare of Malice
+1 Nasty End
+1 Negate
+1 Saw in Half
+1 Vampiric Tutor
+1 Arcane Signet
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Relic of Sauron
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Thought Vessel
+1 Attrition
+1 Clout of the Dominus
+1 Copy Enchantment
+1 Dictate of Erebos
+1 Estrid's Invocation
+1 Extravagant Replication
+1 Grave Pact
+1 Impostor Syndrome
+1 Kaya's Ghostform
+1 Phyrexian Arena
+1 Rakdos Joins Up
+1 Sothera, the Supervoid
+1 Ayara, Widow of the Realm
+1 Captivating Crew
+1 Chameleon, Master of Disguise
+1 Disciple of Bolas
+1 Dominus of Fealty
+1 Don Andres, the Renegade
+1 Ghoulcaller Gisa
+1 Gogo, Mysterious Mime
+1 Illuminor Szeras
+1 Kethek, Crucible Goliath
+1 Marchesa, the Black Rose
+1 Mind Flayer
+1 Nightmare Shepherd
+1 Nightscape Familiar
+1 Obeka, Brute Chronologist
+1 Rakdos, the Muscle
+1 Sakashima the Impostor
+1 Shadowheart, Dark Justiciar
+1 Shaun, Father of Synths
+1 Spark Double
+1 Thassa, Deep-Dwelling
+1 Zara, Renegade Recruiter
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Tower
+1 Crumbling Necropolis
+1 Darkslick Shores
+1 Dragonskull Summit
+1 Exotic Orchard
+1 Gloomlake Verge
+1 Haunted Ridge
+4 Island
+1 Luxury Suite
+4 Mountain
+1 Oscorp Industries
+1 Polluted Delta
+1 Reliquary Tower
+1 Riverpyre Verge
+1 Shivan Reef
+1 Stormcarved Coast
+1 Sulfur Falls
+5 Swamp
+1 Tainted Isle
+1 Training Center
+1 Underground River
+1 Watery Grave
+1 Xander's Lounge
+1 Demonic Tutor
+1 Eaten Alive
+1 Feed the Swarm
+1 Final Vengeance
+1 Insurrection
+1 Mass Mutiny
+1 Morbid Curiosity
+1 Quantum Misalignment
+1 Vandalblast
+1 Victimize
+1 Worthy Cost
