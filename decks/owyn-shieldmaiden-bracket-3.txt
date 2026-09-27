@@ -1,0 +1,101 @@
+// name: Éowyn, Shieldmaiden (Bracket 3)
+// source: community
+// tags: tribal, tokens, anthem, good-stuff
+
+Commander
+1 Éowyn, Shieldmaiden
+
+Deck
+
+1 Adarkar Wastes
+1 Arid Mesa
+1 Battlefield Forge
+1 Buried Ruin
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Ghost Quarter
+1 Glacial Fortress
+1 Hallowed Fountain
+2 Island
+1 Minas Tirith
+1 Mistrise Village
+2 Mountain
+1 Path of Ancestry
+6 Plains
+1 Plaza of Heroes
+1 Raugrin Triome
+1 Reliquary Tower
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sea of Clouds
+1 Spectator Seating
+1 Steam Vents
+1 Sulfur Falls
+1 Training Center
+1 Adeline, Resplendent Cathar
+1 Bard, King of Dale
+1 Beregond of the Guard
+1 Boromir, Warden of the Tower
+1 Cathar Commando
+1 Champion of the Parish
+1 Combat Celebrant
+1 Coppercoat Vanguard
+1 Cosmogrand Zenith
+1 Dion, Bahamut's Dominant
+1 Esper Sentinel
+1 Faramir, Prince of Ithilien
+1 Frontline Medic
+1 Gilraen, Dúnedain Protector
+1 Grand Abolisher
+1 Greymond, Avacyn's Stalwart
+1 Knight of the White Orchid
+1 Loran of the Third Path
+1 Lossarnach Captain
+1 Mangara, the Diplomat
+1 Metallic Mimic
+1 Mirror Entity
+1 Mother of Runes
+1 Professional Face-Breaker
+1 Recruiter of the Guard
+1 Riders of the Mark
+1 Roaming Throne
+1 Thalia's Lieutenant
+1 The Queen of Dale
+1 Weathered Wayfarer
+1 Aetherize
+1 Akroma's Will
+1 Arcane Denial
+1 Boros Charm
+1 Counterspell
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Dovin's Veto
+1 Flawless Maneuver
+1 Generous Gift
+1 Swan Song
+1 Swords to Plowshares
+1 Arcane Signet
+1 Coat of Arms
+1 Fellwar Stone
+1 Herald's Horn
+1 Idol of Oblivion
+1 Mithril Coat
+1 Sol Ring
+1 Stone of Erech
+1 Talisman of Conviction
+1 Talisman of Progress
+1 Thought Vessel
+1 Breath of Fury
+1 Cathars' Crusade
+1 Flowering of the White Tree
+1 Kindred Discovery
+1 Outlaws' Merriment
+1 Rhystic Study
+1 Rising of the Day
+1 Shared Animosity
+1 Forth Eorlingas!
+1 Idyllic Tutor
+1 Mass Appeal
+1 Raise the Palisade
