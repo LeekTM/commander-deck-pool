@@ -1,0 +1,104 @@
+// name: Marina Vendrell (Bracket 3)
+// source: community
+// tags: enchantments, tokens, lifegain
+
+Commander
+1 Marina Vendrell
+
+Deck
+
+1 Alela, Artful Provocateur
+1 Archon of Sun's Grace
+1 Aurora Awakener
+1 Dryad of the Ilysian Grove
+1 Enduring Courage
+1 Enduring Tenacity
+1 Entity Tracker
+1 Fear of Impostors
+1 Fear of Infinity
+1 Ghostly Dancers
+1 Gremlin Tamer
+1 Heliod, Sun-Crowned
+1 Inquisitive Glimmer
+1 Katilda, Dawnhart Martyr
+1 Nexus Wardens
+1 Overlord of the Hauntwoods
+1 Sythis, Harvest's Hand
+1 Victor, Valgavoth's Seneschal
+1 All-Out Assault
+1 Amphibian Downpour
+1 Blind Obedience
+1 Bottomless Pool // Locker Room
+1 Buried in the Garden
+1 Central Elevator // Promising Stairs
+1 Cleric Class
+1 Copy Enchantment
+1 Dollmaker's Shop // Porcelain Gallery
+1 Estrid's Invocation
+1 Frostcliff Siege
+1 Funeral Room // Awakening Hall
+1 Ghostly Prison
+1 Glassworks // Shattered Yard
+1 Grasp of Fate
+1 Greenhouse // Rickety Gazebo
+1 Hallowed Haunting
+1 Hardlight Containment
+1 Honest Work
+1 Land Tax
+1 Leyline Binding
+1 Mirror Room // Fractured Realm
+1 Moldering Gym // Weight Room
+1 Monologue Tax
+1 Nowhere to Run
+1 Out of Time
+1 Restricted Office // Lecture Hall
+1 Rhystic Study
+1 Roaring Furnace // Steaming Sauna
+1 Shardmage's Rescue
+1 Sheltered by Ghosts
+1 Sigil of the Empty Throne
+1 Smothering Tithe
+1 Sphere of Safety
+1 Surgical Suite // Hospital Room
+1 Unholy Annex // Ritual Chamber
+1 Walk-In Closet // Forgotten Cellar
+1 Arcane Signet
+1 Fellwar Stone
+1 Sol Ring
+1 Arid Mesa
+1 Blazemire Verge
+1 Bleachbone Verge
+1 Bojuka Bog
+1 Canopy Vista
+1 Command Tower
+1 Eclipsed Steppe
+1 Exotic Orchard
+1 Fabled Passage
+1 Flooded Strand
+1 Floodfarm Verge
+2 Forest
+1 Gloomlake Verge
+1 Hall of Heliod's Generosity
+1 Hushwood Verge
+2 Island
+1 Jetmir's Garden
+1 Marsh Flats
+1 Mountain
+2 Plains
+1 Prairie Stream
+1 Radiant Summit
+1 Raffine's Tower
+1 Riverpyre Verge
+1 Sunbillow Verge
+2 Swamp
+1 Tarnation Vista
+1 The World Tree
+1 Thornspire Verge
+1 Valgavoth's Lair
+1 Wastewood Verge
+1 Willowrush Verge
+1 Windswept Heath
+1 Calix, Destiny's Hand
+1 Invasion of Theros
+1 Redress Fate
+1 Void Rend
