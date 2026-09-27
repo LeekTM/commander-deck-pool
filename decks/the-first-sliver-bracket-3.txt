@@ -1,0 +1,98 @@
+// name: The First Sliver (Bracket 3)
+// source: community
+// tags: tribal, cascade
+
+Commander
+1 The First Sliver
+
+Deck
+
+1 Ancestral Vision
+1 Blasphemous Act
+1 Farseek
+1 Kodama's Reach
+1 Nature's Lore
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Arcane Signet
+1 Chromatic Lantern
+1 Door of Destinies
+1 Herald's Horn
+1 Scroll Rack
+1 Sol Ring
+1 Throne of the God-Pharaoh
+1 Thrumming Hivepool
+1 Vanquisher's Banner
+1 Arid Mesa
+1 Cavern of Souls
+1 Command Tower
+1 Flooded Strand
+3 Forest
+1 Indatha Triome
+3 Island
+1 Jetmir's Garden
+1 Ketria Triome
+1 Mana Confluence
+1 Marsh Flats
+3 Mountain
+1 Path of Ancestry
+3 Plains
+1 Raffine's Tower
+1 Raugrin Triome
+1 Savai Triome
+1 Scalding Tarn
+1 Secluded Courtyard
+1 Sliver Hive
+1 Spara's Headquarters
+3 Swamp
+1 Verdant Catacombs
+1 Xander's Lounge
+1 Zagoth Triome
+1 Ziatora's Proving Ground
+1 Beast Within
+1 Heroic Intervention
+1 Kindred Summons
+1 Path to Exile
+1 Return of the Wildspeaker
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Belligerent Sliver
+1 Bloom Tender
+1 Blur Sliver
+1 Bonescythe Sliver
+1 Clot Sliver
+1 Cloudshredder Sliver
+1 Crypt Sliver
+1 Diffusion Sliver
+1 Faeburrow Elder
+1 Galerider Sliver
+1 Gemhide Sliver
+1 Harmonic Sliver
+1 Hatchery Sliver
+1 Heart Sliver
+1 Horned Sliver
+1 Leeching Sliver
+1 Manaweft Sliver
+1 Megantic Sliver
+1 Might Sliver
+1 Muscle Sliver
+1 Predatory Sliver
+1 Quick Sliver
+1 Sentinel Sliver
+1 Sidewinder Sliver
+1 Sinew Sliver
+1 Sliver Gravemother
+1 Sliver Hivelord
+1 Sliver Legion
+1 Sliver Overlord
+1 Striking Sliver
+1 Talon Sliver
+1 Two-Headed Sliver
+1 Venom Sliver
+1 Virulent Sliver
+1 Winged Sliver
+1 Guardian Project
+1 Kindred Discovery
+1 Mana Echoes
+1 Prismatic Omen
+1 Reflections of Littjara
