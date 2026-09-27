@@ -1,0 +1,99 @@
+// name: Pantlaza, Sun-Favored (Bracket 3)
+// source: community
+// tags: blink, ramp, tribal, midrange, stompy
+
+Commander
+1 Pantlaza, Sun-Favored
+
+Deck
+
+1 Akroma's Will
+1 Archdruid's Charm
+1 Cloudshift
+1 Eerie Interlude
+1 Ephemerate
+1 Lae'zel's Acrobatics
+1 Parting Gust
+1 Smuggler's Surprise
+1 Worldly Tutor
+1 Apex Altisaur
+1 Birds of Paradise
+1 Bonehoard Dracosaur
+1 Bronzebeak Foragers
+1 Curious Altisaur
+1 Devil Dinosaur
+1 Dinosaurs on a Spaceship
+1 Disciple of Freyalise
+1 Earthshaker Dreadmaw
+1 Emiel the Blessed
+1 Etali, Primal Conqueror
+1 Etali, Primal Storm
+1 Fanatic of Rhonas
+1 Flaming Tyrannosaurus
+1 Ghalta, Stampede Tyrant
+1 Gishath, Sun's Avatar
+1 Hulking Raptor
+1 Kogla and Yidaro
+1 Luminous Broodmoth
+1 Palani's Hatcher
+1 Ravenous Tyrannosaurus
+1 Regal Behemoth
+1 Regisaur Alpha
+1 Roaming Throne
+1 Scion of Calamity
+1 Selvala, Heart of the Wilds
+1 Sunfrill Imitator
+1 Swooping Pteranodon
+1 Topiary Stomper
+1 Tranquil Frillback
+1 Trumpeting Carnosaur
+1 Vaultborn Tyrant
+1 Wood Elves
+1 Wrathful Raptors
+1 Zacama, Primal Calamity
+1 Arena of Glory
+1 Bountiful Promenade
+1 Command Tower
+1 Fire-Lit Thicket
+6 Forest
+1 Hushwood Verge
+3 Mountain
+1 Overgrown Farmland
+3 Plains
+1 Rockfall Vale
+1 Rootbound Crag
+1 Rugged Prairie
+1 Sacred Foundry
+1 Spectator Seating
+1 Spire Garden
+1 Stomping Ground
+1 Sundown Pass
+1 Sunpetal Grove
+1 Temple Garden
+1 Thornspire Verge
+1 Turbulent Steppe
+1 Windswept Heath
+1 Wooded Bastion
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Aura Shards
+1 Cream of the Crop
+1 Defense of the Heart
+1 Garruk's Uprising
+1 Legion's Initiative
+1 Molten Echoes
+1 Smothering Tithe
+1 Sneak Attack
+1 Sylvan Library
+1 Teleportation Circle
+1 Trouble in Pairs
+1 Bala Ged Recovery
+1 Blasphemous Act
+1 Cultivate
+1 Farseek
+1 Nature's Lore
+1 Savage Order
+1 Three Visits
+1 Triumph of the Hordes
+1 Sol Ring
+1 The Great Henge
