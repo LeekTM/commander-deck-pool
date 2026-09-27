@@ -1,0 +1,95 @@
+// name: Godzilla, King of the Monsters (Bracket 2)
+// source: community
+// tags: tribal, good-stuff, aggro
+
+Commander
+1 Godzilla, King of the Monsters
+
+Deck
+
+1 Anzrag, the Quake-Mole
+1 Apex Altisaur
+1 Beast Whisperer
+1 Birds of Paradise
+1 Delighted Halfling
+1 Disciple of Freyalise
+1 Dragonborn Champion
+1 Elvish Mystic
+1 Etali, Primal Conqueror
+1 Fanatic of Rhonas
+1 Ghalta, Primal Hunger
+1 Ghalta, Stampede Tyrant
+1 Goreclaw, Terror of Qal Sisma
+1 Gwenna, Eyes of Gaea
+1 Hideous Taskmaster
+1 Hulking Raptor
+1 Kogla and Yidaro
+1 Kogla, the Titan Ape
+1 Outcaster Trailblazer
+1 Quartzwood Crasher
+1 Selvala, Heart of the Wilds
+1 Silverback Elder
+1 Surrak and Goreclaw
+1 Terror of the Peaks
+1 Treeshaker Chimera
+1 Urabrask the Hidden
+1 Vaultborn Tyrant
+1 Xenagos, God of Revels
+1 Zopandrel, Hunger Dominus
+1 Arcane Signet
+1 Excalibur, Sword of Eden
+1 Gruul Signet
+1 Herd Heirloom
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Great Henge
+1 The Skullspore Nexus
+1 Two-Handed Axe
+1 Archdruid's Charm
+1 Beast Within
+1 Chaos Warp
+1 Hunter's Insight
+1 Khalni Ambush
+1 Ram Through
+1 Return of the Wildspeaker
+1 Arena of Glory
+1 Bonders' Enclave
+1 Castle Garenbrig
+1 Cinder Glade
+1 Command Tower
+1 Cragcrown Pathway
+1 Fire-Lit Thicket
+8 Forest
+1 Game Trail
+1 Grove of the Burnwillows
+1 Hanweir Battlements
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Mossfire Valley
+1 Mosswort Bridge
+7 Mountain
+1 Path of Ancestry
+1 Rockfall Vale
+1 Rogue's Passage
+1 Rootbound Crag
+1 Spire Garden
+1 Stomping Ground
+1 Thornspire Verge
+1 Chandra's Ignition
+1 Nature's Lore
+1 Overwhelming Stampede
+1 Rishkar's Expertise
+1 Stump Stomp
+1 Three Visits
+1 Vandalblast
+1 Garruk's Uprising
+1 Monstrous Vortex
+1 Rhythm of the Wild
+1 Rising of the Day
+1 Sarkhan's Unsealing
+1 Shadow in the Warp
+1 Sylvan Library
+1 Up the Beanstalk
+1 Utopia Sprawl
+1 Wild Growth
