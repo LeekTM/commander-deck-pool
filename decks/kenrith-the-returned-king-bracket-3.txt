@@ -1,0 +1,108 @@
+// name: Kenrith, the Returned King (Bracket 3)
+// source: community
+// tags: midrange, politics, group-slug, group-hug, meme
+
+Commander
+1 Kenrith, the Returned King
+
+Deck
+
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arachnogenesis
+1 Backlash
+1 Chaos Warp
+1 Comeuppance
+1 Deflecting Palm
+1 Inkshield
+1 Teferi's Protection
+1 Thrilling Encore
+1 Wrong Turn
+1 Approach of the Second Sun
+1 Collective Voyage
+1 Disrupt Decorum
+1 Fevered Suspicion
+1 Last One Standing
+1 Pain's Reward
+1 Pir's Whim
+1 Rolling Earthquake
+1 Scheming Symmetry
+1 Tempt with Discovery
+1 Windfall
+1 Arid Mesa
+1 Blood Crypt
+1 Bloodstained Mire
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Forbidden Orchard
+1 Forest
+1 Godless Shrine
+1 Hallowed Fountain
+1 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Mikokoro, Center of the Sea
+1 Misty Rainforest
+1 Mountain
+1 Overgrown Tomb
+1 Plains
+1 Plaza of Heroes
+1 Polluted Delta
+1 Reflecting Pool
+1 Sacred Foundry
+1 Scalding Tarn
+1 Starting Town
+1 Steam Vents
+1 Stomping Ground
+1 Swamp
+1 Tarnished Citadel
+1 Temple Garden
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Axis of Mortality
+1 Captive Audience
+1 Curse of Opulence
+1 Duelist's Heritage
+1 Heartbeat of Spring
+1 Shiny Impetus
+1 Telepathy
+1 Tenuous Truce
+1 Training Grounds
+1 Wilderness Reclamation
+1 Bladegriff Prototype
+1 Brash Taunter
+1 Combat Calligrapher
+1 Crafty Cutpurse
+1 Edric, Spymaster of Trest
+1 Faerie Mastermind
+1 Fulminator Mage
+1 Gor Muldrak, Amphinologist
+1 Gwafa Hazid, Profiteer
+1 Humble Defector
+1 Kazuul, Tyrant of the Cliffs
+1 Kwain, Itinerant Meddler
+1 Kynaios and Tiro of Meletis
+1 Magister Sphinx
+1 Perplexing Chimera
+1 Ravener
+1 Selfless Squire
+1 Selvala, Explorer Returned
+1 Taunting Kobold
+1 Varchild, Betrayer of Kjeldor
+1 Veteran Explorer
+1 Xantcha, Sleeper Agent
+1 Zirda, the Dawnwaker
+1 Bloodthirsty Blade
+1 Bucknard's Everfull Purse
+1 Door to Nothingness
+1 Mindslaver
+1 Sol Ring
+1 Spectral Searchlight
+1 Tempting Contract
+1 Victory Chimes
+1 Wishclaw Talisman
