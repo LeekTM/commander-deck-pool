@@ -1,0 +1,102 @@
+// name: Maralen, Fae Ascendant (Bracket 3)
+// source: community
+// tags: midrange, blink, theft, tribal
+
+Commander
+1 Maralen, Fae Ascendant
+
+Deck
+
+1 Abundant Countryside
+1 Blooming Marsh
+1 Botanical Sanctum
+1 Breeding Pool
+1 Cavern of Souls
+1 City of Brass
+1 Command Tower
+1 Darkslick Shores
+1 Dreamroot Cascade
+1 Elven Passage
+3 Forest
+1 Gloomlake Verge
+1 Hedge Maze
+3 Island
+1 Llanowar Wastes
+1 Mana Confluence
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Plaza of Heroes
+1 Polluted Delta
+1 Shifting Woodland
+1 Starting Town
+3 Swamp
+1 Undercity Sewers
+1 Underground Mortuary
+1 Underground River
+1 Verdant Catacombs
+1 Watery Grave
+1 Yavimaya Coast
+1 An Offer You Can't Refuse
+1 Dark Ritual
+1 Displace
+1 Essence Flux
+1 Galadhrim Ambush
+1 Ghostly Flicker
+1 Into the Flood Maw
+1 Malakir Rebirth
+1 Mystical Tutor
+1 Strix Serenade
+1 Vampiric Tutor
+1 Veil of Summer
+1 Windswift Slice
+1 Worldly Tutor
+1 Arbor Elf
+1 Beast Whisperer
+1 Bitterbloom Bearer
+1 Bloom Tender
+1 Circle of Dreams Druid
+1 Devoted Druid
+1 Elrond, Moon-Reader
+1 Elves of Deep Shadow
+1 Elvish Archdruid
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Elvish Spirit Guide
+1 Elvish Warmaster
+1 Essence Warden
+1 Formidable Speaker
+1 Fyndhorn Elves
+1 Galadhrim Brigade
+1 Heritage Druid
+1 High Perfect Morcant
+1 Imperious Perfect
+1 Lathril, Blade of the Elves
+1 Llanowar Elves
+1 Paradise Druid
+1 Priest of Titania
+1 Selfless Safewright
+1 Simulacrum Shaper
+1 Thranduil, Sindarin Liege
+1 Thranduil, the Elvenking
+1 Virulent Emissary
+1 Arcane Signet
+1 Chronicle of Victory
+1 Coat of Arms
+1 Sol Ring
+1 Bitterblossom
+1 Black Market Connections
+1 Omnipresence
+1 Phyrexian Arena
+1 Springleaf Parade
+1 Sylvan Library
+1 Culling Ritual
+1 Cultivate
+1 Elvish Promenade
+1 Finale of Devastation
+1 Irenicus's Vile Duplication
+1 Kodama's Reach
+1 Nature's Lore
+1 Rishkar's Expertise
+1 Three Visits
+1 Trystan's Command
