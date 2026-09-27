@@ -1,0 +1,101 @@
+// name: Kathril, Aspect Warper (Bracket 3)
+// source: community
+// tags: graveyard, reanimater
+
+Commander
+1 Kathril, Aspect Warper
+
+Deck
+
+1 Acidic Slime
+1 Aerial Responder
+1 Akroma, Angel of Wrath
+1 Akroma, Vision of Ixidor
+1 Archon of Valor's Reach
+1 Bassara Tower Archer
+1 Bruna, the Fading Light
+1 Cairn Wanderer
+1 Carnage Tyrant
+1 Corpse Connoisseur
+1 Daring Fiendbonder
+1 Doom Whisperer
+1 Elder Gargaroth
+1 Fauna Shaman
+1 Gisela, the Broken Blade
+1 Gravebreaker Lamia
+1 Kunoros, Hound of Athreos
+1 Leyline Prowler
+1 Liliana the Repentant
+1 Lotleth Troll
+1 Nethroi, Apex of Death
+1 Nighthawk Scavenger
+1 Nyx Weaver
+1 Oketra the True
+1 Old Stickfingers
+1 Questing Beast
+1 Rhonas the Indomitable
+1 Sigarda, Host of Herons
+1 Sire of Seven Deaths
+1 Slippery Bogbonder
+1 Splinterfright
+1 Stonecoil Serpent
+1 Zetalpa, Primal Dawn
+1 Anguished Unmaking
+1 Despark
+1 Eladamri's Call
+1 Entomb
+1 Grisly Salvage
+1 Mythos of Nethroi
+1 Arcane Signet
+1 Lightning Greaves
+1 Perpetual Timepiece
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Ozolith
+1 Bountiful Promenade
+1 Canopy Vista
+1 Cavern of Souls
+1 Command Beacon
+1 Command Tower
+1 Fabled Passage
+3 Forest
+1 Geier Reach Sanitarium
+1 Godless Shrine
+1 Homeward Path
+1 Indatha Triome
+1 Isolated Chapel
+1 Krosan Verge
+1 Marsh Flats
+1 Murmuring Bosk
+1 Nurturing Peatland
+1 Overgrown Tomb
+4 Plains
+1 Prismatic Vista
+1 Silent Clearing
+1 Sunpetal Grove
+3 Swamp
+1 Temple Garden
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Vault of Champions
+1 Verdant Catacombs
+1 Windswept Heath
+1 Woodland Cemetery
+1 Yavimaya, Cradle of Growth
+1 Buried Alive
+1 Cultivate
+1 Dark Deal
+1 Demonic Tutor
+1 Eerie Ultimatum
+1 Farseek
+1 Jarad's Orders
+1 Kodama's Reach
+1 Living Death
+1 Nature's Lore
+1 Painful Truths
+1 Reanimate
+1 Unburial Rites
+1 Unmarked Grave
+1 Deadbridge Chant
+1 Greater Good
+1 Smothering Tithe
