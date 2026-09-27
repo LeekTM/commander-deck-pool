@@ -1,0 +1,97 @@
+// name: Temmet, Naktamun's Will (Bracket 3)
+// source: community
+// tags: midrange, control, tokens, tribal
+
+Commander
+1 Temmet, Naktamun's Will
+
+Deck
+
+1 Accursed Duneyard
+1 Arcane Sanctum
+1 Choked Estuary
+1 Command Tower
+1 Deserted Beach
+1 Dromar's Cavern
+1 Drowned Catacomb
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+4 Island
+1 Isolated Chapel
+1 Path of Ancestry
+5 Plains
+1 Prairie Stream
+1 Shattered Sanctum
+1 Shipwreck Marsh
+1 Sunken Hollow
+5 Swamp
+1 Tainted Isle
+1 Underground River
+1 Unholy Grotto
+1 Watery Grave
+1 Acererak the Archlich
+1 Cemetery Reaper
+1 Corpse Knight
+1 Cryptbreaker
+1 Death Baron
+1 Diregraf Captain
+1 Diregraf Colossus
+1 Forgotten Creation
+1 Gisa, the Hellraiser
+1 God-Eternal Oketra
+1 Grave Titan
+1 Gravecrawler
+1 Grimgrin, Corpse-Born
+1 Hordewing Skaab
+1 Liliana's Reaver
+1 Lord of the Accursed
+1 Lost Monarch of Ifnir
+1 Mikaeus, the Unhallowed
+1 Murderous Rider
+1 Prophet of the Scarab
+1 Ratadrabik of Urborg
+1 Ravenous Rotbelly
+1 Spark Double
+1 The Scarab God
+1 Undead Warchief
+1 Unstoppable Slasher
+1 Varina, Lich Queen
+1 Wayward Servant
+1 Zombie Master
+1 Zul Ashur, Lich Lord
+1 Anguished Unmaking
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Infernal Grasp
+1 Path to Exile
+1 Swords to Plowshares
+1 Tolarian Winds
+1 Void Rend
+1 Withering Torment
+1 Arcane Signet
+1 Banner of Kinship
+1 Chromatic Lantern
+1 Patchwork Banner
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 Wand of Orcus
+1 Army of the Damned
+1 Damn
+1 Dark Deal
+1 Demonic Tutor
+1 Empty the Laboratory
+1 Feed the Swarm
+1 Time Reversal
+1 Toxic Deluge
+1 Windfall
+1 Call to the Grave
+1 Kindred Discovery
+1 Necroduality
+1 On Wings of Gold
+1 Rooftop Storm
+1 Teferi's Ageless Insight
