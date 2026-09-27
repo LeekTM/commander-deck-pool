@@ -1,0 +1,98 @@
+// name: Okaun, Eye of Chaos + Zndrsplt, Eye of Wisdom (Bracket 3)
+// source: community
+// tags: coin-flip, card-draw, voltron, triggered, artifacts
+
+Commander
+1 Okaun, Eye of Chaos
+1 Zndrsplt, Eye of Wisdom
+
+Deck
+
+
+1 Academy Ruins
+1 Arena of Glory
+1 Buried Ruin
+1 Cascade Bluffs
+1 Command Tower
+1 Darksteel Citadel
+1 Exotic Orchard
+1 Frostboil Snarl
+1 Great Furnace
+1 Hall of Echoes
+1 Inventors' Fair
+8 Island
+1 Izzet Boilerworks
+1 Mistrise Village
+5 Mountain
+1 Myriad Landscape
+1 Reliquary Tower
+1 Rogue's Passage
+1 Seat of the Synod
+1 Shivan Reef
+1 Silverbluff Bridge
+1 Sulfur Falls
+1 Temple of the False God
+1 Uthros, Titanic Godcore
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Delayed Blast Fireball
+1 Fierce Guardianship
+1 Fling
+1 Force of Negation
+1 Invert Polarity
+1 Kazuul's Fury
+1 Muddle the Mixture
+1 Pongify
+1 Soul's Fire
+1 Whir of Invention
+1 Arcane Signet
+1 Brotherhood Regalia
+1 Fellwar Stone
+1 Genji Glove
+1 Izzet Signet
+1 Krark's Thumb
+1 Lightning Greaves
+1 Mind Stone
+1 Silver Shroud Costume
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Talisman of Creativity
+1 Thought Vessel
+1 Thran Dynamo
+1 Trailblazer's Boots
+1 Whispersilk Cloak
+1 Worn Powerstone
+1 Artful Dodge
+1 Chandra's Ignition
+1 Fabricate
+1 Fiery Gambit
+1 Reconstruction
+1 Relentless Assault
+1 Seize the Day
+1 Slip Through Space
+1 Stitch in Time
+1 Vandalblast
+1 Bilbo, Thief in the Night
+1 Goblin Engineer
+1 K-9, Mark I
+1 Kediss, Emberclaw Familiar
+1 Loyal Inventor
+1 Sakashima the Impostor
+1 Spark Double
+1 Tavern Scoundrel
+1 Tribute Mage
+1 Twenty-Toed Toad
+1 Yusri, Fortune's Flame
+1 Chance Encounter
+1 Footfall Crater
+1 Mystic Remora
+1 Planar Chaos
+1 Propaganda
+1 Rhystic Study
+1 Super State
+1 Wizard Class
+1 Karn, the Great Creator
+1 Tezzeret the Seeker
