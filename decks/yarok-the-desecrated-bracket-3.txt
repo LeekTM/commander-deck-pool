@@ -1,0 +1,98 @@
+// name: Yarok, the Desecrated (Bracket 3)
+// source: community
+// tags: blink, lands-matter, midrange, good-stuff, ramp
+
+Commander
+1 Yarok, the Desecrated
+
+Deck
+
+1 Aether Channeler
+1 Agent of Treachery
+1 Arbiter of Woe
+1 Avenger of Zendikar
+1 Baleful Strix
+1 Bloom Tender
+1 Chameleon, Master of Disguise
+1 Chomping Changeling
+1 Clifftop Lookout
+1 Coiling Oracle
+1 Craterhoof Behemoth
+1 Displacer Kitten
+1 Elvish Mystic
+1 Eternal Witness
+1 Gandalf, Shadow's Foe
+1 Gray Merchant of Asphodel
+1 Llanowar Elves
+1 Lotus Cobra
+1 Massacre Wurm
+1 Orcish Bowmasters
+1 Risen Reef
+1 Scute Swarm
+1 Shredder, Shadow Master
+1 Starfield Vocalist
+1 Super Shredder
+1 Thassa, Deep-Dwelling
+1 The Notary Hobbits
+1 Y'shtola Rhul
+1 An Offer You Can't Refuse
+1 Boomerang
+1 Counterspell
+1 Dark Ritual
+1 Deadly Rollick
+1 Essence Flux
+1 Heroic Intervention
+1 Nature's Claim
+1 Planar Incision
+1 Swan Song
+1 Tear Asunder
+1 Arcane Signet
+1 Chocobo Racetrack
+1 Conjurer's Closet
+1 Fellwar Stone
+1 Sol Ring
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Talisman of Resilience
+1 The Great Henge
+1 Bojuka Bog
+1 Breeding Pool
+1 Command Tower
+1 Demolition Field
+1 Dimir Aqueduct
+1 Dryad Arbor
+1 Exotic Orchard
+1 Field of the Dead
+6 Forest
+1 Golgari Rot Farm
+4 Island
+1 Misty Rainforest
+1 Morphic Pool
+1 Overgrown Tomb
+1 Plaza of Heroes
+1 Polluted Delta
+1 Reflecting Pool
+1 Rejuvenating Springs
+1 Reliquary Tower
+1 Simic Growth Chamber
+3 Swamp
+1 Turbulent Fen
+1 Turbulent Wetlands
+1 Turbulent Wilderness
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Watery Grave
+1 Zagoth Triome
+1 Burgeoning
+1 Guardian Project
+1 Rhystic Study
+1 Sylvan Library
+1 Tribute to the World Tree
+1 Virtue of Knowledge
+1 Zendikar Resurgent
+1 Cultivate
+1 Echocasting Symposium
+1 Farseek
+1 Nature's Lore
+1 Reanimate
+1 Tooth and Nail
