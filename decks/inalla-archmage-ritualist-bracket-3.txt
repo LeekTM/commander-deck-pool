@@ -1,0 +1,95 @@
+// name: Inalla, Archmage Ritualist (Bracket 3)
+// source: community
+// tags: blink, triggered, tribal, spellslinger
+
+Commander
+1 Inalla, Archmage Ritualist
+
+Deck
+
+1 Aether Channeler
+1 Anathemancer
+1 Apprentice Necromancer
+1 Archaeomancer
+1 Archmage of Echoes
+1 Basalt Ravager
+1 Bloodline Necromancer
+1 Cloudkin Seer
+1 Cyclone Summoner
+1 Dire Fleet Ravager
+1 Disciple of Bolas
+1 Dour Port-Mage
+1 Dualcaster Mage
+1 Emeritus of Ideation
+1 Galecaster Colossus
+1 Ghitu Journeymage
+1 Glasspool Mimic
+1 Harmonic Prodigy
+1 Redoubled Stormsinger
+1 Rimekin Recluse
+1 Roaming Throne
+1 Sakashima the Impostor
+1 Shadowmage Infiltrator
+1 Spellseeker
+1 Thalakos Deceiver
+1 Tribute Mage
+1 Vedalken Aethermage
+1 Arcane Signet
+1 Conjurer's Closet
+1 Dimir Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Panharmonicon
+1 Pyre of Heroes
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Cascade Bluffs
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+1 Gloomlake Verge
+10 Island
+1 Luxury Suite
+1 Morphic Pool
+3 Mountain
+1 Prismatic Vista
+1 Reflecting Pool
+1 Riptide Laboratory
+1 Riverpyre Verge
+1 Shipwreck Marsh
+1 Steam Vents
+1 Stormcarved Coast
+1 Sunken Ruins
+3 Swamp
+1 Training Center
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Xander's Lounge
+1 Chain of Vapor
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Displace
+1 Flame of Anor
+1 Ghostly Flicker
+1 Mana Drain
+1 Negate
+1 Seething Song
+1 Sink into Stupor
+1 Snap
+1 Village Rites
+1 Demonic Tutor
+1 Faithless Looting
+1 Kindred Dominance
+1 Mana Geyser
+1 Night's Whisper
+1 Sea Gate Restoration
+1 Step Through
+1 Determined Iteration
+1 Impact Tremors
+1 Kindred Discovery
+1 Molten Echoes
+1 Propaganda
+1 Rhystic Study
+1 Virtue of Knowledge
