@@ -1,0 +1,107 @@
+// name: Ulalek, Fused Atrocity (Bracket 3)
+// source: community
+// tags: tribal, midrange, ramp, triggered
+
+Commander
+1 Ulalek, Fused Atrocity
+
+Deck
+
+1 Abundant Countryside
+1 Cinder Glade
+1 Command Tower
+1 Eldrazi Temple
+1 Exotic Orchard
+1 Eye of Ugin
+2 Forest
+1 Island
+1 Karplusan Forest
+1 Ketria Triome
+1 Llanowar Wastes
+1 Mountain
+1 Path of Ancestry
+1 Planar Nexus
+1 Reflecting Pool
+1 Reliquary Tower
+1 Sanctum of Ugin
+1 Secluded Courtyard
+1 Shivan Reef
+1 Shrine of the Forsaken Gods
+1 Sulfurous Springs
+1 The World Tree
+1 Three Tree City
+1 Ugin's Labyrinth
+1 Underground River
+1 Urza's Cave
+1 Urza's Factory
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Saga
+1 Urza's Tower
+1 Urza's Workshop
+1 Yavimaya Coast
+1 Zagoth Triome
+1 All Is Dust
+1 Ancient Stirrings
+1 Nature's Lore
+1 Rise of the Eldrazi
+1 Sylvan Scrying
+1 Tempt with Discovery
+1 Three Visits
+1 Anticausal Vestige
+1 Conduit of Ruin
+1 Emrakul, the Exigent Doom
+1 Emrakul, the Promised End
+1 Emrakul, the World Anew
+1 Glaring Fleshraker
+1 It That Heralds the End
+1 Kozilek, Butcher of Truth
+1 Kozilek, the Broken Reality
+1 Kozilek, the Great Distortion
+1 Nulldrifter
+1 Sire of Seven Deaths
+1 Sire of Stagnation
+1 Skittering Cicada
+1 Snapping Voidcraw
+1 Sowing Mycospawn
+1 Spawnbed Protector
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Defiler
+1 Ulamog, the Infinite Gyre
+1 Ultima, Origin of Oblivion
+1 Void Winnower
+1 Wastescape Battlemage
+1 World Breaker
+1 Writhing Chrysalis
+1 Zhulodok, Void Gorger
+1 Arcane Signet
+1 Eldrazi Monument
+1 Expedition Map
+1 Forsaken Monument
+1 Herald's Horn
+1 Manifold Key
+1 Mystic Forge
+1 Sensei's Divining Top
+1 Sol Ring
+1 Thought Vessel
+1 Thran Dynamo
+1 Urza's Incubator
+1 Crop Rotation
+1 Eldrazi Confluence
+1 Eldritch Immunity
+1 Kozilek's Command
+1 Kozilek's Return
+1 Not of This World
+1 Null Elemental Blast
+1 Ugin's Binding
+1 Warping Wail
+1 Echoes of Eternity
+1 Garruk's Uprising
+1 Kozilek's Unsealing
+1 Path of Annihilation
+1 Rhythm of the Wild
+1 Spreading Plague
+1 Up the Beanstalk
+1 Ugin, Eye of the Storms
+1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
