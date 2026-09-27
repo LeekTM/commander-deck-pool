@@ -1,0 +1,99 @@
+// name: Sen Triplets (Bracket 3)
+// source: community
+// tags: control, stax, pillow-fort, theft, prison
+
+Commander
+1 Sen Triplets
+
+Deck
+
+1 Abundant Countryside
+1 Academy Ruins
+1 Arcane Sanctum
+1 Bojuka Bog
+1 Command Tower
+1 Darksteel Citadel
+1 Darkwater Catacombs
+1 Desolate Mire
+1 Dromar's Cavern
+1 Esper Panorama
+1 Exotic Orchard
+1 Fetid Heath
+1 Goldmire Bridge
+1 Guildless Commons
+1 Hall of Storm Giants
+4 Island
+1 Mistvault Bridge
+1 Morphic Pool
+1 Mystic Gate
+1 Pit of Offerings
+4 Plains
+1 Razortide Bridge
+1 Reliquary Tower
+1 Sea of Clouds
+1 Skycloud Expanse
+1 Sunken Ruins
+4 Swamp
+1 Vault of Champions
+1 Approach of the Second Sun
+1 Bribery
+1 Covetous Urge
+1 Diabolic Tutor
+1 Extract Brain
+1 Fractured Identity
+1 Inevitable Betrayal
+1 Merciless Eviction
+1 Planar Cleansing
+1 Praetor's Grasp
+1 Profane Tutor
+1 Solve the Equation
+1 Supreme Verdict
+1 Arvinox, the Mind Flail
+1 Dauthi Voidwalker
+1 Elder Brain
+1 Esper Sentinel
+1 Gandalf, Friend of the Shire
+1 Hostage Taker
+1 Intellect Devourer
+1 Magister Sphinx
+1 Meddling Mage
+1 Nightveil Specter
+1 Nita, Forum Conciliator
+1 Notion Thief
+1 Phyrexian Metamorph
+1 Reflector Mage
+1 Sphinx of the Second Sun
+1 Thief of Sanity
+1 Thieving Varmint
+1 Vega, the Watcher
+1 Wandering Archaic
+1 Xanathar, Guild Kingpin
+1 Blind Obedience
+1 Celestial Dawn
+1 Cunning Rhetoric
+1 Ghostly Prison
+1 Leyline of Anticipation
+1 Leyline of Sanctity
+1 Leyline of the Void
+1 Mind's Dilation
+1 Mornsong Aria
+1 Paradox Haze
+1 Rule of Law
+1 Telepathy
+1 Brainstorm
+1 Counterspell
+1 Dovin's Veto
+1 Hinder
+1 Memory Plunder
+1 Negate
+1 Siphon Insight
+1 Swords to Plowshares
+1 Waterlogged Teachings
+1 Chaos Wand
+1 Chromatic Lantern
+1 Conqueror's Flail
+1 Decanter of Endless Water
+1 Fellwar Stone
+1 Mindslaver
+1 Sol Ring
+1 Tasha, the Witch Queen
