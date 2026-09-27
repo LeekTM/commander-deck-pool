@@ -1,0 +1,95 @@
+// name: Rendmaw, Creaking Nest (Bracket 3)
+// source: community
+// tags: combo, ramp, aristocrats, goad, tokens
+
+Commander
+1 Rendmaw, Creaking Nest
+
+Deck
+
+1 Abrupt Decay
+1 Beast Within
+1 Deadly Rollick
+1 Force of Vigor
+1 Heroic Intervention
+1 Plumb the Forbidden
+1 Vampiric Tutor
+1 Alloy Myr
+1 Arasta of the Endless Web
+1 Beast Whisperer
+1 Blood Artist
+1 Copper Myr
+1 Dauntless Scrapbot
+1 Destiny Spinner
+1 Dockside Chef
+1 Dryad of the Ilysian Grove
+1 Enduring Tenacity
+1 Enduring Vitality
+1 Erebos, God of the Dead
+1 Essence Warden
+1 Fangren Marauder
+1 Gloomshrieker
+1 Haywire Mite
+1 Hedron Crawler
+1 Junk Diver
+1 Leaden Myr
+1 Manakin
+1 Marionette Apprentice
+1 Ohran Frostfang
+1 Old Gnawbone
+1 Ornithopter of Paradise
+1 Overlord of the Balemurk
+1 Overlord of the Hauntwoods
+1 Palladium Myr
+1 Plague Myr
+1 Poison-Tip Archer
+1 PuPu UFO
+1 Pygmy Kavu
+1 Sanctum Weaver
+1 Scrap Trawler
+1 Shigeki, Jukai Visionary
+1 Solemn Simulacrum
+1 Species Specialist
+1 Toski, Bearer of Secrets
+1 Twitching Doll
+1 Ultron the Annihilator
+1 Umbral Collar Zealot
+1 Viscera Seer
+1 Vito, Thorn of the Dusk Rose
+1 Biotransference
+1 Bloodchief Ascension
+1 Blooming Marsh
+1 Command Tower
+1 Darksteel Citadel
+1 Deathcap Glade
+1 Dryad Arbor
+1 Exotic Orchard
+1 Festering Thicket
+8 Forest
+1 Llanowar Wastes
+1 Necroblossom Snarl
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Spymaster's Vault
+7 Swamp
+1 Tainted Wood
+1 Temple of Malady
+1 Tree of Tales
+1 Twilight Mire
+1 Undergrowth Stadium
+1 Urza's Saga
+1 Valgavoth's Lair
+1 Vault of Whispers
+1 Woodland Cemetery
+1 Bolas's Citadel
+1 Coat of Arms
+1 Helm of the Host
+1 Sol Ring
+1 Throne of the God-Pharaoh
+1 Whip of Erebos
+1 Demonic Tutor
+1 Diabolic Intent
+1 Ezuri's Predation
+1 Immoral Bargain
+1 Toxic Deluge
