@@ -1,0 +1,97 @@
+// name: The Scarab God (Bracket 3)
+// source: community
+// tags: tribal, control, graveyard, combo
+
+Commander
+1 The Scarab God
+
+Deck
+
+1 Accursed Marauder
+1 Archghoul of Thraben
+1 Champion of the Perished
+1 Cryptbreaker
+1 Diregraf Captain
+1 Diregraf Colossus
+1 Ebondeath, Dracolich
+1 Ertai Resurrected
+1 Gleaming Overseer
+1 Gravecrawler
+1 Havengul Lich
+1 Headless Rider
+1 Mirror-Mad Phantasm
+1 Murderous Rider
+1 Phyrexian Metamorph
+1 Plague Belcher
+1 Relentless Dead
+1 Shambling Ghast
+1 Thassa's Oracle
+1 Tormod, the Desecrator
+1 Undead Augur
+1 Vogar, Necropolis Tyrant
+1 Zombie Master
+1 Agadeem's Awakening
+1 Buried Alive
+1 Diabolic Intent
+1 Dread Return
+1 Soul Transfer
+1 Stock Up
+1 Syphon Mind
+1 Unearth
+1 Altar of Dementia
+1 Altar of the Brood
+1 Arcane Signet
+1 Ashnod's Altar
+1 Jet Medallion
+1 Lightning Greaves
+1 Moonsilver Key
+1 Phyrexian Altar
+1 Sol Ring
+1 Talisman of Dominance
+1 Bitter Triumph
+1 Counterspell
+1 Cyclonic Rift
+1 Didn't Say Please
+1 Disallow
+1 Entomb
+1 Fell the Profane
+1 Frantic Search
+1 Infernal Grasp
+1 Malakir Rebirth
+1 Mystic Reflection
+1 Pact of Negation
+1 Price of Fame
+1 Reenact the Crime
+1 Rise of the Dread Marn
+1 Sink into Stupor
+1 Sudden Substitution
+1 Withering Torment
+1 Castle Locthwain
+1 Cavern of Souls
+1 Choked Estuary
+1 Clearwater Pathway
+1 Command Tower
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Eden, Seat of the Sanctum
+1 Fabled Passage
+1 Fetid Pools
+1 Ghost Quarter
+6 Island
+1 Mystic Sanctuary
+1 Phyrexian Tower
+1 Secluded Courtyard
+1 Shipwreck Marsh
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Sunken Hollow
+7 Swamp
+1 Unclaimed Territory
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Liliana, Dreadhorde General
+1 Liliana, Untouched by Death
+1 Necroduality
+1 Rhystic Study
+1 Rooftop Storm
+1 Training Grounds
