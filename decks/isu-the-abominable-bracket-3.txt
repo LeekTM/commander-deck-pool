@@ -1,0 +1,84 @@
+// name: Isu the Abominable (Bracket 3)
+// source: community
+// tags: snow, +1/+1
+
+Commander
+1 Isu the Abominable
+
+Deck
+
+1 Abominable Treefolk
+1 Adarkar Valkyrie
+1 Aerie Ouphes
+1 Ascendant Spirit
+1 Azusa, Lost but Seeking
+1 Birds of Paradise
+1 Blizzard Strix
+1 Boreal Outrider
+1 Centaur Omenreader
+1 Diamond Faerie
+1 Dryad of the Ilysian Grove
+1 Enduring Scalelord
+1 Felidar Guardian
+1 Hylda of the Icy Crown
+1 Ice-Fang Coatl
+1 Icebreaker Kraken
+1 Icehide Golem
+1 Kami of Whispered Hopes
+1 Kellan, the Kid
+1 Moritte of the Frost
+1 Ohran Frostfang
+1 Rime Tender
+1 Rimefeather Owl
+1 Sculptor of Winter
+1 Seedborn Muse
+1 Spirit of the Aldergard
+1 Storvald, Frost Giant Jarl
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Heroic Intervention
+1 Path to Exile
+1 Swords to Plowshares
+1 Arcane Signet
+1 Arcum's Astrolabe
+1 Coldsteel Heart
+1 Icebind Pillar
+1 Lightning Greaves
+1 Ozolith, the Shattered Spire
+1 Replicating Ring
+1 Sensei's Divining Top
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Ozolith
+1 Arctic Treeline
+1 Command Tower
+1 Evolving Wilds
+1 Faceless Haven
+1 Glacial Floodplain
+1 Reliquary Tower
+1 Rimewood Falls
+1 Rogue's Passage
+1 Seaside Citadel
+1 Shimmerdrift Vale
+9 Snow-Covered Forest
+9 Snow-Covered Island
+9 Snow-Covered Plains
+1 Spara's Headquarters
+1 Brokers Ascendancy
+1 Felidar Retreat
+1 Gelid Shackles
+1 Hardened Scales
+1 Innkeeper's Talent
+1 On Thin Ice
+1 Rhystic Study
+1 Sphere Grid
+1 The Three Seasons
+1 Cultivate
+1 Farseek
+1 Nature's Lore
+1 Rampant Growth
+1 Search for Glory
+1 Supreme Verdict
+1 Three Visits
+1 Jace, Cunning Castaway
