@@ -1,0 +1,98 @@
+// name: Riku of Two Reflections (Bracket 3)
+// source: community
+// tags: tokens, good-stuff, clones
+
+Commander
+1 Riku of Two Reflections
+
+Deck
+
+1 Adrix and Nev, Twincasters
+1 Astral Dragon
+1 Aurora Awakener
+1 Auton Soldier
+1 Avenger of Zendikar
+1 Bramble Sovereign
+1 Clever Impersonator
+1 Consecrated Sphinx
+1 Craterhoof Behemoth
+1 Enduring Courage
+1 Enduring Curiosity
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 High Fae Trickster
+1 Koma, Cosmos Serpent
+1 Llanowar Elves
+1 Mossborn Hydra
+1 Nulldrifter
+1 Outcaster Trailblazer
+1 Overlord of the Boilerbilges
+1 Rampaging Baloths
+1 Reclamation Sage
+1 Sakura-Tribe Elder
+1 Sire of Seven Deaths
+1 Spark Double
+1 Subterfuge
+1 Tam, Mindful First-Year
+1 Tamiyo, Inquisitive Student
+1 Temur Battlecrier
+1 Terror of the Peaks
+1 Urabrask the Hidden
+1 Wistfulness
+1 Wurmcoil Engine
+1 Arcane Denial
+1 Beast Within
+1 Fierce Guardianship
+1 Flare of Denial
+1 Mana Sculpt
+1 Return of the Wildspeaker
+1 Smuggler's Surprise
+1 Arcane Signet
+1 Sol Ring
+1 Swiftfoot Boots
+1 Bala Ged Recovery
+1 Blasphemous Act
+1 Clone Legion
+1 Cultivate
+1 Curse of the Swine
+1 Doppelgang
+1 Echocasting Symposium
+1 Fast Forward
+1 Flare of Cultivation
+1 Hull Breach
+1 Improvisation Capstone
+1 Jeska's Will
+1 Kodama's Reach
+1 Overwhelming Stampede
+1 Stock Up
+1 Three Visits
+1 Botanical Sanctum
+1 Cinder Glade
+1 Command Tower
+1 Commercial District
+1 Dreamroot Cascade
+1 Fabled Passage
+1 Flamekin Village
+1 Flooded Grove
+6 Forest
+1 Game Trail
+5 Island
+1 Kessig Wolf Run
+1 Mistrise Village
+1 Misty Rainforest
+1 Mosswort Bridge
+2 Mountain
+1 Rivendell
+1 Riverglide Pathway
+1 Riverpyre Verge
+1 Sodden Verdure
+1 Spirebluff Canal
+1 Steam Vents
+1 Stomping Ground
+1 Stormcarved Coast
+1 Turbulent Springs
+1 Willowrush Verge
+1 Burgeoning
+1 Doubling Season
+1 Fires of Yavimaya
+1 Parallel Lives
