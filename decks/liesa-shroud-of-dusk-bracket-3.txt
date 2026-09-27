@@ -1,0 +1,98 @@
+// name: Liesa, Shroud of Dusk (Bracket 3)
+// source: community
+// tags: group-slug, lifedrain, lifegain, midrange
+
+Commander
+1 Liesa, Shroud of Dusk
+
+Deck
+
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Bolas's Citadel
+1 Orzhov Signet
+1 Sensei's Divining Top
+1 Sol Ring
+1 Tainted Sigil
+1 Talisman of Hierarchy
+1 The Darkness Crystal
+1 The Soul Stone
+1 The Wind Crystal
+1 Wayfarer's Bauble
+1 Amalia Benavides Aguirre
+1 Bloodthirsty Conqueror
+1 Children of Korlis
+1 Crypt Ghast
+1 Enduring Tenacity
+1 Gifted Aetherborn
+1 Gray Merchant of Asphodel
+1 Kambal, Consul of Allocation
+1 Kunoros, Hound of Athreos
+1 Murderous Rider
+1 Nighthawk Scavenger
+1 Niv-Mizzet, Ghost Counsel
+1 Palace Jailer
+1 Qarsi Revenant
+1 Resplendent Angel
+1 Scheming Silvertongue
+1 Sorin of House Markov
+1 Soul Warden
+1 Soul's Attendant
+1 Suture Priest
+1 Thrull Parasite
+1 Twilight Prophet
+1 Tymna the Weaver
+1 Vampire Nighthawk
+1 Vito, Thorn of the Dusk Rose
+1 Vizkopa Guildmage
+1 Anguished Unmaking
+1 Despark
+1 Generous Gift
+1 Kaya's Guile
+1 Malakir Rebirth
+1 Path to Exile
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Authority of the Consuls
+1 Black Market Connections
+1 Blind Obedience
+1 Bloodchief Ascension
+1 Court of Ambition
+1 Court of Grace
+1 Exquisite Blood
+1 Phyrexian Arena
+1 Polluted Bonds
+1 Smothering Tithe
+1 Bleachbone Verge
+1 Bojuka Bog
+1 Brightclimb Pathway
+1 Caves of Koilos
+1 Command Tower
+1 Concealed Courtyard
+1 Eclipsed Steppe
+1 Fabled Passage
+1 Fetid Heath
+1 Godless Shrine
+1 Isolated Chapel
+1 Marsh Flats
+1 Myriad Landscape
+1 Orzhov Basilica
+5 Plains
+1 Shadowy Backstreet
+1 Shattered Sanctum
+1 Shineshadow Snarl
+1 Silent Clearing
+1 Strip Mine
+7 Swamp
+1 Tainted Field
+1 Urborg, Tomb of Yawgmoth
+1 Vault of Champions
+1 War Room
+1 Damn
+1 Decorum Dissertation
+1 Fumigate
+1 Insatiable Avarice
+1 Merciless Eviction
+1 Night's Whisper
+1 Read the Bones
+1 Sign in Blood
