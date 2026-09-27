@@ -1,0 +1,103 @@
+// name: Zask, Skittering Swarmlord (Bracket 3)
+// source: community
+// tags: midrange, ramp, lands-matter, reanimater, combo
+
+Commander
+1 Zask, Skittering Swarmlord
+
+Deck
+
+1 Aatchik, Emerald Radian
+1 Azusa, Lost but Seeking
+1 Boggart Trawler
+1 Canoptek Scarab Swarm
+1 Caustic Caterpillar
+1 Disciple of Freyalise
+1 Dross Hopper
+1 Dryad of the Ilysian Grove
+1 Eternal Witness
+1 Fauna Shaman
+1 Fumulus, the Infestation
+1 Grist, Voracious Larva
+1 Haywire Mite
+1 Hex Parasite
+1 Icetill Explorer
+1 Izoni, Thousand-Eyed
+1 Lotus Cobra
+1 Massacre Girl
+1 Oracle of Mul Daya
+1 Riftsweeper
+1 Scute Swarm
+1 Sidisi, Undead Vizier
+1 Springheart Nantuko
+1 Syr Konrad, the Grim
+1 Timeless Witness
+1 Tireless Provisioner
+1 Underrealm Lich
+1 Virus Beetle
+1 Warren Soultrader
+1 Wight of the Reliquary
+1 World Shaper
+1 Altar of Dementia
+1 Ashnod's Altar
+1 Exploration Broodship
+1 Hedge Shredder
+1 Maskwood Nexus
+1 Perpetual Timepiece
+1 Phyrexian Altar
+1 Skullclamp
+1 Bala Ged Recovery
+1 Beseech the Mirror
+1 Dread Return
+1 Explore
+1 Formless Genesis
+1 Insatiable Avarice
+1 Life from the Loam
+1 Nature's Lore
+1 Reprocess
+1 Three Visits
+1 Victimize
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Buried Ruin
+1 Command Beacon
+1 Command Tower
+1 Crystal Vein
+1 Dakmor Salvage
+1 Field of the Dead
+5 Forest
+1 Golgari Rot Farm
+1 High Market
+1 Lotus Field
+1 Lotus Vale
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Polluted Delta
+1 Strip Mine
+2 Swamp
+1 Swarmyard
+1 Takenuma, Abandoned Mire
+1 Underground Mortuary
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Urza's Saga
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+1 Woodland Cemetery
+1 Yavimaya, Cradle of Growth
+1 Crop Rotation
+1 Fell the Profane
+1 Malakir Rebirth
+1 Nameless Inversion
+1 Revitalizing Repast
+1 Tear Asunder
+1 Exploration
+1 Phyrexian Reclamation
+1 Retreat to Hagra
+1 The Meathook Massacre
+1 Verdant Succession
+1 Grist, the Hunger Tide
