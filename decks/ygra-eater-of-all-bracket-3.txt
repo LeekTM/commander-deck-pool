@@ -1,0 +1,99 @@
+// name: Ygra, Eater of All (Bracket 3)
+// source: community
+// tags: -1/-1, aristocrats, tokens, group-slug, combo
+
+Commander
+1 Ygra, Eater of All
+
+Deck
+
+1 Academy Manufactor
+1 Bilbo, Fellow Conspirator
+1 Braids, Arisen Nightmare
+1 Camellia, the Seedmiser
+1 Chatterfang, Squirrel General
+1 Displaced Dinosaurs
+1 Dockside Chef
+1 Elanor Gardner
+1 Enduring Tenacity
+1 Experimental Confectioner
+1 Fangren Marauder
+1 Hazel's Brewmaster
+1 Jaheira, Friend of the Forest
+1 Michelangelo, the Heart
+1 Mirkwood Bats
+1 Mutagen Man, Living Ooze
+1 Peregrin Took
+1 Pitiless Plunderer
+1 Rapacious Guest
+1 Ravenous Squirrel
+1 Super Shredder
+1 Syr Ginger, the Meal Ender
+1 Technodrome
+1 Tender Wildguide
+1 Tergrid, God of Fright
+1 The Cabbage Merchant
+1 The Sackville-Bagginses
+1 Verdant Sun's Avatar
+1 Willowdusk, Essence Seer
+1 Ashnod's Altar
+1 Bag End Banquet
+1 Cauldron of Essence
+1 Idol of Oblivion
+1 Inspiring Statuary
+1 Nuka-Cola Vending Machine
+1 Skullclamp
+1 Sol Ring
+1 The Great Henge
+1 The Ooze
+1 Bitterblossom
+1 Black Market Connections
+1 Doubling Season
+1 Gourmand's Talent
+1 Grave Pact
+1 Hardened Scales
+1 Midnight Snack
+1 Night of the Sweets' Revenge
+1 Obsessive Pursuit
+1 Parallel Lives
+1 Phyrexian Arena
+1 Blasphemous Edict
+1 Essence Harvest
+1 Farseek
+1 Reanimate
+1 Severed Strands
+1 Skyshroud Claim
+1 Torment of Hailfire
+1 Toxic Deluge
+1 Bojuka Bog
+1 Command Tower
+1 Evendo, Waking Haven
+1 Exotic Orchard
+1 Fabled Passage
+5 Forest
+1 Gingerbread Cabin
+1 Inventors' Fair
+1 Miren, the Moaning Well
+1 Myriad Landscape
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Realm of Koh
+1 Reliquary Tower
+1 Restless Cottage
+1 Riveteers Overlook
+1 Rogue's Passage
+1 Strip Mine
+1 Susur Secundi, Void Altar
+6 Swamp
+1 The Shire
+1 Undergrowth Stadium
+1 Vernal Fen
+1 Witch's Clinic
+1 Witch's Cottage
+1 Woodland Cemetery
+1 Consumed by Greed
+1 Deadly Rollick
+1 Heroic Intervention
+1 Imp's Mischief
+1 Tear Asunder
+1 Professor Dellian Fel
