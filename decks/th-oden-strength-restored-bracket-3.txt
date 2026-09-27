@@ -1,0 +1,99 @@
+// name: Théoden, Strength Restored (Bracket 3)
+// source: community
+// tags: control, midrange, group-hug
+
+Commander
+1 Théoden, Strength Restored
+
+Deck
+
+
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Bountiful Landscape
+1 Brushland
+1 Caves of Koilos
+1 Command Tower
+1 Deceptive Landscape
+1 Exotic Orchard
+1 Fabled Passage
+1 Foreboding Landscape
+3 Forest
+1 Glacial Chasm
+3 Island
+1 Karplusan Forest
+1 Llanowar Wastes
+1 Mana Confluence
+3 Mountain
+1 Perilous Landscape
+3 Plains
+1 Reliquary Tower
+1 Shattered Landscape
+1 Shivan Reef
+1 Starting Town
+1 Sulfurous Springs
+3 Swamp
+1 Underground River
+1 Yavimaya Coast
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Blackblade Reforged
+1 Chromatic Lantern
+1 Fellwar Stone
+1 Horn of Valhalla
+1 Instant Ramen
+1 Isochron Scepter
+1 Lotus Bloom
+1 Sol Ring
+1 Sol Talisman
+1 The Regalia
+1 The Wind Crystal
+1 Wishclaw Talisman
+1 Agatha of the Vile Cauldron
+1 Biomancer's Familiar
+1 Bloom Tender
+1 Braids, Conjurer Adept
+1 Dakkon Blackblade
+1 Faeburrow Elder
+1 Felidar Sovereign
+1 Gladiolus Amicitia
+1 Gluntch, the Bestower
+1 Ignis Scientia
+1 Kami of the Crescent Moon
+1 Kwain, Itinerant Meddler
+1 Noctis, Prince of Lucis
+1 Prompto Argentum
+1 Ramos, Dragon Engine
+1 Seedborn Muse
+1 Twenty-Toed Toad
+1 White Orchid Phantom
+1 Zirda, the Dawnwaker
+1 An Offer You Can't Refuse
+1 Blue Elemental Blast
+1 Counterspell
+1 Despark
+1 Erode
+1 Fact or Fiction
+1 Flusterstorm
+1 Muddle the Mixture
+1 Natural State
+1 Nature's Claim
+1 Null Elemental Blast
+1 Path to Exile
+1 Perch Protection
+1 Red Elemental Blast
+1 Strix Serenade
+1 Swan Song
+1 Swords to Plowshares
+1 Austere Command
+1 Buried Alive
+1 Guided Passage
+1 Index
+1 Profane Tutor
+1 Temporal Trespass
+1 Tempt with Discovery
+1 Vanquish the Horde
+1 Dakkon, Shadow Slayer
+1 Smothering Tithe
+1 Tainted Remedy
+1 Training Grounds
