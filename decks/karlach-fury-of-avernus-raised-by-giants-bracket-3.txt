@@ -1,0 +1,102 @@
+// name: Karlach, Fury of Avernus + Raised by Giants (Bracket 3)
+// source: community
+// tags: equipment, aggro, voltron, extra-combats, midrange, toolbox
+
+Commander
+1 Karlach, Fury of Avernus
+1 Raised by Giants
+
+Deck
+
+1 Aggravated Assault
+1 Bear Umbra
+1 Blacksmith's Talent
+1 City on Fire
+1 Descent into Avernus
+1 Mirri's Guile
+1 Myth Unbound
+1 Rhythm of the Wild
+1 Shapers' Sanctuary
+1 Stranglehold
+1 Sylvan Library
+1 Arcane Signet
+1 Basilisk Collar
+1 Bilbo's Ring
+1 Commander's Plate
+1 Dolmen Gate
+1 Gruul Signet
+1 Hammer of Nazahn
+1 Herd Heirloom
+1 Lavaspur Boots
+1 Mithril Coat
+1 Shadowspear
+1 Sol Ring
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Talisman of Impulse
+1 The Aetherspark
+1 The Reaver Cleaver
+1 Arena of Glory
+1 Boseiju, Who Endures
+1 Cinder Glade
+1 Command Beacon
+1 Command Tower
+1 Commercial District
+1 Cragcrown Pathway
+1 Exotic Orchard
+1 Fabled Passage
+1 Fire-Lit Thicket
+4 Forest
+1 Grove of the Burnwillows
+1 Gruul Turf
+1 Homeward Path
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Mossfire Valley
+4 Mountain
+1 Rockfall Vale
+1 Rogue's Passage
+1 Rootbound Crag
+1 Sanctum of Eternity
+1 Sheltered Thicket
+1 Spire Garden
+1 Stomping Ground
+1 Thornspire Verge
+1 Urza's Cave
+1 Witch's Clinic
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Bala Ged Recovery
+1 Cultivate
+1 Faithless Looting
+1 Farseek
+1 Gamble
+1 Kodama's Reach
+1 Nature's Lore
+1 Nibelheim Aflame
+1 Pirate's Pillage
+1 Reckless Handling
+1 Regrowth
+1 Seize the Day
+1 Seize the Spoils
+1 Sylvan Scrying
+1 Three Visits
+1 World at War
+1 Berserk
+1 Big Score
+1 Bolt Bend
+1 Chaos Warp
+1 Collective Resistance
+1 Crop Rotation
+1 Deflecting Swat
+1 Heroic Intervention
+1 Obscuring Haze
+1 Tamiyo's Safekeeping
+1 Tangle
+1 Temur Battle Rage
+1 Thrill of Possibility
+1 Tyvar's Stand
+1 Unexpected Windfall
+1 Valakut Awakening
+1 Veil of Summer
+1 Zariel, Archduke of Avernus
