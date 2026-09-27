@@ -1,0 +1,98 @@
+// name: Eddie, Lord of Light (Bracket 3)
+// source: community
+// tags: card-draw, discard, burn, group-slug
+
+Commander
+1 Eddie, Lord of Light
+
+Deck
+
+1 Arcane Denial
+1 Baleful Mastery
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deflecting Swat
+1 Mana Drain
+1 Negate
+1 Pongify
+1 Stubborn Denial
+1 Terminate
+1 Valakut Awakening
+1 Wheel and Deal
+1 Arcane Signet
+1 Dimir Signet
+1 Izzet Signet
+1 Lightning Greaves
+1 Memory Jar
+1 Rakdos Signet
+1 Sol Ring
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Teferi's Puzzle Box
+1 Thought Vessel
+1 Blasphemous Act
+1 Dark Deal
+1 Demonic Tutor
+1 Echo of Eons
+1 Incendiary Command
+1 Molten Psyche
+1 Peer into the Abyss
+1 Prosperity
+1 Reforge the Soul
+1 Whispering Madness
+1 Windfall
+1 Winds of Change
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Cabal Coffers
+1 Command Tower
+1 Crumbling Necropolis
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Geier Reach Sanitarium
+5 Island
+1 Luxury Suite
+1 Morphic Pool
+4 Mountain
+1 Polluted Delta
+1 Reliquary Tower
+1 Shivan Reef
+1 Smoldering Marsh
+1 Steam Vents
+1 Sulfur Falls
+1 Sunken Hollow
+4 Swamp
+1 Training Center
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Xander's Lounge
+1 Curiosity
+1 Forced Fruition
+1 Helm of the Ghastlord
+1 Liliana's Caress
+1 Painful Quandary
+1 Phyrexian Tyranny
+1 Propaganda
+1 Sigil of Sleep
+1 Underworld Dreams
+1 Waste Not
+1 Fate Unraveler
+1 Ghyrson Starn, Kelermorph
+1 Harmonic Prodigy
+1 Jace's Archivist
+1 Kami of the Crescent Moon
+1 Kederekt Parasite
+1 Magus of the Wheel
+1 Master of the Feast
+1 Nightscape Familiar
+1 Psychosis Crawler
+1 Razorkin Needlehead
+1 Scrawling Crawler
+1 Sheoldred, the Apocalypse
+1 Silent Arbiter
+1 Solphim, Mayhem Dominus
+1 Stormfist Crusader
+1 Tergrid, God of Fright
