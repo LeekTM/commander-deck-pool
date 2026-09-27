@@ -1,0 +1,96 @@
+// name: Judith, Carnage Connoisseur (Bracket 3)
+// source: community
+// tags: burn, group-slug, tokens, lifegain, spellslinger, salty
+
+Commander
+1 Judith, Carnage Connoisseur
+
+Deck
+
+1 Ancient Tomb
+1 Arid Mesa
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Tower
+1 Dark Fortress
+1 Dragonskull Summit
+1 Foreboding Ruins
+1 Graven Cairns
+1 Haunted Ridge
+1 Lindblum, Industrial Regency
+1 Luxury Suite
+1 Marsh Flats
+7 Mountain
+1 Polluted Delta
+1 Prismatic Vista
+1 Raucous Theater
+1 Smoldering Marsh
+1 Sulfurous Springs
+7 Swamp
+1 Urborg, Tomb of Yawgmoth
+1 Arcane Signet
+1 Bolas's Citadel
+1 Fellwar Stone
+1 Jet Medallion
+1 Monument to Endurance
+1 Ruby Medallion
+1 Skullclamp
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Indulgence
+1 Big Score
+1 Blood for the Blood God!
+1 Cast into the Fire
+1 Corrupted Conviction
+1 Dark Ritual
+1 Deadly Dispute
+1 Deadly Rollick
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Electrickery
+1 Fake Your Own Death
+1 Gut Shot
+1 Lightning Bolt
+1 Plumb the Forbidden
+1 Rakdos Charm
+1 Seething Song
+1 Undying Malice
+1 Untimely Malfunction
+1 Village Rites
+1 Wail of the Nim
+1 Birgi, God of Storytelling
+1 Coruscation Mage
+1 Dualcaster Mage
+1 Erebor Flamesmith
+1 Firebrand Archer
+1 Guttersnipe
+1 Harmonic Prodigy
+1 Kessig Flamebreather
+1 Mahadi, Emporium Master
+1 Sedgemoor Witch
+1 Storm-Kiln Artist
+1 Tor Wauki the Younger
+1 Urabrask
+1 Vito, Thorn of the Dusk Rose
+1 Young Pyromancer
+1 Blasphemous Act
+1 Blazing Volley
+1 Boltwave
+1 End the Festivities
+1 Faithless Looting
+1 Fiery Confluence
+1 Grab the Prize
+1 Grapeshot
+1 Highway Robbery
+1 Iroh's Demonstration
+1 Jeska's Will
+1 Night's Whisper
+1 Rite of Flame
+1 Sign in Blood
+1 Smash to Dust
+1 Tectonic Hazard
+1 Vandalblast
+1 Goblin Bombardment
+1 Impact Tremors
+1 Repercussion
