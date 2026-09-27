@@ -1,0 +1,82 @@
+// name: Karametra, God of Harvests (Bracket 3)
+// source: community
+// tags: midrange, ramp, lifegain, enchantments, lands-matter
+
+Commander
+1 Karametra, God of Harvests
+
+Deck
+
+1 Abundance
+1 Ancestral Mask
+1 Angelic Gift
+1 Banishing Light
+1 Burgeoning
+1 Enchantress's Presence
+1 Felidar Retreat
+1 Gift of Immortality
+1 Grasp of Fate
+1 Karmic Justice
+1 Mirari's Wake
+1 Primeval Bounty
+1 Privileged Position
+1 Shielded by Faith
+1 Sigil of the Empty Throne
+1 Song of the Dryads
+1 Sphere of Safety
+1 Spirit Mantle
+1 Sterling Grove
+1 Altar of the Pantheon
+1 Amulet of Vigor
+1 Bow of Nylea
+1 Helm of the Gods
+1 Nyx Lotus
+1 Sol Ring
+1 Spear of Heliod
+1 Archon of Sun's Grace
+1 Composer of Spring
+1 Courser of Kruphix
+1 Daxos, Blessed by the Sun
+1 Destiny Spinner
+1 Dryad of the Ilysian Grove
+1 Felidar Sovereign
+1 Heliod's Pilgrim
+1 Heliod, Sun-Crowned
+1 Herald of the Pantheon
+1 Lathiel, the Bounteous Dawn
+1 Lotus Cobra
+1 Mesa Enchantress
+1 Nessian Wanderer
+1 Nykthos Paragon
+1 Nylea, Keen-Eyed
+1 Nyx Herald
+1 Renata, Called to the Hunt
+1 Sanctum Weaver
+1 Satyr Enchanter
+1 Setessan Champion
+1 Shalai, Voice of Plenty
+1 Silverback Elder
+1 Siona, Captain of the Pyleas
+1 Starnheim Courser
+1 Stonehoof Chieftain
+1 Sun Titan
+1 Sythis, Harvest's Hand
+1 Calix, Destiny's Hand
+1 Canopy Vista
+15 Forest
+1 Hall of Heliod's Generosity
+1 Nykthos, Shrine to Nyx
+13 Plains
+1 Savannah
+1 Scattered Groves
+1 Sunpetal Grove
+1 Temple Garden
+1 Temple of Plenty
+1 Windswept Heath
+1 Cultivate
+1 Idyllic Tutor
+1 Plea for Guidance
+1 Heroic Intervention
+1 Path to Exile
+1 Teferi's Protection
+1 Worldly Tutor
