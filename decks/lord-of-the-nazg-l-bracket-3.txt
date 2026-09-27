@@ -1,0 +1,88 @@
+// name: Lord of the Nazgûl (Bracket 3)
+// source: community
+// tags: tempo, spellslinger, salty
+
+Commander
+1 Lord of the Nazgûl
+
+Deck
+
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Brainstorm
+1 Cabal Ritual
+1 Consider
+1 Culling the Weak
+1 Cyclonic Rift
+1 Dark Ritual
+1 Deadly Rollick
+1 Drown in the Loch
+1 Fell the Profane
+1 Frantic Search
+1 Infernal Grasp
+1 Malakir Rebirth
+1 Mana Drain
+1 Not Dead After All
+1 Opt
+1 Rapid Hybridization
+1 Reality Shift
+1 Sink into Stupor
+1 Snuff Out
+1 Supernatural Stamina
+1 Swan Song
+1 Undying Evil
+1 Undying Malice
+1 Vampiric Tutor
+1 Waterlogged Teachings
+1 Archmage Emeritus
+1 Boggart Trawler
+1 Curiosity Crafter
+1 Enduring Curiosity
+1 Glasspool Mimic
+1 Metallic Mimic
+9 Nazgûl
+1 Bender's Waterskin
+1 Coat of Arms
+1 Patchwork Banner
+1 Sol Ring
+1 The Soul Stone
+1 Birthday Escape
+1 Claim the Precious
+1 Decorum Dissertation
+1 Demonic Tutor
+1 Echoing Return
+1 Gitaxian Probe
+1 Kindred Dominance
+1 Night's Whisper
+1 Ponder
+1 Raise the Palisade
+1 Reanimate
+1 Ringsight
+1 Sam's Desperate Rescue
+1 Sign in Blood
+1 Winged Words
+1 Black Market Connections
+1 Call of the Ring
+1 Cover of Darkness
+1 Kindred Discovery
+1 Bloodstained Mire
+1 Choked Estuary
+1 Clearwater Pathway
+1 Command Tower
+1 Darkwater Catacombs
+1 Drowned Catacomb
+1 Gloomlake Verge
+1 Hidden Lair
+6 Island
+1 Morphic Pool
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Scalding Tarn
+1 Shipwreck Marsh
+1 Sunken Hollow
+8 Swamp
+1 Tainted Isle
+1 Undercity Sewers
+1 Underground River
+1 Watery Grave
