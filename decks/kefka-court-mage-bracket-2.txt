@@ -1,0 +1,108 @@
+// name: Kefka, Court Mage (Bracket 2)
+// source: community
+// tags: control, good-stuff, midrange
+
+Commander
+1 Kefka, Court Mage
+
+Deck
+
+1 Abhorrent Oculus
+1 Anger
+1 Archon of Cruelty
+1 Bloodthirsty Conqueror
+1 Body Double
+1 Chaos Defiler
+1 Combustible Gearhulk
+1 Deadpool, Trading Card
+1 Delina, Wild Mage
+1 Detective's Phoenix
+1 Enduring Courage
+1 Enduring Curiosity
+1 Gogo, Mysterious Mime
+1 Kefka, Dancing Mad
+1 Nicol Bolas, the Ravager
+1 Norman Osborn
+1 Noxious Gearhulk
+1 Rottenmouth Viper
+1 Sakashima the Impostor
+1 Sauron, the Dark Lord
+1 Sheoldred
+1 Sheoldred, Whispering One
+1 Summon: Primal Odin
+1 Thassa, Deep-Dwelling
+1 Tinybones, Pocket Nuisance
+1 Tinybones, Trinket Thief
+1 Tourach, Dread Cantor
+1 Toxrill, the Corrosive
+1 Afterlife from the Loam
+1 Breach the Multiverse
+1 Nuclear Fallout
+1 Rise of the Dark Realms
+1 Singularity Rupture
+1 Stock Up
+1 Arcane Signet
+1 Conjurer's Closet
+1 Dimir Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Key to the City
+1 Lavaspur Boots
+1 Lightning Greaves
+1 Monument to Endurance
+1 Palantír of Orthanc
+1 Rakdos Signet
+1 Relic of Sauron
+1 Sol Ring
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 The Soul Stone
+1 Bitter Reunion
+1 Virtue of Persistence
+1 Waste Not
+1 Blazemire Verge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Bojuka Bog
+1 City of Brass
+1 Command Tower
+1 Crumbling Necropolis
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Gloomlake Verge
+1 Horizon of Progress
+1 Island
+1 Mana Confluence
+1 Mistrise Village
+1 Mountain
+1 Oscorp Industries
+1 Polluted Delta
+1 Raucous Theater
+1 Reflecting Pool
+1 Reliquary Tower
+1 Scalding Tarn
+1 Shivan Reef
+1 Shizo, Death's Storehouse
+1 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+1 Steam Vents
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Swamp
+1 The Black Gate
+1 Thundering Falls
+1 Undercity Sewers
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Xander's Lounge
+1 Dark Ritual
+1 Dismember
+1 Flame of Anor
+1 Overkill
+1 Withering Torment
+1 Liliana of the Veil
