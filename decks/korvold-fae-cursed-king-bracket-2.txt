@@ -1,0 +1,99 @@
+// name: Korvold, Fae-Cursed King (Bracket 2)
+// source: community
+// tags: aristocrats, tokens, sacrifice, ramp
+
+Commander
+1 Korvold, Fae-Cursed King
+
+Deck
+
+1 Academy Manufactor
+1 Atsushi, the Blazing Sky
+1 Birds of Paradise
+1 Blood Artist
+1 Chatterfang, Squirrel General
+1 Decadent Dragon
+1 Eternal Witness
+1 Goldspan Dragon
+1 Grim Hireling
+1 Ignoble Hierarch
+1 Impulsive Pilferer
+1 Jolene, the Plunder Queen
+1 Juri, Master of the Revue
+1 Mahadi, Emporium Master
+1 Mayhem Devil
+1 Mirkwood Bats
+1 Old Gnawbone
+1 Pitiless Plunderer
+1 Professional Face-Breaker
+1 Ruthless Technomancer
+1 Sakura-Tribe Elder
+1 Smaug the Magnificent
+1 Springbloom Druid
+1 Tireless Provisioner
+1 Viscera Seer
+1 Xorn
+1 Ziatora, the Incinerator
+1 Zulaport Cutthroat
+1 Arcane Signet
+1 Ashnod's Altar
+1 Bootleggers' Stash
+1 Lightning Greaves
+1 Phyrexian Altar
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Reaver Cleaver
+1 Assassin's Trophy
+1 Beast Within
+1 Bedevil
+1 Chaos Warp
+1 Dark Ritual
+1 Deadly Dispute
+1 Deflecting Swat
+1 Dismember
+1 Entish Restoration
+1 Harrow
+1 Heroic Intervention
+1 Roiling Regrowth
+1 Terminate
+1 Awakening Zone
+1 Black Market Connections
+1 Dictate of Erebos
+1 Goblin Bombardment
+1 Revel in Riches
+1 Rhythm of the Wild
+1 Blasphemous Act
+1 Blood Money
+1 Brass's Bounty
+1 Cultivate
+1 Diabolic Intent
+1 Kodama's Reach
+1 Reanimate
+1 Victimize
+1 Blightstep Pathway
+1 Blood Crypt
+1 Bloodstained Mire
+1 Command Tower
+1 Cragcrown Pathway
+1 Darkbore Pathway
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+4 Forest
+1 Luxury Suite
+4 Mountain
+1 Overgrown Tomb
+1 Phyrexian Tower
+1 Reflecting Pool
+1 Reliquary Tower
+1 Riveteers Overlook
+1 Savage Lands
+1 Spire Garden
+1 Stomping Ground
+4 Swamp
+1 Terramorphic Expanse
+1 Treasure Vault
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Ziatora's Proving Ground
