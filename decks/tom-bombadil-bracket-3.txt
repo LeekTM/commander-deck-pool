@@ -1,0 +1,107 @@
+// name: Tom Bombadil (Bracket 3)
+// source: community
+// tags: midrange, enchantments, sagas, spellslinger, good-stuff
+
+Commander
+1 Tom Bombadil
+
+Deck
+
+1 Anguished Unmaking
+1 Consider
+1 Enlightened Tutor
+1 Fierce Guardianship
+1 Heroic Intervention
+1 Learn from the Past
+1 Mana Drain
+1 Mnemonic Nexus
+1 Mortify
+1 Opt
+1 Path to Exile
+1 Storyweave
+1 Strix Serenade
+1 Struggle // Survive
+1 Swan Song
+1 Swords to Plowshares
+1 Arcane Signet
+1 Chromatic Lantern
+1 Chrome Mox
+1 Cloudstone Curio
+1 Commander's Sphere
+1 Fellwar Stone
+1 Talisman of Conviction
+1 Talisman of Curiosity
+1 Talisman of Dominance
+1 Talisman of Impulse
+1 Talisman of Progress
+1 Talisman of Resilience
+1 Talisman of Unity
+1 Arid Mesa
+1 Breeding Pool
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Forbidden Orchard
+1 Forest
+1 Ghost Quarter
+1 Godless Shrine
+1 Hallowed Fountain
+2 Island
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Monumental Henge
+1 Morphic Pool
+1 Mountain
+1 Overgrown Tomb
+1 Plains
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sea of Clouds
+1 Spire Garden
+1 Stomping Ground
+1 Swamp
+1 Temple Garden
+1 Undergrowth Stadium
+1 Verdant Catacombs
+1 Wasteland
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Awaken the Honored Dead
+1 Ballad of the Black Flag
+1 Burn, Burn, Tree and Fern
+1 Celebrate the Mountain-king
+1 Down, Down to Goblin-town
+1 In the Darkness Bind Them
+1 Oath of the Ancient Wood
+1 Quest for Ancient Secrets
+1 Rediscover the Way
+1 Revival of the Ancestors
+1 Roar of Endless Song
+1 Roll-Roll-Roll-Roll
+1 Showdown of the Skalds
+1 Song of Eärendil
+1 The Apprentice's Folly
+1 The Bath Song
+1 The Misty Mountains Cold
+1 The World Spell
+1 Three Blind Mice
+1 Worship
+1 Birds of Paradise
+1 Delighted Halfling
+1 Doomwake Giant
+1 Goldberry, River-Daughter
+1 Sanctum Weaver
+1 Blasphemous Act
+1 Decree of Pain
+1 Faithless Looting
+1 Farseek
+1 Preordain
+1 Primal Command
+1 Reminisce
+1 Supreme Verdict
+1 Syphon Mind
+1 Temporal Cascade
