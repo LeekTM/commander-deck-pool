@@ -1,0 +1,93 @@
+// name: Slinza, the Spiked Stampede (Bracket 3)
+// source: community
+// tags: +1/+1, tokens, ramp, aggro, tribal
+
+Commander
+1 Slinza, the Spiked Stampede
+
+Deck
+
+1 Abundance
+1 Aether Charge
+1 Asceticism
+1 Garruk's Uprising
+1 Primeval Bounty
+1 Rhythm of the Wild
+1 Tribute to the World Tree
+1 Armored Scrapgorger
+1 Battlefront Krushok
+1 Beast Whisperer
+1 Bloated Contaminator
+1 Caller of the Pack
+1 Craterhoof Behemoth
+1 Elder Gargaroth
+1 Fanatic of Rhonas
+1 Fangren Firstborn
+1 Formation Breaker
+1 Frenzied Baloth
+1 Gallia, the Merrymaker
+1 Garruk's Packleader
+1 Giant Cindermaw
+1 Goreclaw, Terror of Qal Sisma
+1 Herald of Ilharg
+1 Herd Baloth
+1 Kona, Rescue Beastie
+1 Krosan Warchief
+1 Loot, Exuberant Explorer
+1 Manglehorn
+1 Neyith of the Dire Hunt
+1 Paleoloth
+1 Quartzwood Crasher
+1 Rampaging Baloths
+1 Realmwalker
+1 Seedborn Muse
+1 Siege Behemoth
+1 Spearbreaker Behemoth
+1 Spellbreaker Behemoth
+1 Thunderfoot Baloth
+1 Wirewood Savage
+1 Woodland Liege
+1 Beast Within
+1 Force of Vigor
+1 Heroic Intervention
+1 Inspiring Call
+1 Krosan Grip
+1 Smuggler's Surprise
+1 Worldly Tutor
+1 Blasphemous Act
+1 Cultivate
+1 Decimate
+1 Ezuri's Predation
+1 Germination Practicum
+1 Kodama's Reach
+1 Natural Order
+1 Nature's Lore
+1 Rampant Growth
+1 Skyshroud Claim
+1 Command Tower
+1 Contested Cliffs
+1 Evendo, Waking Haven
+1 Evolving Wilds
+1 Fire-Lit Thicket
+13 Forest
+1 Game Trail
+1 Karn's Bastion
+1 Mosswort Bridge
+4 Mountain
+1 Oran-Rief, the Vastwood
+1 Path of Ancestry
+1 Reliquary Tower
+1 Rockfall Vale
+1 Rootbound Crag
+1 Spire Garden
+1 Stomping Ground
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Yavimaya, Cradle of Growth
+1 Emerald Medallion
+1 Herd Heirloom
+1 Lifecrafter's Bestiary
+1 Patchwork Banner
+1 Sol Ring
+1 Vanquisher's Banner
+1 Vivien, Monsters' Advocate
