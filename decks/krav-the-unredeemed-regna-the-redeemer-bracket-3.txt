@@ -1,0 +1,89 @@
+// name: Krav, the Unredeemed + Regna, the Redeemer (Bracket 3)
+// source: community
+// tags: +1/+1, combo, tokens, lifegain
+
+Commander
+1 Krav, the Unredeemed
+1 Regna, the Redeemer
+
+Deck
+
+1 Ad Nauseam
+1 Anguished Unmaking
+1 Beacon of Immortality
+1 Clever Concealment
+1 Generous Gift
+1 Path to Exile
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Cosmos Elixir
+1 Fellwar Stone
+1 Lightning Greaves
+1 Pristine Talisman
+1 Sol Ring
+1 Talisman of Hierarchy
+1 The Book of Exalted Deeds
+1 Angel of Destiny
+1 Archangel of Thune
+1 Astarion, the Decadent
+1 Bishop of Wings
+1 Blood Artist
+1 Bloodthirsty Conqueror
+1 Dazzling Angel
+1 Defiant Bloodlord
+1 Elas il-Kor, Sadistic Pilgrim
+1 Elenda's Hierophant
+1 Enduring Tenacity
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Exemplar of Light
+1 Grand Abolisher
+1 Heliod, Sun-Crowned
+1 Hinterland Sanctifier
+1 Indulging Patrician
+1 Marauding Blight-Priest
+1 Resplendent Angel
+1 Sephiroth, Fabled SOLDIER
+1 Soul Warden
+1 Soul's Attendant
+1 Starscape Cleric
+1 Suture Priest
+1 The Gaffer
+1 Vito, Thorn of the Dusk Rose
+1 Walking Ballista
+1 Angelic Accord
+1 Authority of the Consuls
+1 Cleric Class
+1 Court of Grace
+1 Divine Visitation
+1 Exquisite Blood
+1 Gleaming Splendor
+1 Land Tax
+1 Sanguine Bond
+1 Smothering Tithe
+1 Tainted Remedy
+1 Wound Reflection
+1 Bojuka Bog
+1 Castle Locthwain
+1 Caves of Koilos
+1 Command Tower
+1 Exotic Orchard
+1 Fetid Heath
+1 Godless Shrine
+1 Isolated Chapel
+1 Mutavault
+13 Plains
+1 Radiant Fountain
+1 Reliquary Tower
+1 Rogue's Passage
+1 Shattered Sanctum
+8 Swamp
+1 Tainted Field
+1 Vault of the Archangel
+1 Elspeth, Storm Slayer
+1 Exsanguinate
+1 Reanimate
+1 Rise of the Dark Realms
+1 Zombify
