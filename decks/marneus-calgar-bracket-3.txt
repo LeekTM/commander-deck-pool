@@ -1,0 +1,103 @@
+// name: Marneus Calgar (Bracket 3)
+// source: community
+// tags: combo, tokens
+
+Commander
+1 Marneus Calgar
+
+Deck
+
+1 Alandra, Sky Dreamer
+1 Blood Artist
+1 Corpse Knight
+1 Cruel Celebrant
+1 Elas il-Kor, Sadistic Pilgrim
+1 Emrakul's Messenger
+1 Ertai Resurrected
+1 Esper Sentinel
+1 Exalted Sunborn
+1 Faerie Artisans
+1 Inquisitor Greyfax
+1 Lotho, Corrupt Shirriff
+1 Mirkwood Bats
+1 Nadir Kraken
+1 Ojer Taq, Deepest Foundation
+1 Pitiless Plunderer
+1 Psychosis Crawler
+1 Queza, Augur of Agonies
+1 Sicarian Infiltrator
+1 Sister Hospitaller
+1 Space Marine Devastator
+1 Space Marine Scout
+1 Teysa Karlov
+1 Ultramarines Honour Guard
+1 Vanguard Suppressor
+1 Altar of Dementia
+1 Arcane Signet
+1 Ashnod's Altar
+1 Fellwar Stone
+1 Mind Stone
+1 Phyrexian Altar
+1 Sol Ring
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Talisman of Progress
+1 The Golden Throne
+1 An Offer You Can't Refuse
+1 And They Shall Know No Fear
+1 Counterspell
+1 Dark Ritual
+1 Deadly Rollick
+1 Deny the Witch
+1 Despark
+1 Flare of Fortitude
+1 Mana Drain
+1 Rebuff the Wicked
+1 Swan Song
+1 Swords to Plowshares
+1 Void Rend
+1 Beseech the Mirror
+1 Damn
+1 Demonic Tutor
+1 Diabolic Tutor
+1 Exsanguinate
+1 Insatiable Avarice
+1 Recommission
+1 Ringsight
+1 Vindicate
+1 Black Market Connections
+1 Monologue Tax
+1 Mystic Remora
+1 Rhystic Study
+1 Smothering Tithe
+1 Bleachbone Verge
+1 Brightclimb Pathway
+1 Clearwater Pathway
+1 Command Tower
+1 Contaminated Landscape
+1 Exotic Orchard
+1 Flooded Strand
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+1 Hengegate Pathway
+3 Island
+1 Isolated Chapel
+1 Meticulous Archive
+1 Otawara, Soaring City
+2 Plains
+1 Polluted Delta
+1 Raffine's Tower
+1 Reliquary Tower
+1 Sea of Clouds
+1 Shadowy Backstreet
+1 Shattered Sanctum
+1 Shipwreck Marsh
+3 Swamp
+1 Tainted Field
+1 Tainted Isle
+1 Turbulent Moor
+1 Undercity Sewers
+1 Vault of Champions
+1 Watery Grave
+1 Elspeth, Storm Slayer
