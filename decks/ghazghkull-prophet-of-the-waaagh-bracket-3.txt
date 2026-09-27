@@ -1,0 +1,96 @@
+// name: Ghazghkull, Prophet of the Waaagh! (Bracket 3)
+// source: community
+// tags: tribal, tokens, amass, aggro
+
+Commander
+1 Ghazghkull, Prophet of the Waaagh!
+
+Deck
+
+
+1 Abandoned Air Temple
+1 Auntie's Hovel
+1 Barad-dûr
+1 Blackcleave Cliffs
+1 Blazemire Verge
+1 Bleachbone Verge
+1 Blightstep Pathway
+1 Cascading Cataracts
+1 Clifftop Retreat
+1 Command Beacon
+1 Command Tower
+1 Concealed Courtyard
+1 Daily Bugle Building
+1 Dalkovan Encampment
+1 Dark Fortress
+1 Dragonskull Summit
+1 Eclipsed Realms
+1 Exotic Orchard
+12 Mountain
+1 Nomad Outpost
+1 Plains
+1 Reflecting Pool
+3 Swamp
+1 Temple of the False God
+1 Unclaimed Territory
+1 Academy Manufactor
+1 Ancient Copper Dragon
+1 Ankle Shanker
+1 Archetype of Aggression
+1 Azog, Moria's Ruin
+1 Boggart Cursecrafter
+1 Boggart Harbinger
+1 Bolg's Company
+1 Bolg, Erebor's Reckoning
+1 Bothersome Noisemaker
+1 Cirith Ungol Patrol
+1 Eclipsed Boggart
+1 Fearsome Goblin Pair
+1 Goblin Rabblemaster
+1 Gorbag of Minas Morgul
+1 Hexing Squelcher
+1 Iroas, God of Victory
+1 Krenko, Mob Boss
+1 Krenko, Tin Street Kingpin
+1 Marshal of the Lost
+1 Mauhúr, Uruk-hai Captain
+1 Orcish Bowmasters
+1 Orcish Siegemaster
+1 Rhovanion Rampager
+1 The Great Goblin
+1 Uglúk of the White Hand
+1 Warg Rider
+1 White Plume Adventurer
+1 Zurgo Stormrender
+1 Aggravated Assault
+1 Demonic Ruckus
+1 Gleaming Splendor
+1 Leader's Talent
+1 Pain for All
+1 Akroma's Will
+1 Boros Charm
+1 Cut Propulsion
+1 Erode
+1 Frontline Rush
+1 Giantfall
+1 Judgment of Alexander
+1 Seething Song
+1 Arcane Signet
+1 Cliffhaven Kitesail
+1 Cloak of the Bat
+1 Coat of Arms
+1 Hylderblade
+1 My Precious
+1 Skullclamp
+1 Sol Ring
+1 Sword of Wealth and Power
+1 The Eternity Elevator
+1 The Reaver Cleaver
+1 The Seriema
+1 Chain Reaction
+1 Farewell
+1 Gathering of Darkness
+1 Grub's Command
+1 Hordeling Outburst
+1 Nibelheim Aflame
+1 Jeska, Thrice Reborn
