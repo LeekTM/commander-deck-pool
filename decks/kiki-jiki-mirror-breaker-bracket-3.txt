@@ -1,0 +1,74 @@
+// name: Kiki-Jiki, Mirror Breaker (Bracket 3)
+// source: community
+// tags: aggro, clones, sacrifice, treasures
+
+Commander
+1 Kiki-Jiki, Mirror Breaker
+
+Deck
+
+1 Aftershock
+1 Burn from Within
+1 Change of Fortune
+1 Faithless Looting
+1 Hell to Pay
+1 Ignite the Future
+1 Jeska's Will
+1 Reckless Impulse
+1 Vandalblast
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Wrenn's Resolve
+1 Ancient Copper Dragon
+1 Bloodshot Cyclops
+1 Combustible Gearhulk
+1 Conquering Manticore
+1 Etali, Primal Storm
+1 Fiendish Duo
+1 Friendly Teddy
+1 Hellkite Tyrant
+1 Impulsive Pilferer
+1 Invading Manticore
+1 Meteor Golem
+1 Patron of the Arts
+1 Piggy Bank
+1 Ragavan, Nimble Pilferer
+1 Solemn Simulacrum
+1 Spawn of Thraxes
+1 Trumpeting Carnosaur
+1 Ulamog, the Defiler
+1 Unlucky Witness
+1 Xorn
+1 Ashnod's Altar
+1 Blade of the Bloodchief
+1 Carnage Altar
+1 Culling Dais
+1 Diamond Pick-Axe
+1 Extraplanar Lens
+1 Jandor's Saddlebags
+1 Magewright's Stone
+1 Mask of Memory
+1 Memory Vessel
+1 Mind Stone
+1 Mind's Eye
+1 Phyrexian Vault
+1 Puppet Strings
+1 Ravenous Amulet
+1 Ruby Medallion
+1 Sol Ring
+1 Staff of Domination
+1 Thornbite Staff
+1 Thought Vessel
+1 Thousand-Year Elixir
+1 Burst Lightning
+1 Chaos Warp
+1 Electric Revelation
+1 Fling
+1 Lightning Bolt
+1 Thrill of Possibility
+1 Unexpected Windfall
+1 Chandra, Torch of Defiance
+1 Command Beacon
+35 Mountain
+1 Temple of the False God
+1 Consuming Ferocity
