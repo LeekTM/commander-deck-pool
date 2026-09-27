@@ -1,0 +1,97 @@
+// name: Voja, Jaws of the Conclave (Bracket 3)
+// source: community
+// tags: +1/+1, tribal, burn
+
+Commander
+1 Voja, Jaws of the Conclave
+
+Deck
+
+1 Agatha's Soul Cauldron
+1 Arcane Signet
+1 Birthing Pod
+1 Manifold Key
+1 Maskwood Nexus
+1 Sol Ring
+1 Sonic Screwdriver
+1 Swiftfoot Boots
+1 Talisman of Conviction
+1 Talisman of Impulse
+1 Talisman of Unity
+1 Umbral Mantle
+1 All Will Be One
+1 Annie Joins Up
+1 Cathars' Crusade
+1 Hardened Scales
+1 Howling Moon
+1 Rhythm of the Wild
+1 Rising of the Day
+1 Anara, Wolvid Familiar
+1 Arwen, Weaver of Hope
+1 Beast Whisperer
+1 Bramblewood Paragon
+1 Champions of the Perfect
+1 Devoted Druid
+1 Druid of the Anima
+1 Elvish Archdruid
+1 Elvish Mystic
+1 Evolution Witness
+1 Formidable Speaker
+1 Gyre Sage
+1 Incubation Druid
+1 Kami of Whispered Hopes
+1 Kutzil, Malamet Exemplar
+1 Leaf-Crowned Visionary
+1 Llanowar Elves
+1 Lys Alana Huntmaster
+1 Marwyn, the Nurturer
+1 Mirror Entity
+1 Ouroboroid
+1 Pia, Aether Ascetic
+1 Priest of Titania
+1 Realmwalker
+1 Samut, Hazoret's Champion
+1 Shalai and Hallar
+1 Shang-Chi, Master of Kung Fu
+1 Simulacrum Shaper
+1 Walking Ballista
+1 Wolf-Skull Shaman
+1 Yoshimaru, Beloved Companion
+1 Battlefield Forge
+1 Bountiful Promenade
+1 Brushland
+1 Canopy Vista
+1 Cinder Glade
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+12 Forest
+1 Fortified Village
+1 Game Trail
+1 Jungle Shrine
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Mountain
+1 Overgrown Farmland
+1 Path of Ancestry
+1 Plains
+1 Radiant Summit
+1 Rockfall Vale
+1 Rootbound Crag
+1 Spire Garden
+1 Stomping Ground
+1 Sunbillow Verge
+1 Sunpetal Grove
+1 Beast Within
+1 Generous Gift
+1 Heroic Intervention
+1 Inspiring Call
+1 Path to Exile
+1 Stroke of Midnight
+1 Swords to Plowshares
+1 Teferi's Protection
+1 Windswift Slice
+1 Blasphemous Act
+1 Cultivate
+1 Damning Verdict
+1 Overwhelming Stampede
