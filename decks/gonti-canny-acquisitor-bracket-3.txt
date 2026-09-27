@@ -1,0 +1,98 @@
+// name: Gonti, Canny Acquisitor (Bracket 3)
+// source: community
+// tags: tokens, theft
+
+Commander
+1 Gonti, Canny Acquisitor
+
+Deck
+
+1 Alora, Merry Thief
+1 Baleful Strix
+1 Birds of Paradise
+1 Bitterbloom Bearer
+1 Bloom Tender
+1 Changeling Outcast
+1 Fallen Shinobi
+1 Ghostly Pilferer
+1 Great Whale
+1 Grim Hireling
+1 Higure, the Still Wind
+1 Ingenious Infiltrator
+1 Invisible Stalker
+1 Likeness Looter
+1 Massacre Girl
+1 Mist-Cloaked Herald
+1 Mist-Syndicate Naga
+1 Mistblade Shinobi
+1 Moon-Circuit Hacker
+1 Nashi, Moon Sage's Scion
+1 Prosperous Thief
+1 Silent-Blade Oni
+1 Silver-Fur Master
+1 Slither Blade
+1 Spring-Leaf Avenger
+1 Tetsuko Umezawa, Fugitive
+1 Thousand-Faced Shadow
+1 Yuriko, the Tiger's Shadow
+1 Arcane Signet
+1 Fellwar Stone
+1 Key to the City
+1 Lightning Greaves
+1 Mind Stone
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Dominance
+1 Assassin's Trophy
+1 Beast Within
+1 Counterspell
+1 Cyclonic Rift
+1 Malakir Rebirth
+1 Nature's Claim
+1 Reality Shift
+1 Return to Action
+1 Rewind
+1 Sink into Stupor
+1 Bala Ged Recovery
+1 Enter the Enigma
+1 Farseek
+1 Nature's Lore
+1 Ponder
+1 Shredder's Technique
+1 Splinter's Technique
+1 Torment of Hailfire
+1 Black Market Connections
+1 Cover of Darkness
+1 Imprisoned in the Moon
+1 Mirror Mockery
+1 Ninja Teen
+1 Sylvan Library
+1 Breeding Pool
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Darkwater Catacombs
+1 Dimir Aqueduct
+1 Dismal Backwater
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Forest
+1 Gloomlake Verge
+1 Horizon of Progress
+8 Island
+1 Misty Rainforest
+1 Morphic Pool
+1 Overgrown Tomb
+1 Polluted Delta
+1 Prismatic Vista
+1 Rogue's Passage
+1 Sunken Hollow
+4 Swamp
+1 Terramorphic Expanse
+1 Turbulent Wetlands
+1 Underground River
+1 Verdant Catacombs
+1 Watery Grave
+1 Willowrush Verge
+1 Zagoth Triome
+1 Kaito, Cunning Infiltrator
