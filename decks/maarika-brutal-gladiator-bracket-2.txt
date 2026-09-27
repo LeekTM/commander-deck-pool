@@ -1,0 +1,102 @@
+// name: Maarika, Brutal Gladiator (Bracket 2)
+// source: community
+// tags: combo, group-slug, midrange, burn
+
+Commander
+1 Maarika, Brutal Gladiator
+
+Deck
+
+1 Apex Altisaur
+1 Cactusfolk Sureshot
+1 Caldera Hellion
+1 Dimir House Guard
+1 Dream Devourer
+1 Formidable Speaker
+1 Gogo, Mysterious Mime
+1 Hexhaven Invigorator
+1 Kardur, Doomscourge
+1 Keen Duelist
+1 Kogla, the Titan Ape
+1 Lizard, Connors's Curse
+1 Maha, Its Feathers Night
+1 Pia, Aether Ascetic
+1 Railway Brawler
+1 Selvala, Heart of the Wilds
+1 Smaug the Impenetrable
+1 Tom, Bert, and William
+1 Veteran Explorer
+1 Vhati il-Dal
+1 Vigor
+1 Xenagos, God of Revels
+1 Arcane Signet
+1 Boxing Ring
+1 Fellwar Stone
+1 Herd Heirloom
+1 Mind Stone
+1 Requiem Monolith
+1 Talisman of Impulse
+1 Talisman of Indulgence
+1 Talisman of Resilience
+1 The Irencrag
+1 The Skullspore Nexus
+1 Whip of Erebos
+1 Arcbond
+1 Duelist's Flame
+1 Entish Restoration
+1 Golgari Charm
+1 Showstopping Surprise
+1 Valakut Awakening
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 Command Tower
+1 Deathcap Glade
+1 Fabled Passage
+1 Fire-Lit Thicket
+1 Flamekin Village
+1 Forbidden Orchard
+3 Forest
+1 Haunted Ridge
+1 Karplusan Forest
+1 Llanowar Wastes
+3 Mountain
+1 Nurturing Peatland
+1 Overgrown Tomb
+1 Rockfall Vale
+1 Savage Lands
+1 Spymaster's Vault
+1 Starting Town
+1 Stomping Ground
+1 Sulfurous Springs
+1 Susur Secundi, Void Altar
+3 Swamp
+1 Twilight Mire
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Ziatora's Proving Ground
+1 Bloodsoaked Insight
+1 Brainspoil
+1 Bridgeworks Battle
+1 Bushwhack
+1 Chandra's Ignition
+1 Decorum Dissertation
+1 Nibelheim Aflame
+1 Nova Flame
+1 Painful Truths
+1 Scheming Symmetry
+1 Season of Gathering
+1 Stump Stomp
+1 Traverse the Outlands
+1 Waltz of Rage
+1 Domri, Anarch of Bolas
+1 Endless Whispers
+1 Fires of Invention
+1 Footfall Crater
+1 Heartbeat of Spring
+1 Mana Flare
+1 Overabundance
+1 Repercussion
+1 Sarkhan's Unsealing
+1 Vicious Shadows
+1 Warstorm Surge
