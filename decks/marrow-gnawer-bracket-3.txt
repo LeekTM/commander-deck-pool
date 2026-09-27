@@ -1,0 +1,73 @@
+// name: Marrow-Gnawer (Bracket 3)
+// source: community
+// tags: ripple, tribal, aristocrats, sacrifice
+
+Commander
+1 Marrow-Gnawer
+
+Deck
+
+1 Akroma's Memorial
+1 Ashnod's Altar
+1 Chronicle of Victory
+1 Coat of Arms
+1 Eldrazi Monument
+1 Herald's Horn
+1 Illusionist's Bracers
+1 Maskwood Nexus
+1 Sol Ring
+1 Sword of the Squeak
+1 The One Ring
+1 Thrumming Stone
+1 Vanquisher's Banner
+1 Ayara, First of Locthwain
+1 Chittering Witch
+1 Crypt Ghast
+1 Filth
+1 Gray Merchant of Asphodel
+1 Karumonix, the Rat King
+1 Lord Skitter, Sewer King
+1 Marvin, Murderous Mimic
+1 Mirkwood Bats
+1 Morbid Opportunist
+1 Nadier's Nightblade
+1 Ogre Slumlord
+1 Pack Rat
+1 Piper of the Swarm
+14 Rat Colony
+1 Ratcatcher
+1 Scrib Nibblers
+1 Twisted Sewer-Witch
+1 Valley Rotcaller
+1 Vengeful Bloodwitch
+1 Zulaport Cutthroat
+1 Bastion of Remembrance
+1 Black Market
+1 Haunted One
+1 Blasphemous Edict
+1 Decree of Pain
+1 Demonic Collusion
+1 Diabolic Tutor
+1 Eaten Alive
+1 Feed the Swarm
+1 Fortuitous Find
+1 Haunting Voyage
+1 In Garruk's Wake
+1 Kindred Dominance
+1 Swarmyard Massacre
+1 Bojuka Bog
+1 Crypt of Agadeem
+1 Mudflat Village
+1 Path of Ancestry
+1 Rogue's Passage
+1 Secret Tunnel
+1 Susur Secundi, Void Altar
+23 Swamp
+1 Swarmyard
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+1 Witch's Cottage
+1 Dark Ritual
+1 Deadly Dispute
+1 Liliana Vess
+1 Liliana of the Dark Realms
