@@ -1,0 +1,94 @@
+// name: Muldrotha, the Gravetide (Bracket 3)
+// source: community
+// tags: reanimater, prison, ramp
+
+Commander
+1 Muldrotha, the Gravetide
+
+Deck
+
+1 Accursed Marauder
+1 Acidic Slime
+1 Archon of Cruelty
+1 Azusa, Lost but Seeking
+1 Birds of Paradise
+1 Braids, Cabal Minion
+1 Colossal Grave-Reaver
+1 Dauthi Voidwalker
+1 Elvish Mystic
+1 Emeritus of Woe
+1 Endurance
+1 Eternal Witness
+1 Glen Elendra Archmage
+1 Hedron Crab
+1 Hermit Druid
+1 Icetill Explorer
+1 It That Betrays
+1 Malevolent Hermit
+1 Oriq Loremage
+1 Plaguecrafter
+1 Reclamation Sage
+1 Sheoldred, Whispering One
+1 Spore Frog
+1 Stitcher's Supplier
+1 Tergrid, God of Fright
+1 Teval, the Balanced Scale
+1 World Shaper
+1 Zodiark, Umbral God
+1 Animate Dead
+1 Cemetery Tampering
+1 Dance of the Dead
+1 Defense of the Heart
+1 Desolation
+1 Journey to Eternity
+1 Kaya's Ghostform
+1 Lunar Force
+1 Necromancy
+1 Oppression
+1 Oubliette
+1 Propaganda
+1 Ripples of Undeath
+1 Seal of Primordium
+1 Wild Growth
+1 Blade of Selves
+1 Mesmeric Orb
+1 Mindslaver
+1 Perpetual Timepiece
+1 Phyrexian Altar
+1 Sol Ring
+1 Strionic Resonator
+1 Vexing Bauble
+1 Brokers Hideout
+1 Command Beacon
+1 Command Tower
+1 Deathcap Glade
+1 Dreamroot Cascade
+1 Drowned Catacomb
+1 Fabled Passage
+5 Forest
+1 Hinterland Harbor
+3 Island
+1 Overgrown Tomb
+1 Sodden Verdure
+1 Strip Mine
+1 Sunken Hollow
+9 Swamp
+1 Twilight Mire
+1 Vernal Fen
+1 Viridescent Bog
+1 Wasteland
+1 Witch's Cottage
+1 Woodland Cemetery
+1 Dark Ritual
+1 Entomb
+1 Songs of the Damned
+1 Finale of Devastation
+1 Life from the Loam
+1 Nature's Lore
+1 Persist
+1 Reanimate
+1 Three Visits
+1 Torment of Hailfire
+1 Invasion of Ikoria
+1 Tamiyo, Collector of Tales
+1 Wrenn and Realmbreaker
