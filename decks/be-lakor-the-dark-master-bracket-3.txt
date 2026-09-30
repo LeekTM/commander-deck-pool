@@ -1,0 +1,92 @@
+// name: Be'lakor, the Dark Master (Bracket 3)
+// source: community
+// tags: burn, card-draw, tribal
+
+Commander
+1 Be'lakor, the Dark Master
+
+Deck
+
+1 Abyssal Harvester
+1 Archfiend of Depravity
+1 Archfiend of Despair
+1 Archfiend of the Dross
+1 Balor
+1 Bloodgift Demon
+1 Bloodletter of Aclazotz
+1 Bloodthirster
+1 Bringer of the Last Gift
+1 Curse-Marred Demon
+1 Demonlord Belzenlok
+1 Displacer Kitten
+1 Doom Whisperer
+1 Great Unclean One
+1 Gyruda, Doom of Depths
+1 Harvester of Souls
+1 Herald of Slaanesh
+1 Kardur, Doomscourge
+1 Lord Xander, the Collector
+1 Lord of Change
+1 Rakdos, Lord of Riots
+1 Rakdos, Patron of Chaos
+1 Rakdos, the Showstopper
+1 Raphael, Fiendish Savior
+1 Reiver Demon
+1 Rot-Curse Rakshasa
+1 Rune-Scarred Demon
+1 Scourge of the Skyclaves
+1 Shadowgrange Archfiend
+1 Sower of Discord
+1 Vilis, Broker of Blood
+1 An Offer You Can't Refuse
+1 Cast into the Fire
+1 Chaos Warp
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Rakdos Charm
+1 Stubborn Denial
+1 Thrill of Possibility
+1 Arcane Signet
+1 Dimir Signet
+1 Fellwar Stone
+1 Izzet Signet
+1 Quicksilver Amulet
+1 Rakdos Signet
+1 Sol Ring
+1 Sword of Hearth and Home
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Whip of Erebos
+1 Bloodstained Mire
+1 Cascade Bluffs
+1 Command Tower
+1 Exotic Orchard
+1 Foreboding Ruins
+1 Graven Cairns
+5 Island
+6 Mountain
+1 Oscorp Industries
+1 Path of Ancestry
+1 Polluted Delta
+1 Seething Landscape
+1 Smoldering Marsh
+1 Spinerock Knoll
+1 Sunken Hollow
+1 Sunken Ruins
+8 Swamp
+1 Temple of the False God
+1 Urborg, Tomb of Yawgmoth
+1 Xander's Lounge
+1 Demonic Counsel
+1 Demonic Tutor
+1 Faithless Looting
+1 Grab the Prize
+1 Night's Whisper
+1 Reanimate
+1 Rite of Replication
+1 Demonic Covenant
+1 Descent into Avernus
+1 Heartless Summoning
+1 Molten Echoes
+1 Unholy Annex // Ritual Chamber
