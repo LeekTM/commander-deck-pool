@@ -1,0 +1,95 @@
+// name: Ruric Thar, the Unbowed (Bracket 2)
+// source: community
+// tags: aggro, burn, zoo
+
+Commander
+1 Ruric Thar, the Unbowed
+
+Deck
+
+1 Aggressive Mammoth
+1 Alexios, Deimos of Kosmos
+1 Ancient Copper Dragon
+1 Anger
+1 Ashaya, Soul of the Wild
+1 Bane of Progress
+1 Circle of Dreams Druid
+1 Collector Ouphe
+1 Delighted Halfling
+1 Dragonborn Champion
+1 Druid of Purification
+1 Eidolon of the Great Revel
+1 Elder Gargaroth
+1 Endurance
+1 Eternal Witness
+1 Fanatic of Rhonas
+1 Fiendish Duo
+1 Frenzied Baloth
+1 Ghalta, Stampede Tyrant
+1 Goblin Anarchomancer
+1 Goblin Sharpshooter
+1 Guardian Augmenter
+1 Gwenna, Eyes of Gaea
+1 Klothys, God of Destiny
+1 Kogla, the Titan Ape
+1 Llanowar Tribe
+1 Magebane Lizard
+1 Ohran Frostfang
+1 Old Gnawbone
+1 Oracle of Mul Daya
+1 Pyrewood Gearhulk
+1 Railway Brawler
+1 Saryth, the Viper's Fang
+1 Scytheclaw Raptor
+1 Selvala, Heart of the Wilds
+1 Shaman of Forgotten Ways
+1 Silverback Elder
+1 Solphim, Mayhem Dominus
+1 Somberwald Sage
+1 Soul of the Harvest
+1 Spider-Punk
+1 Toski, Bearer of Secrets
+1 Twinflame Tyrant
+1 Urabrask the Hidden
+1 Vexing Shusher
+1 Zhur-Taa Druid
+1 Asceticism
+1 City on Fire
+1 Defense of the Heart
+1 Dense Foliage
+1 Elven Chorus
+1 Fiery Emancipation
+1 Garruk's Uprising
+1 Guardian Project
+1 Rhythm of the Wild
+1 Shadow in the Warp
+1 Tribute to the World Tree
+1 Unnatural Growth
+1 Bonders' Enclave
+1 Boseiju, Who Endures
+1 Castle Garenbrig
+1 Cavern of Souls
+1 Cinder Glade
+1 Command Tower
+10 Forest
+1 Geier Reach Sanitarium
+1 Gemstone Caverns
+1 Karplusan Forest
+5 Mountain
+1 Nykthos, Shrine to Nyx
+1 Reflecting Pool
+1 Rockfall Vale
+1 Rogue's Passage
+1 Rootbound Crag
+1 Spire Garden
+1 Stomping Ground
+1 Thornspire Verge
+1 Witch's Clinic
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+1 Deflecting Swat
+1 Domri, Anarch of Bolas
+1 Minsc & Boo, Timeless Heroes
+1 Finale of Devastation
+1 Semblance Anvil
+1 Shadowspear
