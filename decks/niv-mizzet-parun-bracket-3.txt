@@ -1,0 +1,87 @@
+// name: Niv-Mizzet, Parun (Bracket 3)
+// source: community
+// tags: combo, burn, card-draw, counterspells, spellslinger
+
+Commander
+1 Niv-Mizzet, Parun
+
+Deck
+
+1 Abrade
+1 Aetherize
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Big Score
+1 Brainstorm
+1 Chaos Warp
+1 Counterspell
+1 Cyclonic Rift
+1 Essence Flux
+1 Flame of Anor
+1 Flashback
+1 Invert Polarity
+1 Ionize
+1 Lightning Bolt
+1 Mystical Tutor
+1 Negate
+1 Opt
+1 Pongify
+1 Prismari Charm
+1 Rapid Hybridization
+1 Reality Shift
+1 Reins of Power
+1 Seething Song
+1 Swan Song
+1 Thrill of Possibility
+1 Arcane Signet
+1 Basilisk Collar
+1 Glamdring
+1 Lightning Greaves
+1 Sol Ring
+1 Archmage Emeritus
+1 Brash Taunter
+1 Coruscation Mage
+1 Electrostatic Field
+1 Galazeth Prismari
+1 Guttersnipe
+1 Harmonic Prodigy
+1 Kessig Flamebreather
+1 Ojer Axonil, Deepest Might
+1 Oliphaunt
+1 Storm-Kiln Artist
+1 Thermo-Alchemist
+1 Thunderdrum Soloist
+1 Veyran, Voice of Duality
+1 Ash Barrens
+1 Cascade Bluffs
+1 Command Tower
+11 Island
+1 Lindblum, Industrial Regency
+1 Mistrise Village
+12 Mountain
+1 Reliquary Tower
+1 Riverpyre Verge
+1 Scalding Tarn
+1 Scorched Geyser
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Turbulent Springs
+1 Blasphemous Act
+1 Exquisite Firecraft
+1 Faithless Looting
+1 Flow State
+1 Lórien Revealed
+1 Mizzium Mortars
+1 Mizzix's Mastery
+1 Ponder
+1 Portent
+1 Preordain
+1 River's Rebuke
+1 Serum Visions
+1 Vandalblast
+1 Fated Firepower
+1 Fiery Inscription
+1 Rhystic Study
+1 Spiteful Banditry
+1 Teferi, Temporal Pilgrim
