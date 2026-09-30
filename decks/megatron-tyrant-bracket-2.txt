@@ -1,0 +1,106 @@
+// name: Megatron, Tyrant (Bracket 2)
+// source: community
+// tags: self-damage, ramp, artifacts, toolbox, lifegain
+
+Commander
+1 Megatron, Tyrant
+
+Deck
+
+1 Archaeomancer's Map
+1 Bitterthorn, Nissa's Animus
+1 Chromatic Orrery
+1 Coveted Jewel
+1 Cryptolith Fragment
+1 Cursed Mirror
+1 Excalibur, Sword of Eden
+1 Expedition Map
+1 Gilded Lotus
+1 Memory Jar
+1 Portal to Phyrexia
+1 Pumpkin Bombs
+1 Retributive Wand
+1 The Ten Rings
+1 Ugin's Nexus
+1 Arid Mesa
+1 Battlefield Forge
+1 Baxter Building
+1 Blood Crypt
+1 Bloodstained Mire
+1 Branch of Vitu-Ghazi
+1 Cascading Cataracts
+1 Caves of Koilos
+1 Command Tower
+1 Dark Fortress
+1 Exotic Orchard
+1 Eye of Ugin
+1 Forbidden Orchard
+1 Godless Shrine
+1 Haunted Ridge
+1 Horizon of Progress
+1 Luxury Suite
+1 Marsh Flats
+1 Mountain
+3 Plains
+1 Plaza of Heroes
+1 Sacred Foundry
+1 Savai Triome
+1 Shizo, Death's Storehouse
+1 Spectator Seating
+1 Spinerock Knoll
+1 Sulfurous Springs
+1 Swamp
+1 Talon Gates of Madara
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Vault of Champions
+1 Atraxa's Skitterfang
+1 Brimstone Trebuchet
+1 Crystalline Entity
+1 Dauntless Scrapbot
+1 Defacing Duskmage
+1 Emrakul, the Exigent Doom
+1 Emrakul, the Promised End
+1 Emrakul, the World Anew
+1 Etched Familiar
+1 Fire Navy Trebuchet
+1 Galactus, Devourer of Worlds
+1 Keen Duelist
+1 Kozilek, Butcher of Truth
+1 Raven of Fell Omens
+1 Sandstone Oracle
+1 Scrawling Crawler
+1 Slicer, Hired Muscle
+1 Starscream, Power Hungry
+1 Steel Seraph
+1 Stensian Sanguinist
+1 Stormfist Crusader
+1 Ulamog, the Infinite Gyre
+1 Unruly Catapult
+1 Witch Enchanter
+1 Bloodsoaked Insight
+1 Boltwave
+1 Damnable Pact
+1 Debt to the Deathless
+1 Dregs of Sorrow
+1 Exsanguinate
+1 Flame Rift
+1 Grab the Prize
+1 Killing Wave
+1 Ondu Inversion
+1 Rise of the Eldrazi
+1 Shatterskull Smashing
+1 Stargaze
+1 Sundering Eruption
+1 Wheel of Misfortune
+1 Cool but Rude
+1 Descent into Avernus
+1 Crackling Doom
+1 Desecrate Reality
+1 Fell the Profane
+1 Heliod's Intervention
+1 Olórin's Searing Light
+1 Price of Progress
+1 Rakdos Charm
+1 Silverquill Charm
+1 Soul Shatter
