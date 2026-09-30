@@ -1,0 +1,93 @@
+// name: Oloro, Ageless Ascetic (Bracket 3)
+// source: community
+// tags: pillow-fort, lifegain, lifedrain
+
+Commander
+1 Oloro, Ageless Ascetic
+
+Deck
+
+1 Adarkar Wastes
+1 Arcane Sanctum
+1 Caves of Koilos
+1 Command Tower
+1 Drowned Catacomb
+1 Exotic Orchard
+1 Flooded Strand
+1 Glacial Fortress
+1 Godless Shrine
+1 Hallowed Fountain
+4 Island
+1 Isolated Chapel
+1 Marsh Flats
+1 Morphic Pool
+8 Plains
+1 Polluted Delta
+1 Raffine's Tower
+1 Sea of Clouds
+6 Swamp
+1 Underground River
+1 Vault of Champions
+1 Watery Grave
+1 Aetherflux Reservoir
+1 Alhammarret's Archive
+1 Arcane Signet
+1 Bolas's Citadel
+1 Crawlspace
+1 Norn's Annex
+1 Sol Ring
+1 The Wind Crystal
+1 Venser's Journal
+1 Aetherize
+1 Aetherspouts
+1 An Offer You Can't Refuse
+1 Anguished Unmaking
+1 Arcane Denial
+1 Comeuppance
+1 Counterspell
+1 Cyclonic Rift
+1 Dark Ritual
+1 Despark
+1 Dovin's Veto
+1 Evacuation
+1 Mana Drain
+1 Settle the Wreckage
+1 Teferi's Protection
+1 Void Rend
+1 Angel of Vitality
+1 Archon of Coronation
+1 Creeping Bloodsucker
+1 Doctor Strange, Surgeon
+1 Dr. Beverly Crusher
+1 Drogskol Reaver
+1 Enduring Tenacity
+1 Esper Sentinel
+1 Felidar Sovereign
+1 Grand Abolisher
+1 Kambal, Consul of Allocation
+1 Karlov of the Ghost Council
+1 Lotho, Corrupt Shirriff
+1 Niv-Mizzet, Ghost Counsel
+1 Platinum Angel
+1 Queza, Augur of Agonies
+1 Rhox Faithmender
+1 Selenia, the Cursed Heart
+1 Tree of Perdition
+1 Vito, Thorn of the Dusk Rose
+1 Voice of Victory
+1 Voice of the Blessed
+1 Windborn Muse
+1 Authority of the Consuls
+1 Blind Obedience
+1 Boon Reflection
+1 Cleric Class
+1 Court of Grace
+1 Ghostly Prison
+1 No Mercy
+1 Paradox Haze
+1 Phyrexian Arena
+1 Propaganda
+1 Sanguine Bond
+1 Test of Endurance
+1 Supreme Verdict
+1 Withering Curse
