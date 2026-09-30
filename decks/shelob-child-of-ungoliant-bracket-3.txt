@@ -1,0 +1,98 @@
+// name: Shelob, Child of Ungoliant (Bracket 3)
+// source: community
+// tags: tribal, food, big-mana, tokens
+
+Commander
+1 Shelob, Child of Ungoliant
+
+Deck
+
+1 Arachnogenesis
+1 Cosmic Hunger
+1 Dark Ritual
+1 Deadly Rollick
+1 Heroic Intervention
+1 Legolas's Quick Reflexes
+1 Return of the Wildspeaker
+1 Setessan Tactics
+1 Supper for Spiders
+1 Vampiric Tutor
+1 Worldly Tutor
+1 Arachnus Spinner
+1 Arasta of the Endless Web
+1 Chainweb Aracnir
+1 Drider
+1 Drivnod, Carnage Dominus
+1 Gwenom, Remorseless
+1 Ishkanah, Grafwidow
+1 Old Fat Spider
+1 Roaming Throne
+1 Shelob, Dread Weaver
+1 Spider-Ham, Peter Porker
+1 Spinner of Souls
+1 Twin-Silk Spider
+1 Twitching Doll
+1 Ulvenwald Tracker
+1 Watcher in the Web
+1 Arachnus Web
+1 Black Market
+1 Black Market Connections
+1 Cover of Darkness
+1 Curse of Clinging Webs
+1 Doubling Season
+1 Gardenize
+1 Guardian Project
+1 Lure
+1 Night of the Sweets' Revenge
+1 Parallel Lives
+1 Arcane Signet
+1 Herd Heirloom
+1 Maskwood Nexus
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Great Henge
+1 The Masamune
+1 The Soul Stone
+1 Thornbite Staff
+1 Urza's Incubator
+1 Viridian Longbow
+1 Whip of Erebos
+1 Bojuka Bog
+1 Cavern of Souls
+1 Command Tower
+1 Deathcap Glade
+1 Evolving Wilds
+7 Forest
+1 Gingerbread Cabin
+1 Golgari Rot Farm
+1 Jungle Hollow
+1 Llanowar Wastes
+1 Mirkwood
+1 Oran-Rief, the Vastwood
+1 Overgrown Tomb
+1 Path of Ancestry
+1 Restless Cottage
+5 Swamp
+1 Swarmyard
+1 Tainted Wood
+1 The Shire
+1 Three Tree City
+1 Turbulent Fen
+1 Undergrowth Stadium
+1 Urborg, Tomb of Yawgmoth
+1 Verdant Catacombs
+1 Wastewood Verge
+1 Woodland Cemetery
+1 Yavimaya, Cradle of Growth
+1 Bushwhack
+1 Demonic Tutor
+1 Exsanguinate
+1 Farseek
+1 For the Common Good
+1 Patriarch's Bidding
+1 Roar of Challenge
+1 Shamanic Revelation
+1 Skyshroud Claim
+1 Swarmyard Massacre
+1 Three Visits
+1 Lolth, Spider Queen
