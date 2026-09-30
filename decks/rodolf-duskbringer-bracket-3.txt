@@ -1,0 +1,98 @@
+// name: Rodolf Duskbringer (Bracket 3)
+// source: community
+// tags: midrange, aristocrats, reanimater, lifegain
+
+Commander
+1 Rodolf Duskbringer
+
+Deck
+
+1 Altar of Dementia
+1 Expedition Map
+1 Pristine Talisman
+1 Skullclamp
+1 Sol Ring
+1 Talisman of Hierarchy
+1 Angel of the Ruins
+1 Archangel of Thune
+1 Archivist of Oghma
+1 Battle Angels of Tyr
+1 Bloodthirsty Aerialist
+1 Bloodthirsty Conqueror
+1 Carmen, Cruel Skymarcher
+1 Celestine, the Living Saint
+1 Charismatic Conqueror
+1 Creeping Bloodsucker
+1 Cruel Celebrant
+1 Deep Gnome Terramancer
+1 Elas il-Kor, Sadistic Pilgrim
+1 Elenda's Hierophant
+1 Elenda, the Dusk Rose
+1 Exemplar of Light
+1 Grave Researcher
+1 Guide of Souls
+1 Haliya, Guided by Light
+1 Heliod, Sun-Crowned
+1 Knight of the White Orchid
+1 Loyal Warhound
+1 Lurrus of the Dream-Den
+1 Marauding Blight-Priest
+1 Nazar, the Velvet Fang
+1 Niv-Mizzet, Ghost Counsel
+1 Ocelot Pride
+1 Scheming Silvertongue
+1 Selfless Spirit
+1 Soul Warden
+1 Soul's Attendant
+1 Suture Priest
+1 The Gaffer
+1 Twilight Prophet
+1 Vito, Thorn of the Dusk Rose
+1 Voice of the Blessed
+1 Warren Soultrader
+1 Weathered Wayfarer
+1 Woe Strider
+1 Yawgmoth, Thran Physician
+1 Zulaport Cutthroat
+1 Anguished Unmaking
+1 Deadly Dispute
+1 Generous Gift
+1 Hatred
+1 Path to Exile
+1 Swords to Plowshares
+1 Authority of the Consuls
+1 Bastion of Remembrance
+1 Black Market Connections
+1 Land Tax
+1 Smothering Tithe
+1 Bojuka Bog
+1 Castle Locthwain
+1 Command Tower
+1 Concealed Courtyard
+1 Eclipsed Steppe
+1 Eiganjo, Seat of the Empire
+1 Emeria, the Sky Ruin
+1 Field of the Dead
+1 Godless Shrine
+1 Isolated Chapel
+1 Orzhov Basilica
+1 Phyrexian Tower
+6 Plains
+1 Shadowy Backstreet
+1 Shattered Sanctum
+1 Snowfield Sinkhole
+1 Sunlit Marsh
+1 Susur Secundi, Void Altar
+6 Swamp
+1 Tainted Field
+1 Takenuma, Abandoned Mire
+1 Turbulent Moor
+1 Umbral Expanse
+1 Vault of Champions
+1 War Room
+1 Damn
+1 Damnation
+1 Living Death
+1 Night's Whisper
+1 Sign in Blood
+1 Syphon Mind
