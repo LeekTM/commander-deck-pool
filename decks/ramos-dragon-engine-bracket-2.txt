@@ -1,0 +1,108 @@
+// name: Ramos, Dragon Engine (Bracket 2)
+// source: community
+// tags: tribal, flying, spellslinger, +1/+1, control
+
+Commander
+1 Ramos, Dragon Engine
+
+Deck
+
+1 Abzan Charm
+1 Counterflux
+1 Crackling Doom
+1 Deathsprout
+1 Expansion // Explosion
+1 Far // Away
+1 Growth Spiral
+1 Join Shields
+1 Jund Charm
+1 Master Warcraft
+1 Naya Charm
+1 New Way Forward
+1 Olórin's Searing Light
+1 Planar Genesis
+1 Proctor's Gaze
+1 Quandrix Command
+1 Reinterpret
+1 Render Silent
+1 Road // Ruin
+1 Silumgar's Command
+1 Suffocating Blast
+1 Suspend Aggression
+1 Sylvan Reclamation
+1 Unite the Coalition
+1 Vanish into Memory
+1 Voidslime
+1 Waterlogged Teachings
+1 Ancient Cornucopia
+1 Jade Orb of Dragonkind
+1 Lux Artillery
+1 Solar Array
+1 Angelfire Ignition
+1 Bloodsoaked Insight
+1 Bring to Light
+1 Culling Ritual
+1 Discovery // Dispersal
+1 Mind into Matter
+1 Mythos of Snapdax
+1 Perennation
+1 Pest Control
+1 Wargate
+1 Annie Joins Up
+1 Blind Obedience
+1 Call the Spirit Dragons
+1 Arid Mesa
+1 Blood Crypt
+1 Bountiful Promenade
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Forest
+1 Godless Shrine
+1 Hallowed Fountain
+1 Indatha Triome
+1 Island
+1 Jetmir's Garden
+1 Ketria Triome
+1 Luxury Suite
+1 Marsh Flats
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Plains
+1 Raffine's Tower
+1 Raugrin Triome
+1 Rejuvenating Springs
+1 Sacred Foundry
+1 Savai Triome
+1 Scalding Tarn
+1 Spara's Headquarters
+1 Spectator Seating
+1 Steam Vents
+1 Stomping Ground
+1 Temple Garden
+1 The World Tree
+1 Training Center
+1 Vault of Champions
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Xander's Lounge
+1 Zagoth Triome
+1 Ziatora's Proving Ground
+1 Beledros Witherbloom
+1 Crystalline Crawler
+1 Dragonlord Dromoka
+1 Kyodai, Soul of Kamigawa
+1 Niv-Mizzet Reborn
+1 Niv-Mizzet, Supreme
+1 Prismari, the Inspiration
+1 Rith, Liberated Primeval
+1 Rivaz of the Claw
+1 Scion of Draco
+1 Scion of the Ur-Dragon
+1 Tiamat
+1 Two-Headed Hellkite
+1 Whirlwing Stormbrood
+1 Wildgrowth Archaic
+1 Invasion of Alara
