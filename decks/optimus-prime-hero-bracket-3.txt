@@ -1,0 +1,98 @@
+// name: Optimus Prime, Hero (Bracket 3)
+// source: community
+// tags: aggro, +1/+1, artifacts
+
+Commander
+1 Optimus Prime, Hero
+
+Deck
+
+1 Abandoned Air Temple
+1 Adarkar Wastes
+1 Ancient Den
+1 Arid Mesa
+1 Battlefield Forge
+1 Command Tower
+1 Darksteel Citadel
+1 Flooded Strand
+1 Great Furnace
+1 Hallowed Fountain
+1 Inventors' Fair
+4 Island
+1 Karn's Bastion
+4 Mountain
+1 Path of Ancestry
+5 Plains
+1 Power Depot
+1 Prairie Stream
+1 Raugrin Triome
+1 Sacred Foundry
+1 Sea of Clouds
+1 Seat of the Synod
+1 Spectator Seating
+1 Steam Vents
+1 Training Center
+1 Aetherflux Reservoir
+1 Arcane Signet
+1 Azorius Signet
+1 Basalt Monolith
+1 Boros Signet
+1 Cloud Key
+1 Doubling Cube
+1 Isochron Scepter
+1 Lux Artillery
+1 Rings of Brighthearth
+1 Sensei's Divining Top
+1 Sol Ring
+1 Solar Array
+1 Staff of Compleation
+1 Talisman of Creativity
+1 Talisman of Progress
+1 The Ozolith
+1 Akroma's Will
+1 Boros Charm
+1 Brainstorm
+1 Dispatch
+1 Dramatic Reversal
+1 Enlightened Tutor
+1 Frantic Search
+1 Generous Gift
+1 Kazuul's Fury
+1 Path to Exile
+1 Ripples of Potential
+1 Whir of Invention
+1 Alibou, Ancient Witness
+1 Arcbound Crusher
+1 Arcbound Ravager
+1 Arcbound Reclaimer
+1 Arcbound Shikari
+1 Arcee, Sharpshooter
+1 Bronze Guardian
+1 Danny Pink
+1 Donatello, Mutant Mechanic
+1 Enthusiastic Mechanaut
+1 Esper Sentinel
+1 Foundry Inspector
+1 Giggling Skitterspike
+1 Goldbug, Humanity's Ally
+1 Herald of Secret Streams
+1 Iron Spider, Stark Upgrade
+1 Jetfire, Ingenious Scientist
+1 Jhoira, Weatherlight Captain
+1 Kappa Cannoneer
+1 Kilo, Apogee Mind
+1 Patrolling Peacemaker
+1 Prowl, Stoic Strategist
+1 Ratchet, Field Medic
+1 Slicer, Hired Muscle
+1 Steel Overseer
+1 Surge Conductor
+1 Walking Ballista
+1 Blasphemous Act
+1 Fabricate
+1 Ponder
+1 Scrap Mastery
+1 Sundering Eruption
+1 Tezzeret's Gambit
+1 Mystic Remora
+1 Resourceful Defense
