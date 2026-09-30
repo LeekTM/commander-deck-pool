@@ -1,0 +1,102 @@
+// name: Narset, Enlightened Master (Bracket 3)
+// source: community
+// tags: voltron, spellslinger, extra-combats, counterspells, control
+
+Commander
+1 Narset, Enlightened Master
+
+Deck
+
+1 Adarkar Wastes
+1 Ancient Tomb
+1 Arena of Glory
+1 Battlefield Forge
+1 Cascade Bluffs
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Fabled Passage
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Inspiring Vantage
+5 Island
+1 Mistrise Village
+2 Mountain
+1 Mystic Gate
+1 Needleverge Pathway
+2 Plains
+1 Plaza of Heroes
+1 Riverglide Pathway
+1 Sacred Foundry
+1 Sea of Clouds
+1 Seachrome Coast
+1 Shivan Reef
+1 Spirebluff Canal
+1 Steam Vents
+1 Stormcarved Coast
+1 Sundown Pass
+1 Akroma's Will
+1 An Offer You Can't Refuse
+1 Boros Charm
+1 Brainstorm
+1 Brainsurge
+1 Counterspell
+1 Cyclonic Rift
+1 Delayed Blast Fireball
+1 Flawless Maneuver
+1 Generous Gift
+1 Legion Leadership
+1 Long-Term Plans
+1 March of Swirling Mist
+1 Misdirection
+1 Mystical Tutor
+1 Narset's Reversal
+1 Nexus of Fate
+1 Return the Favor
+1 Savage Beating
+1 Silence
+1 Sink into Stupor
+1 Slip Out the Back
+1 Swan Song
+1 Swords to Plowshares
+1 Valakut Awakening
+1 Aqueous Form
+1 Eldrazi Conscription
+1 Mystic Remora
+1 Omniscience
+1 Passionate Archaeologist
+1 Reconnaissance
+1 Rising of the Day
+1 Shark Typhoon
+1 Vanishing
+1 Whirlwind of Thought
+1 Windcrag Siege
+1 Arcane Signet
+1 Azorius Signet
+1 Basalt Monolith
+1 Brotherhood Regalia
+1 Coalition Relic
+1 Embercleave
+1 Fellwar Stone
+1 Izzet Signet
+1 Lavaspur Boots
+1 Scroll Rack
+1 Sol Ring
+1 Sol Talisman
+1 Strionic Resonator
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Emeria's Call
+1 Expropriate
+1 Full Throttle
+1 Improvisation Capstone
+1 Mind's Desire
+1 Personal Tutor
+1 Rise of the Eldrazi
+1 Rite of Flame
+1 Sundering Eruption
+1 Temporal Mastery
+1 Temporal Trespass
+1 Time Stretch
+1 Waves of Aggression
+1 Teferi, Time Raveler
