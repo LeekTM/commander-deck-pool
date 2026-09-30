@@ -1,0 +1,83 @@
+// name: Niv-Mizzet, Visionary (Bracket 3)
+// source: community
+// tags: burn, card-draw, spellslinger, storm
+
+Commander
+1 Niv-Mizzet, Visionary
+
+Deck
+
+1 Arcane Signet
+1 Chromatic Lantern
+1 Firemind Vessel
+1 Izzet Cluestone
+1 Izzet Keyrune
+1 Izzet Locket
+1 Izzet Signet
+1 Magnifying Glass
+1 Mana Geode
+1 Ruby Medallion
+1 Spectral Searchlight
+1 Talisman of Creativity
+1 Tome of the Guildpact
+1 Blast Zone
+1 Command Tower
+1 Guildless Commons
+10 Island
+1 Izzet Boilerworks
+1 Izzet Guildgate
+1 Mana Confluence
+17 Mountain
+1 Nivix, Aerie of the Firemind
+1 Steam Vents
+1 Thundering Falls
+1 Bolt Bend
+1 Brainstorm
+1 Burst Lightning
+1 Cerebral Vortex
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Electrodominance
+1 Electrolyze
+1 Expansion // Explosion
+1 Fierce Guardianship
+1 Firemind's Foresight
+1 Force of Negation
+1 Galvanic Blast
+1 Invert Polarity
+1 Ionize
+1 Izzet Charm
+1 Lightning Bolt
+1 Misdirection
+1 Mizzium Skin
+1 Price of Progress
+1 Rush of Inspiration
+1 Shock
+1 Sink into Stupor
+1 Stubborn Denial
+1 Thunderbolt
+1 Turn // Burn
+1 Turnabout
+1 Boltwave
+1 Chain Lightning
+1 Forked Bolt
+1 Mizzix's Mastery
+1 Rain of Embers
+1 Role Reversal
+1 Stitch in Time
+1 Vandalblast
+1 Case of the Ransacked Lab
+1 Firemind's Research
+1 Coruscation Mage
+1 Cyclops Superconductor
+1 Electrostatic Field
+1 Forensic Researcher
+1 Gelectrode
+1 Goblin Electromancer
+1 Guttersnipe
+1 Hydroelectric Specimen
+1 Mercurial Chemister
+1 Ral, Monsoon Mage
+1 Storm-Kiln Artist
+1 Thermo-Alchemist
+1 Tomik, Izzet Sparkmage
