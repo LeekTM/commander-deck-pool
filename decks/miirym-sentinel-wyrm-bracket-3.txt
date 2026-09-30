@@ -1,0 +1,99 @@
+// name: Miirym, Sentinel Wyrm (Bracket 3)
+// source: community
+// tags: aggro, tribal, treasures, ramp
+
+Commander
+1 Miirym, Sentinel Wyrm
+
+Deck
+
+1 Ancient Copper Dragon
+1 Astral Dragon
+1 Balefire Dragon
+1 Birds of Paradise
+1 Bonehoard Dracosaur
+1 Cavern-Hoard Dragon
+1 Dragonborn Champion
+1 Dragonhawk, Fate's Tempest
+1 Ganax, Astral Hunter
+1 Goldlust Triad
+1 Goldspan Dragon
+1 Klauth, Unrivaled Ancient
+1 Lathliss, Dragon Queen
+1 Marang River Regent
+1 Old Gnawbone
+1 Roaming Throne
+1 Scourge of Valkas
+1 Smaug the Magnificent
+1 Terror of the Peaks
+1 Twinflame Tyrant
+1 Ureni of the Unwritten
+1 Utvara Hellkite
+1 Wrathful Red Dragon
+1 Arcane Denial
+1 Counterspell
+1 Cyclonic Rift
+1 Fierce Guardianship
+1 Heroic Intervention
+1 Return of the Wildspeaker
+1 Stubborn Denial
+1 Swan Song
+1 Arcane Signet
+1 Carnelian Orb of Dragonkind
+1 Cursed Mirror
+1 Dragon's Hoard
+1 Lightning Greaves
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Great Henge
+1 Urza's Incubator
+1 Blasphemous Act
+1 Cultivate
+1 Farseek
+1 Nature's Lore
+1 Raise the Palisade
+1 Rampant Growth
+1 Rishkar's Expertise
+1 Selvala's Stampede
+1 Skyshroud Claim
+1 Three Visits
+1 Breaching Dragonstorm
+1 Descendants' Fury
+1 Dracogenesis
+1 Dragon Tempest
+1 Frontier Siege
+1 Garruk's Uprising
+1 Kindred Discovery
+1 Rhystic Study
+1 Rhythm of the Wild
+1 Shadow in the Warp
+1 Sylvan Library
+1 Temur Ascendancy
+1 Breeding Pool
+1 Cascade Bluffs
+1 Cinder Glade
+1 Command Tower
+1 Dreamroot Cascade
+1 Exotic Orchard
+1 Fabled Passage
+1 Ferrous Lake
+1 Flooded Grove
+4 Forest
+1 Frontier Bivouac
+1 Hinterland Harbor
+4 Island
+1 Karplusan Forest
+1 Ketria Triome
+1 Mossfire Valley
+4 Mountain
+1 Path of Ancestry
+1 Rockfall Vale
+1 Rootbound Crag
+1 Shivan Reef
+1 Sodden Verdure
+1 Steam Vents
+1 Stomping Ground
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Yavimaya Coast
+1 Kiora, Behemoth Beckoner
