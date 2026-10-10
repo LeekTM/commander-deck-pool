@@ -1,0 +1,103 @@
+// name: Tam, the Possibility (Bracket 3)
+// source: community
+// tags: planeswalkers
+
+Commander
+1 Tam, the Possibility
+
+Deck
+
+1 Agent Frank Horrigan
+1 Ajani Unrelenting
+1 Arcane Signet
+1 Assassin's Trophy
+1 Atraxa, Praetors' Voice
+1 Birds of Paradise
+1 Blackcleave Cliffs
+1 Blood Crypt
+1 Carth the Lion
+1 Chandra, Chill of Compliance
+1 Chandra, Legacy of Fire
+1 Chandra, Torch of Defiance
+1 Chromatic Lantern
+1 Clifftop Retreat
+1 Comeuppance
+1 Command Tower
+1 Commodore Guff
+1 Counterspell
+1 Cyclonic Rift
+1 Dedicated Commons
+1 Deepglow Skate
+1 Doubling Season
+1 Drowned Catacomb
+1 Elspeth, Storm Slayer
+1 Elspeth, Sun's Champion
+1 Erode
+1 Evolution Sage
+1 Exotic Orchard
+1 Faeburrow Elder
+1 Fatehold Annex
+1 Flux Channeler
+2 Forest
+1 Garruk, Curse Breaker
+1 Garruk, Veiled Butcher
+1 Glacial Fortress
+1 Heroic Intervention
+1 Innovative Commons
+1 Interplanar Beacon
+2 Island
+1 Jace, Multiverse Architect
+1 Jace, Reality Sculptor
+1 Jetmir's Garden
+1 Kasmina, Enigmatic Mentor
+1 Ketria Triome
+1 Lae'zel, Vlaakith's Champion
+1 Liliana, Dreadhorde General
+1 Loki's Double
+1 Loyal Tutor
+1 Meticulous Commons
+2 Mountain
+1 Narset, Parter of Veils
+1 Newfound Adventure
+1 Nicol Bolas, Dragon-God
+1 Nicol Bolas, God-Pharaoh
+1 Oath of Ajani
+1 Oath of Nissa
+1 Oath of Teferi
+1 Oko, Thief of Crowns
+1 Omniscience
+1 Overgrown Farmland
+1 Path to Exile
+2 Plains
+1 Prairie Stream
+1 Radiant Summit
+1 Raugrin Triome
+1 Reflecting Pool
+1 Reliquary Tower
+1 Return to the Light Realms
+1 Ripples of Potential
+1 Sanctum Lurker
+1 Shark Typhoon
+1 Sol Ring
+1 Spara's Headquarters
+1 Spectator Seating
+2 Swamp
+1 Swords to Plowshares
+1 Tamiyo, Field Researcher
+1 Tamiyo, the Moon Sage
+1 Teferi, Hero of Dominaria
+1 Teferi, Master of Time
+1 Teferi, Time Raveler
+1 Tekuthal, Inquiry Dominus
+1 The Chain Veil
+1 The Eternal Wanderer
+1 The One Ring
+1 The Theorist, Jace Beleren
+1 Tidus's Brotherhood Sword
+1 Tomik, Orzhov Lawmage
+1 Transformative Commons
+1 Vigorbloom Annex
+1 Vraska, Betrayal's Sting
+1 Vraska, Golgari Queen
+1 Wrenn and Realmbreaker
+1 Zagoth Triome
